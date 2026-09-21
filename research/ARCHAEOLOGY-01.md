@@ -296,3 +296,31 @@ RAN code → official name → site class/type → components → chronology →
 **OPEN — NOT COMPLETE.**
 
 The five records above are now independently re-confirmed through the current RAN index, but the complete municipality-level inventory has not yet been demonstrated.
+
+
+## Re-analysis and gap check — Pass 08
+
+The municipality inventory work produced a controlled matrix in `research/RAN-INVENTORY-01.md`.
+
+### Independent cross-checks
+
+- The current RAN municipality-level index returns five Curtea de Argeș records: 13631.02, 13631.05, 13631.07, 13631.10 and 13631.11.
+- The *Cronica Cercetărilor Arheologice* database independently confirms Drujești as a Curtea de Argeș site in the 1983–1992 index and confirms Sân Nicoară as Curtea de Argeș, RAN 13631.05, in the 2011 report. citeturn1search1turn0search0
+- A 2018 report that contains references to Curtea de Argeș archaeology is actually a Câmpulung excavation, RAN 13506.37; it is therefore not imported as a Curtea de Argeș excavation. citeturn1search0
+- Report ID 1263, previously suspected to concern Curtea de Argeș, is definitively a Râmnicu Vâlcea excavation. It remains excluded. citeturn3search0
+
+### Archaeological control principle reinforced
+
+The archive now distinguishes three different things:
+
+1. **Excavation at Curtea de Argeș** — direct archaeological evidence.
+2. **A publication referring to Curtea de Argeș** — bibliography/context, not necessarily evidence from the publication's excavation site.
+3. **A register entry** — evidence that an official archaeological/heritage record exists, but not automatic proof of every interpretation attached to it.
+
+This distinction prevents contamination from nearby Argeș sites and from secondary references.
+
+### Stage status
+
+**OPEN — NOT COMPLETE.**
+
+The RAN matrix exists, but the inventory is still provisional. Alternate spellings, older records, disappeared/reclassified sites, and reconciliation with the full LMI inventory remain to be checked.
