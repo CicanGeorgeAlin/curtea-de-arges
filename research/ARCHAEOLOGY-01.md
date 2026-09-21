@@ -339,3 +339,24 @@ The 2015 LMI lists the **Ansamblul bisericii “Adormirea Maicii Domnului” —
 This creates an important methodological result: **RAN inventory ≠ complete archaeological evidence inventory**. An archaeological intervention can be documented in specialist literature and the LMI even when a corresponding current RAN site code has not yet been established in the search results.
 
 The Olari evidence is therefore added to the archive as a **verified archaeological intervention**, while its RAN status remains UNKNOWN until separately verified.
+
+
+## Re-analysis and gap check — Pass 13
+
+A new specialist-literature pass adds an important archaeological control point west of Sân Nicoară. Lia Bătrîna and Adrian Bătrîna's 1982 publication reports two archaeological sections at the foot of the Sân Nicoară hill. The investigation did not reveal substantial cultural material or complexes sufficient to expand the excavation; the only medieval feature identified there was the remains of a circular-plan oven, approximately 1.05 m in diameter, with a preserved brick base and surrounding fragments and daub.
+
+This is retained as **negative archaeological evidence**. It demonstrates that a tested area produced limited evidence, but it must not be interpreted as proof that medieval activity was absent from the wider area or city.
+
+The same specialist literature also preserves earlier Sân Nicoară dating hypotheses. These remain separate from the current register dating until the underlying studies are directly reconciled. The archive therefore keeps the construction chronology of Sân Nicoară as an open research question rather than forcing a single date.
+
+### New control rule
+
+For every excavated zone, the archive will record both:
+- positive archaeological evidence;
+- tested areas where significant evidence was not found.
+
+Negative results are evidence about the investigated location and method, not evidence of city-wide absence.
+
+### Stage status
+
+**OPEN — NOT COMPLETE.**
