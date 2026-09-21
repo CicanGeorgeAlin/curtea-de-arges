@@ -98,21 +98,19 @@ footer{padding:70px 0;color:#777;font:11px Arial,sans-serif}
 <footer><div class="archive-inner">© Curtea de Argeș — Arhiva Vie · Creat și curatoriat de <strong>Cican George Alin</strong> · Proiect în dezvoltare continuă.</div></footer>
 </div>
 <script>
-(()=>{const root=document.getElementById('cicanEntry'),one=document.getElementById('cicanBody'),face=one.querySelector('.cican-face'),aura=root.querySelector('.cican-aura'),bar=document.getElementById('holdProgress'),landing=document.getElementById('landing'),archive=document.getElementById('arhiva');if(!root)return;
-let x=0,y=0,targetX=0,targetY=0,size=34,growing=false,done=false,last=performance.now();const MIN_SIZE=34,MAX_SIZE=180;
-function setSize(){one.style.width=size+'px';one.style.height=size+'px';}
-function reset(){if(done)return;growing=false;size=MIN_SIZE;setSize();bar.style.width='0%';aura.style.width=size+'px';aura.style.height=size+'px';aura.style.opacity='.18'}
-function animate(now){const dt=Math.min(50,now-last);last=now;
-x+=(targetX-x)*0.10;y+=(targetY-y)*0.10;
-if(growing){size=Math.min(MAX_SIZE,size+0.5);bar.style.width=((size-MIN_SIZE)/(MAX_SIZE-MIN_SIZE)*100)+'%';aura.style.width=(size*1.05)+'px';aura.style.height=(size*1.05)+'px';aura.style.opacity=.18+((size-MIN_SIZE)/(MAX_SIZE-MIN_SIZE))*.55}
-one.style.transform='translate(-50%,-50%) translate3d('+x+'px,'+y+'px,0)';
-if(size>=MAX_SIZE&&!done){done=true;growing=false;bar.style.width='100%';setTimeout(()=>{landing.style.opacity='0';setTimeout(()=>{landing.style.display='none';archive.style.display='block';window.scrollTo(0,0)},420)},180)}
-requestAnimationFrame(animate)}
-function begin(e){e.preventDefault();if(done)return;const r=root.getBoundingClientRect();targetX=r.left+r.width/2-x;targetY=r.top+r.height/2-y;growing=true}
-function move(e){const r=root.getBoundingClientRect();targetX=e.clientX-r.left-r.width/2;targetY=e.clientY-r.top-r.height/2}
-root.addEventListener('pointerdown',begin);root.addEventListener('pointermove',move);root.addEventListener('pointerup',reset);root.addEventListener('pointercancel',reset);root.addEventListener('pointerleave',e=>{if(e.pointerType==='mouse')reset()});
-root.addEventListener('keydown',e=>{if(e.key===' '||e.key==='Enter'){e.preventDefault();begin(e)}});root.addEventListener('keyup',e=>{if(e.key===' '||e.key==='Enter')reset()});
-setSize();aura.style.width=MIN_SIZE+'px';aura.style.height=MIN_SIZE+'px';requestAnimationFrame(animate);
+(()=>{const root=document.getElementById('cicanEntry'),one=document.getElementById('cicanBody'),aura=root.querySelector('.cican-aura'),bar=document.getElementById('holdProgress'),landing=document.getElementById('landing'),archive=document.getElementById('arhiva');if(!root)return;
+let size=34,growing=false,done=false;const MIN_SIZE=34,MAX_SIZE=180;
+function render(){one.style.width=size+'px';one.style.height=size+'px';aura.style.width=size+'px';aura.style.height=size+'px';bar.style.width=((size-MIN_SIZE)/(MAX_SIZE-MIN_SIZE)*100)+'%';aura.style.opacity=.18+((size-MIN_SIZE)/(MAX_SIZE-MIN_SIZE))*.55}
+function begin(e){e.preventDefault();if(done)return;growing=true}
+function end(){growing=false}
+function animate(){if(growing&&!done){size=Math.min(MAX_SIZE,size+0.5);render();if(size>=MAX_SIZE){done=true;growing=false;bar.style.width='100%';setTimeout(()=>{landing.style.opacity='0';setTimeout(()=>{landing.style.display='none';archive.style.display='block';window.scrollTo(0,0)},420)},180)}}requestAnimationFrame(animate)}
+root.addEventListener('pointerdown',begin);
+root.addEventListener('pointerup',end);
+root.addEventListener('pointercancel',end);
+root.addEventListener('pointerleave',end);
+root.addEventListener('keydown',e=>{if(e.key===' '||e.key==='Enter'){e.preventDefault();begin(e)}});
+root.addEventListener('keyup',e=>{if(e.key===' '||e.key==='Enter')end()});
+render();requestAnimationFrame(animate);
 })();
 </script></body>
 </html>
