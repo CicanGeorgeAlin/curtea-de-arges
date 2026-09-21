@@ -256,3 +256,34 @@ Coverage: current indexed RAN results for records assigned to Municipiul Curtea 
 
 URL: https://ran.cimec.ro/sel.asp?Ojud=1&Omod=2&codran=65351.44&nr=56
 
+
+## S30 — Biserica Olari archaeological intervention, 1967
+
+Publication trail: *Studii și Cercetări de Istorie Veche și Arheologie* / archaeological campaign report, 1968.  
+Site: Biserica Olari, Curtea de Argeș.  
+Researcher: Dinu V. Rosetti.  
+Coverage: excavation during restoration; earlier foundations and brick pavement of an earlier church, dated in the report to around the middle of the 15th century.
+
+URL: https://biblioteca-digitala.ro/reviste/sciva/SCIVA_19_nr-4_1968.pdf
+
+## S31 — Biserica Olari specialist archaeological synthesis, 2005
+
+Publication: *Cercetări Arheologice în București*, VI, 2005.  
+Coverage: synthesis noting the 1967 Olari campaign, earlier foundations, brick pavement, ceramic and coin evidence; useful for archaeological bibliography and cross-checking.
+
+URL: https://cab.muzeulbucuresti.ro/fisiere/06-Cercetari-Arheologice-in-Bucuresti-VI-2005_203.pdf
+
+## S32 — Consiliul Județean Argeș — Biserica Olari
+
+Institution: Consiliul Județean Argeș.  
+Coverage: restoration history and archaeological discoveries at Biserica Olari; 1967–1968 restoration exposed a 15th-century construction and archaeological material.
+
+URL: https://www.cjarges.ro/en/biserica-olari-din-curtea-de-arges%3Bjsessionid%3D8806A944E58594586B45629E8334B5DA
+
+## S33 — LMI 2015 — Olari ensemble
+
+Institution: Ministerul Culturii / Institutul Național al Patrimoniului.  
+Codes: AG-II-a-A-13639; AG-II-m-A-13639.01; AG-II-m-A-13639.02.  
+Coverage: monument ensemble, church and enclosure wall.
+
+URL: https://www.culturaarges.com/wp-content/uploads/2024/09/LMI_AG.pdf
