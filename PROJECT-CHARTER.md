@@ -118,3 +118,40 @@ The goal is to build a durable digital memory of the city.
 
 **Every generation adds something. Nothing important is allowed to disappear.**
 
+
+## International and multilingual architecture
+
+The archive is now designed as an **English-first international public interface** while preserving Romanian as a first-class historical/source language.
+
+### Public language strategy
+
+- **English** is the primary public interface and default website language.
+- **Romanian** remains a first-class archive/source language and will receive a controlled public-language layer from the same canonical records.
+- Additional languages may be added later without creating separate historical databases.
+- Browser translation may be useful as a convenience, but it is not the archive's authoritative translation system.
+
+### Canonical-record principle
+
+Historical records are language-independent at the data level. A single canonical record may have:
+
+**record → original-language sources → English presentation → Romanian presentation → additional translations**
+
+Translations must never replace the original source. Historical names, source titles, quotations, terminology and bibliographic metadata may retain their original Romanian form when source fidelity requires it.
+
+### Translation quality rule
+
+No important historical claim should become more certain, more precise or differently interpreted merely because it was translated. If the Romanian source says a claim is disputed, the English record must preserve that status. If a date is approximate, the translation must remain approximate.
+
+The English-first public layer is therefore a **presentation decision, not an evidence decision**.
+
+### Website rebuild decision — September 2026
+
+Because the project is still at an early foundation stage, the public presentation layer is being reworked now rather than after the archive becomes large. Existing research is retained; it is not discarded or silently rewritten. The website is being rebuilt from the verified research foundation with English as the default public language and multilingual expansion designed into the architecture from the beginning.
+
+## Current execution sequence
+
+**RE-AUDIT EXISTING RESEARCH → CONTROL SOURCES → DEFINE CANONICAL RECORDS → ENGLISH PUBLIC LAYER → ROMANIAN LANGUAGE LAYER → MULTILINGUAL EXPANSION → WEBSITE → MAP → APP**
+
+The normal autopilot quality loop remains active at every stage:
+
+**RESEARCH → BUILD → RE-ANALYZE → RESEARCH AGAIN → CROSS-CHECK → EXPAND → CORRECT → GAP ANALYSIS → FINAL QUALITY REVIEW**
