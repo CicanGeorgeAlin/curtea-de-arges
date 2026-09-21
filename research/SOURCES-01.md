@@ -287,3 +287,20 @@ Codes: AG-II-a-A-13639; AG-II-m-A-13639.01; AG-II-m-A-13639.02.
 Coverage: monument ensemble, church and enclosure wall.
 
 URL: https://www.culturaarges.com/wp-content/uploads/2024/09/LMI_AG.pdf
+
+
+## S34 — Municipal planning report: cultural and archaeological heritage inventory
+
+Institution: Primăria Municipiului Curtea de Argeș  
+Document: Raport privind analiza multicriterială — Etapa 2, consolidată.  
+Coverage: planning-level inventory of cultural and archaeological heritage elements in the project area; independently lists Drujești, Curtea Domnească, Sân Nicoară and Argeș Monastery with RAN/LMI identifiers.
+
+URL: https://www.primariacurteadearges.ro/portal/arges/cda/portalcda.nsf/AllByUNID/865647F0FA73356DC2258D46002A55D4/%24FILE/Raport%20privind%20analiza%20multi-criteriala%20Etapa%202-%20consolidata.pdf
+
+## S35 — CIMEC: Lăcașuri de cult din România — Curtea de Argeș
+
+Institution: Institutul Național al Patrimoniului / CIMEC  
+Coverage: cross-register identification of religious sites in Curtea de Argeș, including Biserica Domnească, Mănăstirea Argeșului and Sân Nicoară. Used for discovery and name-variant control, not as a substitute for RAN or LMI.
+
+URL: https://lacasuridecult.cimec.ro/RO/Documente/ASP/culte.asp?nr=15
+
