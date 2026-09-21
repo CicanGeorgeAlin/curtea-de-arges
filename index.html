@@ -49,16 +49,9 @@ footer{padding:70px 0;color:#777;font:11px Arial,sans-serif}
 @media(max-width:600px){.landing{min-height:100svh}.landing h1{font-size:clamp(48px,14vw,82px)}.event{grid-template-columns:1fr;gap:7px}}
 @media(prefers-reduced-motion:reduce){.landing h1{animation:none}.cican-body,.cican-aura{transition:none}}
 </style>
-<style id="cican-fluid">
-.cican-entry-wrap{margin:42px auto 0;text-align:center}
-.cican-entry{position:relative;width:180px;height:180px;margin:auto;border:0;border-radius:50%;background:transparent;cursor:pointer;touch-action:none;-webkit-tap-highlight-color:transparent}
-.cican-body{position:absolute;left:50%;top:50%;width:34px;height:34px;border-radius:50%;background:#fff;transform:translate(-50%,-50%);pointer-events:none;box-shadow:0 0 10px #fff,0 0 25px rgba(255,255,255,.8),0 0 45px rgba(255,255,255,.4);will-change:width,height}
-.cican-face{position:absolute;left:50%;top:50%;width:42%;height:42%;transform:translate(-50%,-50%);pointer-events:none}
-.eye{position:absolute;width:22%;height:34%;top:28%;background:#000;border-radius:50%}.eye.left{left:18%}.eye.right{right:18%}
-.cican-aura{position:absolute;left:50%;top:50%;width:34px;height:34px;border-radius:50%;transform:translate(-50%,-50%);pointer-events:none;opacity:.18;box-shadow:0 0 30px rgba(255,255,255,.5);will-change:width,height,opacity}
-.hold-label{margin-top:4px;font:10px Arial,sans-serif;letter-spacing:.22em;color:#aaa}
-.hold-progress{width:180px;height:1px;background:#222;margin:10px auto 0;overflow:hidden}.hold-progress span{display:block;height:100%;width:0;background:#fff;box-shadow:0 0 9px #fff}
-.cican-entry:focus-visible{outline:1px solid #fff;outline-offset:8px}
+<style id="archive-entry-style">
+.archive-enter{appearance:none;border:1px solid rgba(255,255,255,.45);background:transparent;color:#fff;padding:14px 28px;border-radius:999px;font:600 12px Arial,sans-serif;letter-spacing:.18em;cursor:pointer;transition:background .25s ease,border-color .25s ease,transform .25s ease}
+.archive-enter:hover{background:#fff;color:#000;border-color:#fff}.archive-enter:active{transform:scale(.97)}
 </style></head>
 <body>
 <main id="landing" class="landing">
@@ -67,17 +60,7 @@ footer{padding:70px 0;color:#777;font:11px Arial,sans-serif}
     <h1>CURTEA<br>DE ARGEȘ</h1>
     <p class="tagline">O istorie. O memorie. Un oraș.</p>
     <div class="cican-entry-wrap">
-  <div class="cican-entry" id="cicanEntry" role="button" tabindex="0" aria-label="Ține apăsat pe CICAN pentru a intra în arhivă">
-    <div class="cican-aura"></div>
-    <div class="cican-body" id="cicanBody">
-      <div class="cican-face">
-        <div class="eye left"></div>
-        <div class="eye right"></div>
-      </div>
-    </div>
-  </div>
-  <div class="hold-label">ȚINE APĂSAT</div>
-  <div class="hold-progress" aria-hidden="true"><span id="holdProgress"></span></div>
+  <button class="archive-enter" id="archiveEnter" type="button">ENTER THE ARCHIVE</button>
 </div>
   </div>
 </main>
@@ -98,19 +81,6 @@ footer{padding:70px 0;color:#777;font:11px Arial,sans-serif}
 <footer><div class="archive-inner">© Curtea de Argeș — Arhiva Vie · Creat și curatoriat de <strong>Cican George Alin</strong> · Proiect în dezvoltare continuă.</div></footer>
 </div>
 <script>
-(()=>{const root=document.getElementById('cicanEntry'),one=document.getElementById('cicanBody'),aura=root.querySelector('.cican-aura'),bar=document.getElementById('holdProgress'),landing=document.getElementById('landing'),archive=document.getElementById('arhiva');if(!root)return;
-let size=34,growing=false,done=false,lastTime=0;const MIN_SIZE=34,MAX_SIZE=180,GROW_DURATION=1500,GROW_PER_SECOND=(MAX_SIZE-MIN_SIZE)/GROW_DURATION;
-function render(){one.style.width=size+'px';one.style.height=size+'px';aura.style.width=size+'px';aura.style.height=size+'px';bar.style.width=((size-MIN_SIZE)/(MAX_SIZE-MIN_SIZE)*100)+'%';aura.style.opacity=.18+((size-MIN_SIZE)/(MAX_SIZE-MIN_SIZE))*.55}
-function begin(e){e.preventDefault();if(done)return;growing=true}
-function end(){growing=false}
-function animate(now){if(!lastTime)lastTime=now;const delta=Math.min(50,now-lastTime);lastTime=now;if(growing&&!done){size=Math.min(MAX_SIZE,size+GROW_PER_SECOND*delta);render();if(size>=MAX_SIZE){done=true;growing=false;bar.style.width='100%';setTimeout(()=>{landing.style.opacity='0';setTimeout(()=>{landing.style.display='none';archive.style.display='block';window.scrollTo(0,0)},420)},180)}}requestAnimationFrame(animate)}
-root.addEventListener('pointerdown',begin);
-root.addEventListener('pointerup',end);
-root.addEventListener('pointercancel',end);
-root.addEventListener('pointerleave',end);
-root.addEventListener('keydown',e=>{if(e.key===' '||e.key==='Enter'){e.preventDefault();begin(e)}});
-root.addEventListener('keyup',e=>{if(e.key===' '||e.key==='Enter')end()});
-render();requestAnimationFrame(animate);
-})();
+(()=>{const button=document.getElementById('archiveEnter'),landing=document.getElementById('landing'),archive=document.getElementById('arhiva');if(!button)return;button.addEventListener('click',()=>{landing.style.opacity='0';setTimeout(()=>{landing.style.display='none';archive.style.display='block';window.scrollTo(0,0)},350)});})();
 </script></body>
 </html>
