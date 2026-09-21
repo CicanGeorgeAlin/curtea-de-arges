@@ -273,3 +273,26 @@ The next pass will concentrate on extracting every Curtea de Argeș RAN record r
 - LMI code;
 - excavation/research references;
 - current evidence status.
+
+## Re-analysis and gap check — Pass 07
+
+The municipality-level RAN search was checked again using the current RAN indexed results. The returned records confirm at least the following Curtea de Argeș archaeological entries:
+
+- **13631.02** — Biserica și necropola medievală de la Curtea de Argeș — Drujești;
+- **13631.05** — Ruinele Bisericii Sân Nicoară;
+- **13631.07** — Ansamblul curții domnești;
+- **13631.10** — Ansamblul Mănăstirii Argeșului;
+- **13631.11** — Situl urban Orașul istoric Curtea de Argeș.
+
+The current indexed RAN results show these records with a common 26 April 2023 verification/update date, but this must not be interpreted as proof that these are the **only** archaeological records in the entire municipal territory. The search result itself demonstrates the need for a controlled municipality-level extraction and reconciliation rather than relying on a handful of known codes.
+
+### Inventory-control decision
+
+The archive will create a dedicated **RAN inventory matrix** in the next build. Each row will require:
+RAN code → official name → site class/type → components → chronology → locality/administrative unit → LMI relationship → research/publication references → evidence status → verification date.
+
+### Stage status
+
+**OPEN — NOT COMPLETE.**
+
+The five records above are now independently re-confirmed through the current RAN index, but the complete municipality-level inventory has not yet been demonstrated.
