@@ -76,3 +76,12 @@ Cross-checks established:
 - report 6103 excluded as Câmpulung, while its Curtea de Argeș references are retained only as bibliography leads.
 
 Stage 1 remains **OPEN**. Alternate names, older archaeological records, disappeared/reclassified sites and complete LMI reconciliation remain outstanding.
+
+
+## Naming control — Pass 09
+
+Canonical modern Romanian city form reaffirmed: **Curtea de Argeș**.
+
+Historical/source spellings such as “Curtea de Argeş” may be retained only when reproducing or describing the original source record. The archive's own modern prose will use **Curtea de Argeș**.
+
+A fresh RAN web cross-check confirms that current database records use source-era/unaccented variants in some fields, while the locality is the municipality of Curtea de Argeș. These variants are now treated as source metadata, not canonical project naming.
