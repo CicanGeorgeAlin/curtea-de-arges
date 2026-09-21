@@ -51,3 +51,15 @@ Corrections made:
 The archaeological stage remains **OPEN**. The next threshold is a systematic reconstruction of the complete RAN inventory for the municipal administrative territory, followed by a campaign/publication matrix.
 
 This is deliberate: the archive does not declare completeness merely because its best-known monuments have been documented.
+
+
+## Archaeology autopilot pass — 04
+
+Fresh cross-checks added:
+- verified the previously suspected 2022 report ID 1263 belongs to Râmnicu Vâlcea, so it is excluded from Curtea de Argeș evidence;
+- added the 1917–1923 anthropological study of human remains from the Domnească Church excavations;
+- added the 2014 Grave 10 historiographical study;
+- added the 2015 Constantinescu archaeological/historiographical review;
+- linked these sources to the Domnească Church record.
+
+Stage 1 remains OPEN. The next major objective is still the complete municipal RAN inventory and excavation/report matrix.
