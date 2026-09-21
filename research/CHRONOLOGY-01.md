@@ -13,8 +13,8 @@ This is an evidence table, not yet the final narrative chronology. Dates remain 
 | 13th century | RAN/LMI records include medieval urban settlement evidence and a first-church enclosure component dated to the 13th century. | VERIFIED | S01, S07 | Requires integration with archaeological publications and the municipal historical study. |
 | c. 1345 | Ruins of the Basarab I princely houses are dated approximately to 1345 in the LMI/RAN record. | VERIFIED | S03, S07 | Preserve the approximate nature of the date. |
 | 1351–1370 | Biserica Sf. Nicolae Domnesc is dated 1351–1370 in the LMI record. | VERIFIED | S03, S07 | RAN additionally describes completion in 1352; both statements must be retained with attribution until reconciled through specialist literature. |
-| 14th century | Sân Nicoară is dated to the 14th century in the LMI inventory. | VERIFIED | S04, S07 | Detailed construction phases require archaeological/art-historical research. |
-| 1512–1517 | The church of the Argeș Monastery is dated 1512–1517 in the RAN record. | VERIFIED | S02 | The exact sequence of construction, consecration and later interventions needs a dedicated record. |
+| 14th century | Sân Nicoară is dated to the 14th century in the LMI inventory. | VERIFIED | S04, S07 | The 2011 archaeological research report documents investigation of the church, tower, stratigraphy, possible enclosure/fortification and the relationship with the Domnească complex. |
+| late 16th–18th c. | Drujești church is dated from the late 16th century to the second half of the 18th century; associated medieval necropolis is dated to the 16th–17th centuries. Systematic research was carried out in 1987. | VERIFIED | S11 | Separate archaeological/religious site; requires dedicated documentary and excavation review. |\n| 1512–1517 | The church of the Argeș Monastery is dated 1512–1517 in the RAN record. | VERIFIED | S02 | The exact sequence of construction, consecration and later interventions needs a dedicated record. |
 | 18th–19th centuries | LMI/RAN records include multiple later churches, houses, walls and urban components. | VERIFIED | S01, S07 | Build these as separate linked records rather than collapsing them into a single 'historic city' entry. |
 | 1880 | The railway station is dated 1880 in the LMI inventory. | VERIFIED | S07 | Railway history should be developed as a dedicated modernisation/transport chapter. |
 | 1885 | The Argeș Monastery complex includes a chapel and episcopal palace dated 1885 in RAN. | VERIFIED | S02 | Restoration-era architecture must be distinguished from the medieval church. |
@@ -39,7 +39,7 @@ This is an evidence table, not yet the final narrative chronology. Dates remain 
 - World War I and World War II.
 - Communist-era urban transformation and heritage policy.
 - Post-1989 urban, demographic and economic change.
-- Current heritage condition and conservation status as of 2026.
+- Complete RAN inventory for the municipal territory, including records not yet represented in the initial JSON.\n- Current heritage condition and conservation status as of 2026.
 
 ## Methodological warning
 
