@@ -11,13 +11,13 @@
 html{scroll-behavior:auto;background:#000}
 body{margin:0;background:#000;color:#fff;font-family:Georgia,serif;line-height:1.65}
 a{color:inherit}
-.landing{height:100svh;min-height:620px;display:grid;place-items:center;background:#000;overflow:hidden;position:relative}
+.landing{height:100svh;min-height:620px;display:grid;place-items:center;background:#000;overflow:hidden;position:relative;transition:opacity .14s ease}
 .landing-inner{text-align:center;position:relative;z-index:1;padding:24px}
-.landing h1{margin:0;font-size:clamp(52px,11vw,140px);font-weight:400;line-height:.86;letter-spacing:-.025em;text-shadow:0 0 10px rgba(255,255,255,.75),0 0 30px rgba(255,255,255,.32),0 0 70px rgba(255,255,255,.12);animation:breath 4.6s ease-in-out infinite}
+.landing h1{margin:0;font-size:clamp(52px,11vw,140px);font-weight:400;line-height:.86;letter-spacing:-.025em;text-shadow:0 0 10px rgba(255,255,255,.75),0 0 30px rgba(255,255,255,.32),0 0 70px rgba(255,255,255,.12);animation:breath 4.6s ease-in-out infinite;will-change:transform,text-shadow}
 .kicker{margin:0 0 28px;font:11px Arial,sans-serif;letter-spacing:.28em;text-transform:uppercase;color:#fff}
 .tagline{margin:32px auto 0;max-width:560px;font-size:clamp(16px,2vw,22px);color:#fff}
 .enter{display:inline-flex;align-items:center;justify-content:center;margin-top:42px;min-width:210px;min-height:58px;padding:15px 28px;border:1px solid #fff;background:#fff;color:#000;text-decoration:none;font:12px Arial,sans-serif;letter-spacing:.18em;text-transform:uppercase;transition:box-shadow .25s ease,transform .25s ease}
-.enter:hover,.enter:focus-visible{transform:translateY(-2px);box-shadow:0 0 20px rgba(255,255,255,.45),0 0 50px rgba(255,255,255,.16);outline:none}
+.enter:hover,.enter:focus-visible{transform:translateY(-2px);box-shadow:0 0 20px rgba(255,255,255,.45),0 0 50px rgba(255,255,255,.16);outline:none;will-change:transform,box-shadow}
 .enter:active{transform:translateY(0)}
 @keyframes breath{0%,100%{transform:scale(1);text-shadow:0 0 8px rgba(255,255,255,.65),0 0 25px rgba(255,255,255,.28),0 0 60px rgba(255,255,255,.10)}50%{transform:scale(1.012);text-shadow:0 0 12px rgba(255,255,255,1),0 0 34px rgba(255,255,255,.52),0 0 78px rgba(255,255,255,.20)}}
 .archive{display:none;background:#000}
@@ -82,7 +82,7 @@ footer{padding:70px 0;color:#777;font:11px Arial,sans-serif}
 </div>
 <script>
 (()=>{const button=document.getElementById('archiveEnter'),landing=document.getElementById('landing'),archive=document.getElementById('arhiva');if(!button)return;
-button.addEventListener('click',()=>{button.disabled=true;landing.style.opacity='0';setTimeout(()=>{landing.style.display='none';archive.style.display='block';window.scrollTo(0,0)},300)});
+button.addEventListener('click',()=>{button.disabled=true;archive.style.display='block';landing.style.display='none';window.scrollTo(0,0)},{passive:true});
 })();
 </script></body>
 </html>
