@@ -324,3 +324,18 @@ This distinction prevents contamination from nearby Argeș sites and from second
 **OPEN — NOT COMPLETE.**
 
 The RAN matrix exists, but the inventory is still provisional. Alternate spellings, older records, disappeared/reclassified sites, and reconciliation with the full LMI inventory remain to be checked.
+
+
+## Archaeological site/monument identified outside the current RAN five-record matrix: Olari
+
+The archaeological inventory pass identified a sixth important archaeological evidence node that must not be lost merely because a current RAN code has not yet been located for it.
+
+The 1968 archaeological bulletin records excavations around and inside **Biserica Olari** during the 1967 restoration campaign. The excavation found earlier foundations and a brick pavement belonging to another church, dated by the report to around the middle of the 15th century. A later specialist synthesis states that Dinu V. Rosetti conducted the 1967 campaign and recovered foundations, ceramic material and coins. citeturn2search22turn2search20
+
+The Argeș County Council independently records that restoration works in 1967–1968 exposed foundations of a 15th-century construction and archaeological material including ceramics and coins from the 15th–16th centuries. citeturn2search0
+
+The 2015 LMI lists the **Ansamblul bisericii “Adormirea Maicii Domnului” — Olari** as AG-II-a-A-13639, with the church as AG-II-m-A-13639.01 and the enclosure wall as AG-II-m-A-13639.02. citeturn3search12
+
+This creates an important methodological result: **RAN inventory ≠ complete archaeological evidence inventory**. An archaeological intervention can be documented in specialist literature and the LMI even when a corresponding current RAN site code has not yet been established in the search results.
+
+The Olari evidence is therefore added to the archive as a **verified archaeological intervention**, while its RAN status remains UNKNOWN until separately verified.
