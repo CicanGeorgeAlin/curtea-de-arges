@@ -63,3 +63,16 @@ Fresh cross-checks added:
 - linked these sources to the Domnească Church record.
 
 Stage 1 remains OPEN. The next major objective is still the complete municipal RAN inventory and excavation/report matrix.
+
+
+## Archaeology autopilot pass — 08
+
+Built `research/RAN-INVENTORY-01.md` as a controlled provisional municipal archaeological inventory.
+
+Cross-checks established:
+- current RAN index: five Curtea de Argeș records currently returned;
+- *Cronica* confirms Drujești and Sân Nicoară;
+- report 1263 excluded as Râmnicu Vâlcea;
+- report 6103 excluded as Câmpulung, while its Curtea de Argeș references are retained only as bibliography leads.
+
+Stage 1 remains **OPEN**. Alternate names, older archaeological records, disappeared/reclassified sites and complete LMI reconciliation remain outstanding.
