@@ -1,0 +1,132 @@
+{
+  "project": "Curtea de Argeș — Arhiva Vie",
+  "creator": "Cican George Alin",
+  "research_date": "2026-09-21",
+  "status": "archaeological_source_control_expanded",
+  "evidence_levels": [
+    "VERIFIED",
+    "SUPPORTED",
+    "DISPUTED",
+    "TRADITION",
+    "UNKNOWN"
+  ],
+  "records": [
+    {
+      "id": "heritage-curtea-domneasca",
+      "name": "Curtea Domnească",
+      "type": "archaeological_and_architectural_ensemble",
+      "lmi_code": "AG-II-a-A-13647",
+      "ran_code": "13631.07",
+      "period": "medieval",
+      "dating": "ensemble: 14th–16th centuries; individual components require their own dating",
+      "address": "Str. Negru Vodă 2, Curtea de Argeș",
+      "evidence_status": "VERIFIED",
+      "source_ids": [
+        "S03",
+        "S07",
+        "S12",
+        "S13"
+      ]
+    },
+    {
+      "id": "heritage-sf-nicolae-domnesc",
+      "name": "Biserica Sf. Nicolae Domnesc",
+      "type": "church",
+      "lmi_code": "AG-II-m-A-13647.01",
+      "ran_code": "13631.07",
+      "dating": "1351–1370 in the LMI/RAN record; the RAN description also records completion in 1352",
+      "address": "Str. Negru Vodă 2, Curtea de Argeș",
+      "evidence_status": "VERIFIED",
+      "source_ids": [
+        "S03",
+        "S07",
+        "S12",
+        "S13",
+        "S14",
+        "S15"
+      ]
+    },
+    {
+      "id": "heritage-arges-monastery",
+      "name": "Ansamblul Mănăstirii Argeșului",
+      "type": "monastery_ensemble",
+      "lmi_code": "AG-II-a-A-13628",
+      "ran_code": "13631.10",
+      "dating": "church 1512–1517; chapel 1885; episcopal palace 1885",
+      "address": "Bd. Basarabilor 1, Curtea de Argeș",
+      "evidence_status": "VERIFIED",
+      "source_ids": [
+        "S02",
+        "S07"
+      ]
+    },
+    {
+      "id": "heritage-san-nicoara",
+      "name": "Ruinele Bisericii Sân Nicoară",
+      "type": "ruins_archaeological_site",
+      "lmi_code": "AG-II-m-A-13655.01",
+      "ran_code": "13631.05",
+      "dating": "14th century in the LMI record; detailed dating to be reconciled with archaeological literature",
+      "address": "Str. Sân Nicoară 1, Curtea de Argeș",
+      "evidence_status": "VERIFIED",
+      "source_ids": [
+        "S04",
+        "S07",
+        "S16"
+      ]
+    },
+    {
+      "id": "heritage-historic-urban-site",
+      "name": "Situl urban Orașul istoric Curtea de Argeș",
+      "type": "historic_urban_site",
+      "lmi_code": "AG-II-s-A-13645",
+      "ran_code": "13631.11",
+      "dating": "13th–19th centuries in the RAN record",
+      "address": "protected historic urban area, Curtea de Argeș",
+      "evidence_status": "VERIFIED",
+      "source_ids": [
+        "S01",
+        "S05",
+        "S07"
+      ]
+    },
+    {
+      "id": "heritage-gara",
+      "name": "Gara Curtea de Argeș",
+      "type": "railway_station",
+      "lmi_code": "AG-II-m-A-13627",
+      "dating": "1880 in the LMI record",
+      "address": "Str. 1 Mai nr. 4, Curtea de Argeș",
+      "evidence_status": "VERIFIED",
+      "source_ids": [
+        "S07"
+      ]
+    },
+    {
+      "id": "heritage-san-nicoara-ensemble",
+      "name": "Ansamblul bisericii Sân Nicoară",
+      "type": "church_ensemble",
+      "lmi_code": "AG-II-a-A-13655",
+      "dating": "14th century ensemble; individual components separately recorded",
+      "address": "Str. Sân Nicoară 1, Curtea de Argeș",
+      "evidence_status": "VERIFIED",
+      "source_ids": [
+        "S07"
+      ]
+    },
+    {
+      "id": "heritage-drujesti-church-necropolis",
+      "name": "Biserica și necropola medievală de la Curtea de Argeș — Drujești",
+      "type": "church_and_medieval_necropolis",
+      "ran_code": "13631.02",
+      "dating": "church: sfârșitul sec. XVI – a doua jumătate a sec. XVIII; necropolă: sec. XVI–XVII",
+      "address": "punctul Biserica Drujești, Curtea de Argeș",
+      "evidence_status": "VERIFIED",
+      "research": "cercetare sistematică în 1987; Muzeul Județean Argeș; Spiridon Cristocea",
+      "source_ids": [
+        "S11"
+      ]
+    }
+  ],
+  "research_note": "Archaeological bibliography and source-control records expanded on 2026-09-21; Stage 1 remains open pending complete municipal RAN inventory and campaign/publication matrix."
+}
