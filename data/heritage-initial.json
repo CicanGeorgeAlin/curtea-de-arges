@@ -2,7 +2,7 @@
   "project": "Curtea de Argeș — Arhiva Vie",
   "creator": "Cican George Alin",
   "research_date": "2026-09-21",
-  "status": "expanded_archaeological_inventory",
+  "status": "archaeological_source_control_expanded",
   "evidence_levels": [
     "VERIFIED",
     "SUPPORTED",
@@ -23,7 +23,9 @@
       "evidence_status": "VERIFIED",
       "source_ids": [
         "S03",
-        "S07"
+        "S07",
+        "S12",
+        "S13"
       ]
     },
     {
@@ -37,7 +39,11 @@
       "evidence_status": "VERIFIED",
       "source_ids": [
         "S03",
-        "S07"
+        "S07",
+        "S12",
+        "S13",
+        "S14",
+        "S15"
       ]
     },
     {
@@ -65,7 +71,8 @@
       "evidence_status": "VERIFIED",
       "source_ids": [
         "S04",
-        "S07"
+        "S07",
+        "S16"
       ]
     },
     {
@@ -120,5 +127,6 @@
         "S11"
       ]
     }
-  ]
+  ],
+  "research_note": "Archaeological bibliography and source-control records expanded on 2026-09-21; Stage 1 remains open pending complete municipal RAN inventory and campaign/publication matrix."
 }
