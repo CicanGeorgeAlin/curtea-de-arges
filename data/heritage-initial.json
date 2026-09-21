@@ -2,8 +2,14 @@
   "project": "Curtea de Argeș — Arhiva Vie",
   "creator": "Cican George Alin",
   "research_date": "2026-09-21",
-  "status": "initial_verified_inventory",
-  "evidence_levels": ["VERIFIED", "SUPPORTED", "DISPUTED", "TRADITION", "UNKNOWN"],
+  "status": "expanded_archaeological_inventory",
+  "evidence_levels": [
+    "VERIFIED",
+    "SUPPORTED",
+    "DISPUTED",
+    "TRADITION",
+    "UNKNOWN"
+  ],
   "records": [
     {
       "id": "heritage-curtea-domneasca",
@@ -15,7 +21,10 @@
       "dating": "ensemble: 14th–16th centuries; individual components require their own dating",
       "address": "Str. Negru Vodă 2, Curtea de Argeș",
       "evidence_status": "VERIFIED",
-      "source_ids": ["S03", "S07"]
+      "source_ids": [
+        "S03",
+        "S07"
+      ]
     },
     {
       "id": "heritage-sf-nicolae-domnesc",
@@ -26,7 +35,10 @@
       "dating": "1351–1370 in the LMI/RAN record; the RAN description also records completion in 1352",
       "address": "Str. Negru Vodă 2, Curtea de Argeș",
       "evidence_status": "VERIFIED",
-      "source_ids": ["S03", "S07"]
+      "source_ids": [
+        "S03",
+        "S07"
+      ]
     },
     {
       "id": "heritage-arges-monastery",
@@ -37,7 +49,10 @@
       "dating": "church 1512–1517; chapel 1885; episcopal palace 1885",
       "address": "Bd. Basarabilor 1, Curtea de Argeș",
       "evidence_status": "VERIFIED",
-      "source_ids": ["S02", "S07"]
+      "source_ids": [
+        "S02",
+        "S07"
+      ]
     },
     {
       "id": "heritage-san-nicoara",
@@ -48,7 +63,10 @@
       "dating": "14th century in the LMI record; detailed dating to be reconciled with archaeological literature",
       "address": "Str. Sân Nicoară 1, Curtea de Argeș",
       "evidence_status": "VERIFIED",
-      "source_ids": ["S04", "S07"]
+      "source_ids": [
+        "S04",
+        "S07"
+      ]
     },
     {
       "id": "heritage-historic-urban-site",
@@ -59,7 +77,11 @@
       "dating": "13th–19th centuries in the RAN record",
       "address": "protected historic urban area, Curtea de Argeș",
       "evidence_status": "VERIFIED",
-      "source_ids": ["S01", "S05", "S07"]
+      "source_ids": [
+        "S01",
+        "S05",
+        "S07"
+      ]
     },
     {
       "id": "heritage-gara",
@@ -69,7 +91,9 @@
       "dating": "1880 in the LMI record",
       "address": "Str. 1 Mai nr. 4, Curtea de Argeș",
       "evidence_status": "VERIFIED",
-      "source_ids": ["S07"]
+      "source_ids": [
+        "S07"
+      ]
     },
     {
       "id": "heritage-san-nicoara-ensemble",
@@ -79,7 +103,22 @@
       "dating": "14th century ensemble; individual components separately recorded",
       "address": "Str. Sân Nicoară 1, Curtea de Argeș",
       "evidence_status": "VERIFIED",
-      "source_ids": ["S07"]
+      "source_ids": [
+        "S07"
+      ]
+    },
+    {
+      "id": "heritage-drujesti-church-necropolis",
+      "name": "Biserica și necropola medievală de la Curtea de Argeș — Drujești",
+      "type": "church_and_medieval_necropolis",
+      "ran_code": "13631.02",
+      "dating": "church: sfârșitul sec. XVI – a doua jumătate a sec. XVIII; necropolă: sec. XVI–XVII",
+      "address": "punctul Biserica Drujești, Curtea de Argeș",
+      "evidence_status": "VERIFIED",
+      "research": "cercetare sistematică în 1987; Muzeul Județean Argeș; Spiridon Cristocea",
+      "source_ids": [
+        "S11"
+      ]
     }
   ]
 }
