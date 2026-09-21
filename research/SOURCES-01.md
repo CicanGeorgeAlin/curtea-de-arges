@@ -91,3 +91,57 @@ URL: https://patrimoniu.ro/ro/profiles/memoria-marelui-razboi-judetul-arges
 
 This register is a starting point, not a declaration that the web has been exhausted. The next research passes should add archival catalogues, scholarly books/articles, archaeological reports, historic maps, documentary editions, museum catalogues and other primary or institutional evidence.
 
+
+
+## S11 — RAN: Drujești archaeological site and 1987 research record
+
+Institution: Institutul Național al Patrimoniului / RAN  
+Record: RAN 13631.02  
+Name: Biserica și necropola medievală de la Curtea de Argeș — Drujești  
+Coverage: medieval church and necropolis; RAN records systematic research in 1987 by Muzeul Județean Argeș, Spiridon Cristocea, and cites the 1993 *Cronica Cercetărilor Arheologice din România* publication.
+
+URL: https://ran.cimec.ro/sel.asp?descript=curtea-de-arges-municipiul-curtea-de-arges-arges-biserica-si-necropola-medievala-de-la-curtea-de-arges-drujesti-cod-sit-ran-13631.02
+
+## S12 — Nicolae Constantinescu, *Curtea de Argeș (1200–1400)*
+
+Author: Nicolae Constantinescu  
+Year: 1984  
+Institutional context: Academia Republicii Socialiste România; Institutul de Arheologie “Vasile Pârvan”  
+Coverage: synthesis of archaeological research undertaken in 1967–1973 concerning the medieval princely centre at Curtea de Argeș.
+
+URL: https://biblioteca-digitala.ro/?pub=2102-curtea-de-arges-1200-1400-asupra-inceputurilor-tarii-romanesti
+
+## S13 — Nicolae Constantinescu, “Cercetarea arheologică de la Curtea Domnească din Argeș, 1967”
+
+Author: Nicolae Constantinescu  
+Publication: *Argesis — Studii și Comunicări*, I, 1968, pp. 123–138.  
+Coverage: archaeological research at the Domnească Court in the 1967 campaign.
+
+URL: https://biblioteca-digitala.ro/?volum=3044-argesis-studii-si-comunicari--i-1968
+
+## S14 — Pavel Chihaia, “Date noi despre necropola primilor Basarabi din Curtea de Argeș”
+
+Author: Pavel Chihaia  
+Publication: *Argesis — Studii și Comunicări*, II, 1969, pp. 133–166.  
+Coverage: archaeological and historical discussion of the necropolis associated with the first Basarabs at Curtea de Argeș.
+
+URL: https://biblioteca-digitala.ro/reviste/Argesis/Argesis-02-Studii-si-comunicari-Muzeul-Judetean-Arges-1969_135.pdf
+
+## S15 — Ana Maria Musicescu and Grigore Ionescu, *The Princely Church of Curtea de Argeș*
+
+Authors: Ana Maria Musicescu; Grigore Ionescu  
+Year: 1967  
+Coverage: the Princely Church “Sfântul Nicolae”; monument history, architecture, iconography, constructive phases and restoration history.
+
+URL: https://biblioteca-digitala.ro/?descriptor=2187-curtea-de-arges-oras-din-romania
+
+## S16 — *Cronica Cercetărilor Arheologice*, Sân Nicoară, 2011
+
+Institution: Institutul Național al Patrimoniului / *Cronica Cercetărilor Arheologice*  
+Report ID: 4830  
+Site: Curtea de Argeș, Str. Sân Nicoară nr. 1  
+RAN: 13631.05  
+Coverage: archaeological and architectural research, stratigraphy, construction parameters, historic imagery and questions concerning the church, tower, enclosure/fortification and relationship with the medieval city.
+
+URL: https://cronica.cimec.ro/Public/Detalii.php?k=4830
+
