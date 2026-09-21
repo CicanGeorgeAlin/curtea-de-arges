@@ -103,16 +103,18 @@ The first pass was re-analyzed against additional specialist indexes and archaeo
 
 ### New evidence requiring integration
 
-1. **Nicolae Constantinescu, *Curtea de Argeș (1200–1400). Asupra începuturilor Țării Românești* (1984)** is a major archaeological synthesis of the 1967–1973 excavations. The publication explicitly distinguishes the medieval princely settlement/site from the modern city and should become a core archaeological bibliography record. citeturn0search1
+1. **Nicolae Constantinescu, *Curtea de Argeș (1200–1400). Asupra începuturilor Țării Românești* (1984)** is a major archaeological synthesis of the 1967–1973 excavations. The publication explicitly distinguishes the medieval princely settlement/site from the modern city and should become a core archaeological bibliography record.
 
 2. The Digital Library index identifies additional specialist literature, including:
    - Nicolae Constantinescu, *Cercetarea arheologică de la Curtea Domnească din Argeș, 1967* (1968);
    - Pavel Chihaia, *Date noi despre necropola primilor Basarabi din Curtea de Argeș* (1969);
-   - Ana Maria Musicescu and Grigore Ionescu, *The Princely Church of Curtea de Argeș* (1967). citeturn0search3
+   - Ana Maria Musicescu and Grigore Ionescu, *The Princely Church of Curtea de Argeș* (1967).
 
-3. A separate archaeological research report from the **2022 campaign** records archaeological material and stratigraphic evidence in the area of the former/associated school complex, including ceramic, glass, writing implements and coins. This demonstrates that archaeological research extends beyond the four initially emphasized medieval monuments. citeturn0search6
+3. A separate archaeological research report from the **2022 campaign** records archaeological material and stratigraphic evidence in the area of the former/associated school complex, including ceramic, glass, writing implements and coins. This demonstrates that archaeological research extends beyond the four initially emphasized medieval monuments.
 
-4. The Sân Nicoară report contains substantially more detail than the initial summary, including stratigraphic observations, architectural measurements, historic photographs and discussion of the site's possible defensive function. Those details should be extracted into a dedicated Sân Nicoară research record rather than left only in a general archaeology narrative. citeturn0search0turn0search26
+4. The Sân Nicoară report contains substantially more detail than the initial summary, including stratigraphic observations, architectural measurements, historic photographs and discussion of the site's possible defensive function. Those details should be extracted into a dedicated Sân Nicoară research record rather than left only in a general archaeology narrative.
+
+5. A separate 2022 archaeological result previously mentioned in this file could not be securely matched to Curtea de Argeș during this verification pass. It is therefore removed as an evidentiary claim until an exact Curtea de Argeș report is identified.
 
 ### Corrective methodological conclusion
 
@@ -133,3 +135,33 @@ The archaeological stage therefore remains OPEN.
 - Preserve disagreements between specialist interpretations.
 
 **Stage 1 completion rule:** no declaration of completion until the municipal archaeological inventory and its principal accessible excavation/publication trail have been systematically checked and the remaining gaps are explicitly documented.
+
+
+## Re-analysis and gap check — Pass 03
+
+The archaeological stage was re-checked against the municipal historical study, the current RAN records, the *Cronica Cercetărilor Arheologice* database and the Digital Library of Romania.
+
+### Findings from the municipal archaeological inventory
+
+The municipal historical study explicitly states that, according to RAN, archaeological points of interest exist within the administrative territory of Curtea de Argeș. Its searchable table confirms at minimum the historic urban site RAN 13631.11 and Sân Nicoară RAN 13631.05. This confirms that the municipal territory, not only the central monument zone, must be treated as the archaeological unit of research.
+
+### Publication trail now verified
+
+The Digital Library of Romania provides a stable bibliographic trail for the principal early archaeological studies:
+
+- Nicolae Constantinescu, “Cercetarea arheologică de la Curtea Domnească din Argeș, 1967”, *Argesis*, I, 1968, pp. 123–138.
+- Pavel Chihaia, “Date noi despre necropola primilor Basarabi din Curtea de Argeș”, *Argesis*, II, 1969, pp. 133–166.
+- Ana Maria Musicescu and Grigore Ionescu, *The Princely Church of Curtea de Argeș*, 1967.
+- Nicolae Constantinescu, *Curtea de Argeș (1200–1400). Asupra începuturilor Țării Românești*, 1984, synthesizing archaeological research undertaken in 1967–1973.
+
+These are now treated as bibliography records to be incorporated into the archive, not as interchangeable summaries.
+
+### Important archaeological correction
+
+The current RAN record for Drujești explicitly identifies the 1987 systematic research, the institution, researcher and the 1993 *Cronica Cercetărilor Arheologice* publication. This is stronger source control than the earlier generic statement and should be preserved at record level.
+
+### Stage status
+
+**OPEN — NOT COMPLETE.**
+
+The next threshold is still the systematic reconstruction of the complete RAN inventory for the municipal administrative territory, followed by a campaign/publication matrix. The project will not declare Stage 1 complete merely because the principal monuments are documented.
