@@ -78,3 +78,18 @@ The archive now has three complementary inventory layers:
 3. archaeological interventions and specialist literature that may not map one-to-one to a current RAN record.
 
 The next task is reconciliation across these layers, including all Curtea de Argeș LMI entries that may have archaeological relevance.
+
+
+## Pass 12 — Current RAN result-set revalidation
+
+A fresh current RAN query again returns Curtea de Argeș records including 13631.02 Drujești, 13631.05 Sân Nicoară, 13631.07 Curtea Domnească, 13631.10 Argeș Monastery and 13631.11 the historic urban site. The RAN database identifies 13631.11 as an urban settlement of the medieval period, 13th–19th centuries. citeturn0search10turn0search6turn0search1
+
+The current individual records also confirm that Drujești has a 1987 systematic research entry by Spiridon Cristocea, while Sân Nicoară is recorded as a religious archaeological structure at Str. Sân Nicoară 1. citeturn0search0turn0search2
+
+### Important finding about the current five-record set
+
+The RAN municipality result currently visible through the indexed query confirms these five records, but the result is a database query, not a historical statement that no other archaeological evidence ever existed in the municipal territory. The archive therefore keeps the broader LMI, excavation-publication and historical-bibliography layers active.
+
+### Stage status
+
+**OPEN — NOT COMPLETE.**
