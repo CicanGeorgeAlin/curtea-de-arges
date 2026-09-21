@@ -171,3 +171,19 @@ Coverage: archaeological and historiographical discussion of Curtea de Argeș, w
 
 URL: https://biblioteca-digitala.ro/reviste/Argesis/dl.asp?filename=Argesis-24-Studii-si-comunicari-Muzeul-Judetean-Arges-2015_009.pdf
 
+
+
+## S20 — 1968 *Argesis* archaeological synthesis on Curtea Domnească
+
+Publication: *Argesis — Studii și Comunicări*, I, 1968.  
+Coverage: synthesis of archaeological discoveries in the 1967 Curtea Domnească campaign; reports ceramic evidence dated to the second half of the 13th century and beginning of the 14th century in contexts preceding later princely construction.
+
+URL: https://biblioteca-digitala.ro/reviste/Argesis/Argesis-01-Studii-si-comunicari-Muzeul-Judetean-Arges-1968_009.pdf
+
+## S21 — Specialist plan of Curtea Domnească based on Constantinescu
+
+Publication: Mihai, *Contribuția arheologiei la studiul monumentelor de arhitectură din Țara Românească în secolele XVI–XVII*, 2008.  
+Coverage: reproduced plan of Curtea Domnească, attributed to Constantinescu, showing archaeological excavation areas and differentiated chronological evidence including burials, 14th-century features and building phases.
+
+URL: https://biblioteca-digitala.ro/reviste/carte/mihai_contributia-arheologiei-studiul-monumentelor-arhitectura-tara-romaneasca-xvi-xvii_2008.pdf
+
