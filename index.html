@@ -45,8 +45,9 @@ h3{font-size:clamp(35px,5vw,66px);font-weight:400;line-height:1;margin:0 0 26px;
 .notice{margin-top:30px;padding:20px;border-left:2px solid #fff;background:#050505;color:#bbb;font:13px Arial,sans-serif}
 .status{display:inline-block;margin-top:12px;padding:5px 9px;border:1px solid #444;color:#fff;font:10px Arial,sans-serif;letter-spacing:.08em}
 footer{padding:70px 0;color:#777;font:11px Arial,sans-serif}
+.cican-entry-wrap{margin:42px auto 0;text-align:center}.cican-entry{position:relative;width:104px;height:104px;border:0;border-radius:50%;background:transparent;cursor:pointer;padding:0;touch-action:none;-webkit-tap-highlight-color:transparent}.cican-body{position:absolute;inset:13px;border-radius:50%;background:#fff;box-shadow:0 0 12px rgba(255,255,255,.85),0 0 34px rgba(255,255,255,.28);transition:transform .08s linear,box-shadow .12s ease}.eye{position:absolute;top:35%;width:9px;height:13px;border-radius:50%;background:#000}.eye.left{left:31%}.eye.right{right:31%}.cican-aura{position:absolute;inset:0;border-radius:50%;background:rgba(255,255,255,.05);box-shadow:0 0 45px rgba(255,255,255,.16);transition:transform .08s linear,opacity .08s linear}.cican-entry:focus-visible{outline:1px solid #fff;outline-offset:8px}.hold-label{margin-top:15px;font:10px Arial,sans-serif;letter-spacing:.22em;color:#aaa}.hold-progress{width:104px;height:1px;background:#292929;margin:11px auto 0;overflow:hidden}.hold-progress span{display:block;height:100%;width:0;background:#fff;box-shadow:0 0 8px #fff}.landing.unlocking .landing-inner{transition:opacity .28s ease;opacity:0}.landing.archive-opening{animation:archiveOpen .7s ease forwards}@keyframes archiveOpen{0%{opacity:1}60%{opacity:1}100%{opacity:0}}
 @media(max-width:600px){.landing{min-height:100svh}.landing h1{font-size:clamp(48px,14vw,82px)}.event{grid-template-columns:1fr;gap:7px}}
-@media(prefers-reduced-motion:reduce){.landing h1{animation:none}}
+@media(prefers-reduced-motion:reduce){.landing h1{animation:none}.cican-body,.cican-aura{transition:none}}
 </style>
 </head>
 <body>
@@ -55,7 +56,13 @@ footer{padding:70px 0;color:#777;font:11px Arial,sans-serif}
     <p class="kicker">Arhiva digitală vie</p>
     <h1>CURTEA<br>DE ARGEȘ</h1>
     <p class="tagline">O istorie. O memorie. Un oraș.</p>
-    <a class="enter" href="#arhiva">Intră în arhivă</a>
+    <div class="cican-entry-wrap">
+  <button class="cican-entry" id="cicanEntry" aria-label="Ține apăsat pentru a intra în arhivă">
+    <span class="cican-aura"></span><span class="cican-body"><span class="eye left"></span><span class="eye right"></span></span>
+  </button>
+  <div class="hold-label">ȚINE APĂSAT</div>
+  <div class="hold-progress" aria-hidden="true"><span id="holdProgress"></span></div>
+</div>
   </div>
 </main>
 
@@ -74,5 +81,14 @@ footer{padding:70px 0;color:#777;font:11px Arial,sans-serif}
 <section id="metoda"><div class="archive-inner"><div class="eyebrow">04 · Standard de cercetare</div><h3>Nu inventăm istoria.</h3><p class="lead">Când sursele diferă, diferența rămâne vizibilă. Când un fapt nu poate fi stabilit, îl marcăm ca necunoscut sau disputat. Documentul, interpretarea academică, tradiția locală și memoria orală nu sunt amestecate.</p><div class="grid"><article class="card"><h4>Surse primare</h4><p>Documente, inscripții, hărți, registre, artefacte și mărturii contemporane evenimentelor.</p></article><article class="card"><h4>Instituții</h4><p>Patrimoniu, muzee, arhive, biblioteci, administrație și baze de date oficiale.</p></article><article class="card"><h4>Cercetare</h4><p>Studii arheologice, istorice și academice, cu bibliografie și proveniență verificabile.</p></article><article class="card"><h4>Memorie</h4><p>Fotografii și povești locale, păstrate ca surse de memorie și identitate, distinct de afirmațiile istorice verificate.</p></article></div></div></section>
 <footer><div class="archive-inner">© Curtea de Argeș — Arhiva Vie · Creat și curatoriat de <strong>Cican George Alin</strong> · Proiect în dezvoltare continuă.</div></footer>
 </div>
-</body>
+<script>
+(()=>{const b=document.getElementById('cicanEntry'),p=document.getElementById('holdProgress'),landing=document.getElementById('landing'),archive=document.getElementById('arhiva');if(!b)return;
+let start=0,raf=0,holding=false,duration=1900;
+const tick=t=>{if(!holding)return;const q=Math.min(1,(t-start)/duration);p.style.width=(q*100)+'%';const s=1+q*.72;b.querySelector('.cican-body').style.transform='scale('+s+')';b.querySelector('.cican-aura').style.transform='scale('+(1+q*1.25)+')';b.querySelector('.cican-aura').style.opacity=.12+q*.5;if(q>=1){holding=false;landing.classList.add('unlocking');setTimeout(()=>{archive.style.display='block';landing.style.display='none';archive.scrollIntoView({behavior:'auto',block:'start'});},300);return}raf=requestAnimationFrame(tick)};
+const begin=e=>{e.preventDefault();if(holding)return;holding=true;start=performance.now();cancelAnimationFrame(raf);raf=requestAnimationFrame(tick)};
+const end=()=>{if(!holding)return;holding=false;cancelAnimationFrame(raf);p.style.width='0%';b.querySelector('.cican-body').style.transform='scale(1)';b.querySelector('.cican-aura').style.transform='scale(1)';b.querySelector('.cican-aura').style.opacity='.12'};
+b.addEventListener('pointerdown',begin);b.addEventListener('pointerup',end);b.addEventListener('pointercancel',end);b.addEventListener('pointerleave',e=>{if(e.pointerType==='mouse')end()});
+b.addEventListener('keydown',e=>{if(e.key===' '||e.key==='Enter'){e.preventDefault();begin(e)}});b.addEventListener('keyup',e=>{if(e.key===' '||e.key==='Enter'){e.preventDefault();end()}});
+})();
+</script></body>
 </html>
