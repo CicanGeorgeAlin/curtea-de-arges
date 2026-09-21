@@ -145,3 +145,29 @@ Coverage: archaeological and architectural research, stratigraphy, construction 
 
 URL: https://cronica.cimec.ro/Public/Detalii.php?k=4830
 
+
+
+## S17 — Francisc Iosif Rainer, “Cercetări antropologice asupra osemintelor aflate în săpături (Curtea de Argeş)”
+
+Author: Francisc Iosif Rainer  
+Publication: *Buletinul Comisiunii Monumentelor Istorice*, X–XIV, 1917–1923, pp. 153–161.  
+Coverage: anthropological examination of human remains recovered in excavations at Biserica Domnească; records the incompleteness/damage of remains and the difficulty of assigning fragments to exact contexts.
+
+URL: https://www.biblioteca-digitala.ro/?articol=106150-cercetari-antropologice-asupra-osemintelor-aflate-in-sapaturi-curtea-de-arges--buletinul-comisiunii-monumentelor-istorice-bcmi--x-xiv-1917-1923
+
+## S18 — Adrian Ioniță, Beatrice Kelemen and Alexandru Simon, Grave 10 study
+
+Authors: Adrian Ioniță; Beatrice Kelemen; Alexandru Simon  
+Publication: *Anuarul Institutului de Istorie și Arheologie “A. D. Xenopol”*, LI, 2014.  
+Coverage: Grave 10 in Biserica Sfântul Nicolae Domnesc, discovered in 1920; history of identifications proposed for the deceased and the evidentiary problems involved.
+
+URL: https://biblioteca-digitala.ro/reviste/xenopol-anuar/051_anuarul-institului-istorie-arheologie_iasi_xenopol_tom-LI_an-2014.pdf
+
+## S19 — Nicolae Constantinescu, 2015 archaeological historiographical review
+
+Author: Nicolae Constantinescu  
+Publication: *Argesis, Studii și Comunicări*, seria Istorie, tom XXIV, 2015.  
+Coverage: archaeological and historiographical discussion of Curtea de Argeș, with particular attention to the remains and interpretations associated with Biserica Domnească Sf. Nicolae.
+
+URL: https://biblioteca-digitala.ro/reviste/Argesis/dl.asp?filename=Argesis-24-Studii-si-comunicari-Muzeul-Judetean-Arges-2015_009.pdf
+
