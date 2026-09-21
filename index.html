@@ -45,22 +45,21 @@ h3{font-size:clamp(35px,5vw,66px);font-weight:400;line-height:1;margin:0 0 26px;
 .notice{margin-top:30px;padding:20px;border-left:2px solid #fff;background:#050505;color:#bbb;font:13px Arial,sans-serif}
 .status{display:inline-block;margin-top:12px;padding:5px 9px;border:1px solid #444;color:#fff;font:10px Arial,sans-serif;letter-spacing:.08em}
 footer{padding:70px 0;color:#777;font:11px Arial,sans-serif}
-.cican-entry-wrap{margin:42px auto 0;text-align:center}.cican-entry{position:relative;width:104px;height:104px;border:0;border-radius:50%;background:transparent;cursor:pointer;padding:0;touch-action:none;-webkit-tap-highlight-color:transparent}.cican-body{position:absolute;inset:13px;border-radius:50%;background:#fff;box-shadow:0 0 12px rgba(255,255,255,.85),0 0 34px rgba(255,255,255,.28);transition:transform .08s linear,box-shadow .12s ease}.eye{position:absolute;top:35%;width:9px;height:13px;border-radius:50%;background:#000}.eye.left{left:31%}.eye.right{right:31%}.cican-aura{position:absolute;inset:0;border-radius:50%;background:rgba(255,255,255,.05);box-shadow:0 0 45px rgba(255,255,255,.16);transition:transform .08s linear,opacity .08s linear}.cican-entry:focus-visible{outline:1px solid #fff;outline-offset:8px}.hold-label{margin-top:15px;font:10px Arial,sans-serif;letter-spacing:.22em;color:#aaa}.hold-progress{width:104px;height:1px;background:#292929;margin:11px auto 0;overflow:hidden}.hold-progress span{display:block;height:100%;width:0;background:#fff;box-shadow:0 0 8px #fff}.landing.unlocking .landing-inner{transition:opacity .28s ease;opacity:0}.landing.archive-opening{animation:archiveOpen .7s ease forwards}@keyframes archiveOpen{0%{opacity:1}60%{opacity:1}100%{opacity:0}}
 @media(max-width:600px){.landing{min-height:100svh}.landing h1{font-size:clamp(48px,14vw,82px)}.event{grid-template-columns:1fr;gap:7px}}
 @media(prefers-reduced-motion:reduce){.landing h1{animation:none}.cican-body,.cican-aura{transition:none}}
 </style>
 <style id="archive-entry-style">
-.archive-enter{appearance:none;border:1px solid rgba(255,255,255,.45);background:transparent;color:#fff;padding:14px 28px;border-radius:999px;font:600 12px Arial,sans-serif;letter-spacing:.18em;cursor:pointer;transition:background .25s ease,border-color .25s ease,transform .25s ease}
+.archive-enter{appearance:none;border:1px solid rgba(255,255,255,.5);background:transparent;color:#fff;padding:15px 30px;border-radius:999px;font:600 12px Arial,sans-serif;letter-spacing:.18em;cursor:pointer;transition:background .18s ease,color .18s ease,border-color .18s ease,transform .18s ease}
 .archive-enter:hover{background:#fff;color:#000;border-color:#fff}.archive-enter:active{transform:scale(.97)}
 </style></head>
 <body>
 <main id="landing" class="landing">
   <div class="landing-inner">
-    <p class="kicker">Arhiva digitală vie</p>
+    <p class="kicker">ARHIVA VIE · CURTEA DE ARGEȘ</p>
     <h1>CURTEA<br>DE ARGEȘ</h1>
     <p class="tagline">O istorie. O memorie. Un oraș.</p>
     <div class="cican-entry-wrap">
-  <button class="archive-enter" id="archiveEnter" type="button">INTRĂ ÎN ARHIVĂ</button>
+  <button class="archive-enter" id="archiveEnter" type="button" aria-label="Intră în Arhiva Vie">INTRĂ ÎN ARHIVĂ</button>
 </div>
   </div>
 </main>
@@ -81,6 +80,8 @@ footer{padding:70px 0;color:#777;font:11px Arial,sans-serif}
 <footer><div class="archive-inner">© Curtea de Argeș — Arhiva Vie · Creat și curatoriat de <strong>Cican George Alin</strong> · Proiect în dezvoltare continuă.</div></footer>
 </div>
 <script>
-(()=>{const button=document.getElementById('archiveEnter'),landing=document.getElementById('landing'),archive=document.getElementById('arhiva');if(!button)return;button.addEventListener('click',()=>{landing.style.opacity='0';setTimeout(()=>{landing.style.display='none';archive.style.display='block';window.scrollTo(0,0)},350)});})();
+(()=>{const button=document.getElementById('archiveEnter'),landing=document.getElementById('landing'),archive=document.getElementById('arhiva');if(!button)return;
+button.addEventListener('click',()=>{button.disabled=true;landing.style.opacity='0';setTimeout(()=>{landing.style.display='none';archive.style.display='block';window.scrollTo(0,0)},300)});
+})();
 </script></body>
 </html>
