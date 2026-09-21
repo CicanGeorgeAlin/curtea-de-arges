@@ -206,3 +206,12 @@ Coverage: Curtea Domnească components, chronological phases, archaeological/arc
 
 URL: https://ran.cimec.ro/sel.asp?descript=curtea-de-arges-municipiul-curtea-de-arges-arges-ansamblul-curtii-domnesti-de-la-curtea-de-arges-cod-sit-ran-13631.07
 
+
+
+## S24 — Current RAN municipality-level index verification
+
+Institution: Institutul Național al Patrimoniului / Repertoriul Arheologic Național  
+Coverage: current RAN indexed results used to cross-check the Curtea de Argeș municipal archaeological inventory. The index independently returns records 13631.02, 13631.05, 13631.07, 13631.10 and 13631.11 for Curtea de Argeș.
+
+URL: https://ran.cimec.ro/sel.asp?Ojud=1&Omod=2&codran=65351.44&nr=56
+
