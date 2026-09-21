@@ -248,3 +248,11 @@ Site: Câmpulung, Str. Negru Vodă nr. 76, RAN 13506.37, not Curtea de Argeș.
 Use: bibliography lead only; references to Curtea de Argeș archaeology are not treated as evidence from this excavation.
 
 URL: https://cronica.cimec.ro/Public/Detalii.php?k=6103
+
+## S29 — RAN current municipality-level result, naming cross-check
+
+Institution: Institutul Național al Patrimoniului / Repertoriul Arheologic Național  
+Coverage: current indexed RAN results for records assigned to Municipiul Curtea de Argeș; useful for inventory and canonical-name cross-checking.
+
+URL: https://ran.cimec.ro/sel.asp?Ojud=1&Omod=2&codran=65351.44&nr=56
+
