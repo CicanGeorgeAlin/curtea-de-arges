@@ -99,11 +99,11 @@ footer{padding:70px 0;color:#777;font:11px Arial,sans-serif}
 </div>
 <script>
 (()=>{const root=document.getElementById('cicanEntry'),one=document.getElementById('cicanBody'),aura=root.querySelector('.cican-aura'),bar=document.getElementById('holdProgress'),landing=document.getElementById('landing'),archive=document.getElementById('arhiva');if(!root)return;
-let size=34,growing=false,done=false;const MIN_SIZE=34,MAX_SIZE=180;
+let size=34,growing=false,done=false,lastTime=0;const MIN_SIZE=34,MAX_SIZE=180,GROW_DURATION=1500,GROW_PER_SECOND=(MAX_SIZE-MIN_SIZE)/GROW_DURATION;
 function render(){one.style.width=size+'px';one.style.height=size+'px';aura.style.width=size+'px';aura.style.height=size+'px';bar.style.width=((size-MIN_SIZE)/(MAX_SIZE-MIN_SIZE)*100)+'%';aura.style.opacity=.18+((size-MIN_SIZE)/(MAX_SIZE-MIN_SIZE))*.55}
 function begin(e){e.preventDefault();if(done)return;growing=true}
 function end(){growing=false}
-function animate(){if(growing&&!done){size=Math.min(MAX_SIZE,size+0.5);render();if(size>=MAX_SIZE){done=true;growing=false;bar.style.width='100%';setTimeout(()=>{landing.style.opacity='0';setTimeout(()=>{landing.style.display='none';archive.style.display='block';window.scrollTo(0,0)},420)},180)}}requestAnimationFrame(animate)}
+function animate(now){if(!lastTime)lastTime=now;const delta=Math.min(50,now-lastTime);lastTime=now;if(growing&&!done){size=Math.min(MAX_SIZE,size+GROW_PER_SECOND*delta);render();if(size>=MAX_SIZE){done=true;growing=false;bar.style.width='100%';setTimeout(()=>{landing.style.opacity='0';setTimeout(()=>{landing.style.display='none';archive.style.display='block';window.scrollTo(0,0)},420)},180)}}requestAnimationFrame(animate)}
 root.addEventListener('pointerdown',begin);
 root.addEventListener('pointerup',end);
 root.addEventListener('pointercancel',end);
