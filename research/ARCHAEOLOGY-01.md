@@ -95,3 +95,41 @@ The archaeological evidence already shows that the historical archive must opera
 **city territory → historic urban site → monument/ensemble → excavation area → trench/context → find/publication**
 
 That hierarchy will become part of the future data model.
+
+
+## Re-analysis and gap check — Pass 02
+
+The first pass was re-analyzed against additional specialist indexes and archaeological reporting.
+
+### New evidence requiring integration
+
+1. **Nicolae Constantinescu, *Curtea de Argeș (1200–1400). Asupra începuturilor Țării Românești* (1984)** is a major archaeological synthesis of the 1967–1973 excavations. The publication explicitly distinguishes the medieval princely settlement/site from the modern city and should become a core archaeological bibliography record. citeturn0search1
+
+2. The Digital Library index identifies additional specialist literature, including:
+   - Nicolae Constantinescu, *Cercetarea arheologică de la Curtea Domnească din Argeș, 1967* (1968);
+   - Pavel Chihaia, *Date noi despre necropola primilor Basarabi din Curtea de Argeș* (1969);
+   - Ana Maria Musicescu and Grigore Ionescu, *The Princely Church of Curtea de Argeș* (1967). citeturn0search3
+
+3. A separate archaeological research report from the **2022 campaign** records archaeological material and stratigraphic evidence in the area of the former/associated school complex, including ceramic, glass, writing implements and coins. This demonstrates that archaeological research extends beyond the four initially emphasized medieval monuments. citeturn0search6
+
+4. The Sân Nicoară report contains substantially more detail than the initial summary, including stratigraphic observations, architectural measurements, historic photographs and discussion of the site's possible defensive function. Those details should be extracted into a dedicated Sân Nicoară research record rather than left only in a general archaeology narrative. citeturn0search0turn0search26
+
+### Corrective methodological conclusion
+
+The initial archaeology pass was **not yet complete**. The re-analysis confirms that declaring it complete now would be premature.
+
+The archaeological stage therefore remains OPEN.
+
+### Required next work
+
+- Build the full RAN inventory for the municipal territory rather than stopping at selected records.
+- Create a bibliography index for every archaeological publication identified.
+- Extract archaeological campaigns by year, site, excavation area and responsible researchers.
+- Separate excavation evidence from the interpretations made by each author.
+- Add archaeological sites from later campaigns, including 2022 records.
+- Trace the 1967–1973 research programme as a continuous archaeological project.
+- Build dedicated records for the Domnească Church, princely houses, Sân Nicoară, Drujești and other excavated locations.
+- Investigate the archaeological evidence for prehistoric and ancient periods with exact provenance.
+- Preserve disagreements between specialist interpretations.
+
+**Stage 1 completion rule:** no declaration of completion until the municipal archaeological inventory and its principal accessible excavation/publication trail have been systematically checked and the remaining gaps are explicitly documented.
