@@ -187,3 +187,22 @@ Coverage: reproduced plan of Curtea Domnească, attributed to Constantinescu, sh
 
 URL: https://biblioteca-digitala.ro/reviste/carte/mihai_contributia-arheologiei-studiul-monumentelor-arhitectura-tara-romaneasca-xvi-xvii_2008.pdf
 
+
+
+## S22 — Nicolae Constantinescu, 1967 archaeological campaign report (verified PDF)
+
+Author: Nicolae Constantinescu  
+Publication: *Argesis — Studii și Comunicări*, I, 1968, pp. 123–138.  
+Coverage: 1967 archaeological research at Curtea Domnească, including stratigraphic observations and ceramic evidence used by the author to date an earlier archaeological level to the second half of the 13th century.
+
+URL: https://biblioteca-digitala.ro/reviste/Argesis/Argesis-01-Studii-si-comunicari-Muzeul-Judetean-Arges-1968_128.pdf
+
+## S23 — RAN Curtea Domnească current record
+
+Institution: Institutul Național al Patrimoniului / Repertoriul Arheologic Național  
+RAN: 13631.07  
+LMI: AG-II-a-A-13647  
+Coverage: Curtea Domnească components, chronological phases, archaeological/architectural description; record last updated 26 April 2023.
+
+URL: https://ran.cimec.ro/sel.asp?descript=curtea-de-arges-municipiul-curtea-de-arges-arges-ansamblul-curtii-domnesti-de-la-curtea-de-arges-cod-sit-ran-13631.07
+
