@@ -215,3 +215,36 @@ Coverage: current RAN indexed results used to cross-check the Curtea de Argeș m
 
 URL: https://ran.cimec.ro/sel.asp?Ojud=1&Omod=2&codran=65351.44&nr=56
 
+
+
+## S25 — *Cronica Cercetărilor Arheologice* municipality/index cross-check
+
+Institution: Institutul Național al Patrimoniului / *Cronica Cercetărilor Arheologice*  
+Coverage: independent database cross-check for Curtea de Argeș archaeological research records, including Drujești and Sân Nicoară.
+
+URL: https://cronica.cimec.ro/Public/pLista.php?filtruAn=1983+-+1992&orderDESC=&orderbyJudet=&page=1
+
+## S26 — *Cronica Cercetărilor Arheologice*, Sân Nicoară 2011 — full report
+
+Report ID: 4830  
+Site: Curtea de Argeș, Str. Sân Nicoară nr. 1  
+RAN: 13631.05  
+Coverage: excavation objectives, stratigraphy, architectural measurements and archaeological interpretation.
+
+URL: https://cronica.cimec.ro/sandboxpdf/rapoarte/raport_4830.pdf
+
+## S27 — Negative verification: *Cronica* Report 1263
+
+Report ID: 1263  
+Site: Râmnicu Vâlcea, historic centre, not Curtea de Argeș.  
+Use: negative-control source proving that this report must not enter the Curtea de Argeș archaeological evidence base.
+
+URL: https://cronica.cimec.ro/Public/Detalii.php?k=1263
+
+## S28 — Negative/indirect verification: *Cronica* Report 6103
+
+Report ID: 6103  
+Site: Câmpulung, Str. Negru Vodă nr. 76, RAN 13506.37, not Curtea de Argeș.  
+Use: bibliography lead only; references to Curtea de Argeș archaeology are not treated as evidence from this excavation.
+
+URL: https://cronica.cimec.ro/Public/Detalii.php?k=6103
