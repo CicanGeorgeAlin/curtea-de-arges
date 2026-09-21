@@ -238,3 +238,38 @@ The next literature pass must reconstruct, as precisely as possible:
 **OPEN — NOT COMPLETE.**
 
 The evidence base is substantially stronger, but the municipal archaeological inventory and campaign-by-campaign reconstruction remain incomplete.
+
+
+## Re-analysis and gap check — Pass 06
+
+The latest cross-check strengthens the chronology of the 1967–1973 research programme and clarifies an important boundary of interpretation.
+
+### 1967 campaign and the earlier archaeological level
+
+Constantinescu's 1968 report describes an archaeological level containing ceramic material that he dates, on stratigraphic and stylistic grounds, to the second half of the 13th century. The report therefore supports **archaeological activity at the Curtea Domnească area before the later 14th-century princely construction phases**. It does not, by itself, establish that a fully formed medieval town or princely residence already existed at that date.
+
+### 1967–1973 is a continuous research programme
+
+The 1984 monograph explicitly identifies the period 1967–1973 as the archaeological research programme whose results it synthesizes. The RAN record independently identifies the Curtea Domnească as a medieval civil settlement with multiple components and chronological phases. The municipal museum also attributes the excavation of the southern palace foundations to Constantinescu's 1967–1972 research.
+
+For the archive, these sources should be connected as:
+**campaign reports → excavation plan/contexts → 1984 synthesis → later re-evaluations → present RAN record**.
+
+### Inventory warning
+
+The current RAN search infrastructure confirms that records can be filtered by municipality and that Curtea de Argeș records include multiple site components and chronological phases. However, the evidence reviewed in this pass still does not justify claiming that the **complete municipal RAN inventory has been reconstructed**.
+
+Therefore:
+**Stage 1 remains OPEN.**
+
+### Next target
+
+The next pass will concentrate on extracting every Curtea de Argeș RAN record returned by municipality-level searches and reconciling:
+- RAN code;
+- site name and historical variants;
+- coordinates/address;
+- chronology;
+- components;
+- LMI code;
+- excavation/research references;
+- current evidence status.
