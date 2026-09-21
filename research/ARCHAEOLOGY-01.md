@@ -360,3 +360,28 @@ Negative results are evidence about the investigated location and method, not ev
 ### Stage status
 
 **OPEN — NOT COMPLETE.**
+
+
+## Re-analysis and gap check — Pass 14
+
+A fresh cross-check of current institutional records produced three useful controls.
+
+### Sân Nicoară: current register and research trail
+
+The current RAN record identifies Sân Nicoară as RAN 13631.05, LMI AG-II-m-A-13655.01, a medieval church dated in the register to the 14th century, and records preventive archaeological research in 2009–2011 by named researchers and institutions. The *Cronica Cercetărilor Arheologice* record independently identifies the same 2011 investigation and RAN code. citeturn0search0turn0search5
+
+### Drujești: specialist publication trail strengthened
+
+The current RAN record identifies Drujești as RAN 13631.02, with a medieval church and necropolis and systematic research in 1987 by Spiridon Cristocea. The *Revista Monumentelor Istorice* catalogue independently identifies Cristocea's 1990 article, “Biserica Drujeşti din Curtea de Argeş în lumina cercetărilor arheologice”, creating an additional specialist publication node for the archive. citeturn0search1turn0search8
+
+### Sân Nicoară architectural documentation
+
+The UAUIM Relevee archive preserves measured drawings and restoration-study sheets for the Sân Nicoară ensemble, including longitudinal/transverse sections and façade studies. This is not itself a dating argument, but it is a valuable primary visual/documentary layer that should eventually be linked to the archaeological site record. citeturn0search9
+
+### Important boundary
+
+The municipal planning report currently available online lists four major cultural/archaeological elements in its project-proximity table—Drujești, Curtea Domnească, Sân Nicoară and Argeș Monastery. This is useful as an independent institutional cross-check, but it is not an exhaustive municipal archaeological inventory. citeturn0search12
+
+### Stage status
+
+**OPEN — NOT COMPLETE.**
