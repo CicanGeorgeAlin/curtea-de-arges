@@ -304,3 +304,11 @@ Coverage: cross-register identification of religious sites in Curtea de Argeș, 
 
 URL: https://lacasuridecult.cimec.ro/RO/Documente/ASP/culte.asp?nr=15
 
+
+## S36 — Current RAN Curtea de Argeș municipality result set, revalidated
+
+Institution: Institutul Național al Patrimoniului / Repertoriul Arheologic Național  
+Coverage: current indexed RAN result set used to revalidate Curtea de Argeș archaeological records and their current database status.
+
+URL: https://ran.cimec.ro/sel.asp?Ojud=1&Omod=2&codran=65351.44&nr=56
+
