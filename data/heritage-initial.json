@@ -43,7 +43,10 @@
         "S12",
         "S13",
         "S14",
-        "S15"
+        "S15",
+        "S17",
+        "S18",
+        "S19"
       ]
     },
     {
@@ -128,5 +131,5 @@
       ]
     }
   ],
-  "research_note": "Archaeological bibliography and source-control records expanded on 2026-09-21; Stage 1 remains open pending complete municipal RAN inventory and campaign/publication matrix."
+  "research_note": "Archaeological source-control expanded through Pass 04; an earlier 2022 report reference was verified as Râmnicu Vâlcea and excluded from Curtea de Argeș evidence."
 }
