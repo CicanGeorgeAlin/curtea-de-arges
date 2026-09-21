@@ -16,6 +16,10 @@ This is the controlled archaeological-inventory layer for Curtea de Argeș. It i
 | 13631.10 | Ansamblul Mănăstirii Argeșului | monastery ensemble | church 1512–1517; later components | AG-II-a-A-13628 | RAN / LMI / institutional heritage sources | VERIFIED |
 | 13631.11 | Situl urban Orașul istoric Curtea de Argeș | protected historic urban archaeological site | 13th–19th c. in current RAN description | AG-II-s-A-13645 | RAN / municipal historical study / LMI | VERIFIED |
 
+## Naming and grammar control
+
+The archive's canonical modern Romanian city name is **Curtea de Argeș**. This form is used in the archive's own prose, titles and identifiers where grammatically appropriate. Historical source records may preserve their original spelling, including unaccented or older forms such as “Curtea de Argeş”; those are source transcriptions/variants, not replacements for the canonical modern form.
+
 ## Municipality-level verification note
 
 The current RAN municipality-level index was checked during Pass 07. It independently returned the five RAN codes above for Curtea de Argeș. This is a strong cross-check, but **not yet proof of exhaustive coverage**.
