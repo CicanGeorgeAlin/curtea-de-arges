@@ -114,8 +114,6 @@ The first pass was re-analyzed against additional specialist indexes and archaeo
 
 4. The Sân Nicoară report contains substantially more detail than the initial summary, including stratigraphic observations, architectural measurements, historic photographs and discussion of the site's possible defensive function. Those details should be extracted into a dedicated Sân Nicoară research record rather than left only in a general archaeology narrative.
 
-5. A separate 2022 archaeological result previously mentioned in this file could not be securely matched to Curtea de Argeș during this verification pass. It is therefore removed as an evidentiary claim until an exact Curtea de Argeș report is identified.
-
 ### Corrective methodological conclusion
 
 The initial archaeology pass was **not yet complete**. The re-analysis confirms that declaring it complete now would be premature.
@@ -165,3 +163,34 @@ The current RAN record for Drujești explicitly identifies the 1987 systematic r
 **OPEN — NOT COMPLETE.**
 
 The next threshold is still the systematic reconstruction of the complete RAN inventory for the municipal administrative territory, followed by a campaign/publication matrix. The project will not declare Stage 1 complete merely because the principal monuments are documented.
+
+
+## Re-analysis and gap check — Pass 04
+
+A fresh search of the *Cronica Cercetărilor Arheologice* and specialist literature produced two important corrections and expansions.
+
+### Correction: the earlier 2022 reference was not a Curtea de Argeș report
+
+The previously suspected 2022 report ID 1263 is actually for **Râmnicu Vâlcea**, not Curtea de Argeș. It must not be cited as evidence for this archive. The search has therefore been treated as a negative verification result rather than as archaeological evidence for Curtea de Argeș.
+
+A separate 2022 *Cronica* result concerning the “Școala cu ceas” text also resolves to the same non-Curtea record. The archive will not import that material until an exact Curtea de Argeș site record is identified.
+
+### New specialist evidence: the Domnească Church necropolis
+
+The Digital Library of Romania preserves an early anthropological study by Francisc Iosif Rainer concerning human remains recovered during excavations at the Domnească Church, published in the *Buletinul Comisiunii Monumentelor Istorice* (1917–1923). The record explicitly notes that the remains were incomplete and damaged and that prior illicit disturbance of graves affected the ability to assign fragments to exact contexts.
+
+This is important because the archive must preserve not only monumental archaeology but also the history of excavation, funerary evidence, and the limitations imposed by disturbed archaeological contexts.
+
+### New specialist evidence: the identity of Grave 10
+
+A 2014 study by Adrian Ioniță, Beatrice Kelemen and Alexandru Simon revisits Grave 10 in the Domnească Church, discovered in 1920, and documents the succession of proposed identifications of the deceased in earlier scholarship. This is a model case for the archive's **DISPUTED** status: the existence of the grave is archaeological evidence; the identification of its occupant is a historiographical question that must preserve competing interpretations and their arguments.
+
+### New specialist evidence: later historiographical review
+
+Nicolae Constantinescu's 2015 *Argesis* study demonstrates that archaeological interpretations of the Domnească Church and its remains continued to be debated and re-evaluated long after the 1967–1973 excavations. It should be connected to the archaeological bibliography and not treated as merely a general historical article.
+
+### Current Stage 1 status
+
+**OPEN — NOT COMPLETE.**
+
+The archaeological foundation is becoming source-controlled, but the decisive missing layer remains the **complete municipal RAN inventory and complete accessible excavation/report trail**. Until that is reconstructed, Stage 1 cannot be closed.
