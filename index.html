@@ -51,18 +51,16 @@ footer{padding:70px 0;color:#777;font:11px Arial,sans-serif}
 </style>
 <style id="cican-fluid">
 .cican-entry-wrap{margin:42px auto 0;text-align:center}
-.cican-entry{position:relative;width:128px;height:128px;border:0;border-radius:50%;background:transparent;cursor:pointer;padding:0;touch-action:none;-webkit-tap-highlight-color:transparent}
-.cican-body{position:absolute;left:18px;top:18px;width:92px;height:92px;border-radius:50%;background:#fff;box-shadow:0 0 14px rgba(255,255,255,.95),0 0 38px rgba(255,255,255,.32);transform:translate3d(0,0,0) scale(1);transition:transform .16s cubic-bezier(.22,.61,.36,1),box-shadow .16s ease;will-change:transform}
-.eye{position:absolute;top:34%;width:10px;height:14px;border-radius:50%;background:#000;transition:transform .16s cubic-bezier(.22,.61,.36,1)}
-.eye.left{left:31%}.eye.right{right:31%}
-.cican-aura{position:absolute;left:2px;top:2px;width:124px;height:124px;border-radius:50%;background:rgba(255,255,255,.025);box-shadow:0 0 48px rgba(255,255,255,.15);opacity:.2;transform:scale(1);will-change:transform,opacity}
-.hold-label{margin-top:12px;font:10px Arial,sans-serif;letter-spacing:.22em;color:#aaa}
-.hold-progress{width:128px;height:1px;background:#222;margin:10px auto 0;overflow:hidden}.hold-progress span{display:block;height:100%;width:0;background:#fff;box-shadow:0 0 9px #fff}
+.cican-entry{position:relative;width:180px;height:180px;border:0;border-radius:50%;background:transparent;cursor:pointer;padding:0;touch-action:none;-webkit-tap-highlight-color:transparent}
+.cican-body{position:absolute;left:50%;top:50%;width:34px;height:34px;border-radius:50%;background:#fff;transform:translate(-50%,-50%);pointer-events:none;box-shadow:0 0 10px #fff,0 0 25px rgba(255,255,255,.8),0 0 45px rgba(255,255,255,.4);will-change:width,height,box-shadow}
+.cican-face{position:absolute;left:50%;top:50%;width:42%;height:42%;transform:translate(-50%,-50%);pointer-events:none}
+.eye{position:absolute;width:22%;height:34%;top:28%;background:#000;border-radius:50%}
+.eye.left{left:18%}.eye.right{right:18%}
+.cican-aura{position:absolute;left:50%;top:50%;width:70px;height:70px;border-radius:50%;transform:translate(-50%,-50%);pointer-events:none;opacity:.18;box-shadow:0 0 35px rgba(255,255,255,.5);will-change:width,height,opacity}
+.hold-label{margin-top:4px;font:10px Arial,sans-serif;letter-spacing:.22em;color:#aaa}
+.hold-progress{width:180px;height:1px;background:#222;margin:10px auto 0;overflow:hidden}.hold-progress span{display:block;height:100%;width:0;background:#fff;box-shadow:0 0 9px #fff}
 .cican-entry:focus-visible{outline:1px solid #fff;outline-offset:8px}
-@keyframes cicanReady{0%,100%{transform:translate3d(0,0,0)}50%{transform:translate3d(0,-2px,0)}}
-.cican-body{animation:cicanReady 3.8s ease-in-out infinite}
-.landing.unlocking .landing-inner{transition:opacity .42s ease;opacity:0}
-@media(prefers-reduced-motion:reduce){.cican-body{animation:none;transition:none}.cican-aura,.eye{transition:none}}
+@media(prefers-reduced-motion:reduce){.cican-body,.cican-aura{will-change:auto}}
 </style></head>
 <body>
 <main id="landing" class="landing">
@@ -96,13 +94,15 @@ footer{padding:70px 0;color:#777;font:11px Arial,sans-serif}
 <footer><div class="archive-inner">© Curtea de Argeș — Arhiva Vie · Creat și curatoriat de <strong>Cican George Alin</strong> · Proiect în dezvoltare continuă.</div></footer>
 </div>
 <script>
-(()=>{const b=document.getElementById('cicanEntry'),p=document.getElementById('holdProgress'),body=b?.querySelector('.cican-body'),aura=b?.querySelector('.cican-aura'),eyes=b?.querySelectorAll('.eye'),landing=document.getElementById('landing'),archive=document.getElementById('arhiva');if(!b)return;
-let holding=false,start=0,raf=0,last=0;const duration=1900;
-function frame(t){if(!holding)return;const raw=Math.min(1,(t-start)/duration);const q=raw*raw*(3-2*raw);const pulse=Math.sin(raw*Math.PI);p.style.width=(raw*100)+'%';body.style.transform='translate3d(0,'+(-pulse*5)+'px,0) scale('+(1+q*.58)+')';body.style.boxShadow='0 0 '+(14+q*18)+'px rgba(255,255,255,.98),0 0 '+(38+q*44)+'px rgba(255,255,255,'+(.32+q*.35)+')';aura.style.transform='scale('+(1+q*1.15)+')';aura.style.opacity=.2+q*.65;eyes.forEach(e=>e.style.transform='translateY('+(pulse*1.5)+'px) scale('+(1+q*.12)+')');if(raw>=1){holding=false;landing.classList.add('unlocking');setTimeout(()=>{landing.style.display='none';archive.style.display='block';window.scrollTo(0,0)},420);return}raf=requestAnimationFrame(frame)}
-function reset(){if(!holding)return;holding=false;cancelAnimationFrame(raf);p.style.width='0%';body.style.transform='translate3d(0,0,0) scale(1)';body.style.boxShadow='0 0 14px rgba(255,255,255,.95),0 0 38px rgba(255,255,255,.32)';aura.style.transform='scale(1)';aura.style.opacity=.2;eyes.forEach(e=>e.style.transform='translateY(0) scale(1)')}
+(()=>{const b=document.getElementById('cicanEntry'),p=document.getElementById('holdProgress'),body=b?.querySelector('.cican-body'),face=b?.querySelector('.cican-face'),aura=b?.querySelector('.cican-aura'),label=b?.parentElement?.querySelector('.hold-label'),landing=document.getElementById('landing'),archive=document.getElementById('arhiva');if(!b||!body)return;
+let holding=false,start=0,raf=0;const duration=1900,MIN=34,MAX=180;
+function setSize(s){body.style.width=s+'px';body.style.height=s+'px';const glow=s/MIN;body.style.boxShadow='0 0 '+(10+glow*2)+'px #fff,0 0 '+(25+glow*5)+'px rgba(255,255,255,'+Math.min(1,.65+glow*.08)+'),0 0 '+(45+glow*9)+'px rgba(255,255,255,.4)';if(face){face.style.width=(s*.42)+'px';face.style.height=(s*.42)+'px'}aura.style.width=(s*1.8)+'px';aura.style.height=(s*1.8)+'px';aura.style.opacity=.16+(s-MIN)/(MAX-MIN)*.5}
+function frame(t){if(!holding)return;const raw=Math.min(1,(t-start)/duration);const eased=raw<.5?2*raw*raw:1-Math.pow(-2*raw+2,2)/2;const size=MIN+(MAX-MIN)*eased;p.style.width=(raw*100)+'%';setSize(size);if(raw>=1){holding=false;landing.classList.add('unlocking');setTimeout(()=>{landing.style.display='none';archive.style.display='block';window.scrollTo(0,0)},420);return}raf=requestAnimationFrame(frame)}
+function reset(){if(!holding)return;holding=false;cancelAnimationFrame(raf);p.style.width='0%';setSize(MIN)}
 function begin(e){e.preventDefault();if(holding)return;holding=true;start=performance.now();cancelAnimationFrame(raf);raf=requestAnimationFrame(frame)}
 b.addEventListener('pointerdown',begin);b.addEventListener('pointerup',reset);b.addEventListener('pointercancel',reset);b.addEventListener('pointerleave',e=>{if(e.pointerType==='mouse')reset()});
-b.addEventListener('keydown',e=>{if(e.key===' '||e.key==='Enter')begin(e)});b.addEventListener('keyup',e=>{if(e.key===' '||e.key==='Enter')reset(e)});
+b.addEventListener('keydown',e=>{if(e.key===' '||e.key==='Enter')begin(e)});b.addEventListener('keyup',e=>{if(e.key===' '||e.key==='Enter')reset()});
+setSize(MIN);
 })();
 </script></body>
 </html>
