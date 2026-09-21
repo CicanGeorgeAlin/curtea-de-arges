@@ -49,3 +49,32 @@ A record appearing in a modern register proves the existence of the **register r
 ## Important inventory caveat
 
 The five current RAN records remain the **RAN result set currently verified**, not the complete archaeological evidence set. Pass 10 identified Biserica Olari as a separate, source-controlled archaeological intervention with LMI status but no current RAN code yet established. It is therefore tracked separately until the RAN question is resolved.
+
+## Pass 11 — Cross-register expansion and evidence boundary
+
+A fresh web cross-check found an important distinction between the **current RAN result set** and the broader **heritage/archaeological evidence landscape**.
+
+The current RAN index independently confirms 13631.02 (Drujești), 13631.05 (Sân Nicoară) and 13631.07 (Curtea Domnească) as Curtea de Argeș records. citeturn0search4turn0search8turn0search10
+
+A municipal planning report also lists four RAN/LMI archaeological heritage elements in the project area: Drujești, Curtea Domnească, Sân Nicoară and the Argeș Monastery. This is useful as an independent planning-level cross-check, but it is not treated as proof of exhaustive archaeological coverage. citeturn0search23
+
+### New control: archaeological evidence outside the five-record RAN set
+
+The wider heritage sources identify **Biserica Adormirea Maicii Domnului — Olari** as a historic monument and archaeological research location. It remains in the archive as a verified archaeological intervention with its RAN status unresolved.
+
+The CIMEC places of worship database also confirms multiple Curtea de Argeș religious sites, including the Domnească Church, Argeș Monastery and Sân Nicoară. This is a useful cross-register discovery source, but it is not itself an archaeological inventory. citeturn0search0turn0search2
+
+### Evidence-language control
+
+Some institutional/tourism pages repeat traditional narratives about Sân Nicoară and other monuments. These will **not** be imported as historical facts merely because they are repeated. They will be classified separately as tradition/interpretation unless supported by archaeological, documentary or scholarly evidence.
+
+### Stage status
+
+**OPEN — NOT COMPLETE.**
+
+The archive now has three complementary inventory layers:
+1. RAN archaeological records;
+2. LMI/heritage records;
+3. archaeological interventions and specialist literature that may not map one-to-one to a current RAN record.
+
+The next task is reconciliation across these layers, including all Curtea de Argeș LMI entries that may have archaeological relevance.
