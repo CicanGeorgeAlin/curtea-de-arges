@@ -15,6 +15,7 @@ This is the controlled archaeological-inventory layer for Curtea de Argeș. It i
 | 13631.07 | Ansamblul Curții Domnești | princely court / archaeological and architectural ensemble | medieval and later components | AG-II-a-A-13647 | Constantinescu 1967–1973; later synthesis and studies | VERIFIED |
 | 13631.10 | Ansamblul Mănăstirii Argeșului | monastery ensemble | church 1512–1517; later components | AG-II-a-A-13628 | RAN / LMI / institutional heritage sources | VERIFIED |
 | 13631.11 | Situl urban Orașul istoric Curtea de Argeș | protected historic urban archaeological site | 13th–19th c. in current RAN description | AG-II-s-A-13645 | RAN / municipal historical study / LMI | VERIFIED |
+| — | Biserica Adormirea Maicii Domnului — Olari | church; archaeological evidence from restoration excavation | older church foundations dated around mid-15th c. in archaeological publication; current monument dated ante 1687 in LMI | AG-II-a-A-13639 / AG-II-m-A-13639.01 | archaeological campaign 1967; Dinu V. Rosetti; 1968 publication; 2005 specialist synthesis | VERIFIED archaeological intervention; no RAN code currently identified |
 
 ## Naming and grammar control
 
@@ -44,3 +45,7 @@ A separate 2018 report containing references to archaeological material from Cur
 ## Evidence rule
 
 A record appearing in a modern register proves the existence of the **register record**. It does not automatically prove every dating, interpretation or historical narrative attached to it. Those claims require their own source trail.
+
+## Important inventory caveat
+
+The five current RAN records remain the **RAN result set currently verified**, not the complete archaeological evidence set. Pass 10 identified Biserica Olari as a separate, source-controlled archaeological intervention with LMI status but no current RAN code yet established. It is therefore tracked separately until the RAN question is resolved.
