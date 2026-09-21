@@ -194,3 +194,47 @@ Nicolae Constantinescu's 2015 *Argesis* study demonstrates that archaeological i
 **OPEN — NOT COMPLETE.**
 
 The archaeological foundation is becoming source-controlled, but the decisive missing layer remains the **complete municipal RAN inventory and complete accessible excavation/report trail**. Until that is reconstructed, Stage 1 cannot be closed.
+
+
+## Re-analysis and gap check — Pass 05
+
+A further literature pass found a stronger way to separate the archaeological evidence from later historical synthesis.
+
+### 1967–1973 excavation programme: material evidence
+
+A 1968 synthesis article in *Argesis* reports that the 1967 campaign at Curtea Domnească produced ceramic evidence dating to the **second half of the 13th century and the beginning of the 14th century**, earlier than the construction of the southern princely house discussed in the same research. This is significant evidence for activity at the princely-centre site before the later masonry phases, but it does **not by itself establish the exact nature of the earlier settlement**.
+
+The archive will therefore record:
+- material evidence: ceramic finds;
+- archaeological dating proposed in the publication: second half of the 13th–early 14th century;
+- interpretation: activity/occupation preceding the later princely construction;
+- unresolved question: the exact character and extent of that earlier occupation.
+
+### Excavation plan as a primary research object
+
+A later specialist publication reproduces a plan of **Curtea Domnească din Argeș** based on Constantinescu. The legend distinguishes excavation areas from different periods, including burials, a 14th-century oven, 14th-century brick paving and masonry, and building phases extending from the 13th to modern periods.
+
+This confirms that the archive should eventually preserve the excavation plan itself as a spatial evidence record, not merely cite it in prose.
+
+### Historiographical continuity
+
+The specialist literature shows that the archaeological interpretation of the princely centre remained debated after the 1967–1973 campaigns. Later authors explicitly discuss the competing arguments surrounding the chronology and interpretation of the site.
+
+The archive will therefore avoid converting the 1967–1973 interpretation into an unqualified single narrative.
+
+### New archaeological target
+
+The next literature pass must reconstruct, as precisely as possible:
+1. each excavation campaign from 1967–1973;
+2. excavation areas/trenches and their locations;
+3. finds by context;
+4. architectural phases;
+5. burials by context and dating;
+6. later reinterpretations of the same evidence;
+7. the exact relationship between the archaeological “vatra voievodală” and the wider modern city.
+
+### Stage status
+
+**OPEN — NOT COMPLETE.**
+
+The evidence base is substantially stronger, but the municipal archaeological inventory and campaign-by-campaign reconstruction remain incomplete.
