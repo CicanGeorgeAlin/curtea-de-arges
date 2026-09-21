@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Curtea de Argeș — Arhiva Vie. Istorie, arheologie, patrimoniu, oameni, locuri și memorie.">
+<title>Curtea de Argeș — Arhiva Vie</title>
+<style>
+:root{--black:#000;--white:#fff;--gray:#a8a8a8;--line:#222}
+*{box-sizing:border-box}
+html{scroll-behavior:auto;background:#000}
+body{margin:0;background:#000;color:#fff;font-family:Georgia,serif;line-height:1.65}
+a{color:inherit}
+.landing{height:100svh;min-height:620px;display:grid;place-items:center;background:#000;overflow:hidden;position:relative;transition:opacity .14s ease}
+.landing-inner{text-align:center;position:relative;z-index:1;padding:24px}
+.landing h1{margin:0;font-size:clamp(52px,11vw,140px);font-weight:400;line-height:.86;letter-spacing:-.025em;text-shadow:0 0 10px rgba(255,255,255,.75),0 0 30px rgba(255,255,255,.32),0 0 70px rgba(255,255,255,.12);animation:breath 4.6s ease-in-out infinite;will-change:transform,text-shadow}
+.kicker{margin:0 0 28px;font:11px Arial,sans-serif;letter-spacing:.28em;text-transform:uppercase;color:#fff}
+.tagline{margin:32px auto 0;max-width:560px;font-size:clamp(16px,2vw,22px);color:#fff}
+.enter{display:inline-flex;align-items:center;justify-content:center;margin-top:42px;min-width:210px;min-height:58px;padding:15px 28px;border:1px solid #fff;background:#fff;color:#000;text-decoration:none;font:12px Arial,sans-serif;letter-spacing:.18em;text-transform:uppercase;transition:box-shadow .25s ease,transform .25s ease}
+.enter:hover,.enter:focus-visible{transform:translateY(-2px);box-shadow:0 0 20px rgba(255,255,255,.45),0 0 50px rgba(255,255,255,.16);outline:none;will-change:transform,box-shadow}
+.enter:active{transform:translateY(0)}
+@keyframes breath{0%,100%{transform:scale(1);text-shadow:0 0 8px rgba(255,255,255,.65),0 0 25px rgba(255,255,255,.28),0 0 60px rgba(255,255,255,.10)}50%{transform:scale(1.012);text-shadow:0 0 12px rgba(255,255,255,1),0 0 34px rgba(255,255,255,.52),0 0 78px rgba(255,255,255,.20)}}
+.archive{display:none;background:#000}
+.archive:target{display:block}
+.archive-inner{max-width:1180px;margin:auto;padding:0 24px}
+.archive-header{min-height:72svh;display:grid;place-items:center;text-align:center;border-bottom:1px solid var(--line)}
+.archive-header h2{margin:20px 0;font-size:clamp(48px,9vw,112px);font-weight:400;line-height:.88;text-shadow:0 0 10px rgba(255,255,255,.35)}
+.eyebrow{font:11px Arial,sans-serif;text-transform:uppercase;letter-spacing:.22em}
+.byline{margin-top:30px;color:var(--gray);font:11px Arial,sans-serif;letter-spacing:.08em}
+nav{position:sticky;top:0;background:#000;border-bottom:1px solid var(--line);z-index:10}
+.nav{display:flex;gap:25px;overflow:auto;padding:14px 24px;font:11px Arial,sans-serif;text-transform:uppercase;letter-spacing:.1em}
+.nav a{text-decoration:none;white-space:nowrap}
+section{padding:100px 0;border-bottom:1px solid var(--line)}
+h3{font-size:clamp(35px,5vw,66px);font-weight:400;line-height:1;margin:0 0 26px;text-shadow:0 0 7px rgba(255,255,255,.45)}
+.lead{font-size:20px;color:#fff;max-width:850px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px;margin-top:42px}
+.card{border:1px solid var(--line);padding:26px;background:#050505}
+.card h4{margin:0 0 9px;font-size:21px;font-weight:400}
+.card p{margin:0;color:var(--gray)}
+.timeline{margin-top:48px}
+.event{display:grid;grid-template-columns:125px 1fr;gap:28px;padding:25px 0;border-top:1px solid var(--line)}
+.year{color:#fff;font:bold 13px Arial,sans-serif;letter-spacing:.07em}
+.event strong{font-size:19px;font-weight:400}
+.source{display:block;margin-top:8px;color:#777;font:11px Arial,sans-serif}
+.notice{margin-top:30px;padding:20px;border-left:2px solid #fff;background:#050505;color:#bbb;font:13px Arial,sans-serif}
+.status{display:inline-block;margin-top:12px;padding:5px 9px;border:1px solid #444;color:#fff;font:10px Arial,sans-serif;letter-spacing:.08em}
+footer{padding:70px 0;color:#777;font:11px Arial,sans-serif}
+@media(max-width:600px){.landing{min-height:100svh}.landing h1{font-size:clamp(48px,14vw,82px)}.event{grid-template-columns:1fr;gap:7px}}
+@media(prefers-reduced-motion:reduce){.landing h1{animation:none}.cican-body,.cican-aura{transition:none}}
+</style>
+<style id="archive-entry-style">
+.cican-entry-wrap{margin:42px auto 0;text-align:center}
+.archive-enter{appearance:none;border:1px solid rgba(255,255,255,.5);background:transparent;color:#fff;padding:15px 30px;border-radius:999px;font:600 12px Arial,sans-serif;letter-spacing:.18em;cursor:pointer;transition:background .18s ease,color .18s ease,border-color .18s ease,transform .18s ease}
+.archive-enter:hover{background:#fff;color:#000;border-color:#fff}.archive-enter:active{transform:scale(.97)}
+</style></head>
+<body>
+<main id="landing" class="landing">
+  <div class="landing-inner">
+    <p class="kicker">ARHIVA VIE · CURTEA DE ARGEȘ</p>
+    <h1>CURTEA<br>DE ARGEȘ</h1>
+    <p class="tagline">O istorie. O memorie. Un oraș.</p>
+    <div class="cican-entry-wrap">
+  <button class="archive-enter" id="archiveEnter" type="button" aria-label="Intră în Arhiva Vie">INTRĂ ÎN ARHIVĂ</button>
+</div>
+  </div>
+</main>
+
+<div id="arhiva" class="archive">
+<header class="archive-header">
+  <div class="archive-inner">
+    <div class="eyebrow">Curtea de Argeș · Arhiva Vie</div>
+    <h2>Tot ce putem<br>afla despre oraș.</h2>
+    <div class="byline">CREAT ȘI CURATORIAT DE CICAN GEORGE ALIN · PROIECT ISTORIC PE TERMEN LUNG</div>
+  </div>
+</header>
+<nav><div class="nav"><a href="#misiune">Misiune</a><a href="#cronologie">Cronologie</a><a href="#patrimoniu">Patrimoniu</a><a href="#metoda">Metodă</a></div></nav>
+<section id="misiune"><div class="archive-inner"><div class="eyebrow">01 · Misiune</div><h3>Un oraș. O istorie. O memorie.</h3><p class="lead">Acesta este începutul unei arhive istorice, arheologice, monumentale și culturale dedicate Curții de Argeș. Nu este o simplă listă turistică. Este o infrastructură de cercetare care va crește prin verificare, documentare și actualizare continuă.</p><div class="grid"><article class="card"><h4>Timp</h4><p>Cronologie de la cele mai vechi dovezi accesibile până la Curtea de Argeș contemporană.</p></article><article class="card"><h4>Loc</h4><p>Fiecare sit, monument și loc semnificativ va putea fi legat de poziția sa geografică.</p></article><article class="card"><h4>Oameni</h4><p>Domnitori, clerici, artiști, meșteri, cercetători și oamenii orașului, acolo unde sursele permit.</p></article><article class="card"><h4>Dovezi</h4><p>Afirmațiile importante vor păstra sursa, tipul sursei și diferențele dintre interpretări.</p></article></div></div></section>
+<section id="cronologie"><div class="archive-inner"><div class="eyebrow">02 · Prima stratificare istorică</div><h3>Firul istoriei</h3><div class="notice">Aceasta este o <strong>cronologie de lucru</strong>, nu versiunea finală. Fiecare intrare va fi verificată și comparată cu surse independente pe măsură ce cercetarea avansează.</div><div class="timeline"><div class="event"><div class="year">SEC. XIII</div><div><strong>Curtea de Argeș este indicată ca reședință de scaun a voievodatului lui Seneslau.</strong><span class="source">Studiul istoric al Municipiului Curtea de Argeș · sursă instituțională</span></div></div><div class="event"><div class="year">1330</div><div><strong>Campania lui Carol Robert de Anjou împotriva lui Basarab I este legată de cetatea Argeșului în sursele istorice locale.</strong><span class="source">Studiul istoric al Municipiului Curtea de Argeș · verificare comparativă în curs</span></div></div><div class="event"><div class="year">1351–1370</div><div><strong>Biserica Sf. Nicolae Domnesc este documentată în nucleul medieval al Curții Domnești.</strong><span class="source">RAN · LMI · cercetare în curs</span></div></div><div class="event"><div class="year">1512–1517</div><div><strong>Biserica Mănăstirii Argeșului este datată în această perioadă în registrul arheologic oficial.</strong><span class="source">RAN</span></div></div></div></div></section>
+<section id="patrimoniu"><div class="archive-inner"><div class="eyebrow">03 · Patrimoniu</div><h3>Fiecare loc contează.</h3><p class="lead">Inventarierea patrimoniului este construită din registre oficiale și cercetare documentară, cu monumentele, siturile și locurile istorice tratate ca înregistrări individuale și conectate.</p><div class="grid"><article class="card"><h4>Situl urban istoric</h4><p>RAN 13631.11 · LMI AG-II-s-A-13645</p><span class="status">OFFICIAL SOURCE · RAN</span></article><article class="card"><h4>Ansamblul Mănăstirii Argeșului</h4><p>RAN 13631.10 · componente medievale și moderne documentate separat.</p><span class="status">OFFICIAL SOURCE · RAN</span></article><article class="card"><h4>Curtea Domnească</h4><p>RAN 13631.07 · ansamblu arheologic și arhitectural.</p><span class="status">OFFICIAL SOURCE · RAN</span></article><article class="card"><h4>Sân Nicoară</h4><p>RAN 13631.05 · ruine și context arheologic.</p><span class="status">OFFICIAL SOURCE · RAN</span></article></div></div></section>
+<section id="metoda"><div class="archive-inner"><div class="eyebrow">04 · Standard de cercetare</div><h3>Nu inventăm istoria.</h3><p class="lead">Când sursele diferă, diferența rămâne vizibilă. Când un fapt nu poate fi stabilit, îl marcăm ca necunoscut sau disputat. Documentul, interpretarea academică, tradiția locală și memoria orală nu sunt amestecate.</p><div class="grid"><article class="card"><h4>Surse primare</h4><p>Documente, inscripții, hărți, registre, artefacte și mărturii contemporane evenimentelor.</p></article><article class="card"><h4>Instituții</h4><p>Patrimoniu, muzee, arhive, biblioteci, administrație și baze de date oficiale.</p></article><article class="card"><h4>Cercetare</h4><p>Studii arheologice, istorice și academice, cu bibliografie și proveniență verificabile.</p></article><article class="card"><h4>Memorie</h4><p>Fotografii și povești locale, păstrate ca surse de memorie și identitate, distinct de afirmațiile istorice verificate.</p></article></div></div></section>
+<footer><div class="archive-inner">© Curtea de Argeș — Arhiva Vie · Creat și curatoriat de <strong>Cican George Alin</strong> · Proiect în dezvoltare continuă.</div></footer>
+</div>
+<script>
+(()=>{const button=document.getElementById('archiveEnter'),landing=document.getElementById('landing'),archive=document.getElementById('arhiva');if(!button)return;
+button.addEventListener('click',()=>{button.disabled=true;archive.style.display='block';landing.style.display='none';window.scrollTo(0,0)},{passive:true});
+})();
+</script></body>
+</html>
