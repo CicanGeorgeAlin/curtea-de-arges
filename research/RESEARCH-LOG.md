@@ -764,3 +764,48 @@ The controlled chain therefore remains:
 **1979 report → p.153 → actual scan/OCR → L4 structure/context → cross-check with 1983 seal study.**
 
 **Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+
+## Archaeology / Heritage autopilot — Pass 59 · 22 September 2026 · p.153 RECOVERED
+
+Pass 59 achieved the principal target left open by Pass 57–58: the actual primary text of **p.153** of the 1979 Curtea de Argeș excavation report was recovered from the official *Cercetări Arheologice* PDF. citeturn2view0turn3view0
+
+The recovered page provides controlled architectural and contextual evidence for **L4**:
+
+- L4 cut the remains of L2 and L3.
+- The excavators dated L4 to the last decades of the 14th century using stratigraphic relationships and ceramic material from its fill.
+- Only the cellar survived.
+- Carbonized timber remains were found in the cellar fill; the authors interpret this as evidence of destruction/abandonment by a strong fire.
+- The cellar was square, 5.10 m per side and 1.60 m deep.
+- Oak sill beams measured approximately 25 × 20 cm; corner posts were present.
+- The cellar walls used vertically arranged split fir trunks.
+- Wattle-and-daub/clay-and-straw evidence survived.
+- The cellar was entered through a north-corner gârlici with a 35 cm threshold.
+- Fir-plank flooring and possible intermediate supports were documented.
+- The estimated cellar floor area was about 25 m². citeturn3view0
+
+### Evidence-control upgrade
+
+This is the first time the archive can promote detailed **L4 architecture from primary archaeological text**, rather than from a later secondary reference.
+
+The previously withdrawn Săbăoani L4 catalogue passage remains excluded. It is not being used for the Curtea de Argeș reconstruction.
+
+The evidence chain is now:
+
+**CAMPAIGN (1979) → TEST AREA / STR. CASTANILOR NR. 2 → L2/L3/L4 → L4 CELLAR → CARBONIZED TIMBER / CERAMICS → LATE-14TH-CENTURY DATING → FIRE INTERPRETATION**
+
+The Tournai seal remains a separate find-level chain:
+
+**1979 → L4 / urban dwelling context → double lead seal → Tournai cloth-trade identification → post-1426 heraldic dating in 1983 study → authorial economic interpretation**
+
+No forced single chronology is introduced.
+
+### Spatial control
+
+The report explicitly associates L2, L3 and L4 with **Str. Castanilor nr. 2** and provides Fig. 5 (plan) and Fig. 6 (profile). The archive can therefore raise the location from unresolved urban context to **controlled site/address-level context**, while exact GIS coordinates remain unassigned until the historical plan is georeferenced. citeturn3view0
+
+### Next research target
+
+The next logical micro-pass is the **continuation of the L4 ceramic assemblage immediately after p.153**, followed by a structured reconstruction of Fig. 5 and Fig. 6. After that, the research should return to the other 1979 dwellings rather than over-concentrating on L4.
+
+**Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
