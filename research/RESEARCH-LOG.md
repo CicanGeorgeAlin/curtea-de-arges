@@ -1206,3 +1206,26 @@ Updated:
 ### Stage
 **Archaeological Stage 1 — OPEN / NOT COMPLETE.**
 Next target: complete Pl. I–V item-level reconstruction and visually verify morphology wherever the text alone is insufficient.
+
+
+## Pass 76 — 22 September 2026
+
+**Target:** complete textual audit of Pl. I–V in the 1982 Curtea de Argeș ceramic report.
+
+### Verified
+- Pl. I: ornamental ceramic 1–2; sfeșnic/capac candidates 3–4; function unresolved.
+- Pl. II: glazed taler.
+- Pl. III: glazed ceramic 1,3,4; kiln support/crăiță 2.
+- Pl. IV: pahar 1; whirl motif 2; concentric-decoration items 3 and 5; glass 4; perforated ring-foot references include 1,2,3,5.
+- Pl. V: glazed ceramic; leopard/zoomorphic image on 1; curved-line/incised decoration and perforation reference on 4.
+
+### Critical separation
+Pl. IV/4 is **glass**, not ceramic. Material class is now a mandatory independent field.
+
+### GitHub
+Backup: `backup/pass76-pre-research-2026-09-22`
+Updated: archaeology, research log, sources.
+`index.html` untouched.
+
+### Next target
+Visual control of the actual numbered plates, beginning with Pl. I–III.
