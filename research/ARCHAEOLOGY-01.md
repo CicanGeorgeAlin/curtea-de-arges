@@ -1900,3 +1900,40 @@ No object will inherit the 2017 chronology merely because the two plate referenc
 **OPEN — NOT COMPLETE.**
 
 The next target is to recover the actual 1982 plate image and caption from a reliable scan. If the plate can be visually controlled, we can compare it directly with the 2017 illustration; if not, the archive will preserve the comparison as unproven and move on to the non-stove ceramic sequence.
+
+
+## Re-analysis and gap check — Pass 67 — 22 September 2026
+
+### 1982 Plate IV/6 recovered and identified
+
+The complete 1982 *Cercetări Arheologice* article is now available from the journal's own archive. The plate legend identifies Pl. IV as Curtea de Argeș glazed ceramics of the 14th century, with items 1, 2, 3 and 5 identified as glazed ceramic and item 4 as a glass vessel. The plate itself also contains a numbered **item 6**: a glazed ceramic vessel with a spiral motif. citeturn5view0turn9view0
+
+This resolves an important ambiguity from Pass 66: **Pl. IV/6 is not a stove tile. It is a glazed ceramic vessel.** The 1982 publication's surrounding discussion identifies spiral decoration among the Curtea de Argeș glazed ceramics, while the plate provides the direct visual control for item 6. citeturn5view0turn9view0
+
+### Later Câmpulung comparison now controlled
+
+The 2018 Câmpulung report explicitly describes glazed plates with ring bases and hanging holes, with a frequently used spiral decoration, dated there to the 16th century. It then cites the Curtea de Argeș **Pl. IV/6** as a comparable published example. The report is about Câmpulung, so this chronology belongs to the Câmpulung material and must not be transferred to the Curtea de Argeș plate. citeturn10view0
+
+The same report also cites Rădulescu 2017, **Pl. CXL/1**, immediately after the Curtea de Argeș reference. The pairing therefore establishes a later specialist/comparative chain, but the full 2017 plate image has not been recovered in this pass. The 2017 sample PDF available online is only a partial preview and does not expose the plate section. citeturn10view0turn13view0
+
+### Object-control decision
+
+The controlled chain is now:
+
+**CURTEA DE ARGEȘ 1982 → PL. IV/6 → GLAZED CERAMIC VESSEL → SPIRAL DECOR → 14th-CENTURY PLATE CONTEXT**
+
+and separately:
+
+**CÂMPULUNG 2018 → SPIRAL-DECORATED GLAZED PLATES → COMPARISON TO CURTEA PL. IV/6**
+
+The physical identity of **Curtea Pl. IV/6 ↔ Rădulescu 2017 Pl. CXL/1 remains UNPROVEN** because the 2017 plate itself has not yet been visually controlled.
+
+### Important separation
+
+The 1982 Pl. IV/6 vessel must remain in the **non-stove glazed ceramic sequence**. It must not be merged with the 1979–1980 stove-tile sequence merely because later literature discusses stove ceramics nearby.
+
+### Stage status
+
+**OPEN — NOT COMPLETE.**
+
+The next logical move is to recover the actual Pl. CXL/1 image from the complete 2017 volume or another reliable full scan. If recovered, compare form, decoration, provenance and catalogue context against Curtea Pl. IV/6. If the physical identity still cannot be demonstrated, retain both as separate objects/examples linked only by comparison.
