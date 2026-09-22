@@ -1655,3 +1655,16 @@ Control level: STRONG GROUP-IDENTITY BRIDGE between the 2000 and 2007 discussion
 ## S176 — Pass 99 — glaze discrepancy remains open
 
 2007 explicitly says the two fragments are green/light-green glazed. Earlier 2000 extraction in this project reported an unglazed description. Until the 2000 page/figure is visually controlled, preserve both statements rather than normalizing them. citeturn2search12
+
+
+## S177 — Pass 100 — Direct 2000 C44/C81 control
+
+Rădulescu 2000, p.168 directly states that two fragments from the 1920 Curtea de Argeș excavation are in the Muzeul Național de Artă collection. One is 18 × 13.5 cm with a 4.7 cm *rumpă*; reconstruction gives a rectangular tile of about 26 × 20.3 cm. The clay, wooden-mould/textile technique and soot are described, and the fragments are explicitly **nesmălțuite (unglazed)**. The inventory footnote gives **4119 (C44)** and **4130 (C81)**. citeturn6search21
+
+## S178 — Pass 100 — C81 inventory discrepancy
+
+2000: C44 = 4119; C81 = 4130. Later 2007 control previously recovered in this project: C44 = 4119; C81 = 10073. Status: **UNRESOLVED INVENTORY-HISTORY DISCREPANCY**. Do not normalize.
+
+## S179 — Pass 100 — glaze discrepancy
+
+2000: fragments explicitly described as unglazed. Later 2007 source previously controlled in this project: fragments described as green/light-green glazed. Status: **UNRESOLVED PUBLICATION-LEVEL MATERIAL DESCRIPTION DISCREPANCY**. Direct object/catalogue imagery is required before deciding whether the discrepancy reflects cataloguing, conservation, two different object states, or another issue.
