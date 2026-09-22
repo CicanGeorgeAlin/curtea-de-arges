@@ -1611,3 +1611,24 @@ index.html untouched.
 
 ### Next target
 Trace the exact 1935 Slătineanu passage and its page/figure context, then recover the original 1923 plates where possible. Compare visual/iconographic content rather than relying on figure-number assumptions.
+
+
+## Pass 95 — 22 September 2026
+
+**Major discovery:** Rădulescu 2000 identifies two glazed ceramic fragments in the Muzeul Național de Artă al României that came from the 1920 Curtea de Argeș excavation. Dimensions: 18 × 13.5 cm and 13 × 10 cm. The article links them to Drăghiceanu 1923 figs. 78–80. citeturn2search20turn3search15
+
+### Inventory reconciliation issue
+2000 gives **4119 (C44)** and **4130 (C81)**. A 2007 Rădulescu article gives **4119/C44** and **10073/C81** for the same two fragments. citeturn3search14
+
+Do not silently select 4130 or 10073. Record the discrepancy; C81 is the stable collection code pending institutional catalogue control.
+
+### Separation
+These are not I 5882. They are a distinct MNAR corpus with explicit 1920 excavation provenance and a specific Drăghiceanu figure bridge.
+
+### GitHub
+Backup: backup/pass95-pre-research-2026-09-22
+Updated archaeology, research log, sources.
+index.html untouched.
+
+### Next target
+Inspect the 2000 article's figures and the 2007 repetition, then locate an institutional MNAR catalogue or later publication that resolves C81's numerical inventory discrepancy and identifies the exact heraldic composition.
