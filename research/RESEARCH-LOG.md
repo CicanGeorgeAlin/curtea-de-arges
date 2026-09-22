@@ -213,3 +213,13 @@ A 2026 county territorial strategy provides an important methodological warning:
 New future-map field: location confidence = EXACT / PERIMETER / APPROXIMATE / HISTORICAL ONLY / UNRESOLVED.
 
 Stage 1 remains OPEN — NOT COMPLETE.
+
+## Archaeology autopilot — Pass 24 · 22 September 2026
+
+Pass 24 formalized a municipality-scoped RAN extraction as the next research task. The current RAN interface is criterion-based and paginated, so generic search pages cannot establish completeness. citeturn0search7turn0search8
+
+The municipal historical study provides an independent municipality-specific 2015 LMI table, creating a useful heritage baseline. citeturn0search33
+
+Curtea Domnească was reconciled at component level: LMI AG-II-a-A-13647 / church AG-II-m-A-13647.01 versus RAN 13631.07. The differing source descriptions are preserved as parallel claims rather than silently merged. citeturn0search0turn0search2
+
+Stage 1 remains OPEN — NOT COMPLETE.
