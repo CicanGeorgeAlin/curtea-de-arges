@@ -1791,3 +1791,22 @@ Maria-Venera Rădulescu's 2010 discussion of stove tiles from the princely palac
 Control point: this is another useful exclusion: an MNAR “C” inventory number in Curtea de Argeș-related stove-tile literature does not, by itself, identify the C44/C81 pair.
 
 URL: https://biblioteca-digitala.ro/reviste/Argesis/Argesis-19-Studii-si-comunicari-Muzeul-Judetean-Arges-2010_093.pdf
+
+
+## S195 — Rădulescu 2002 doctoral thesis: bibliographic control
+
+Author: Maria-Venera Rădulescu.  
+Title: *Cahlele din Țara Românească din sec. XIV–XVII*.  
+Year: 2002, doctoral thesis.  
+Control: Later Rădulescu publications explicitly cite this thesis for comparative tile evidence. A 2010 article cites it for a Curtea de Argeș/Cerbureni comparison, while a 2010 study on medieval tiles from the Danube area cites the thesis in its bibliography. citeturn0search28turn0search30
+
+Status: the thesis is confirmed bibliographically as a key research layer, but this pass did not recover an accessible full-text copy containing the C44/C81 inventory numbers. It therefore cannot yet be used to resolve 4130 vs 10073 or the glazed/unglazed contradiction.
+
+Control rule: bibliographic confirmation is not treated as object-level evidence until the relevant thesis pages are recovered.
+
+## S196 — PROEUROPEANA descriptor: Curtea Domnească din Argeș
+
+Institutional index: PROEUROPEANA.  
+The descriptor for Curtea Domnească din Argeș indexes the 1917–1923 BCMI volume containing Drăghiceanu's excavation documentation and the 2007 Rădulescu heraldic-tile article. citeturn0search1
+
+Use: bibliographic provenance/control layer only. It confirms the relationship between the publication corpus and the Curtea Domnească descriptor, but does not supply a museum accession record.
