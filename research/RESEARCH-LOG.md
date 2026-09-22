@@ -1293,3 +1293,23 @@ index.html untouched.
 
 ### Next target
 Return to the original 1982 plate and resolve **Pl. V/2 vs V/4**, then inspect Pl. VI–VII as a separate stove-material family.
+
+
+## Pass 80 — 22 September 2026
+
+**Target:** resolve Pl. IV/6 and Pl. V/2 vs V/4 using the original plate and primary text.
+
+### Resolved / refined
+- Pl. IV visibly contains **six numbered items**. Item 6 is real; its formal classification is still pending because the Romanian caption omits it.
+- Pl. IV/4 is a small pahar visually and in the Romanian caption, but the French legend calls item 4 glass; the body text references the pahar as IV/1. This is an internal publication conflict, not a solved identity.
+- The primary 1982 text explicitly gives **V/4** for the perforated ring-foot evidence. The later citation giving V/2 is now treated as a secondary-source discrepancy.
+- The earlier “mounted rider at V/1” conflict is withdrawn as too confident; the OCR is visibly corrupted and the reference cannot safely be normalized to V/1.
+- Pl. V/1 remains a controlled illustrated object with textual references to vârtej and leopard, but the exact visual iconographic interpretation is not forced.
+
+### GitHub
+Backup: backup/pass80-pre-research-2026-09-22
+Updated: archaeology, research log, sources.
+index.html untouched.
+
+### Next target
+Resolve Pl. IV/6 by tracing its mention in the body text and inspect Pl. VI–VII as the separate stove-material corpus.
