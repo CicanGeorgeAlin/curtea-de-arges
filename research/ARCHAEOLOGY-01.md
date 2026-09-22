@@ -2664,3 +2664,30 @@ The archive therefore distinguishes **campaign provenance** from **individual-fr
 ### 2000 study becomes a priority source
 
 The 2000 SCIVA article is now promoted to a priority research target because it is explicitly cited by the 2024 tournament study and should help reconstruct the earlier history of the Curtea de Argeș tournament-tile comparison. No object identity is inferred until the 2000 text is inspected.
+
+
+## Pass 87 — Tournament-tile bibliography control and correction
+
+### Critical correction to Pass 86
+Pass 86 incorrectly promoted **Rădulescu 2000b** as the direct earlier source for the Curtea de Argeș tournament cahlă. The controlled 2024 article does cite Rădulescu 2000b, but its footnote 23 for the **Curtea de Argeș object itself** points only to the Institute of Archaeology “Vasile Pârvan” collection record: no inventory number and no known discovery year. Rădulescu 2000b is a general study of medieval tournament tiles and does **not** mention Curtea de Argeș in its text; its Curtea-related references are comparative/background, not provenance documentation for the 2024 object. citeturn5view0turn3view0
+
+### Controlled Curtea de Argeș tournament-tile record
+- OBJECT: fragmentary glazed panel stove tile, 13.2 × 17 × 1.2 cm.
+- DECOR: armored mounted knight moving right, holding a slightly raised tournament lance.
+- MATERIAL/TECHNIQUE: clay with semifine sand and mica; oxidizing-complete firing; mould-impressed decoration; green glaze, partly exfoliated.
+- MISSING: upper portion and stove mounting system.
+- COLLECTION: Institutul de Arheologie „Vasile Pârvan”, Bucharest.
+- INVENTORY NUMBER: none stated.
+- DISCOVERY YEAR: unknown.
+- EXACT FINDSPOT/STRATIGRAPHY: unknown.
+- CHRONOLOGY: Rădulescu proposes early 16th century, possibly late 15th; the article explicitly says exact dating is difficult because archaeological context is unknown. citeturn5view0
+
+### Source-chain result
+**2024 Curtea object → Institute of Archaeology collection record (footnote 23) → unknown discovery context.**
+
+**Rădulescu 2000b → general iconographic/typological comparative corpus, not direct provenance evidence for the Curtea object.**
+
+### 1920–1922 stove-tile chain
+The 2016 Rădulescu study directly cites Drăghiceanu 1923 and states that the 1920–1922 excavations produced stove-tile fragments. The journal records stove tiles in the NW corner of the cellar of the princely house on the south side of the enclosure; a plate shows 16 fragments. Rădulescu cautions that it is unknown whether all photographed fragments came from the same place or were dispersed across the Princely Court. citeturn9search30
+
+This means the 2024 tournament cahlă and the 1920–1922 stove-tile group must remain **separate object records** unless an original collection/provenance document connects them.
