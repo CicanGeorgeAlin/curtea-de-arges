@@ -2985,3 +2985,21 @@ The 2007 record gives C81 as 10073, while 2000 gives C81 as 4130. C44 remains 41
 
 ### Important methodological correction
 The 2007 text gives us a new object-group distinction that must be preserved in all future synthesis. The phrase “two unglazed fragments” in the 2007 article refers to the 1968 Constantinescu finds, not the MNAR pair. The 2000 “unglazed” statement, by contrast, is attached by its footnote to the MNAR pair. Do not collapse these statements.
+
+
+## Pass 102 — Direct control of Drăghiceanu figures 78–79 and fig.80 reference
+
+The digitized 1923 BCMI volume is now searchable at the original figure-caption level. On the Curtea Domnească plates, the caption explicitly reads: **“Fig. 78 şi 79. Teracote găsite în Casa Domnească.”** The same page places these figures in the sequence after fig.77 and identifies them as terracottas found in the Princely House. citeturn3search24turn3search25
+
+A later 1967 specialist article independently cites Drăghiceanu **figs. 78–79, p.69, and fig.80, p.71**, confirming the page/figure linkage for the three figures. citeturn3search26
+
+### What is now established
+- figs. 78–79 are original Drăghiceanu images of terracottas found in the Princely House;
+- fig.80 is separately referenced by later scholarship at p.71;
+- this is stronger than relying only on Rădulescu's later bibliography.
+
+### What is NOT yet established
+The searchable text does not yet provide a reliable object-by-object caption for each fragment in figs.78–80. Therefore we do not assign C44 or C81 to a particular subfigure, nor do we infer glaze from the figure without visual inspection.
+
+### Independent contextual control
+A 1967 ceramic study quotes Drăghiceanu's broader observation that some Curtea terracottas were unglazed and others glazed, and specifically cites the Curtea Domnească material. This supports the existence of mixed surface treatments in the broader Curtea corpus, but does **not** resolve the C44/C81 contradiction. citeturn3search0
