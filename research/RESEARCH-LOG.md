@@ -378,3 +378,27 @@ Still needed:
 - continue searching for original campaign documentation.
 
 **Decision: Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+
+## Archaeology / Heritage autopilot — Pass 33 · 22 September 2026
+
+Pass 33 strengthened the EMV (extra muros-vest) microzone record.
+
+A published 2003 account of the 1983–1984 rescue excavations places the work immediately west of the former Princely Court, along the former Râului/L. Catargiu street, and documents the archaeological-risk context created by a construction project. The authors report a 13th–14th-century habitation level, construction-related traces interpreted in relation to Basarab I's enclosure around c. 1340, and a pottery kiln (COL 1) attributed by them to the time of Mircea cel Bătrân. citeturn0search16turn0search17
+
+### Methodological result
+
+The archive now treats **EMV as its own archaeological microzone**, rather than as an undifferentiated extension of Curtea Domnească.
+
+A second source lead was confirmed: Adrian and Lia Bătrîna's 1982 *Cercetări Arheologice* article on Curtea de Argeș. Because only bibliographic confirmation was obtained in this pass, its detailed contents remain **UNEXTRACTED / SOURCE LEAD** until directly inspected. citeturn0search2turn0search3
+
+### Gap analysis
+
+Next targets:
+- extract the complete 1983–1984 EMV campaign sequence;
+- locate the original/complete 1982 Bătrîna & Bătrîna article;
+- map EMV sections and finds;
+- reconcile EMV with the historic urban perimeter without assuming equivalence;
+- identify additional medieval settlement/craft microzones.
+
+**Decision: Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
