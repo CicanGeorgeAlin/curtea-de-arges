@@ -649,3 +649,32 @@ We previously planned to “complete the RAN list” using search results. That 
 The next defensible step is a **municipality-scoped RAN extraction**, followed by a record-by-record LMI/RAN/intervention reconciliation.
 
 Stage remains OPEN — NOT COMPLETE.
+
+## Archaeology autopilot — Pass 25 · 22 September 2026
+
+### Major milestone: explicit Curtea de Argeș LMI baseline captured
+
+The 2015 LMI provides a continuous Curtea de Argeș block from record 444 through 505. The sequence starts with the railway station (AG-II-m-A-13627) and includes the Argeș Monastery ensemble, Seminarul Teologic ensemble, numerous historic houses and civic buildings, Olari (13639), the historic urban site (13645), hospital ensemble (13646), the multi-component Princely Court (13647), Drujești (13650), Sân Nicoară (13655), further protected houses/churches, and Brad-Bătușari (13663). citeturn0search6turn0search1
+
+This is the first concrete municipality-wide heritage baseline in the project rather than a collection of individually discovered monuments.
+
+Important distinction:
+**LMI baseline = protected heritage universe**
+**RAN baseline = archaeological-register universe**
+
+They must now be reconciled, not merged.
+
+### Next research structure
+
+For every LMI entry we will ask:
+
+1. Does a RAN identity exist?
+2. Is there an archaeological intervention?
+3. Is there a publication/report?
+4. Is there archaeological evidence?
+5. Is the place inside the historic urban site?
+6. What is its current physical/heritage status?
+7. What is the location confidence?
+8. What evidence is still missing?
+
+Stage remains OPEN — NOT COMPLETE.
