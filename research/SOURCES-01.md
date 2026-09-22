@@ -2143,3 +2143,12 @@ A 1994 specialist study explicitly cites Drăghiceanu's *Jurnalul săpăturilor*
 This does not provide direct visual inspection of fig.162, but it gives a high-confidence secondary provenance anchor for the figure and its association with the 1920 excavation campaign.
 
 Important separation: these are **stone architectural fragments**, not terracotta stove tiles and not MNAR C44/C81. The figure system remains separate from Fig.305 and from the later C44/C81 publications.
+
+
+## S233 — Independent control of the Fig.162 provenance citation
+
+A 1994 *Studii și Cercetări de Istoria Artei* article independently identifies the Curtea de Argeș Gothic stone-rib fragments as discoveries from the **1920 archaeological excavations** and gives the precise primary citation: Virgil Drăghiceanu, *Jurnalul săpăturilor din Curtea Domnească a Argeșului*, pp. 148–149, Fig. 162. citeturn0search28
+
+This independently reproduces the same page/figure/material/campaign linkage already controlled through the Greceanu index and later archaeological literature. The source also attributes a later comparison of the profiles to Pavel Chihaia; that later interpretation is kept separate from Drăghiceanu's discovery record.
+
+Control status: **Fig.162 = secondary-confirmed provenance; original image/text still not directly inspected.**
