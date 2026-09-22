@@ -1219,3 +1219,19 @@ The 1983 study's abstract explicitly places the seal in a 1979 urban-type dwelli
 This prevents a common chronological error: the seal's post-1426 heraldic dating is not automatically the date of the dwelling. Both are retained as separate chronological statements until the excavation context can be reconstructed.
 
 **Stage 1 remains OPEN.**
+
+
+## Pass 46 — 22 September 2026 — L4 context strengthened from primary text
+
+The full 1983 article directly names **L4** when discussing the burned dwelling uncovered in the 1979 excavations. The authors argue that the Argeș cloth merchant associated with the Tournai seal was probably the owner of this L4 dwelling. citeturn0search20
+
+This is a significant upgrade from the earlier abstract-level statement that the seal was found in an urban-type dwelling: the primary article itself connects the seal discussion to **L4** and describes L4's remains as burned.
+
+**Evidence-control distinction:**
+- Verified from primary article: L4 was an excavated dwelling whose remains were burned; the authors connect it to their discussion of the seal.
+- Authorial interpretation: the cloth merchant was probably the owner of L4.
+- Not established: the merchant's personal name, biography, or independently documented ownership.
+
+The archive therefore now treats **L4 as the controlled dwelling identifier**, while retaining the merchant-owner attribution as interpretation.
+
+**Stage 1 remains OPEN** for exact plan/section, dimensions and full archaeological stratigraphy.
