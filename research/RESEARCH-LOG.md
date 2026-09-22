@@ -2734,3 +2734,32 @@ S221 added; Pass 135 recorded; index.html untouched.
 
 ### Next target
 Continue primary-page recovery and, where possible, compare the page-138 wording against later citations without importing later interpretations into the primary layer.
+
+
+## Pass 136 — 22 September 2026
+
+### Target
+Strengthen the p.138 retrieval target by identifying the specific dated content that later scholarship attributes to that page.
+
+### Result
+A 2014 Academy of the Romanian Republic study cites Drăghiceanu's *Jurnalul săpăturilor* at **p.138** specifically for information concerning **31 July 1923**. citeturn0search24
+
+A 2019 *Argesis* article independently cites the same journal and page in its discussion of Curtea Domnească chronology. citeturn0search23
+
+A 2013 study adds an important methodological warning: the printed *Jurnalul* was edited before publication, so the printed account should not automatically be treated as a verbatim record of Drăghiceanu's contemporaneous thoughts. citeturn0search4
+
+### Significance
+The page-138 target is now stronger:
+**Jurnalul p.138 → dated content (31 July 1923) → later scholarly citation → primary page still awaiting direct inspection.**
+
+This also reinforces the archive's distinction between **published primary documentation** and **unpublished contemporaneous thought**.
+
+### C44/C81 status
+Unchanged: 4119/C44 stable; C81 4130 vs 10073 unresolved; 2000 unglazed vs 2007 green/light-green glazed unresolved.
+
+### GitHub
+Backup: backup/pass136-pre-research-2026-09-22
+S222 added; Pass 136 recorded; index.html untouched.
+
+### Next target
+Attempt direct recovery of p.138 using the dated 31 July 1923 anchor, then map any recovered wording to the exact printed page and distinguish it from later interpretation.
