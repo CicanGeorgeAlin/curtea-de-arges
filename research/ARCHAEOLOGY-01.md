@@ -1235,3 +1235,20 @@ This is a significant upgrade from the earlier abstract-level statement that the
 The archive therefore now treats **L4 as the controlled dwelling identifier**, while retaining the merchant-owner attribution as interpretation.
 
 **Stage 1 remains OPEN** for exact plan/section, dimensions and full archaeological stratigraphy.
+
+
+## Pass 47 — 22 September 2026 — independent L4 architectural/chronological cross-check
+
+A later specialist publication independently identifies a Curtea de Argeș **L4** as a semi-sunken dwelling with an entrance in gârlici form and dates it, on the basis of ordinary pottery, to the **first half of the 15th century**. Its bibliography explicitly points back to the 1979 Curtea de Argeș report p.166, fig.14/3 and the 1982 continuation p.103, pl.VII. citeturn0search32
+
+This is useful but remains a later synthesis. It is not treated as a substitute for direct inspection of the 1979 plan/figure.
+
+**Chronology control:**
+- 1983 seal study: L4 in a late-14th/early-15th-century context.
+- Later specialist synthesis: L4 first half of 15th century, based on pottery.
+
+These are compatible overlapping ranges, but no exact year is assigned.
+
+**Architectural lead:** semi-sunken dwelling + gârlici entrance. Exact dimensions, construction details and plan orientation remain OPEN.
+
+**Stage 1 remains OPEN.**
