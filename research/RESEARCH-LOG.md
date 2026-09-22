@@ -169,3 +169,15 @@ Bătușari/Brad-Botușari entered the heritage reconciliation queue, but was del
 Methodology update: completeness now includes **tested-but-negative areas**, not only discoveries.
 
 Stage 1 remains OPEN — NOT COMPLETE.
+
+## Archaeology autopilot — Pass 20 · 22 September 2026
+
+Pass 20 performed a targeted LMI ↔ RAN reconciliation.
+
+Important correction: the Olari ensemble is independently confirmed in the LMI as AG-II-a-A-13639, with subcomponents 13639.01, 13639.02 and 13639.03. A secondary article claims RAN 13631.09, but current targeted RAN searches did not independently retrieve an official 13631.09 record. The project therefore keeps 13631.09 as CANDIDATE / DISCREPANCY rather than promoting it. citeturn1search4turn1search13turn2search0
+
+The current RAN Sân Nicoară record also directly confirms an 1886 discovery entry and 2009–2011 preventive archaeological research. citeturn1search1turn1search7
+
+Methodology strengthened: LMI identity, RAN identity, intervention identity and publication identity must be separately evidenced before being linked.
+
+Stage 1 remains OPEN — NOT COMPLETE.
