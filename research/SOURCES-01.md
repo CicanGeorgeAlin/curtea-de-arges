@@ -1950,3 +1950,14 @@ URL: https://biblioteca-digitala.ro/reviste/Buletinul-Comisiunii-Monumentelor-Is
 Nicolae Constantinescu's later synthesis states that Virgil Drăghiceanu's investigations under the former Commission of Historic Monuments took place **20 July–10 September 1920**, covering the interior of St Nicholas Princely Church as well as the wider former princely-court complex and the Sân-Nicoară ruin. The same source stresses that the 1920 investigation did not aim systematically at chronology and that later interpretations require critical control. citeturn0search0
 
 This is useful as a historiographic control for the archive: it supports treating Drăghiceanu's 1920 material as a historically important but methodologically uneven primary documentation layer. It does not identify C44/C81, does not establish museum custody, and does not resolve the 2000/2007 glaze contradiction.
+
+
+## S213 — CMI dossier 1394: sheet-level excavation-cost evidence, September 1922–January 1923
+
+A 2020 open-access study by Florentina Udrea-Manea and Gheorghe Carutiu, based on the Historical Monuments Commission archive, reproduces and describes documents from dossier 1394. It identifies **sheet 25** as a map of the Royal Court at Argeș, **sheet 46** as a Drăghiceanu report with supporting documents for 20,000 lei of reinforcement costs at the royal residential buildings, and **sheet 66** as Drăghiceanu's request for reimbursement of **5,280 lei** for costs associated with excavation works carried out at Curtea de Argeș from **September 1922 to January 1923**. citeturn2view0
+
+This is a major archival control because it proves that dossier 1394 contains sheet-level documentation directly connected to archaeological excavation activity at Curtea de Argeș in 1922–1923, not merely later restoration administration. The project catalogue independently confirms dossier 1394, 184 leaves, and its Curtea Domnească contents. citeturn4view0
+
+Important limitation: the reproduced description does **not** identify the excavated objects, C44/C81, or MNAR inventory numbers. The actual 119 MB dossier PDF is linked by the archive catalogue but the web reader could not fetch it because of file size. Therefore no object-level custody claim is made.
+
+Research implication: prioritize sheets around 66 and adjacent correspondence for wording concerning excavation, finds, expenses, transport, deposition, custody, inventory, or museum transfer. Also distinguish the 1920 church excavation from the documented **September 1922–January 1923** excavation activity in dossier 1394; they must not be conflated without evidence.
