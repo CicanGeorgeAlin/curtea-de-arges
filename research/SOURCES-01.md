@@ -2134,3 +2134,12 @@ This creates a controlled figure/page map without claiming direct visual inspect
 - pp.148–149 → late excavation section and figures 150–155, 159–160, 162, 165.
 
 The official catalogue's 134–152 extent remains catalogue metadata, while specialist bibliographies continue to use 134–149. citeturn0search1turn0search24
+
+
+## S232 — Direct secondary citation confirms p.148–149, fig.162, and identifies the 1920 excavation context
+
+A 1994 specialist study explicitly cites Drăghiceanu's *Jurnalul săpăturilor* as **p.148–149, fig.162**, in connection with important Gothic stone-rib fragments discovered during the **1920 archaeological excavations** at the Casa Domnească. citeturn0search24 The citation is unusually precise because it identifies the primary work, page range, figure number, object type, and excavation campaign together.
+
+This does not provide direct visual inspection of fig.162, but it gives a high-confidence secondary provenance anchor for the figure and its association with the 1920 excavation campaign.
+
+Important separation: these are **stone architectural fragments**, not terracotta stove tiles and not MNAR C44/C81. The figure system remains separate from Fig.305 and from the later C44/C81 publications.
