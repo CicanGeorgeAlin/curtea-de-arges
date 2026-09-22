@@ -1897,3 +1897,8 @@ URL: https://biblioteca-digitala.ro/reviste/Buletinul-Comisiunii-Monumentelor-Is
 Nicolae Florescu, *Arta populară din Argeș și Muscel* (1967), reproduces Drăghiceanu's observation that Curtea Domnească terracottas included pieces **without glaze**, which he considered older, and other pieces **with glaze**, which he considered later. Florescu cites Drăghiceanu, *Curtea Domnească din Argeș*, pp. 70–71. citeturn0search0
 
 Control point: this is corpus-level chronological interpretation, not an object-level identification of MNAR C44/C81. It cannot reconcile the 2000 “unglazed” and 2007 “green/light-green glazed” descriptions of the MNAR pair, but it establishes that both surface categories existed within the broader Curtea de Argeș terracotta corpus and that Drăghiceanu associated glaze with a later phase in general.
+
+
+## S206 — Pass 120 exact-identifier search boundary
+
+Search-control record: exact combinations of **4119/C44**, **4130/C81**, **10073/C81**, and the figure references did not return a new relevant institutional or scholarly object-level record in the current indexed web results. The returned matches were unrelated technical/catalogue documents and were rejected. This pass therefore adds no new object claim and reinforces the archive's rule that numerical coincidence is not evidence of identity.
