@@ -2037,3 +2037,12 @@ This establishes a more precise content anchor for p.138: the 1.64 m estimate is
 Important source-control correction: the previous pass's wording about a “perforation in the southern wall” should not be treated as newly verified from p.138 itself; it came from later scholarship. This pass preserves the attribution boundary.
 
 No connection to C44/C81 is inferred.
+
+
+## S222 — p.138 citation now tied to 31 July 1923 and source-location control
+
+A 2014 Academy of the Romanian Republic study cites Drăghiceanu's *Jurnalul* at **p.138** specifically for information concerning **31 July 1923**. citeturn0search24 This gives a stronger retrieval anchor than the earlier generic page-138 references: it ties the page to a specific dated observation in later scholarship.
+
+A 2019 Argesis article independently cites the same *Jurnalul*, p.138, in its discussion of Curtea Domnească chronology. citeturn0search23 A separate 2013 study cautions that the printed *Jurnalul* was edited before publication, so later scholarship must distinguish the printed text from what Drăghiceanu may have thought contemporaneously. citeturn0search4
+
+Control status: p.138 is now a high-priority primary retrieval target with a dated-content anchor, but the original page remains uninspected.
