@@ -1162,3 +1162,14 @@ A later archaeological source cites p.166, fig.14/3 of the 1981 article and p.10
 The original PDFs could not be opened reliably in the current web text layer, so the archive deliberately does not infer the contents of those figures. Exact spatial reconstruction remains OPEN.
 
 **Decision: Stage 1 remains OPEN.**
+
+
+## Pass 41 — 22 September 2026 — self-correction of figure trail
+
+A fresh cross-check of later specialist scholarship shows that the 1979 report's pp.166–167, fig.14 are cited for **stove/tile-heater evidence in townspeople's dwellings** at Curtea de Argeș. citeturn5search17turn5search0
+
+**Self-correction:** Pass 40 had treated fig.14/3 as a likely direct spatial-reconstruction lead for dwelling 4 and the Tournai seal. That was not sufficiently controlled. The figure reference is now downgraded to an independent urban-dwelling/heating lead. It must not be attached to dwelling 4 or the seal until the underlying page/figure is inspected.
+
+The 1983 seal article remains the controlled source for the statement that the seal was found in a 1979 urban-type dwelling dated by the authors to the end of the 14th / beginning of the 15th century. citeturn0search0
+
+**Decision: Stage 1 remains OPEN.**
