@@ -2269,3 +2269,31 @@ S205 added; Pass 119 recorded; index.html untouched.
 
 ### Next target
 Use the exact 1923 figure map to trace which individual figures were later cited by Rădulescu in the 2000/2007 C44/C81 descriptions, while continuing the museum-inventory route for 4130/10073.
+
+
+## Pass 120 — 22 September 2026
+
+### Target
+Run another exact-identifier pass combining the MNAR numbers, C-codes, Curtea de Argeș context and Drăghiceanu figure references.
+
+### Result
+The indexed web results did not produce a new relevant institutional or scholarly record for **4119/C44**, **4130/C81**, or **10073/C81**. Results containing the same numbers were unrelated technical/catalogue material and were rejected rather than added to the archive. citeturn1search0turn1search19
+
+### Evidence consequence
+No new object-level evidence was found. This is a controlled negative search result, not evidence that the museum records do not exist.
+
+The strongest unresolved route therefore remains the museum/archival documentation rather than further broad exact-number web searches.
+
+### C44/C81 status
+Unchanged:
+- C44 / 4119 stable;
+- C81 / 4130 vs 10073 unresolved;
+- 2000 unglazed vs 2007 green/light-green glazed unresolved;
+- 1920 excavation provenance supported by the two Rădulescu publications.
+
+### GitHub
+Backup: backup/pass120-pre-research-2026-09-22
+S206 added; Pass 120 recorded; index.html untouched.
+
+### Next target
+Stop broad exact-number searching temporarily and concentrate on the documentary custody chain: CMI dossier 1394, MNAR-related correspondence, accession/catalogue records, and the complete 2002/2017 Rădulescu works.
