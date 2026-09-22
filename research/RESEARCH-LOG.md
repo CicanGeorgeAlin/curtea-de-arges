@@ -2069,3 +2069,26 @@ S197 added; Pass 112 recorded; index.html untouched.
 
 ### Next target
 Target the complete 2016/2017 book through institutional-library records, alternate scans and cited plate/catalogue references, especially the Curtea Domnească entries and any MNAR inventory listings.
+
+
+## Pass 113 — 22 September 2026
+
+### Target
+Use later archaeological reporting to test whether the 2017 Rădulescu synthesis exposes plate-level object controls that could be confused with the 1920 C44/C81 pair.
+
+### Result
+A *Cronica Cercetărilor Arheologice* campaign report independently cites Rădulescu's 2017 synthesis at **Plate CXL/1** for a stove-tile analogy. The same report separately cites Bătrîna & Bătrîna's Curtea de Argeș ceramic publication. citeturn0search27turn0search0
+
+This confirms that the 2017 book is functioning in archaeological literature at plate level, but the citation is not evidence that Plate CXL/1 is C44/C81. The cited archaeological context is Câmpulung and must remain separate.
+
+A 2024 Rădulescu article independently identifies a **panel stove tile from Curtea de Argeș, 16th century** in Plate II(a), with a drawing by Simona Movilă. citeturn0search29 This is another later Curtea de Argeș tile object that must not be merged with the 1920 MNAR pair without explicit inventory/provenance evidence.
+
+### C44/C81 status
+No resolution of 4130 vs 10073 or unglazed vs green/light-green glazed.
+
+### GitHub
+Backup: backup/pass113-pre-research-2026-09-22
+S198 and S199 added; Pass 113 recorded; index.html untouched.
+
+### Next target
+Use the 2017 book's plate/index structure as a map for identifying the Curtea de Argeș entries, while maintaining strict object separation. Search the plate captions, catalogue numbers and bibliography for explicit MNAR identifiers.
