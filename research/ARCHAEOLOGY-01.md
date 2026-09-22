@@ -1814,3 +1814,60 @@ This prevents later museum/catalogue objects from being inserted into an excavat
 **OPEN — NOT COMPLETE.**
 
 Pass 64 strengthens the later specialist chain but also demonstrates why ceramic chronology must remain object-specific. The next target is to trace the **1979–1980 ceramic figures and plates into every later specialist citation that can be tied to a specific Curtea de Argeș object**, while simultaneously continuing the broader settlement/campaign matrix so the archive does not become dominated by stove tiles alone.
+
+
+## Re-analysis and gap check — Pass 65 — 22 September 2026
+
+### 1979–1980 stove evidence traced into the later corpus
+
+Pass 65 followed the specific Curtea de Argeș stove-tile references forward into later specialist literature and found an important distinction between **contextual excavation evidence** and **later comparative/typological use**.
+
+The 2013 Rădulescu study explicitly cites both Bătrîna & Bătrîna's 1979 and 1982 Curtea de Argeș reports as foundational bibliography for the study of Wallachian stove canopies. Its typological framework distinguishes disc, convex, fretwork, fixing-frame and plate tiles according to constructive and functional characteristics. citeturn0search0turn0search17
+
+The 2024 study provides a more precise trace for one later Curtea de Argeș object: a fragmentary **cahlă-placă** with a tournament scene. The article records the piece as green-glazed, mould-impressed, 13.2 × 17 × 1.2 cm, with its upper part and fixing system missing. It explicitly states that the discovery year, exact place and stratigraphic context are unknown. citeturn1view2
+
+The same article gives a **first-half-16th-century** date based only on costume, armour, weapon and military-equipment details. Its conclusion repeats that the Curtea de Argeș piece lacks year, exact location and stratigraphy. citeturn1view2
+
+### A new object-provenance warning
+
+The 2024 article's footnote 23 identifies the Curtea de Argeș tournament tile as held by the **Institutul de Arheologie „V. Pârvan”**, with no inventory number and no known discovery year. citeturn1view2
+
+This is useful provenance information, but it still does **not** establish that the object came from the Bătrîna 1979–1980 campaigns.
+
+The archive therefore adds a provenance ladder:
+
+**LOCALITY KNOWN → INSTITUTIONAL CUSTODY KNOWN → DISCOVERY YEAR UNKNOWN → EXACT DISCOVERY PLACE UNKNOWN → STRATIGRAPHY UNKNOWN → EXCAVATION CAMPAIGN UNASSIGNED**
+
+This is stronger than simply labeling the object “from Curtea de Argeș.”
+
+### Later typology versus primary excavation
+
+The 2013 study's typological categories and the 2024 tournament-tile analysis demonstrate that later scholarship can refine how stove tiles are described without necessarily changing the archaeological interpretation of a specific excavated context. citeturn0search0turn1view2
+
+For the 1979–1980 material, the archive therefore retains the primary excavation classifications as the **context record**, while later studies are recorded as **comparative/typological reassessments** unless a later author explicitly identifies the same physical object.
+
+### Important bibliographic bridge
+
+The 2024 study also cites Rădulescu's 2017 monograph, *Meșteșug, artă, document. Cahlele din Țara Românească (secolele XIV–XVII)*, as part of the specialist literature on stove-tile ornament and typology. The published book's contents show dedicated sections on the history of heating installations, urban houses, typology/chronology and knight/tournament iconography. citeturn2search22turn2search4
+
+A 2022 *Cronica Cercetărilor Arheologice* record also cites the 1982 Curtea de Argeș publication, plate IV/6, alongside Rădulescu's 2017 monograph, plate CXL/1, showing that the 1982 material continued to circulate in later archaeological comparative work. This citation alone does **not** prove that the two illustrated objects are identical; it is recorded only as a bibliographic comparison lead. citeturn2search1
+
+### What is now controlled
+
+**Context-controlled Curtea de Argeș material**
+- 1979 L4 stove material: primary excavation context, including Fig. 14 evidence.
+- 1980 stove discs/plates: primary campaign context at the investigated areas.
+- Later specialist literature: comparative/typological layer unless physical identity is demonstrated.
+
+**Uncontexted Curtea de Argeș object**
+- 2024 tournament cahlă-placă.
+- Institutional custody: Institutul de Arheologie „V. Pârvan”.
+- No known discovery year, exact place or stratigraphy.
+- Proposed date: first half of 16th century, stylistic/iconographic.
+- Excavation campaign: **UNASSIGNED**. citeturn1view2
+
+### Stage status
+
+**OPEN — NOT COMPLETE.**
+
+The next high-value target is now to recover the **1982 Plate IV/6 object directly**, identify exactly what object is illustrated there, and compare it against the 2017/2022 later references without assuming identity. After that, return to the non-stove ceramic groups so the material-culture archive remains balanced.
