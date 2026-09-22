@@ -1022,3 +1022,31 @@ The archive now separates:
 
 ### Next
 Trace the provenance and identity of the horse-leg cahlă and determine exactly what Pl. CXL/1 illustrates, using the 2017 catalogue/plate itself where possible.
+
+## Pass 69 — 22 September 2026
+
+### Objective
+Trace what Rădulescu 2017 Pl. CXL/1 actually represents using the sentence-to-footnote relationship in the 2018 Câmpulung report.
+
+### Verified
+- The Câmpulung report describes a yellow-glazed cahlă fragment with a horse-leg motif and places it within the „oșteanul ecvestru” iconographic theme.
+- The same sentence says it has an analogy to a piece discovered at Băjești, at the court of Mareș Băjescu, dated to the 17th century.
+- Footnote 11 attached to that statement cites Rădulescu 2017, Pl. CXL/1. citeturn1search0turn3search2
+
+### Control decision
+CXL/1 is therefore best treated as the **published analogy for the Băjești/Mareș Băjescu piece** in the current evidence chain.
+
+It is not:
+- the Curtea de Argeș Pl. IV/6 vessel;
+- established as the primary illustration of the Câmpulung 2017–2018 horse-leg fragment.
+
+Direct plate/caption recovery is still required before converting this into a definitive catalogue-level provenance statement.
+
+### Supporting context
+- The 2017 Câmpulung report documents the earlier 2001 discovery of 1666 double-headed-eagle stove tiles and the hypothesis connecting the area with Mareș Băjescu. citeturn2search28
+- A 2018 historical study places the Băjescu family houses near the former St. Ilie market and notes the archaeological investigations at Str. Negru Vodă nr. 76. citeturn2search27
+
+### Stage
+**Archaeological Stage 1 — OPEN / NOT COMPLETE.**
+
+Next: recover the actual Rădulescu 2017 Pl. CXL/1 plate/caption if possible; otherwise preserve the Băjești analogy as a controlled secondary citation and move on.
