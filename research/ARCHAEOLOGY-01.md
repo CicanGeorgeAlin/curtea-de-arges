@@ -2357,3 +2357,34 @@ Visual plate evidence is now used to control OCR and transcription errors where 
 
 ### Stage
 **Archaeological Stage 1 — OPEN.** Pl. I–IV have now received textual + visual control. Pl. V remains to be fully reconciled item-by-item.
+
+
+## Archaeological plate visual/text control — Pass 78 · 22 September 2026
+
+### Primary-source correction: the apparent Pl. I/5 is real text, but not a Pl. I/5 object
+
+The 1982 primary text states that the central medallion can be decorated with concentric circles at Pl. III/1,3,4 and Pl. IV/3, **or in spiral at Pl. I/5**. However, the printed Pl. I plate contains only items 1–4. The archive therefore records **Pl. I/5 as an anomalous textual cross-reference**, not as a fifth illustrated object. This is stronger than simply blaming OCR because the reference is visible in the primary text, while the plate itself has four items. citeturn0view0
+
+### Pl. IV/1 correction to object identity
+
+The primary text says the small pahar is approximately 7 cm high and explicitly gives **pl. IV/1**. The plate legend, however, identifies **pahar (4)**. This creates an internal source conflict within the same article. We therefore do **not** force one answer. The archive records:
+
+- **Textual reference:** pahar → Pl. IV/1.
+- **Printed plate legend:** pahar → Pl. IV/4.
+- **Visual plate:** item 4 is the small cup.
+- **Status:** unresolved internal cross-reference conflict.
+
+This is an important improvement over the previous passes: the archive now preserves the publication's internal inconsistency rather than silently choosing one reference. citeturn0view0
+
+### Pl. IV/6 remains unresolved
+
+The text's main decorative cross-reference lists IV/3 and IV/5 for concentric decoration and IV/1 for radial decoration. The printed plate legend lists glazed ceramic items 1,2,3,5 and pahar 4. An apparent item 6 in the plate image therefore remains outside the controlled legend and is not assigned a new object category until further page/plate inspection resolves whether it belongs to the same plate or is a scanning/layout artefact.
+
+### New evidence: stove-plate numbering control
+
+The article text identifies **Pl. VI/4** as a figurative stove-tile fragment (Madonna image), while **Pl. VII** is the 14th-century stove-disc group. The text also references a mounted rider on **Pl. V/1** in the stove discussion, creating another internal numbering ambiguity because Pl. V/1 is separately described in the ceramic-vessel section as a zoomorphic/leopard fragment. This must be retained as a source-control issue rather than resolved by assumption. citeturn0view0
+
+### Method
+We now use a three-state source model for plate references:
+**CONTROLLED OBJECT** / **TEXTUAL ANOMALY** / **UNRESOLVED INTERNAL CONFLICT**.
+This will prevent later database or map layers from treating publication inconsistencies as archaeological facts.
