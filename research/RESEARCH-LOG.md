@@ -742,3 +742,25 @@ Next retrieval target:
 4. only then promote any L4 architectural/stratigraphic details into the structured archaeological record.
 
 **Decision: Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+
+## Archaeology / Heritage autopilot — Pass 58 · 22 September 2026 · official journal retrieval route
+
+Pass 58 found a new first-party retrieval route for the original 1979 excavation report. The current website of the journal *Cercetări Arheologice*, published by the Muzeul Național de Istorie a României, has a dedicated article record for Lia Bătrîna and Adrian Bătrîna, “Cercetări arheologice efectuate în anul 1979 în cuprinsul aşezării Curtea de Argeş, jud. Argeş,” *Cercetări Arheologice*, IV (1981), pp. 144–171. The article page provides a direct PDF link. citeturn11view0turn10view0
+
+The journal's article page confirms that this is the original 1979 Curtea de Argeș report and not a secondary bibliography entry. citeturn11view0 The linked PDF is hosted by the journal itself, at a dedicated upload path. The current web interface, however, presents a verification page instead of exposing the PDF text, so **page 153 remains unresolved**. citeturn12view0
+
+### Evidence-control decision
+
+No new L4 archaeological facts are promoted from page 153.
+
+The controlled chain therefore remains:
+- 1979 report: primary excavation publication identified and directly routed, but p.153 text not yet readable;
+- 1983 seal study: explicitly links the Tournai-seal discussion to burned dwelling **L4** and cites the 1979 report at pp.144 and 153;
+- merchant ownership of L4: remains the 1983 authors' interpretation, not a demonstrated personal identification. citeturn7search41
+
+### Retrieval target
+
+**1979 report → p.153 → actual scan/OCR → L4 structure/context → cross-check with 1983 seal study.**
+
+**Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
