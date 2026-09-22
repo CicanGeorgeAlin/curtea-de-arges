@@ -1482,3 +1482,18 @@ The 2024 Rădulescu article lists **Rădulescu 2000, “Noi cahle medievale deco
 Rădulescu 2016 identifies three unglazed plate-tile fragments with dancers, bagpiper and central cross as material from the 1920–1922 Princely Court excavations led by Virgiliu Drăghiceanu. The bibliography cites Drăghiceanu 1923, including “Jurnalul săpăturilor din Curtea Domnească a Argeșului,” pp. 134–150. citeturn0search2turn0search25
 
 Control: campaign provenance is established; individual-fragment findspot remains unresolved.
+
+
+## S145 — Pass 87 — Direct provenance control for 2024 tournament cahlă
+
+The 2024 Rădulescu article's footnote 23 identifies the Curtea de Argeș tournament cahlă as held by the Institutul de Arheologie „V. Pârvan”, Bucharest, without inventory number, and states that the discovery year is unknown. The article itself says the archaeological context is unknown, making exact dating difficult. citeturn5view0
+
+## S146 — Pass 87 — Rădulescu 2000b scope correction
+
+Rădulescu 2000b, “Noi cahle medievale decorate cu scene de turnir (secolele XIV–XVI)”, SCIVA 51/1–2 (2000), pp. 93–102, is a comparative study of tournament stove tiles. A full-text control found no occurrence of “Curtea de Argeș”; therefore it must not be cited as direct provenance evidence for the 2024 Curtea object. It remains relevant as a comparative/typological source. citeturn2view0turn3view0
+
+## S147 — Pass 87 — 1920–1922 stove-tile group
+
+Rădulescu 2016 states that Drăghiceanu's 1923 journal records stove tiles in the NW corner of the cellar of the princely house on the south side of the enclosure; a plate shows 16 stove-tile fragments. The 2016 author explicitly says it is unknown whether all fragments came from the same place or were dispersed across the Princely Court. citeturn9search30
+
+Control: the 1920–1922 group and the later 2024 tournament cahlă remain separate records.
