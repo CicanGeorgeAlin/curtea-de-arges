@@ -3054,3 +3054,28 @@ S232 added; Pass 146 recorded; index.html untouched.
 
 ### Next target
 Continue exact-page/figure recovery, prioritizing the original 1923 pages 148–149 and Fig.162, while keeping material classes and object groups strictly separated.
+
+
+## Pass 147 — 22 September 2026
+
+### Target
+Independently cross-check the exact provenance of Fig.162 without relying on the same bibliographic index used in Pass 146.
+
+### Result
+A 1994 art-history study explicitly states that important Gothic stone-rib fragments were discovered by Virgil Drăghiceanu during the **1920 archaeological excavations at the Casa Domnească**, citing *Jurnalul săpăturilor*, **pp.148–149, fig.162**. citeturn0search28
+
+### Significance
+This independently confirms the complete chain:
+**1920 excavation → Gothic stone-rib fragments → Jurnalul pp.148–149 → Fig.162.**
+
+The same note cites Pavel Chihaia's later comparative architectural interpretation separately. We therefore keep **discovery/provenance** distinct from **later architectural interpretation**.
+
+### Evidence status
+Secondary confirmation only. The original Fig.162 plate and page 148–149 scan remain a direct-recovery target.
+
+### GitHub
+Backup: backup/pass147-pre-research-2026-09-22
+S233 added; Pass 147 recorded; index.html untouched.
+
+### Next target
+Continue primary-page recovery, with priority on obtaining a readable original scan of Jurnal pp.148–149 and Fig.162.
