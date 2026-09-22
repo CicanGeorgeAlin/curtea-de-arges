@@ -1263,3 +1263,14 @@ A separate 2010 Argeș museum synthesis describes the broader Curtea de Argeș m
 **Control:** the 2010 passage is not used to assert an exact one-to-one architectural identification with L4 unless the underlying excavation evidence establishes it. L4's typology and first-half-15th-century chronology are independently retained from the specialist catalogue.
 
 **Stage 1 remains OPEN.**
+
+
+## Pass 49 — 22 September 2026 — L4 within the 1979 urban-sampling strategy
+
+Directly controlled text from the 1979 report states that the excavation sections were placed in **free/vacant areas aligned with streets**, based on the hypothesis that part of the modern street grid might coincide with the medieval one. The campaign exposed four dwellings, two completely and two partially. citeturn0search24
+
+This provides important methodological context for L4: it was part of a settlement-scale attempt to reconstruct medieval urban morphology, not merely a monument excavation.
+
+A 1992 specialist synthesis cites the 1979 publication for mid-14th-century houses at Curtea de Argeș and describes broader development of timber houses with cellars and tile stoves from the later 14th century. This is retained as wider urban context, not as direct L4 evidence. citeturn0search28
+
+**Stage 1 remains OPEN** for L4's exact section, dimensions, stratigraphy and plan.
