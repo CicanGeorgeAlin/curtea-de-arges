@@ -155,3 +155,17 @@ Methodological correction: a complete archaeological archive cannot be defined o
 Some findings are currently available only through bibliographic indexes or secondary accounts. They remain LEADS until the underlying primary publication/report is inspected.
 
 Stage 1 remains OPEN — NOT COMPLETE.
+
+## Archaeology autopilot — Pass 19 · 22 September 2026
+
+Pass 19 added a new evidence class: **negative archaeological evidence**.
+
+The 1982 Bătrîna & Bătrîna publication records research in additional Curtea de Argeș zones, including an investigated area west of Sân Nicoară hill where no material/complexes warranted expansion, apart from a medieval circular-plan oven. citeturn0search23
+
+Drujești was strengthened through the 1990 Cristocea archaeological study and later specialist cross-reference. citeturn1search0turn1search50
+
+Bătușari/Brad-Botușari entered the heritage reconciliation queue, but was deliberately not promoted into the archaeological inventory without stronger archaeological/register evidence. citeturn1search1
+
+Methodology update: completeness now includes **tested-but-negative areas**, not only discoveries.
+
+Stage 1 remains OPEN — NOT COMPLETE.
