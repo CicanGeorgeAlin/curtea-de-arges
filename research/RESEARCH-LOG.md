@@ -1525,3 +1525,22 @@ index.html untouched.
 
 ### Next target
 Trace inventory I 5882 through later catalogues, collection publications and institutional records; attempt to recover accession or original excavation metadata without inventing a findspot.
+
+
+## Pass 91 — 22 September 2026
+
+**Target:** search for independent accession/provenance records for inventory I 5882.
+
+### Result
+Targeted searches combining I 5882 with Curtea de Argeș, Institutul de Arheologie and stove tiles returned the 2016 Rădulescu article as the only directly relevant indexed source. No independent accession register/catalogue or later publication adding findspot, stratigraphy, transfer history or accession date was located. citeturn0search36
+
+### Control
+Unrelated numerical uses of “5882” were rejected; inventory numbers are not matched by number alone.
+
+### GitHub
+Backup: backup/pass91-pre-research-2026-09-22
+Updated archaeology, research log, sources.
+index.html untouched.
+
+### Next target
+Search the bibliography of the 2016 article and the 1920–1922 excavation literature for I 5882's object description, then inspect later stove-tile catalogues/monographs for the same dimensions and iconography.
