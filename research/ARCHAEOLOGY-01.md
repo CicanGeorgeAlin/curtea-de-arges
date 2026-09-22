@@ -2632,3 +2632,35 @@ The 1920–1922 stove fragments currently belong to **GROUP-LEVEL / UNCERTAIN at
 ### 2024 turnir cahlă remains a separate research object
 
 The 2024 Rădulescu article documents a fragmentary green-glazed plate tile from Curtea de Argeș depicting a mounted tournament knight. Its dimensions are 13.2 × 17 × 1.2 cm; the upper portion and fixing system are missing. The article says the discovery year, exact place and stratigraphy are unknown. It therefore cannot be merged with the 1920–1922 fragments or Pl. VII without new provenance evidence. citeturn0search13
+
+
+## Stove-tile source-chain reconstruction — Pass 86 · 22 September 2026
+
+### 2024 tournament cahlă: reference chain corrected
+
+The 2024 Rădulescu article's bibliography shows that its key reference for the Curtea de Argeș tournament-tile comparison is **Maria-Venera Rădulescu, “Noi cahle medievale decorate cu scene de turnir (secolele XIV–XVI),” SCIVA 51 (2000), 1–2, pp. 93–102**. This is reference 28 in the 2024 article, not reference 23. The earlier Pass 85 wording about “reference 23” is therefore corrected. citeturn0search24turn0search0
+
+The 2024 article itself analyzes three tournament-themed stove tiles from Muntenia, including one from Curtea de Argeș. The study's overall chronological range is end of the 14th century to the 16th century. citeturn0search24
+
+### 2016 wedding-tile chain is now securely anchored
+
+The official 2016 article identifies the three unglazed plate-tile fragments as material recovered during the **1920–1922 excavations led by Virgiliu Drăghiceanu** at the Princely Court of Argeș. Its bibliography identifies Drăghiceanu's 1923 works as:
+- “Curtea Domnească din Argeș. Note istorice și arheologice”, BCMI X–XVI (1917–1923), pp. 9–76;
+- “Jurnalul săpăturilor din Curtea Domnească a Argeșului”, same volume, pp. 134–150.
+The 2016 article cites the latter in particular for relevant historical/archaeological documentation. citeturn0search2turn0search25
+
+### Provenance status of the 2016 wedding/dance tiles
+
+**CAMPAIGN:** 1920–1922
+**SITE:** Princely Court of Argeș
+**OBJECT TYPE:** unglazed plate tile / cahlă-placă
+**ICONOGRAPHY:** pair of dancers + bagpiper + central cross
+**AUTHORIAL INTERPRETATION:** ritual wedding dance / Christian blessing
+**CHRONOLOGY:** end of 15th century, according to Rădulescu 2016
+**INDIVIDUAL FRAGMENT LOCATION:** not independently resolved beyond the broader 1920–1922 corpus
+
+The archive therefore distinguishes **campaign provenance** from **individual-fragment findspot**.
+
+### 2000 study becomes a priority source
+
+The 2000 SCIVA article is now promoted to a priority research target because it is explicitly cited by the 2024 tournament study and should help reconstruct the earlier history of the Curtea de Argeș tournament-tile comparison. No object identity is inferred until the 2000 text is inspected.
