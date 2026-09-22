@@ -1868,3 +1868,14 @@ URL: https://biblioteca-digitala.ro/reviste/Argesis/Argesis-27-Studii-si-comunic
 A later Rădulescu study on the I 5884 Curtea de Argeș plate tile cites Drăghiceanu, *Jurnalul săpăturilor*, pp. 70–71, figs. 80, 81, 82, 84, 301 and 305. This is independent later confirmation of the figure/page references, but it does not identify the individual figures with C44/C81. The direct visual plates remain the required next evidence tier.
 
 Control point: web indexing in this pass did not produce a reliable visual rendering of the relevant 1923 plates. Therefore no new visual claim is entered for figs. 80–84 or 301/305.
+
+
+## S203 — Rădulescu 2016: exact Fig. 305 provenance boundary and Drăghiceanu figure citation
+
+Author: Maria-Venera Rădulescu.  
+Publication: “O scenă de dans ritual, de nuntă, redată pe cahle medievale descoperite la Curtea Domnească din Argeș (secolul al XV-lea)”, *Cercetări Arheologice* XXIII (2016), pp. 151–164.  
+The article states that Drăghiceanu's excavation journal mentions stove terracottas in the north-west corner of the cellar of the princely house on the south side of the enclosure. It then states that **Fig. 305** reproduces a photograph of **16 terracotta fragments**, while explicitly warning that it is not known whether all were found in the same place or across the Curtea Domnească area. The same discussion cites Drăghiceanu 1923a, pp. 70–71, figs. **78, 81, 82** for iconographic commentary. citeturn0search37
+
+Control point: Fig. 305 is therefore a group photograph with uncertain individual-fragment provenance. The 16 fragments must not be treated as a single original tile or automatically identified with C44/C81. Also, later literature cites differing subsets of Drăghiceanu figure numbers; those citation lists must not be silently harmonised.
+
+URL: https://cercetari-arheologice.ro/wp-content/uploads/2020/01/CA_2016-06-MARIA-VENERA-R%C4%82DULESCU-151-164_compressed.pdf
