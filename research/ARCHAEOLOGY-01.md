@@ -2447,3 +2447,43 @@ Primary-source conflicts are now split into:
 4. **OCR/scan corruption**.
 
 This gives each anomaly a provenance rather than one generic “uncertain” label.
+
+
+## Stove-material branch — Pass 81 · 22 September 2026
+
+### Primary-source corpus boundary
+
+The 1982 Curtea de Argeș report is bibliographically confirmed as *Cercetări Arheologice* V (1982), pp. 95–107. citeturn0search2turn0search12
+
+The stove-material discussion is now separated from the vessel corpus. The article's plate legend identifies **Pl. VI/4 as a stove-tile fragment (cahlă)** and **Pl. VII as stove discs from the 14th century**. citeturn0search12
+
+### Stove-material object model
+
+**STOVE FAMILY** → **OBJECT FORM** → **DECORATION/ICONOGRAPHY** → **PHYSICAL/CONSTRUCTION FEATURE** → **CONTEXT** → **CHRONOLOGY** → **INTERPRETATION**
+
+The archive will not merge:
+- stove disc;
+- stove-tile plate/cahlă;
+- smoke flue material;
+- daub from a heating installation;
+- vessel ceramics.
+
+### Pl. VI
+
+Controlled fact from the printed legend: **Pl. VI/4 = cahlă fragment**, while Pl. VI/1–3 are glazed ceramic objects assigned to the 16th–17th-century group. The stove-tile fragment is therefore a separate object class from the vessel corpus. citeturn0search12
+
+### Pl. VII
+
+Controlled fact from the printed legend: **Pl. VII = stove discs, 14th century**. The article describes the discs as glazed and unglazed, made on a fast wheel, with concentric ribs and a central button. Their manufacture/form description is retained separately from the later interpretation of how they were installed. citeturn0search12
+
+### Heating-installation context
+
+The report separately records stove material in the L4 cellar fill: stove tiles, smoke tiles and daub, with smoke flues described at approximately 45–50 cm high and up to about 28 cm diameter. This contextual evidence belongs to **L4**, a late-14th-century cellar complex, and must not be generalized to every Curtea de Argeș stove fragment in the 1982 ceramic corpus.
+
+### Chronology control
+
+The 1982 plate legend gives **Pl. VII stove discs = 14th century**, while the Pl. VI glazed-ceramic group is assigned to the **16th–17th centuries**. These are caption-level chronological assignments, not automatic manufacture dates for every individual fragment. The archive keeps plate-caption chronology separate from stratigraphic context and later typological dating.
+
+### Research stage
+
+**Archaeological Stage 1 — OPEN.** The stove-material branch is established. The next task is to reconstruct the individual Pl. VI and Pl. VII forms and then connect them to the 1979 L4 stove evidence without conflating separate contexts.
