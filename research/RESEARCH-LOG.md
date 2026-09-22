@@ -2207,3 +2207,41 @@ S203 added; Pass 117 recorded; index.html untouched.
 
 ### Next target
 Exploit the newly located complete-volume PDF endpoint through alternate institutional mirrors or page-image delivery, then inspect the original plates only when the image itself can be verified.
+
+
+## Pass 118 — 22 September 2026
+
+### Target
+Break the direct-plate access barrier by using the indexed illustration table and page-level OCR/text from the original 1923 volume.
+
+### Breakthrough
+The indexed 1923 volume exposes the exact illustration table for the terracotta sequence:
+- **78–79** — “Teracote găsite în Casa Domnească”, p. 69;
+- **80** — “Teracotă găsită în Casa Domnească”, p. 71;
+- **81** — “Teracotă găsită în Casa Domnească: un cavaler călare”, p. 72;
+- **82** — “Teracotă din Casa Domnească: fragmente dintr-un tors de cavaler”, p. 72;
+- **84** — “Teracotă din Casa Domnească: un cavaler cu suliță”, p. 73. citeturn1search35
+
+A page-level indexed excerpt gives additional original text: fig. 82 contains the head of a knight; fig. 84 is **glazed (zmălțuită)** and depicts the torso of a mounted knight; and a horse-body trace is linked to the annex figure 305. Fig. 80 is explicitly captioned as a terracotta found in the Princely House. citeturn1search33
+
+### Why this matters
+This is stronger than a later secondary citation: it is recovered from the indexed text of the original 1923 volume. It confirms that the cited figure numbers represent **different individually described terracotta illustrations**, not one undifferentiated “78–80” object.
+
+It also gives a controlled example of a glazed Curtea de Argeș terracotta in the 1923 corpus (fig. 84), which must remain separate from the 2000/2007 C44/C81 surface contradiction. The 1923 corpus therefore cannot be used to “solve” the later contradiction by simply saying that Curtea terracottas could be glazed.
+
+### Access boundary
+The direct PDF endpoint is still blocked by the current reader (403), so the actual plate images have not been visually inspected. All new claims above come from indexed OCR/table-of-contents text, not visual interpretation.
+
+### C44/C81 status
+Still unresolved:
+- C44 = 4119 stable;
+- C81 = 4130 vs 10073 unresolved;
+- 2000 unglazed vs 2007 green/light-green glazed unresolved;
+- 1920 provenance supported by both publications.
+
+### GitHub
+Backup: backup/pass118-pre-research-2026-09-22
+S204 added; Pass 118 recorded; index.html untouched.
+
+### Next target
+Use the exact figure/page map to search later publications for **fig. 80**, **fig. 81**, **fig. 82**, and **fig. 84** individually, and compare their descriptions against the 2000/2007 C44/C81 text. In parallel, seek a page-image mirror for pp. 69–73.
