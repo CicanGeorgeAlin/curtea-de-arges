@@ -318,3 +318,31 @@ This pass also confirms that the current five-record RAN municipal baseline cann
 **Decision:** Archaeological Stage 1 remains **OPEN — NOT COMPLETE**.
 
 Next research priority: reconstruct the **1967–1973 Curtea Domnească excavation plan + context/find matrix**, while simultaneously expanding the Argeș Monastery intervention chain beyond the 1965 sondages.
+
+
+## Archaeology / Heritage autopilot — Pass 31 · 22 September 2026
+
+Pass 31 moved from chronology toward **spatial archaeological reconstruction**.
+
+A later specialist volume by Nicolae Constantinescu (2013) was located in the Digital Library of Romania and cross-checked against the earlier 1967 campaign publication. The volume contains a published plan of the 1967–1969 Curtea Domnească excavations, a 1969 excavation plan for the Domnească Church, and stratigraphic profiles from 1968 sections. citeturn1search23turn1search0
+
+This adds an important bridge toward the future historical map: the archive can now distinguish archaeological campaign areas, sections, stratigraphic levels, structures and finds instead of treating the entire Princely Court as one undifferentiated archaeological object.
+
+The same synthesis records later microzone evidence, including iron-working slag, a pottery kiln and pottery-making tools. These are retained as separate later research contexts and are not back-projected into the 1967–1969 campaign.
+
+### Method upgrade
+
+New archaeological spatial model:
+
+**CAMPAIGN → SECTION / SURFACE → STRATIGRAPHIC LEVEL → STRUCTURE → FIND → INTERPRETATION**
+
+### Gap analysis
+
+Still missing:
+- complete context-by-context excavation register;
+- original field notebooks;
+- complete find inventories;
+- complete campaign drawings;
+- systematic reconciliation of every published plan against the original 1967–1973 campaign chronology.
+
+**Decision: Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
