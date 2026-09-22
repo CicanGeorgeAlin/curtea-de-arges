@@ -1142,3 +1142,36 @@ Files updated:
 **Archaeological Stage 1 — OPEN / NOT COMPLETE.**
 
 Next target: recover direct plate images/captions for Pl. I–V and VII and build the object-level ceramic table without importing chronology from unrelated comparative objects.
+
+
+## Pass 74 — 22 September 2026
+
+**Primary target:** direct reconstruction of the 1982 Curtea de Argeș plate/object corpus.
+
+### Newly verified
+- Official article legend recovered in both Romanian OCR and French summary.
+- Pl. I = ornamental ceramic + candlestick/lid candidates, 14th c.
+- Pl. II = glazed plate, 14th c.
+- Pl. III = glazed ceramic + kiln support/crăiță, 14th c.
+- Pl. IV = glazed ceramic + glass, 14th c.
+- Pl. V = glazed ceramic, 14th c.
+- Pl. VI = 16th–17th c glazed ceramic + stove-tile fragment.
+- Pl. VII = 14th c stove discs.
+
+### Correction
+The previous shorthand “Pl. I–V = vessel corpus” was too broad. Pl. I contains functional candidates that remain **sfeșnic/capac disputed**. Pl. III/2 is a kiln support/crăiță, not a vessel.
+
+### Chronology control
+Plate-caption dating (14th c for Pl. I–V) is now kept separate from the broader excavated ceramic corpus dating (14th–15th c). Individual objects will not inherit a narrower date without object/context evidence.
+
+### GitHub
+Backup: `backup/pass74-pre-research-2026-09-22`
+Updated:
+- `research/ARCHAEOLOGY-01.md`
+- `research/RESEARCH-LOG.md`
+- `research/SOURCES-01.md`
+`index.html` remains untouched.
+
+### Stage
+**Archaeological Stage 1 — OPEN / NOT COMPLETE.**
+Next target: visual inspection/control of the actual numbered plates, beginning with Pl. I–III, so every object can be linked to its textual description without inventing morphology.
