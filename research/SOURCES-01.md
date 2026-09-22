@@ -1370,3 +1370,16 @@ The article text contains a reference rendered as “pl. I/5” in the scan/OCR,
 
 ### Control principle
 Where OCR and the legible printed plate conflict, the legible plate/caption is treated as the stronger source control. Visual inspection does not authorize invented dimensions or functions.
+
+
+## S128 — Pass 78 — primary-source internal plate conflicts
+
+The 1982 primary article contains internal plate-reference conflicts that must be preserved rather than silently normalized. citeturn0view0
+
+- The decorative-text passage gives **pl. I/5** for a spiral central medallion, while the printed Pl. I plate has only items 1–4.
+- The text describes the small pahar and gives **pl. IV/1**, while the printed plate legend gives **pahar (4)** and the visual plate shows item 4 as the cup.
+- The stove discussion identifies a mounted rider at **Pl. V/1**, while the ceramic-vessel discussion identifies Pl. V/1 as the partial leopard/zoomorphic fragment.
+
+Archive status vocabulary: **CONTROLLED OBJECT**, **TEXTUAL ANOMALY**, **UNRESOLVED INTERNAL CONFLICT**.
+
+This prevents a publication numbering error from becoming a false archaeological object record.
