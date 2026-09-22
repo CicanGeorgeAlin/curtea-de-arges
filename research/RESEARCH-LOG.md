@@ -667,3 +667,12 @@ A 2013 specialist article reproduces a Curtea de Argeș stove-tile fragment date
 These references strengthen the broader medieval urban-heating evidence but do not establish a direct L4/seal identification for the figures.
 
 **Stage 1 remains OPEN.**
+
+
+### Pass 52 · 22 September 2026 · primary-report recovery
+
+The original 1979 report is directly accessible and confirms the campaign's settlement-scale design and dwelling-by-dwelling structure. citeturn0search19
+
+The report's opening pages expose detailed evidence for L1, showing that the authors document individual dwellings stratigraphically. This reinforces the rule that L4 should be reconstructed from its own original pages rather than inferred from later summaries.
+
+**Stage 1 remains OPEN.**
