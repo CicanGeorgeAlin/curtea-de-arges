@@ -190,3 +190,16 @@ This is a useful self-correction: the LMI identity and a claimed RAN identity ar
 Sân Nicoară is also strengthened: the current RAN record itself records discovery in 1886 and preventive archaeological research in 2009–2011, with the 2011 campaign report. citeturn1search1turn1search7
 
 Stage remains OPEN — NOT COMPLETE.
+
+## Pass 21 — Historic Urban Site becomes a spatial master layer
+
+The current RAN record for 13631.11 is more than a simple chronology entry. It provides a detailed protected perimeter covering streets, cemeteries, the railway/station zone and the central historic core. Its formal archaeological chronology is an urban settlement dated broadly to the 13th–19th centuries. citeturn0search2
+
+New control rule:
+**Historic Urban Site perimeter ≠ archaeological proof for every parcel.**
+
+The perimeter is therefore treated as a spatial master/reference layer. Individual places inside it still require their own evidence, chronology and source chain.
+
+A second control was added: RAN municipality search pages can expose records through filtered/paginated selections, so the current five-record working inventory must not be declared exhaustive solely from one search result. citeturn0search7turn0search10
+
+Stage remains OPEN — NOT COMPLETE.
