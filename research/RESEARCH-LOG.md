@@ -1104,3 +1104,41 @@ Move from the CXL/1 citation problem into the broader Curtea de Argeș non-stove
 
 ### Stage
 **Archaeological Stage 1 — OPEN / NOT COMPLETE.**
+
+
+## Pass 73 — 22 September 2026
+
+**Primary target:** 1982 Curtea de Argeș ceramic plate/object control.
+
+### Verified
+- Official *Cercetări Arheologice* 1982 PDF re-read at page/plate level.
+- 14th–15th-century glazed vessel corpus separated from stove material.
+- Small cup described at Pl. IV/1; major glazed forms identified as strachină, farfurie and taler.
+- Decorative systems include spiral, concentric, radial, vegetal and zoomorphic motifs.
+- Pl. VII explicitly represents 14th-century stove discs.
+- Pl. VI is the 16th–17th-century glazed-ceramic group with a separate cahlă fragment.
+- Workshop interpretation remains based on rejects + crăiță in the same excavated area; exact workshop location remains open.
+
+### Correction / control
+- **Curtea Pl. IV/6 remains in the glazed-vessel corpus.**
+- **Pl. IV/6 is not a stove tile.**
+- **Pl. IV/6 and Rădulescu 2017 Pl. CXL/1 remain physically unlinked.**
+- Stove discs/plates are a separate object class.
+
+### Research architecture added
+**OBJECT FORM → DECORATION → PHYSICAL FEATURE → FUNCTIONAL INTERPRETATION → CONTEXT → CHRONOLOGY → LATER CITATION**
+
+### GitHub
+Backup branch created before edits: `backup/pass73-pre-research-2026-09-22`
+
+Files updated:
+- `research/ARCHAEOLOGY-01.md`
+- `research/RESEARCH-LOG.md`
+- `research/SOURCES-01.md`
+
+`index.html` was not modified.
+
+### Stage
+**Archaeological Stage 1 — OPEN / NOT COMPLETE.**
+
+Next target: recover direct plate images/captions for Pl. I–V and VII and build the object-level ceramic table without importing chronology from unrelated comparative objects.
