@@ -1692,3 +1692,13 @@ Control: bibliographic/figure linkage confirmed; individual object identificatio
 ## S184 — Pass 102 — broader Curtea terracotta surface-treatment context
 
 A 1967 ceramic study reports Drăghiceanu's broader observation that Curtea terracottas included both unglazed and glazed examples. This is contextual only and does not resolve the C44/C81 material-description discrepancy. citeturn3search0
+
+
+## S185 — Florescu, Arta populară din Argeș și Muscel (1967): broader Curtea de Argeș terracotta distinction
+
+Author: Nicolae Florescu.  
+Publication: Arta populară din Argeș și Muscel, 1967.  
+Coverage: a broader ceramic discussion of Curtea de Argeș that quotes Virgiliu Drăghiceanu's distinction between older, unglazed terracottas and later glazed examples. The passage states that Drăghiceanu regarded some terracottas as unglazed and older, while others had glaze and were later.  
+Use: contextual control only. It confirms that both glazed and unglazed terracotta existed in the wider Curtea de Argeș corpus, but it does not identify the MNAR C44/C81 pair individually and therefore does not resolve the 2000/2007 contradiction.
+
+URL: https://ro.scribd.com/document/704164965/Florescu-Arta-Populara-Arges-Muscel-1967
