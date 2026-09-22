@@ -951,3 +951,58 @@ The 1982 article is not enough to reconstruct the entire 1979 programme. The 198
 The oven should not be assigned a precise function or date beyond what the publication securely supports.
 
 **Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+
+## Archaeology autopilot — Pass 35 · 22 September 2026
+
+### 1979 settlement archaeology: the evidence is now more than a bibliography
+
+Pass 35 cross-checked the 1979 Bătrîna & Bătrîna campaign through the 1981 publication record and later specialist discussions that cite exact pages of the original article. The national archaeological journal index confirms the 1981 article as the publication of the 1979 research programme, pp. 144–171. citeturn0search0turn0search1
+
+Two architectural evidence points can now be controlled at publication/page level:
+
+- a **sunken habitation structure** attributed to the **end of the 13th century**, cited by later specialist synthesis to the 1981 article, pp. 144–150;
+- a **surface timber house of the mid-14th century**, with walls supported on timber elements above a stone socle, cited to the 1981 article, pp. 151–153. citeturn9search23
+
+A separate specialist catalogue also cites the 1979 article, pp. 166–167, for stove-tile evidence from a Curtea de Argeș townspeople's dwelling. This strengthens the interpretation that the 1979 programme contributes not only to settlement chronology but also to the history of domestic construction and heating technology. citeturn4search30
+
+### Critical source-control distinction
+
+These findings are **not yet converted into exact map points**. The page references establish the publication-level evidence, but the exact modern parcel/section for each structure still requires inspection of the original 1979 excavation plan and figure set.
+
+Therefore the archive now records:
+
+**1979 CAMPAIGN → PUBLISHED STRUCTURE → CHRONOLOGY → ARCHITECTURAL TYPE → SOURCE PAGE → LOCATION CONFIDENCE**
+
+with **LOCATION CONFIDENCE = UNRESOLVED** until the original plan is controlled.
+
+### Relationship to the 1980 campaign
+
+The 1982 publication confirms that investigations begun in 1979 continued in June 1980, but the 1980 work also opened new test areas, including the area west of Sân Nicoară hill. There, two east–west sections produced no material/complexes sufficient to expand the excavation, apart from a partially preserved circular-plan medieval oven. citeturn2search40
+
+This means the 1979 and 1980 records must **not** be merged into one generic “Bătrîna excavation.” They represent a continuing research programme with distinct test areas and results.
+
+### Emerging settlement sequence
+
+At the current evidence level, the controlled archaeological picture now includes:
+
+**late 13th c.** — sunken habitation evidence in the settlement research programme;  
+**13th–14th c.** — habitation evidence in the EMV microzone;  
+**mid-14th c.** — surface timber house above a stone socle in the Bătrîna 1979 evidence;  
+**14th c. onward** — additional craft/industrial evidence in EMV, including iron-working and pottery production;  
+**15th–16th c.** — a circular-plan oven west of Sân Nicoară, with the publication assigning a broad probable range rather than a precise date. citeturn9search23turn2search40
+
+This is a **research sequence, not a claim of uninterrupted occupation across the whole city**. Each item remains attached to its tested archaeological context.
+
+### Self-challenge
+
+The biggest remaining weakness is spatial. We now know more about what was found, but not enough about exactly where every 1979 test area sat in relation to the medieval urban core, Sân Nicoară and EMV.
+
+Next targets:
+1. recover and inspect the original 1979 plans/figures;
+2. reconstruct each test sector separately;
+3. identify the exact location of the late-13th-century sunken structure and mid-14th-century house where the plan permits;
+4. search for later publications that reuse the 1979 finds;
+5. build a controlled **medieval domestic architecture matrix** for Curtea de Argeș.
+
+**Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
