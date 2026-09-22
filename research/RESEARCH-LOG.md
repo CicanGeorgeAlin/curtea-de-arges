@@ -2540,3 +2540,32 @@ S214 added; Pass 128 recorded; index.html untouched.
 
 ### Next target
 Trace the relationship between the **1 April 1922 excavation end-date** and the **September 1922–January 1923** dossier 1394 expenditure period, starting with sheet 66 and adjacent documents.
+
+
+## Pass 129 — 22 September 2026
+
+### Target
+Strengthen source-identity control around the 1917–1923 BCMI volume before attempting to correlate excavation chronology with later object publications.
+
+### Result
+An independent BCMI contents record confirms that the 1917–1923 volume contains several distinct Curtea de Argeș contributions:
+- Virgil Drăghiceanu, **“Curtea Domnească din Argeş. Note istorice şi arheologice”**;
+- Virgil Drăghiceanu, **“Jurnalul săpăturilor din Curtea Domnească a Argeşului”**, beginning at p.134;
+- Constantin Moisil, **“Monete vechi găsite în săpăturile de la Curtea de Argeş”**;
+- Francisc Iosif Rainer, **“Cercetări antropologice asupra osemintelor aflate în săpături (Curtea de Argeş)”**. citeturn0search0
+
+### Significance
+This is a useful bibliographic control: the volume is not one homogeneous excavation narrative. Its historical/archaeological notes, excavation journal and specialist studies have distinct authorship and evidentiary roles.
+
+This reinforces the project's rule:
+**publication identity → section/article identity → page/figure → claim → object identity**.
+
+### C44/C81 status
+Unchanged: 4119/C44 stable; C81 4130 vs 10073 unresolved; 2000 unglazed vs 2007 green/light-green glazed unresolved.
+
+### GitHub
+Backup: backup/pass129-pre-research-2026-09-22
+S215 added; Pass 129 recorded; index.html untouched.
+
+### Next target
+Continue the archival chronology around dossier 1394 and the 1923 publication, prioritizing primary-page evidence rather than secondary summaries.
