@@ -1151,3 +1151,14 @@ Still open:
 - whether the burned condition and “merchant house” interpretation can be tied directly to the same context through the original excavation report.
 
 **Decision: Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+
+## Pass 40 — 22 September 2026 — excavation-plan trail
+
+A new bibliographic cross-reference confirms the exact 1979 excavation article and its full page span (pp.144–171). citeturn0search0turn0search2
+
+A later archaeological source cites p.166, fig.14/3 of the 1981 article and p.103, pl.VII of the 1982 continuation together. These references are now recorded as a **figure-recovery lead** for the dwelling/find matrix. citeturn0search25
+
+The original PDFs could not be opened reliably in the current web text layer, so the archive deliberately does not infer the contents of those figures. Exact spatial reconstruction remains OPEN.
+
+**Decision: Stage 1 remains OPEN.**
