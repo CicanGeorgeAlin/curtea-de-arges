@@ -2968,3 +2968,20 @@ The 2000 article itself states that Drăghiceanu's figs. 78, 79 and 80 are the e
 
 ### Provenance separation
 The 2016 I 5882 wedding/dance fragments remain a separate collection and object group. They are explicitly three unglazed fragments from Curtea Domnească, 1920–1922, inventory I 5882; no merge with C44/C81 is permitted. citeturn2view2
+
+
+## Pass 101 — 2007 separates the 1968 unglazed fragments from the MNAR pair
+
+A crucial clarification is now verified in Rădulescu 2007. The article states that the two fragments from the 1920 Curtea Domnească excavation preserved in the National Museum of Art of Romania measure 18 × 13.5 cm and 13 × 10 cm and are **green-glazed and light-green glazed**, respectively; footnote 13 identifies them as 4119/C44 and 10073/C81. Immediately afterward, the author states that in **1968 Nicolae Constantinescu discovered two other, unglazed terracotta fragments near the Curtea Domnească perimeter**, which helped the graphic reconstruction of the composition. citeturn11search2turn15search33
+
+This establishes a firm separation between two Curtea groups:
+1. **1920 / MNAR pair:** 4119/C44 and 10073/C81 in the 2007 record; glazed.
+2. **1968 / Constantinescu pair:** two other unglazed fragments used for graphic reconstruction; inventory not identified in this passage.
+
+The 2000 article, however, directly describes the MNAR pair as unglazed and gives inventories 4119/C44 and 4130/C81. citeturn14search1 Therefore the glaze contradiction cannot be explained by simply confusing the 1968 pair with the MNAR pair. It remains a genuine publication/object-record discrepancy.
+
+### Inventory history
+The 2007 record gives C81 as 10073, while 2000 gives C81 as 4130. C44 remains 4119 in both. No independent museum catalogue record resolving the renumbering was found in this pass. Status remains **UNRESOLVED INVENTORY HISTORY**.
+
+### Important methodological correction
+The 2007 text gives us a new object-group distinction that must be preserved in all future synthesis. The phrase “two unglazed fragments” in the 2007 article refers to the 1968 Constantinescu finds, not the MNAR pair. The 2000 “unglazed” statement, by contrast, is attached by its footnote to the MNAR pair. Do not collapse these statements.
