@@ -1976,3 +1976,35 @@ The Curtea Pl. IV/6 vessel remains a controlled non-stove glazed ceramic referen
 The horse-leg fragment is now a separate lead worth tracing: determine whether the 2017 Pl. CXL/1 illustration represents the Câmpulung fragment itself, the Băjești analogy mentioned in the text, or another object in Rădulescu's catalogue. That question should be resolved from the 2017 plate/catalogue, not inferred from the footnote alone.
 
 **Stage remains OPEN — NOT COMPLETE.**
+
+## Re-analysis — Pass 69 — 22 September 2026
+
+### Pl. CXL/1 provenance chain clarified
+
+The 2018 Câmpulung report states that the excavated yellow-glazed cahlă fragment with a horse leg is interpreted under the theme **„oșteanul ecvestru”** and has an analogy to a piece discovered at **Băjești, at the court of the great ban Mareș Băjescu**, dated in the report to the 17th century. The footnote attached to this analogy is Rădulescu 2017, **Pl. CXL/1**. citeturn1search0turn3search2
+
+This gives us a much stronger provenance interpretation for CXL/1 than the earlier “unknown object” status: **the cited plate is being used as the published analogy for the Băjești piece**, not as an illustration of the Curtea de Argeș Pl. IV/6 vessel and not as the primary illustration of the Câmpulung fragment.
+
+However, the archive will still avoid converting this citation relationship into a direct catalogue assertion until the 2017 plate/caption itself is recovered. The safe controlled status is:
+
+**RĂDULESCU 2017 PL. CXL/1 → CITED ANALOGY → BĂJEȘTI / MAREȘ BĂJESCU CONTEXT (reported in 2018 Câmpulung publication) → DIRECT PLATE CAPTION STILL TO BE RECOVERED.**
+
+### Independent contextual control
+
+A 2017 Câmpulung archaeological report records the 2001 discovery of fragments of cahle decorated with a double-headed eagle and dated 1666, and explains that these finds led investigators to hypothesize a connection with the house of Mareș Băjescu. citeturn2search28
+
+A 2018 historical study further places the ancestral houses of Mareș Băjescu in the area of the former St. Ilie market and notes that archaeological investigations began at Str. Negru Vodă nr. 76 in 2017. citeturn2search27
+
+These sources strengthen the broader **Băjești/Mareș Băjescu ↔ Câmpulung** research context, but they do not by themselves prove the exact provenance of Rădulescu Pl. CXL/1.
+
+### Controlled conclusion
+
+We now have three separate ceramic records:
+
+1. **Curtea de Argeș Pl. IV/6** — glazed ceramic vessel/plate, spiral decoration, 14th-century plate group.
+2. **Câmpulung 2017–2018 horse-leg cahlă fragment** — yellow glaze, horse leg, „oșteanul ecvestru”; excavation context at Str. Negru Vodă nr. 76.
+3. **Rădulescu 2017 Pl. CXL/1** — published comparative reference attached to the Băjești analogy; exact plate caption/catalogue entry still to be directly recovered.
+
+No identity is merged between these records.
+
+**Stage remains OPEN — NOT COMPLETE.**
