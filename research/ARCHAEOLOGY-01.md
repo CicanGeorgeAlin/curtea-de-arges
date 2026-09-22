@@ -2923,3 +2923,19 @@ The 2000 detailed text cites Drăghiceanu 1923 figs. **78–80** and notes that 
 ### Important new distinction
 The surviving MNAR fragment description may represent a reconstruction from physical fragments that Drăghiceanu's original 1923 publication did not individually document. Therefore:
 **original illustration → later physical fragment → modern reconstruction** must be kept as separate evidence layers.
+
+
+## Pass 98 — MNAR C44/C81 glaze discrepancy partially resolved
+
+A direct search of the 2007 article confirms the exact wording: the two Curtea de Argeș fragments are described as **“smălțuite în verde crud și respectiv în verde deschis”** and are held in MNAR under **4119/C44 and 10073/C81**. citeturn0search24
+
+The 2000 article's detailed passage must therefore be checked against its exact object description and figure before retaining the earlier “unglazed” reading as a definitive object property. The 2007 source is explicit about two differently green-glazed fragments. The archive therefore changes the status from a simple binary contradiction to **SOURCE-LEVEL DISCREPANCY REQUIRING PRIMARY-FIGURE CONTROL**.
+
+### New bibliographic lead
+The 2000 article's bibliography/metadata is independently indexed as *Argessis* IX (2000), pp. 165–172. The same database identifies Rădulescu's 2001 Câmpulung heraldic-tile paper and 2007 heraldic-tile paper, providing a controlled sequence of related studies. citeturn0search0turn0search1
+
+### Research decision
+Do not merge the glaze statements. Do not call the fragments definitely unglazed. The later 2007 article is explicit enough that the object record should currently say **glaze reported in 2007; 2000 wording under direct recheck**.
+
+### Figure caution
+The 2007 article's inventory footnote is the strongest direct identity evidence for C44/C81. The article's general figure list must not be used to identify the fragments unless caption/text explicitly connects them.
