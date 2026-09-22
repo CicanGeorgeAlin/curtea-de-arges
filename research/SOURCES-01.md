@@ -647,3 +647,12 @@ This gives the archive a controlled publication chain:
 The 1983 abstract explicitly states that the seal was found during the 1979 excavations in an urban-type dwelling dated by the authors to the end of the 14th / beginning of the 15th century. citeturn0search1
 
 No later source found in this pass justifies changing the archaeological dwelling date to the seal's heraldic date. Those chronology fields remain separate.
+
+
+## S93 — Pass 46: primary-text confirmation of L4 identification
+
+The original 1983 article provides a stronger context than the abstract alone: in its discussion of the commercial function of the seal, the authors explicitly identify the burned remains of **locuința (L4)** uncovered in the 1979 research as the dwelling they believe belonged to the Argeș cloth merchant associated with the seal. They describe the remains as **incendiate** and refer to L4 directly in the note apparatus. citeturn0search20
+
+This does **not** establish the merchant's identity as a named individual. The article's formulation is an authorial inference: the authors argue that the merchant who handled the cloth was probably the owner of L4. The archive records this as **author interpretation**, not verified biography/property ownership.
+
+The same primary text says the quantity and quality of the cloth implied by the seal would have made the bale expensive and argues that it would have been accessible especially to major merchants and elite consumers. This is economic interpretation by the authors, not direct evidence of an individual transaction at L4. citeturn0search20
