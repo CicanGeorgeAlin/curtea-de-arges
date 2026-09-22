@@ -2297,3 +2297,32 @@ S206 added; Pass 120 recorded; index.html untouched.
 
 ### Next target
 Stop broad exact-number searching temporarily and concentrate on the documentary custody chain: CMI dossier 1394, MNAR-related correspondence, accession/catalogue records, and the complete 2002/2017 Rădulescu works.
+
+
+## Pass 121 — 22 September 2026
+
+### Target
+Return to CMI dossier 1394 and determine whether its public catalogue description contains a concrete documentary route toward museum custody and photographic transfer after the 1920 Curtea Domnească excavation.
+
+### Result
+The public archival catalogue confirms dossier 1394 covers **1921–1930**, contains **184 leaves**, and includes correspondence with the **Muzeul Național de Antichități** and **Muzeul de Etnografie și Artă Națională**, correspondence concerning photographs, payments for photographs, and a letter concerning photographs of the church treasure sent by Muzeul de Artă Națională director Alexandru Tzigara-Samurcaș. citeturn0search0
+
+This materially strengthens the archival custody route because it documents contemporaneous museum-facing correspondence and photographic activity in the years immediately following the 1920 excavation.
+
+However, the public catalogue description does not identify the C44/C81 fragments or any of the inventory numbers 4119, 4130 or 10073. Therefore the dossier is a **high-value archival lead**, not yet object-level proof.
+
+### C44/C81 status
+No resolution:
+- 4119 / C44 stable;
+- C81 4130 vs 10073 unresolved;
+- 2000 unglazed vs 2007 green/light-green glazed unresolved.
+
+### Strategic change
+Broad exact-number web searching is now deprioritized. The research focus moves to the **184-leaf dossier itself**, especially documents concerning photographs, Muzeul Național de Antichități, Muzeul de Etnografie și Artă Națională, and Muzeul de Artă Națională.
+
+### GitHub
+Backup: backup/pass121-pre-research-2026-09-22
+S207 added; Pass 121 recorded; index.html untouched.
+
+### Next target
+Attempt page-level recovery of dossier 1394 through the archive's PDF download and any indexed OCR/page fragments. Search within it for Drăghiceanu, Muzeul Național de Antichități, Muzeul de Artă Națională, photographs, teracote/cahle and related custody terms.
