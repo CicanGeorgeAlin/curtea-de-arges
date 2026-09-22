@@ -2706,3 +2706,31 @@ S220 added; Pass 134 recorded; index.html untouched.
 
 ### Next target
 Continue trying to recover the actual 1923 page image/text, while using these independent citations only as controlled retrieval anchors.
+
+
+## Pass 135 — 22 September 2026
+
+### Target
+Refine the content recovered through secondary citations to Drăghiceanu's p.138 and explicitly control the attribution boundary.
+
+### Result
+A recent study states that the estimated height of the individual in grave 10, **1.64 m**, was given by Drăghiceanu in the *Jurnalul săpăturilor*, **p.138**; it also states that grave-10 remains were not among those examined by Rainer. citeturn0search28 A 2020 Bătrîna study independently treats Drăghiceanu's p.138 material as a primary source for grave 10. citeturn0search25
+
+### Source-control refinement
+The archive now records the 1.64 m measurement as:
+**later scholarly statement → attributed to Drăghiceanu, Jurnalul, p.138 → original page not directly inspected.**
+
+Also, the previous pass's wording about a perforation in the southern wall of the sarcophagus is retained only as a **secondary citation to p.138**, not as direct verification of the 1923 page.
+
+### Significance
+This is an example of the evidence discipline we need throughout the archive: even when multiple later sources point to the same primary page, they do not become substitutes for the primary page itself.
+
+### C44/C81 status
+Unchanged: 4119/C44 stable; C81 4130 vs 10073 unresolved; 2000 unglazed vs 2007 green/light-green glazed unresolved.
+
+### GitHub
+Backup: backup/pass135-pre-research-2026-09-22
+S221 added; Pass 135 recorded; index.html untouched.
+
+### Next target
+Continue primary-page recovery and, where possible, compare the page-138 wording against later citations without importing later interpretations into the primary layer.
