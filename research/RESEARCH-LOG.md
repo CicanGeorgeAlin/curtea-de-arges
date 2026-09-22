@@ -346,3 +346,35 @@ Still missing:
 - systematic reconciliation of every published plan against the original 1967–1973 campaign chronology.
 
 **Decision: Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+
+## Archaeology / Heritage autopilot — Pass 32 · 22 September 2026
+
+Pass 32 deliberately moved one step outside the monument itself.
+
+A published archaeological profile from the 1983 EMV research was identified in Constantinescu's later synthesis. The excavated microzone included a 45 m × 2 m section and a second 25 m × 2 m section. The EMV-I profile records four successive habitation levels of the 13th–14th centuries up to about 1340, followed by later occupation beginning in the second half of the 14th century. It also records a 14th-century iron-working layer and a pottery kiln. citeturn0search0
+
+### Research architecture correction
+
+The project now explicitly separates:
+
+**PRINCELY COURT CORE**  
+from  
+**SURROUNDING VOIVODAL MICROZONES**
+
+This prevents the common historical-archaeological error of projecting one excavated monument's stratigraphy across an entire city.
+
+New spatial rule:
+
+**OBSERVATION → EXCAVATED LOCATION → STRATIGRAPHIC CONTEXT → LOCAL INTERPRETATION → POSSIBLE WIDER CORRELATION**
+
+### Gap analysis
+
+Still needed:
+- identify all published EMV sections and their exact spatial relationship;
+- reconcile the 1983 microzone with the historic urban RAN perimeter;
+- identify other medieval habitation/craft zones;
+- distinguish settlement evidence from princely-residence evidence;
+- continue searching for original campaign documentation.
+
+**Decision: Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
