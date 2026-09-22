@@ -2939,3 +2939,16 @@ Do not merge the glaze statements. Do not call the fragments definitely unglazed
 
 ### Figure caution
 The 2007 article's inventory footnote is the strongest direct identity evidence for C44/C81. The article's general figure list must not be used to identify the fragments unless caption/text explicitly connects them.
+
+
+## Pass 99 — C44/C81 object-chain strengthening
+
+The 2007 Rădulescu article provides a stronger bridge to the 2000 study than previously recorded. It states that two Curtea Domnească fragments from the 1920 excavation measure 18 × 13.5 cm and 13 × 10 cm, are green/light-green glazed, and are held by MNAR as 4119/C44 and 10073/C81. Its footnote 14 then explicitly directs the reader to Rădulescu 2000, pp. 165–172, for chronology, iconography, analogies, execution technique and dimensions. The same 2007 passage gives the reconstructed rectangular tile dimensions as about 26 × 20.5 cm and describes the wood-mould/textile-impression technique. citeturn2search12
+
+This materially strengthens the interpretation that the 2000 and 2007 discussions concern the same C44/C81 object group, not merely two thematically similar Curtea tiles. However, it still does not permit assignment of the 18 × 13.5 cm surviving fragment specifically to C44 and the 13 × 10 cm fragment specifically to C81 unless the inventory/object catalogue or figure captions provide that mapping.
+
+### Glaze discrepancy status
+The 2007 source explicitly reports green glazing. The 2000 detailed description previously extracted in this archive was summarized as unglazed. Because the 2007 article itself sends the reader back to the 2000 article for the object's technical details, the discrepancy should remain recorded as a publication-level contradiction, not silently resolved. The current archive therefore records: 2007 = glazed; 2000 = earlier unglazed wording reported, exact visual/object control still pending.
+
+### Figure chain
+The 2007 article explicitly cites Drăghiceanu 1923 figs. 78, 79, 80 for these Curtea fragments. This is direct bibliographic linkage, but not yet a visual comparison. No claim is made that every one of those figures depicts the exact same surviving fragment.
