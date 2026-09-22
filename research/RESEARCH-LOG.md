@@ -2418,3 +2418,30 @@ S210 added; Pass 124 recorded; index.html untouched.
 
 ### Next target
 Use the 1914 administrative precedent to search the 1394 dossier and related 1921–1930 CMI records for actual collection/inventory/transfer language, especially documents signed by Drăghiceanu and correspondence with the central/national museums.
+
+
+## Pass 125 — 22 September 2026
+
+### Target
+Cross-check the CMI dossier 1394 catalogue against an independent archival finding aid and test the date/file-count metadata before pursuing page-level custody evidence.
+
+### Result
+A 1996 BCMI archival catalogue independently lists dossier **1394** for Curtea de Argeș, Biserica Domnească Sf. Nicolae. It gives **184 files/leaves** and, in this catalogue entry, dates the unit **1922–1930**. It describes correspondence, payment states, a 1928 plan of the Curtea Domnească, 1929 restoration estimates and 1930 restoration documentation, with V. Drăghiceanu and Tzigara Samurcaș among the named signatories. citeturn0search24
+
+### Important metadata discrepancy
+The independent 1996 finding aid gives **1922–1930**, while the project catalogue previously used in the archive describes the dossier as **1921–1930**. The archive now preserves both descriptions rather than silently choosing one. The difference may reflect catalogue conventions or the inclusion/exclusion of a file, but no explanation was found in this pass.
+
+### Significance
+The independent finding aid strengthens the existence and scale of dossier 1394 as a documentary unit. It also shows that its contents include plans, payment records and restoration correspondence, not merely narrative history.
+
+This still does **not** identify C44/C81, 4119, 4130 or 10073. No object-level link is inferred.
+
+### C44/C81 status
+Unchanged: 4119/C44 stable; C81 4130 vs 10073 unresolved; 2000 unglazed vs 2007 green/light-green glazed unresolved.
+
+### GitHub
+Backup: backup/pass125-pre-research-2026-09-22
+S211 added; Pass 125 recorded; index.html untouched.
+
+### Next target
+Use the independent finding aid to refine the page-level dossier search, prioritizing 1922–1930 correspondence, museum-facing documents, payment records and plans, while preserving the 1921/1922 date discrepancy as a catalogue-level issue.
