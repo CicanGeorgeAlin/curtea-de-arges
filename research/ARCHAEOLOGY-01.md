@@ -1749,3 +1749,68 @@ This distinction is now recorded as a core methodological point:
 **OPEN — NOT COMPLETE.**
 
 Pass 63 establishes the 1980 ceramic evidence as a distinct research layer and strengthens the archive's object-level methodology. The next target is to trace the **1982 publication backward to the 1979 campaign references and forward into later specialist ceramic/stove-tile studies**, checking which classifications survived, changed, or were disputed.
+
+
+## Re-analysis and gap check — Pass 64 — 22 September 2026
+
+### 1982 ceramic/stove study traced forward into later specialist classification
+
+Pass 64 traced the 1982 Curtea de Argeș ceramic/stove publication into later specialist literature rather than treating its classifications as permanently fixed.
+
+A 2013 specialist study by Maria-Venera Rădulescu, **“Cahle pentru coronamentul sobelor medievale din Ţara Românească (secolele XIV–XVII)”**, explicitly cites both the 1979 and 1982 Bătrîna & Bătrîna Curtea de Argeș reports in its bibliography. It organizes Wallachian stove-canopy material by constructive form — including **cahle-disc, cahle-convexe, cahle-traforate and cahle-placă** — and stresses that shape and construction are tied to function. This provides a later typological framework into which the Curtea de Argeș material can be compared. citeturn3view0
+
+This is important for the archive because a later typological framework is not itself proof that every Curtea de Argeș fragment belongs to a particular type. The archive therefore records the relationship as:
+
+**1982 excavation material → later specialist typology → object-by-object comparison required.**
+
+### 2024 specialist reassessment: a Curtea de Argeș stove tile without archaeological context
+
+A 2024 study by Maria-Venera Rădulescu revisits a fragmentary **cahlă-placă from Curtea de Argeș** depicting a mounted knight in a tournament scene. The author records its dimensions as **13.2 × 17 × 1.2 cm**, notes its green glaze and mould-impressed decoration, and states that the upper part and stove-fixing system are missing. Crucially, the study says that the **year and place of discovery are unknown and the archaeological context/stratigraphy is not recorded**. citeturn5view0
+
+The chronological assessment is therefore stylistic/iconographic rather than stratigraphic: the armour and lance are considered characteristic of the **first half of the 16th century**, and the author proposes a first-half-16th-century date, with the possibility that it belongs to the end of the preceding century. The study's conclusion explicitly identifies the Curtea de Argeș piece as a fragmentary tile proposed for the **16th century**, while acknowledging the absence of discovery-year, exact-place and stratigraphic data. citeturn3view1turn5view0
+
+### Critical source-control distinction
+
+This later Curtea de Argeș tile must **not** be silently merged with the context-controlled stove material from the 1980 Bătrîna & Bătrîna campaign.
+
+The archive now distinguishes:
+
+**A. Context-controlled 1980 campaign material**
+- recovered in defined excavation areas;
+- associated with stratigraphic sequences;
+- stove discs/plates and other ceramic material analysed within the campaign;
+- chronology assigned from archaeological context and typological comparison.
+
+**B. Later specialist study of an uncontexted Curtea de Argeș cahlă**
+- archaeological discovery context unknown;
+- exact discovery place unknown;
+- chronology proposed from costume, weapon and iconographic details;
+- later classification = 16th century.
+
+The second category cannot be used to redetermine the first.
+
+### What survived, what changed, what remains open
+
+The literature chain now shows three different levels of continuity:
+
+1. **Surviving classification:** stove tiles remain recognized as a major category of medieval architectural ceramic material, and later specialists continue to distinguish constructive types such as disc and plate tiles. citeturn3view0
+2. **Refined chronology:** later specialist work can date individual Curtea de Argeș tiles differently when it relies on iconography/costume rather than archaeological stratigraphy. The 2024 Curtea tile is proposed for the 16th century, but its lack of context is explicit. citeturn5view0
+3. **Still unresolved:** no evidence reviewed in this pass establishes that the uncontexted 2024 Curtea tile is one of the context-controlled pieces recovered in the 1979–1980 campaigns.
+
+### Research-model upgrade
+
+The ceramic archive now needs an explicit distinction between:
+
+**OBJECT → EXCAVATION CONTEXT → PRIMARY DATING → LATER TYPOLOGY → LATER RE-DATING → CONFIDENCE**
+
+and, separately:
+
+**UNCONTEXTED OBJECT → PHYSICAL/ICONOGRAPHIC DESCRIPTION → SPECIALIST TYPOLOGY → STYLISTIC DATING → PROVENANCE CONFIDENCE**
+
+This prevents later museum/catalogue objects from being inserted into an excavation sequence merely because the locality name is the same.
+
+### Stage status
+
+**OPEN — NOT COMPLETE.**
+
+Pass 64 strengthens the later specialist chain but also demonstrates why ceramic chronology must remain object-specific. The next target is to trace the **1979–1980 ceramic figures and plates into every later specialist citation that can be tied to a specific Curtea de Argeș object**, while simultaneously continuing the broader settlement/campaign matrix so the archive does not become dominated by stove tiles alone.
