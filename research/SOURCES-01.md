@@ -559,3 +559,12 @@ Coverage controlled in the publication: research continued in several city zones
 Use: **primary specialist archaeological publication**. This source is retained as a separate 1980 campaign record and is not merged with the 1979 test sectors.
 
 URL: https://biblioteca-digitala.ro/reviste/cercetari-arheologice/05-cercetari-arheologice-V-1982.pdf
+
+
+## S86 — Adrian & Lia Bătrîna, 1983, “Cu privire la un sigiliu de comerț din sec. al XV-lea descoperit la Curtea de Argeș”
+
+Authors: Adrian Bătrîna; Lia Bătrîna. Publication: *Cercetări Numismatice*, V, 1983, pp. 197–211. ProEuropeana identifies the article specifically as a study of a 15th-century trade seal found at Curtea de Argeș and classifies it under archaeological excavations, heraldry and seals. citeturn0search1
+
+Use: **specialist primary publication for the 1979 dwelling-4 seal**. The find is linked to the 1979 excavation through later bibliographic cross-references; the dedicated article must control the object's detailed dating, reading and interpretation. The archive therefore treats “15th-century trade seal” as the publication's title-level classification, not yet as an independently reconstructed conclusion.
+
+URL: https://biblioteca-digitala.ro/?descriptor=2187-curtea-de-arges-oras-din-romania
