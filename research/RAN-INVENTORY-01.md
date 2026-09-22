@@ -176,3 +176,17 @@ Drujești is now strengthened as an archaeological intervention/publication node
 Bătușari/Brad-Botușari is added to the **heritage reconciliation queue**, but not promoted as a new archaeological RAN record. Current institutional history is insufficient by itself for that step. citeturn1search1
 
 Stage remains OPEN — NOT COMPLETE.
+
+## Pass 20 — LMI ↔ RAN reconciliation correction
+
+A targeted recheck produced an important control result for Olari.
+
+The 2015 LMI independently identifies the Olari ensemble as AG-II-a-A-13639, with church AG-II-m-A-13639.01, enclosure AG-II-m-A-13639.02 and crosses AG-IV-m-A-13639.03. citeturn1search4turn1search13
+
+A secondary 2022 article claims that the same monument appears in RAN as **13631.09**, but targeted current RAN searches did not independently retrieve that code. Therefore the previous “13631.09? Olari” row must remain explicitly **CANDIDATE / DISCREPANCY**, not a verified RAN record. citeturn2search0
+
+This is a useful self-correction: the LMI identity and a claimed RAN identity are now separated instead of being treated as equivalent.
+
+Sân Nicoară is also strengthened: the current RAN record itself records discovery in 1886 and preventive archaeological research in 2009–2011, with the 2011 campaign report. citeturn1search1turn1search7
+
+Stage remains OPEN — NOT COMPLETE.
