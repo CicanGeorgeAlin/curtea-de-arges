@@ -1346,3 +1346,21 @@ What remains directly controlled is stronger and cleaner: the 1983 primary trade
 **Current L4 status:** identity = controlled; burned remains = controlled from 1983 article; architecture/plan/independent pottery dating = OPEN.
 
 **Stage 1 remains OPEN.**
+
+
+## Pass 56 — 22 September 2026 — new page-level L4 retrieval target
+
+The 1983 primary seal study provides an exact page-level lead back into the 1979 excavation report: its notes cite the 1979 report at **p.144 and p.153** when discussing the L4 dwelling. citeturn0search35
+
+This is a stronger retrieval target than the previously emphasized p.166/fig.14 reference, which later literature uses in comparative stove-tile discussion. citeturn0search36
+
+**Next primary extraction target: 1979 report p.153.** The archive will not infer the contents before direct page-level control.
+
+Current L4 status remains:
+- dwelling identifier L4: controlled;
+- burned remains: controlled;
+- seal association: controlled;
+- merchant-owner identification: author hypothesis;
+- architecture, dimensions, plan, stratigraphy: OPEN.
+
+**Stage 1 remains OPEN.**
