@@ -1252,3 +1252,14 @@ These are compatible overlapping ranges, but no exact year is assigned.
 **Architectural lead:** semi-sunken dwelling + gârlici entrance. Exact dimensions, construction details and plan orientation remain OPEN.
 
 **Stage 1 remains OPEN.**
+
+
+## Pass 48 — 22 September 2026 — L4 typology independently confirmed
+
+A specialist archaeological catalogue independently confirms that Curtea de Argeș L4 is a **semi-sunken dwelling with a gârlici-shaped entrance**, dated from ordinary pottery to the **first half of the 15th century**; the associated stove-tile fragments are also assigned to that period. citeturn0search24
+
+A separate 2010 Argeș museum synthesis describes the broader Curtea de Argeș merchant-house type—cellar, elongated gârlici and a ground-floor room with a stove—and says a Tournai luxury-cloth seal was found in the calcined ruins of such a house. citeturn0search25
+
+**Control:** the 2010 passage is not used to assert an exact one-to-one architectural identification with L4 unless the underlying excavation evidence establishes it. L4's typology and first-half-15th-century chronology are independently retained from the specialist catalogue.
+
+**Stage 1 remains OPEN.**
