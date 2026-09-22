@@ -1108,3 +1108,23 @@ Control:
 No physical identity is claimed.
 
 Sources: citeturn0search0turn0search15
+
+## S109 — 2019 official CCA independent confirmation of CXL/1 chain
+
+The official CCA 2019 PDF repeats the Câmpulung horse-leg cahlă description, identifies the iconographic theme as „oșteanul ecvestru”, gives the Băjești/Mareș Băjescu analogy, and assigns note 11 to Rădulescu 2017, Pl. CXL/1.
+
+Control:
+**INDEPENDENT REPRODUCTION = YES**
+**DIRECT PLATE/CAPTION = STILL PENDING**
+
+Sources: citeturn2search6turn1search10
+
+## S110 — Câmpulung 2001/2017 Mareș Băjescu hypothesis kept separate
+
+The 2017 Câmpulung excavation report records 1666 double-headed-eagle stove-tile fragments from the 2001 sondage and says these findings motivated the hypothesis that the area contained the house of Mareș Băjescu. The report supports the hypothesis with a 1708 documentary reference.
+
+Control:
+**CÂMPULUNG MAREȘ BĂJESCU = EXCAVATOR HYPOTHESIS**
+**NOT PROOF OF CXL/1 PROVENANCE**
+
+Sources: citeturn1search7turn1search10
