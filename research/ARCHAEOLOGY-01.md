@@ -2242,3 +2242,57 @@ The authors explicitly state that the form of these unglazed pieces can fit eith
 The archive has now moved from a plate bibliography toward an actual **plate/object evidence matrix**. The next target is to recover the visual plates themselves at sufficient resolution to inspect each numbered item and link the image to the textual description, without inventing attributes that the image or caption does not establish.
 
 **Stage 1 — OPEN / NOT COMPLETE.**
+
+
+## Archaeology autopilot — Pass 75 · 22 September 2026
+
+### Primary plate control: Romanian text resolves several object identities
+
+A page-level re-reading of the official 1982 PDF produced a stronger object map than the generalized plate hierarchy. The primary text explicitly links individual numbered plate items to forms and decorative motifs. citeturn0view0turn1view0
+
+### Controlled object links recovered
+
+- **Pl. II** is specifically described in the page header as a **taler smălțuit** (glazed taler) of the 14th century, not merely an unspecified “glazed plate”.
+- **Pl. III/1, III/3, III/4** are glazed ceramic pieces associated with the 14th-century corpus.
+- **Pl. III/2** is the **crăiță / kiln support**, linked by the text to glazed-ceramic firing.
+- **Pl. IV/1** is the small cup (**pahar**) described as about 7 cm high, tronconic, with a slightly inward-curved rim and widened foot; the authors interpret its small size as suggesting use for stronger alcoholic drinks.
+- **Pl. IV/2** and **Pl. V/1** carry the “vârtej”/whirl decorative motif.
+- **Pl. IV/3** and **Pl. IV/5**, together with **Pl. III/1, III/3, III/4**, are tied to concentric-circle decoration.
+- **Pl. IV/1** has radial/star decoration on the interior wall.
+- **Pl. V/4** has curved-line decoration and small incised lines.
+- **Pl. V/1** includes the partially preserved leopard image; the identification is explicitly comparative, based on an analogous piece from southern Moldavia.
+- **Pl. VII/1, VII/4; Pl. IV/1, IV/2, IV/3, IV/5; and Pl. V/4** are cited for the two perforations through ring feet of străchini/farfurii.
+
+These links are substantially stronger than simply recording “ceramic plate”. citeturn0view0
+
+### Important methodological distinction: form vs function vs motif
+
+The archive now treats these separately:
+
+**FORM** → taler / pahar / strachină / farfurie / production support  
+**DECOR** → spiral / concentric / radial / whirl / zoomorphic etc.  
+**PHYSICAL FEATURE** → ring foot / two perforations  
+**FUNCTION** → vessel / possible decorative interior use / kiln support  
+**INTERPRETATION** → only where the excavators explicitly propose one
+
+This matters because a decorative motif does not establish a vessel's function, and a physical feature does not automatically prove the excavators' interpretation.
+
+### New caution: “decorative interior use” is not a universal object function
+
+The authors state that two perforations in ring feet provide evidence for the decorative role of a significant part of the vessels and connect this to the practice of decorating interiors with glazed vessels. The archive will therefore record this as an **authorial functional interpretation applying to a significant part of the corpus**, not automatically to every illustrated vessel. citeturn0view0
+
+### New chronology control
+
+The 1980 excavation at Str. Mircea cel Mare nr. 1 had a unified stratigraphy. The enclosure-wall construction level was around 1340, while material from the walking level was dated by stratigraphic and typological relations to the end of the 14th through middle of the 15th century. The illustrated plates themselves are captioned as 14th-century material for Pl. I–V. citeturn0view0turn1view0
+
+Therefore the archive will not automatically equate:
+
+**plate caption = exact depositional date = object manufacture date**.
+
+Those are separate fields.
+
+### New research target
+
+The next step is now to reconstruct **Pl. I–V item by item**, using the primary text's explicit cross-references. Visual inspection remains necessary for morphology and decoration that the text does not fully describe.
+
+**Stage 1 — OPEN / NOT COMPLETE.**
