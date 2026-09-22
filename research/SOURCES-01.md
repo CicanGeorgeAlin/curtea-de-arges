@@ -1029,3 +1029,32 @@ Control:
 **CURTEA Pl. IV/6 ↔ RĂDULESCU Pl. CXL/1 = UNPROVEN PHYSICAL IDENTITY**
 
 Source: citeturn13view0turn16view0
+
+
+## S102 — 2018 Câmpulung report: corrected footnote attachment
+
+The 2018 Câmpulung report must be read by sentence-to-footnote attachment, not by adjacent bibliography.
+
+Controlled sequence:
+- Spiral-decorated glazed plates → similar pieces at Câmpulung and Curtea de Argeș → **footnote 10** → Bătrîna & Bătrîna, Curtea de Argeș, Pl. IV/6.
+- Separate yellow-glazed cahlă fragment with horse-leg motif / „oșteanul ecvestru” → **footnote 11** → Rădulescu 2017, Pl. CXL/1.
+
+This corrects the earlier archive interpretation that Pl. IV/6 and Pl. CXL/1 formed a single comparison pair.
+
+Source: citeturn6search0turn6search10
+
+Control:
+**PL. IV/6 ↔ PL. CXL/1 = NO OBJECT-IDENTITY CLAIM.**
+
+## S103 — Rădulescu 2017 Pl. CXL/1: research target reclassified
+
+Pl. CXL/1 should now be investigated as part of the **horse-leg / „oșteanul ecvestru” cahlă reference chain**, not as a presumed illustration of the Curtea de Argeș spiral-decorated glazed vessel.
+
+The exact object illustrated by CXL/1, its provenance and its relation to the Câmpulung fragment remain to be established from the 2017 volume itself.
+
+Control:
+**PROVENANCE = OPEN**
+**OBJECT IDENTITY = OPEN**
+**RELATION TO CURTEA Pl. IV/6 = NONE ESTABLISHED**
+
+Source: citeturn6search0turn6search10
