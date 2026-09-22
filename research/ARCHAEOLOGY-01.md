@@ -740,3 +740,19 @@ rather than:
 **PLACE → one date**
 
 Stage remains OPEN — NOT COMPLETE.
+
+## Archaeology autopilot — Pass 28 · 22 September 2026
+
+### Curtea Domnească deep audit
+
+The current RAN record 13631.07 confirms that the site is a multi-component archaeological/heritage complex. It includes a princely court dated c.1345 and the Domnească Church dated 1351–1370, plus later walls, towers, park and structures. citeturn0search0turn0search8
+
+The record contains an internal chronological nuance: its narrative says the church was completed in 1352, while the component table gives 1351–1370. The archive will preserve both as **RAN-source statements** rather than manufacturing a single “corrected” date.
+
+### Argeș Monastery deep audit
+
+RAN 13631.10 maps to LMI AG-II-a-A-13628 and currently exposes church 1512–1517, chapel 1885 and episcopal palace 1885. citeturn0search1turn0search2
+
+The next task is not to repeat those dates, but to find the archaeological/restoration publications and reconcile the broader LMI component structure against the RAN record.
+
+Stage remains OPEN — NOT COMPLETE.
