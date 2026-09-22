@@ -1555,3 +1555,75 @@ The difference is not resolved here. It is a research question about the relatio
 **OPEN — NOT COMPLETE.**
 
 Pass 60 closes the p.153–154 architectural/graphic gap and begins controlled extraction of the L4 ceramic assemblage. The next useful target is the remainder of the L4 material analysis, especially the stove-tile section and its figure/plate references, followed by a return to the broader 1979 campaign so L4 does not become disproportionately documented relative to L1–L3 and the other urban excavation areas.
+
+
+## Re-analysis and gap check — Pass 61 — 22 September 2026
+
+### L4 stove evidence recovered directly from the 1979 primary report
+
+The L4 ceramic sequence can now be extended through the stove section of the original report.
+
+The excavators explicitly state that **stove tiles (cahle), smoke flues (olane pentru fumuri) and daub fragments** recovered from the L4 cellar fill constitute evidence for a stove within the complex. They distinguish two principal tile families:
+
+- **cahle-oală**: pot-shaped stove tiles, documented in several variants;
+- **cahle-disc**: disc-shaped tiles decorated with concentric ribs.
+
+The report illustrates three L4 stove-tile examples in **Fig. 14**: two pot-shaped tiles and one disc tile. The figure caption identifies them as coming from the L4 fill and dates the illustrated material to the **second half of the 14th century**. The authors also describe smoke flues as slightly expanded tubular elements, approximately **45–50 cm high with a maximum diameter of 28 cm**. citeturn3view0
+
+### Chronological significance — controlled, not overextended
+
+The authors place the existence of the stove at Curtea de Argeș in the **last decades of the 14th century** and compare it with a stove in a timber cellar house at Târgoviște, which they associate with around 1390. They interpret the L4 stove as part of an early spread of tiled-stove heating technology in Wallachia. This is the authors' comparative historical interpretation; the archive does not turn it into an independently proven regional diffusion model. citeturn3view0
+
+### Important correction to the earlier figure-14 uncertainty
+
+The original 1979 report now directly controls **Fig. 14 as L4 stove-tile evidence**. The earlier caution was correct at the time because the figure had not been directly recovered; it can now be upgraded.
+
+This also clarifies why later specialist literature cited Bătrîna & Bătrîna 1981 p.166 fig.14/3: that reference concerns the **disc stove tile**, not the Tournai seal.
+
+### L1–L3 become the next settlement-level priority
+
+The same primary report provides a much clearer comparative sequence:
+
+**L1**
+- semi-sunken dwelling;
+- two occupation phases;
+- both before construction of the Curtea Domnească enclosure wall;
+- first phase dated by stratigraphic context to the end of the 13th / beginning of the 14th century;
+- second phase dated to the first half of the 14th century;
+- first phase has a simple hearth; second phase has a raised oven on a stone socle. citeturn1view0turn2view0
+
+**L2**
+- only part of its gârlici survived because L4 cut it;
+- two occupation phases;
+- stratigraphically dated to the first decades of the 14th century;
+- interpreted by the excavators as another semi-sunken timber-structure dwelling. citeturn2view0
+
+**L3**
+- later than L1 and L2;
+- placed by the excavators around the middle of the 14th century;
+- surface dwelling;
+- wall line marked by a river-stone socle on which wooden sill beams were thought to have rested;
+- floor made with a compacted clay layer;
+- floor-level ceramic fragments were considered useful for studying 14th-century ceramic development and decoration. citeturn2view0
+
+### Settlement-development chain emerging from the 1979 evidence
+
+Without turning the excavators' model into an absolute city-wide chronology, the four dwellings provide a controlled local sequence:
+
+**L1 early phase → L1 later phase / L2 → L3 → L4**
+
+with the reported chronological signals moving broadly from **late 13th/early 14th century → first half of 14th century → mid-14th century → last decades of 14th century**. This sequence belongs to the investigated archaeological contexts, not automatically to every part of medieval Curtea de Argeș. citeturn1view0turn2view0
+
+### New research question: urban development versus sampled plot history
+
+The report's introduction says the investigators deliberately placed sections in vacant plots aligned with streets because they hypothesized that at least part of the modern street network corresponded to the medieval one. They recovered four dwellings, two completely and two partially. citeturn1view0
+
+This means the four-house sequence is especially valuable as **settlement evidence**, but it must not be silently promoted into a complete urban chronology. The archive should preserve the distinction between:
+
+**excavated plot sequence → sampled settlement evidence → wider urban interpretation.**
+
+### Stage status
+
+**OPEN — NOT COMPLETE.**
+
+Pass 61 substantially strengthens the 1979 settlement record and closes the Fig.14 stove-tile identification gap. The next target is a structured extraction of the **individual L1/L2/L3 evidence chains**, including their finds, phases, heating installations and ceramic dating, before integrating the 1980 continuation and other urban excavation campaigns.
