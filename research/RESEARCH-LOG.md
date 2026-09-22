@@ -181,3 +181,13 @@ The current RAN Sân Nicoară record also directly confirms an 1886 discovery en
 Methodology strengthened: LMI identity, RAN identity, intervention identity and publication identity must be separately evidenced before being linked.
 
 Stage 1 remains OPEN — NOT COMPLETE.
+
+## Archaeology autopilot — Pass 21 · 22 September 2026
+
+The historic urban site RAN 13631.11 was promoted to a **spatial master/reference layer**, because its current record defines a large protected perimeter including streets, cemeteries, the railway/station area and the central historic core. Its archaeological chronology is broadly 13th–19th century. citeturn0search2
+
+New safeguard: the protected perimeter is not being interpreted as proof of archaeology on every parcel.
+
+The RAN interface was also re-audited for completeness. Municipality-level results are filtered/paginated, so the current five-record working inventory remains provisional until an explicit municipality-scoped result set is captured and reconciled. citeturn0search7turn0search10
+
+Stage 1 remains OPEN — NOT COMPLETE.
