@@ -2122,3 +2122,29 @@ S200 added; Pass 114 recorded; index.html untouched.
 
 ### Next target
 Continue the 2017 synthesis/catalogue route, but focus on plate/cat­alogue captions and bibliography rather than broad Curtea de Argeș searches; search exact museum identifiers only when an object-level source is available.
+
+
+## Pass 115 — 22 September 2026
+
+### Target
+Recover exact text from the 2018 Rădulescu Curtea de Argeș plate-tile article and use it to refine Drăghiceanu figure-control and object separation.
+
+### New evidence
+The 2018 article identifies a separate fragmentary, rectangular **unglazed** plate tile depicting Mircea the Elder, held by the Institutul de Arheologie “Vasile Pârvan”, inventory **I 5884**, measuring 13.2 × 15 × 1.3–2 cm. citeturn2search16turn2search17
+
+The article states that other Curtea de Argeș terracotta fragments had been mentioned by Drăghiceanu in 1923 and cites pp. 70–71, figs. **80, 81, 82, 84, 301, 305**. citeturn2search16
+
+### Important figure-control refinement
+This later source confirms that Drăghiceanu's figure sequence around 80–84 and 301/305 belongs to a broader Curtea de Argeș terracotta evidence set. It does **not** establish object identity for I 5884, C44/C81, or any individual figure. Therefore figure number alone remains insufficient for object matching.
+
+This also strengthens the separation of **I 5884** from the previously isolated **I 5882** group and from MNAR C44/C81.
+
+### C44/C81 status
+No change to the documentary contradiction. The 2000/2007 C44/C81 publications remain the controlling evidence for the pair; no source found in this pass reconciles C81 4130 vs 10073 or unglazed vs green/light-green glazed.
+
+### GitHub
+Backup: backup/pass115-pre-research-2026-09-22
+S201 added; Pass 115 recorded; index.html untouched.
+
+### Next target
+Return to the 1923 Drăghiceanu pages 70–71 and recover the actual figure plates/illustrations, while separately tracking every later inventory such as I 5884. The goal is now visual + textual figure-to-object mapping, not broad keyword discovery.
