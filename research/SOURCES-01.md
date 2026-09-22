@@ -451,3 +451,13 @@ The current RAN record 13631.07 lists the Princely Court as a multi-component ar
 
 ## S71 — Current RAN Argeș Monastery component record
 The current RAN record 13631.10 maps to LMI AG-II-a-A-13628 and currently exposes three archaeological-register components: church 1512–1517, chapel 1885 and episcopal palace 1885. Its site record cites the LMI as the source of the site sheet. citeturn0search1turn0search2
+
+## S72 — 1920–1922 Curtea Domnească excavation evidence
+A 2016 specialist study records archaeological excavations inside the Princely Court from 9 October 1920 to 1 April 1922. The excavation journal records stove-tile finds in the north-west corner of the princely-house basement; the author cautions that their exact spatial grouping is uncertain and gives a broad 15th–17th-century range. The same study states that excavations resumed in 1967 under the Institute of Archaeology “Vasile Pârvan” and that earlier church foundations from around the 13th century were identified inside the Domnească Church, alongside construction phases, chronology and plans for principal components. citeturn0search22
+Use: historical intervention record + specialist reassessment; preserve uncertainty around find location and interpretation.
+
+## S73 — Municipal Museum: visible archaeological results of 1967–1972
+The Municipal Museum states that excavation of the foundations of the 14th-century Princely Palace became visible through the 1967–1972 archaeological research led by Nicolae Constantinescu, and identifies other visible structures including the Neagoe Basarab house cellar and 16th-century enclosure/structures. This is an institutional public-history summary and should remain distinct from the primary excavation publications. citeturn0search0
+
+## S74 — Constantinescu 1984 scope control
+The official bibliographic record for Constantinescu's 1984 monograph explicitly states that its subject is the archaeological research carried out in 1967–1973 and that “Curtea de Argeș” in the study refers specifically to the voivodal core within the modern city, not the whole modern municipality. citeturn0search4
