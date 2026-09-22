@@ -2084,3 +2084,12 @@ A specialist bibliography citing the journal as pp. 134–149 therefore aligns w
 This resolves the article-boundary issue for the archive: **Drăghiceanu Jurnalul = pp.134–149**, while **p.150 onward belongs to Moisil's separate coin study**. The broader catalogue extent 134–152 is retained as catalogue metadata, not as the article's physical boundary.
 
 The page-138 target is therefore firmly inside Drăghiceanu's Jurnalul.
+
+
+## S227 — Direct-page recovery control: p.148 is confirmed for stove-tile finds
+
+Rădulescu 2016 provides a direct page-level citation to Drăghiceanu's *Jurnalul* at **p.148** for the statement that stove terracottas were discovered in the **north-west corner of the cellar of the princely house on the south side of the enclosure**. The same footnote identifies Drăghiceanu 1923b as pp.134–150, while the body text describes the excavation campaign as ending 1 April 1922. citeturn0search17
+
+This gives us a second high-value primary-page anchor, alongside p.138, and importantly places the stove-tile provenance statement on p.148 of the Jurnal. It remains a secondary citation until the original p.148 image/text is directly inspected.
+
+The same source states that Fig.305 shows 16 terracotta fragments and that it is unknown whether all were found in one place or dispersed across the Curtea Domnească area. This is retained as a later-source provenance limitation, not individual-fragment provenance proof. citeturn0search17
