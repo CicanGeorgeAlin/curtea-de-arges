@@ -609,3 +609,14 @@ The 1983 abstract explicitly says the seal was found in the 1979 excavations in 
 The archive keeps this dwelling chronology separate from the seal's heraldic dating.
 
 **Stage 1 remains OPEN.**
+
+
+### Pass 46 · 22 September 2026 · L4 primary-context upgrade
+
+Direct inspection of the 1983 article produced a stronger result: the authors explicitly identify **L4** when discussing the burned remains of the dwelling discovered in the 1979 excavations and argue that the cloth merchant associated with the seal was probably the owner of L4. citeturn0search20
+
+The archive now separates this into three levels: burned L4 = primary textual evidence; merchant-owner identification = authorial interpretation; named merchant identity = not established.
+
+This is the first controlled upgrade from generic “urban-type dwelling” to the publication's own dwelling identifier **L4**.
+
+**Stage 1 remains OPEN.**
