@@ -768,3 +768,13 @@ https://biblioteca-digitala.ro/reviste/cercetari-arheologice/04-cercetari-arheol
 
 Cross-reference:
 https://biblioteca-digitala.ro/reviste/cercetari-numismatice/Cercetari-Numismatice-V-1983-16-Batrana-sigiliu-de-comert-XV-Curtea-de-Arges.pdf
+
+## S85 — Muzeul Național de Istorie a României / *Cercetări Arheologice* — direct article record
+
+Institution: Muzeul Național de Istorie a României, journal *Cercetări Arheologice*.  
+Article: Lia Bătrîna and Adrian Bătrîna, “Cercetări arheologice efectuate în anul 1979 în cuprinsul aşezării Curtea de Argeş, jud. Argeş”, *Cercetări Arheologice*, IV, 1981, pp. 144–171.  
+Coverage: official journal landing page for the original 1979 Curtea de Argeș excavation report, with a direct PDF link. The article page confirms the authors, volume, year and page range. The linked PDF is now a controlled retrieval target for page 153.  
+Use: primary-source bibliographic control and direct retrieval route. The current web text interface did not expose page 153 itself, so no page-level archaeological content is promoted from this source until the scan/OCR is directly readable.
+
+Article page: https://cercetari-arheologice.ro/articol/ca04_15/  
+Direct PDF: https://cercetari-arheologice.ro/wp-content/uploads/2020/01/ca04-15_Bitrina_Bitrina_Curtea_Arges.pdf
