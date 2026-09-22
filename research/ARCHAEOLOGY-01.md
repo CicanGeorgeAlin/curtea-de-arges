@@ -2132,3 +2132,61 @@ The ceramic corpus can now be divided into controlled chains:
 → traditional forms → horn-drawn decoration → yellow/green glaze → chronology controlled with authorial caution.
 
 **Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+
+## Archaeology autopilot — Pass 73 · 22 September 2026
+
+### Primary plate control: the 1982 Curtea de Argeș ceramic corpus
+
+A direct re-reading of the official 1982 *Cercetări Arheologice* PDF adds an object-level control layer. The article explicitly separates the 14th–15th-century vessel corpus from stove material and identifies the illustrated plates by function and chronology. citeturn1view0
+
+The primary text states that:
+- small drinking vessels are represented on **Pl. IV/1**; the cups are described as approximately 7 cm high, tronconic, with a slightly inward-curved rim and widened foot;
+- glazed 14th–15th-century vessels are dominated by **strachină** and **farfurie**, both with ring feet, with **taler** treated as a variant;
+- the decorative corpus includes concentric circles, spirals, radial/star patterns, curved-line combinations, scales, whirl motifs and a partially represented leopard;
+- the same report separately identifies stove discs and rectangular/triangular stove plates, preventing vessel plates from being merged with stove-tile plates. citeturn1view0
+
+### Plate IV/6: final controlled status
+
+The archive keeps **Pl. IV/6** in the non-stove glazed-vessel corpus. The recovered plate contains item 6, and the earlier direct plate check identifies **IV/6 as a glazed ceramic vessel with spiral decoration**.
+
+Therefore:
+**Pl. IV/6 = CURTEA DE ARGEȘ GLAZED CERAMIC VESSEL**
+**spiral decoration = CONTROLLED**
+**stove tile = NO**
+
+The later Câmpulung comparison remains attached to the Curtea vessel, not to the separate Rădulescu CXL/1 horse-leg cahlă chain. citeturn1view0
+
+### New object-model distinction
+
+**OBJECT FORM** → strachină / farfurie / taler / small cup  
+**DECORATIVE SYSTEM** → sgraffito / concentric / spiral / radial / vegetal / zoomorphic  
+**PHYSICAL FEATURE** → ring foot / perforations  
+**FUNCTIONAL INTERPRETATION** → vessel / possible interior decorative use  
+**EXCAVATION CONTEXT** → Str. Mircea cel Mare nr. 1, 1980 campaign  
+**CHRONOLOGY** → report's 14th–15th-century corpus, with individual object dating kept context-specific
+
+### Workshop inference remains bounded
+
+The primary report says that numerous engobed and sgraffito-decorated but unglazed fragments are interpreted as workshop rejects and that a crăiță occurred in the same context. The excavators infer a pottery workshop not far from the find location. The exact workshop building has not been located in the evidence recovered so far. citeturn1view0
+
+The archive therefore records:
+**production evidence = VERIFIED**  
+**workshop interpretation = AUTHORIAL**  
+**exact workshop location = OPEN**
+
+### Stove sequence kept separate
+
+The article describes stove discs with concentric ribs and central buttons and rectangular/triangular stove plates with vegetal-geometric or figurative decoration. **Plate VII is explicitly captioned as 14th-century stove discs.** citeturn1view0
+
+The archive will not use “ceramic plate” and “stove plate/cahlă” interchangeably.
+
+### New gap identified
+
+The next useful step is to recover the **actual plate images/captions for Pl. I–V and VII at object level**, then build a controlled object table linking each illustrated item to: **plate → item number → form → decoration → context → chronology → later citation**.
+
+Where an image cannot be recovered, the archive will preserve the textual description and mark visual control as pending.
+
+### Stage status
+
+**OPEN — NOT COMPLETE.**
