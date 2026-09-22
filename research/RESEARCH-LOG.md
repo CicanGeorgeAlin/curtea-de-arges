@@ -1589,3 +1589,25 @@ index.html untouched.
 
 ### Next target
 Directly inspect Drăghiceanu 1923a pp. 70–71 and figures 78–82, and Fig. 305 in the 1923 journal, then map which later publications are referring to which original images.
+
+
+## Pass 94 — 22 September 2026
+
+**Target:** determine how later ceramic scholarship used Drăghiceanu's 1923 figures 78–82.
+
+### New control
+Barbu Slătineanu's ceramic literature identifies rectangular relief-impressed plates as a category and cites **BCMI 1923, figs. 78–82, 84 and 301** as examples. citeturn0search36turn2search21
+
+### Interpretation
+This independently confirms the 1923 figure family was treated as rectangular relief-decorated ceramic plates in later scholarship. It does not identify I 5882 or establish which individual figure corresponds to the 2016 wedding/dance fragments.
+
+### Figure separation preserved
+Figs. 78–82/84/301 remain a separate figure group from Fig. 305 until the original 1923 plates are directly compared.
+
+### GitHub
+Backup: backup/pass94-pre-research-2026-09-22
+Updated archaeology, research log, sources.
+index.html untouched.
+
+### Next target
+Trace the exact 1935 Slătineanu passage and its page/figure context, then recover the original 1923 plates where possible. Compare visual/iconographic content rather than relying on figure-number assumptions.
