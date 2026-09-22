@@ -371,3 +371,20 @@ The 2013 Constantinescu volume reproduces:
 The same volume also records later research in microzones of the historic voivodal centre, including evidence of iron-working activity, a pottery kiln, pottery fragments and pottery-making tools. These later microzone observations are kept separate from the 1967–1969 core-court plan.
 
 **Control:** the 2013 volume is a later synthesis. It can reconstruct the published archaeological model, but it does not by itself replace original field notebooks, context sheets or complete find inventories.
+
+
+## Pass 32 — Beyond the monument: the former Curtea Domnească microzone
+
+The archive now distinguishes the **princely-court core** from archaeological work in the surrounding former Curtea Domnească microzone.
+
+A published EMV-I profile from the 1983 research records:
+- four successive habitation levels dated to the **13th–14th centuries, up to about 1340**;
+- later occupation beginning in the second half of the 14th century and continuing into the modern period;
+- a **14th-century iron-working layer**;
+- a **14th-century pottery kiln**.
+
+A second section, EMV-III, was also part of the campaign. The two sections were 45 m × 2 m and 25 m × 2 m respectively.
+
+These data are retained as a separate **microzone intervention** and are not automatically merged with the stratigraphy of the princely-court enclosure.
+
+**Spatial-control rule:** archaeological observations are attached to their excavated section/microzone before being generalized to any wider historical interpretation.
