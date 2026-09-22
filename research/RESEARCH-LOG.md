@@ -85,3 +85,26 @@ Canonical modern Romanian city form reaffirmed: **Curtea de Argeș**.
 Historical/source spellings such as “Curtea de Argeş” may be retained only when reproducing or describing the original source record. The archive's own modern prose will use **Curtea de Argeș**.
 
 A fresh RAN web cross-check confirms that current database records use source-era/unaccented variants in some fields, while the locality is the municipality of Curtea de Argeș. These variants are now treated as source metadata, not canonical project naming.
+
+
+## Archaeology autopilot — Pass 15 · 22 September 2026
+
+The project entered the next self-analysis cycle after the English-first public interface and social-preview work.
+
+### What was checked
+- current RAN source pages for Drujești and Sân Nicoară;
+- current database maintenance/update information;
+- the 2011 Sân Nicoară archaeological report;
+- Constantinescu's 1984 archaeological synthesis and its scope;
+- the existing RAN inventory, archaeology pass history and working chronology.
+
+### What changed in the research method
+The archive now explicitly separates **register chronology**, **excavation dating**, **historical interpretation**, and **current synthesis**. This is especially important where a current register gives one date while an archaeological report preserves another specialist hypothesis.
+
+### New conclusion
+The archaeological foundation remains **OPEN — NOT COMPLETE**. The current evidence is stronger, but the complete municipal archaeological inventory and campaign/publication/context matrix still need to be reconstructed before Stage 1 can be closed.
+
+### Autopilot improvement
+The project is no longer only accumulating sources. Each new pass must also test whether the **research architecture itself** is becoming more accurate. When a better distinction, source-control rule or record structure is discovered, it becomes part of the methodology and is then applied to subsequent research.
+
+Next priority: continue archaeological inventory reconciliation and campaign/publication reconstruction before expanding into the next historical layer.
