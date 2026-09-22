@@ -445,3 +445,9 @@ Use: primary campaign/spatial-context evidence; do not treat contextual interpre
 
 ## S69 — Sân Nicoară LMI memorial component
 The 2015 LMI also records AG-IV-m-A-13655.03, “Crucea Eroilor 1916–1918,” at Str. Sân Nicoară 1, dated 1916–1920. This is a separate memorial component within the broader Sân Nicoară landscape and should not be conflated with the medieval church archaeological site. citeturn0search23
+
+## S70 — Current RAN Curtea Domnească component record
+The current RAN record 13631.07 lists the Princely Court as a multi-component archaeological site: princely court c.1345, Domnească Church 1351–1370, and additional medieval/modern components including enclosure walls, towers, park and later structures. The record itself states that the Domnească Church was completed in 1352 within the 14th-century voivodal residence, while the component table dates it 1351–1370. These are preserved as the RAN's own parallel chronology statements. citeturn0search0turn0search8
+
+## S71 — Current RAN Argeș Monastery component record
+The current RAN record 13631.10 maps to LMI AG-II-a-A-13628 and currently exposes three archaeological-register components: church 1512–1517, chapel 1885 and episcopal palace 1885. Its site record cites the LMI as the source of the site sheet. citeturn0search1turn0search2
