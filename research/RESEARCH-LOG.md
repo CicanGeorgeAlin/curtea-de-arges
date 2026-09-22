@@ -2470,3 +2470,42 @@ Unchanged: 4119/C44 stable; C81 4130 vs 10073 unresolved; 2000 unglazed vs 2007 
 ### GitHub
 Backup: backup/pass126-pre-research-2026-09-22
 S212 added; Pass 126 recorded; index.html untouched.
+
+
+## Pass 127 — 22 September 2026
+
+### Target
+Push the CMI dossier 1394 investigation from catalogue-level metadata toward actual sheet-level evidence.
+
+### Breakthrough
+The 2020 open-access study by Florentina Udrea-Manea and Gheorghe Carutiu reproduces/describes specific pages from dossier 1394:
+- **sheet 25** — map of the Royal Court at Argeș;
+- **sheet 46** — Drăghiceanu report with supporting documents for 20,000 lei of reinforcement costs at the royal residential buildings;
+- **sheet 66** — Drăghiceanu request for reimbursement of **5,280 lei** for costs associated with excavation works carried out at Curtea de Argeș from **September 1922 to January 1923**. citeturn2view0
+
+### Significance
+This is stronger than catalogue metadata. We now have independent sheet-level evidence that dossier 1394 contains documentation directly tied to excavation activity at Curtea de Argeș in **September 1922–January 1923**.
+
+The archive's own catalogue independently confirms dossier 1394, **184 leaves**, its Curtea Domnească contents, and the existence of a plan. citeturn4view0
+
+### Critical separation
+Do not merge the following automatically:
+1. Drăghiceanu's 1920 investigation;
+2. the September 1922–January 1923 excavation activity documented in dossier 1394;
+3. the 1923 publication and its figures 78–84;
+4. the later MNAR C44/C81 objects.
+
+The new evidence establishes documentary continuity at the excavation-administration level, but not yet object custody or identity.
+
+### C44/C81 status
+Unchanged: 4119/C44 stable; C81 4130 vs 10073 unresolved; 2000 unglazed vs 2007 green/light-green glazed unresolved.
+
+### PDF access limitation
+The archive catalogue exposes a direct PDF link, but the 119,423,106-byte dossier could not be fetched by the web reader because of its size. No page-level claims are made beyond the sheets independently reproduced/described in the 2020 study.
+
+### GitHub
+Backup: backup/pass127-pre-research-2026-09-22
+S213 added; Pass 127 recorded; index.html untouched.
+
+### Next target
+Use the newly established sheet 66 anchor and the surrounding 1922–1923 documentary sequence to search for excavation finds, transport, deposition, museum communication, inventories, and custody language.
