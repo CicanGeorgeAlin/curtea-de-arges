@@ -1456,3 +1456,18 @@ Control: this is later typological synthesis, not a replacement for the 1982 pri
 ## S139 — Pass 84 — separate 15th-century plate-tile corpus
 
 Maria-Venera Rădulescu, “O scenă de dans ritual, de nuntă, redată pe cahle medievale descoperite la Curtea Domnească din Argeș (secolul al XV-lea),” *Cercetări Arheologice* 23 (2016), pp. 151–164. The official article page states that archaeological research at the Princely Court of Argeș in 1920–1922 revealed stove-decoration ceramic fragments and that the study concerns three unglazed plate-tile fragments with a dance/wedding scene, dated to the end of the 15th century. citeturn1search0
+
+
+## S140 — Pass 85 — 1920–1922 stove-tile provenance control
+
+Rădulescu 2016 reports that Drăghiceanu's 1920–1922 excavation recovered stove tiles in the north-west corner of the cellar of the princely house on the south side of the Princely Court enclosure. The same article states that it is unknown whether all 16 photographed fragments came from that same location or were distributed across the Princely Court area, and gives a broad 15th–17th-century decorative chronology. citeturn0search12
+
+Provenance status: **GROUP-LEVEL / UNCERTAIN at individual-fragment level**.
+
+## S141 — Pass 85 — 2016 wedding/dance tile corpus
+
+Rădulescu 2016 studies three unglazed plate-tile fragments from the 1920–1922 Princely Court research, depicting a pair of dancers and a bagpiper with a central cross. The study interprets the scene as connected with a wedding and dates the iconography to the end of the 15th century. citeturn0search0turn0search12
+
+## S142 — Pass 85 — 2024 tournament cahlă
+
+Rădulescu 2024 describes a fragmentary green-glazed plate tile from Curtea de Argeș, 13.2 × 17 × 1.2 cm, depicting an armored mounted tournament knight. The upper part and fixing system are missing; discovery year, exact place and stratigraphy are unknown. citeturn0search13
