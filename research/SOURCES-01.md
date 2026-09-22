@@ -1233,3 +1233,53 @@ The 1982 article supports the following working plate hierarchy:
 This is a research classification based on the article text and plate captions, not a claim that every individual plate item has the same function.
 
 Source: citeturn1view0
+
+
+## S118 — Pass 74 — 1982 plate/object map
+
+Primary source: Lia Bătrîna & Adrian Bătrîna, “Cercetările arheologice de la Curtea de Argeș”, *Cercetări Arheologice* V (1982), pp. 95–107.
+
+The official article's final plate legend provides the following controlled map:
+
+- **Pl. I** — ornamental ceramic (1,2), candlesticks and lids (3,4), 14th century.
+- **Pl. II** — glazed plate, 14th century.
+- **Pl. III** — glazed ceramic (1,3,4) and kiln support/crăiță (2), 14th century.
+- **Pl. IV** — glazed ceramic (1,2,3,5) and glass (4), 14th century.
+- **Pl. V** — glazed ceramic, 14th century.
+- **Pl. VI** — glazed ceramic of the 16th–17th centuries (1,2,3) and stove-tile fragment (4).
+- **Pl. VII** — stove discs of the 14th century.
+
+The French legend is useful as an independent textual control on the Romanian plate descriptions. citeturn2view0
+
+## S119 — Pass 74 — Pl. I functional ambiguity
+
+The authors discuss Pl. I/3–4 in the context of the **sfeșnic vs capac** problem. The physical form can fit both categories; the authors propose using secondary-firing traces, opening size, and decorative treatment to distinguish them.
+
+Controlled status:
+**OBJECT FORM = SHARED/AMBIGUOUS**
+**FUNCTION = DISPUTED BETWEEN SFEȘNIC AND CAPAC**
+**CLASSIFICATION METHOD = USE-WEAR/FIRING + OPENING + DECORATION**
+
+Source: citeturn2view0
+
+## S120 — Pass 74 — Pl. II and Pl. III/2
+
+**Pl. II:** directly captioned as a 14th-century glazed plate.
+
+**Pl. III/2:** directly associated with the crăiță/kiln-support evidence and captioned as a 14th-century support. The primary text says the crăiță was used in kilns for firing glazed ceramics.
+
+Control:
+**Pl. II = VESSEL**
+**Pl. III/2 = PRODUCTION/KILN SUPPORT, NOT VESSEL**
+
+Source: citeturn2view0
+
+## S121 — Pass 74 — chronology separation
+
+The article's plate captions assign Pl. I–V to the 14th century, while the excavated ceramic corpus discussed in the article spans the 14th–15th centuries. The archive therefore retains:
+
+**PLATE/CAPTION DATE ≠ AUTOMATIC INDIVIDUAL OBJECT DATE ≠ FULL EXCAVATION-CORPUS DATE**
+
+This prevents an object from receiving a falsely precise chronology simply because its plate belongs to a 14th-century illustrated group.
+
+Source: citeturn2view0
