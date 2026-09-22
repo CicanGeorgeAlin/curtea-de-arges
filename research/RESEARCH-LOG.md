@@ -141,3 +141,17 @@ The current RAN pages display 26 April 2023 as the update/verification date on t
 **Stage 1 remains OPEN — NOT COMPLETE.**
 
 Next: continue the municipal inventory reconstruction and build the campaign/publication matrix, prioritizing records and interventions that can reveal missing or reclassified sites.
+
+## Archaeology autopilot — Pass 18 · 22 September 2026
+
+The research target was expanded from “find missing RAN records” to “reconstruct the full archaeological intervention history.”
+
+Fresh bibliographic research identified the 1967 Curtea Domnească publication, 1969 Basarab necropolis study, 1980 archaeological sondaje at the Neagoe Basarab foundation, and 1984 Constantinescu synthesis. citeturn0search8turn0search4
+
+The Sân Nicoară trail reaches back to an 1886 architectural investigation and the 1920 Drăghiceanu campaign, with later specialist cross-checks. citeturn0search0turn0search12
+
+Methodological correction: a complete archaeological archive cannot be defined only by today's RAN identifiers. The working completeness model is now RAN/LMI inventory + historical interventions + published research record + find/evidence record + spatial reconciliation.
+
+Some findings are currently available only through bibliographic indexes or secondary accounts. They remain LEADS until the underlying primary publication/report is inspected.
+
+Stage 1 remains OPEN — NOT COMPLETE.
