@@ -631,3 +631,12 @@ The source cites the 1979 report p.166, fig.14/3 and 1982 p.103, pl.VII, but the
 The dwelling chronology is now recorded as overlapping source formulations rather than a forced single date.
 
 **Stage 1 remains OPEN.**
+
+
+### Pass 48 · 22 September 2026 · L4 typology independent confirmation
+
+A specialist archaeological catalogue independently confirms L4 as a semi-sunken dwelling with a gârlici entrance, dated by ordinary pottery to the first half of the 15th century; its stove-tile evidence is also placed in that period. citeturn0search24
+
+A separate 2010 Curtea de Argeș synthesis describes the merchant-house type and the Tournai seal in calcined ruins, but the archive keeps this broader synthesis separate from the exact L4 identification until the original plan/context is directly controlled. citeturn0search25
+
+**Stage 1 remains OPEN.**
