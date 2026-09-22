@@ -2966,3 +2966,31 @@ S229 added; Pass 143 recorded; index.html untouched.
 
 ### Next target
 Continue recovering the actual scanned pages/figures, especially pp.148–149 and fig.162, while keeping all later descriptions explicitly marked as secondary until visually verified.
+
+
+## Pass 144 — 22 September 2026
+
+### Target
+Triangulate the resolved 134–149 article boundary using an archive-based bibliography and a recent page-level archaeological citation.
+
+### Result
+The 2020 study based on the Historical Monuments Commission archive cites Drăghiceanu's *Jurnalul* as **BCMI 1923, pp.134–149**, independently matching the specialist bibliographic extent. citeturn0search0 The official PROEUROPEANA catalogue continues to display 134–152. citeturn0search1
+
+The Greceanu index identifies **pp.148–149** as “săpături în incinta curții domnești” and lists the Jurnal figures 135–140, 150–155, 162 and 165. citeturn0search12 A 2022 archaeological report cites the Jurnal at **pp.147–148**, including p.148 and fig.158. citeturn0search8
+
+### Control conclusion
+The archive now uses:
+- **134–149 = working physical/article extent of Drăghiceanu's Jurnalul**;
+- **134–152 = official catalogue metadata**.
+
+This distinction is now supported by multiple independent sources and should be preserved rather than treated as an error.
+
+### C44/C81 status
+Unchanged: 4119/C44 stable; C81 4130 vs 10073 unresolved; 2000 unglazed vs 2007 green/light-green glazed unresolved.
+
+### GitHub
+Backup: backup/pass144-pre-research-2026-09-22
+S230 added; Pass 144 recorded; index.html untouched.
+
+### Next target
+Continue direct page/figure recovery for the late Jurnal pages, especially p.148, fig.158, fig.162, and the 150-series figures, while keeping all later citations explicitly secondary until visually verified.
