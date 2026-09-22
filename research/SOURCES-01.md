@@ -1058,3 +1058,32 @@ Control:
 **RELATION TO CURTEA Pl. IV/6 = NONE ESTABLISHED**
 
 Source: citeturn6search0turn6search10
+
+## S104 — Rădulescu 2017 Pl. CXL/1: Băjești analogy chain
+
+The 2018 Câmpulung report attaches footnote 11, citing Rădulescu 2017 Pl. CXL/1, to the statement that a yellow-glazed Câmpulung cahlă fragment with a horse-leg motif belongs to the „oșteanul ecvestru” theme and has an analogy to a piece discovered at Băjești, at the court of Mareș Băjescu (17th century in the Câmpulung report).
+
+Controlled status:
+**CXL/1 = PUBLISHED ANALOGY FOR BĂJEȘTI PIECE (CURRENTLY SUPPORTED BY CITATION ATTACHMENT)**
+**DIRECT PLATE/CAPTION CONTROL = PENDING**
+**CURTEA DE ARGEȘ Pl. IV/6 IDENTITY = NONE**
+
+Source: citeturn1search0turn3search2
+
+## S105 — Câmpulung 2017 contextual control for Mareș Băjescu
+
+The 2017 Câmpulung archaeological report records fragments of cahle with a double-headed eagle dated 1666, found in the 2001 sondage at Str. Negru Vodă nr. 76, and states that these findings prompted the hypothesis that the area may have contained the house of Mareș Băjescu. It also records the 2017 continuation of archaeological investigation on adjacent land.
+
+Control:
+This establishes the broader Câmpulung/Mareș Băjescu research context but does not prove the provenance of Rădulescu Pl. CXL/1.
+
+Source: citeturn2search28
+
+## S106 — 2018 historical context for Mareș Băjescu
+
+A 2018 *Argesis* study states that the parental houses of Mareș Băjescu were in the area of the former St. Ilie market at Câmpulung and notes the archaeological investigations initiated at Str. Negru Vodă nr. 76 in 2017.
+
+Control:
+Contextual historical source only; it does not establish the catalogue identity of Rădulescu Pl. CXL/1.
+
+Source: citeturn2search27
