@@ -1394,3 +1394,18 @@ This differs from the earlier working note that associated the perforation evide
 ## S130 — Pass 79 — bibliography/source identity cross-check
 
 The official *Cercetări Arheologice* index lists the Curtea de Argeș article by Lia Bătrîna and Adrian Bătrîna in volume V (1982), pp. 95–107. Biblioteca Digitală independently catalogs the same bibliographic record. citeturn0search0turn0search1
+
+
+## S131 — Pass 80 — Pl. IV/6 and Pl. V reconciliation
+
+Primary PDF visual plate control shows **six numbered items on Pl. IV**. The Romanian printed caption classifies 1,2,3,5 as glazed ceramic and 4 as pahar, but omits 6. The French legend later identifies 4 as glass. The body text references the pahar as IV/1. citeturn4view0turn2view0
+
+**Status:** IV/4 = internal publication conflict; IV/6 = real illustrated item, classification pending.
+
+The 1982 body text explicitly lists perforated ring-foot examples at **V/4**. A later specialist citation gave V/2; this is now classified as a secondary-source discrepancy, with the primary 1982 reference V/4 controlling the Curtea corpus. citeturn2view0
+
+## S132 — Pass 80 — Pl. V/1 iconographic caution
+
+The 1982 text associates V/1 with the vârtej motif and also describes a partial leopard at V/1. The plate image visibly shows a strongly radial/whirling composition but is not sufficient by itself to prove the zoomorphic identification. Both textual claims are preserved with attribution; no single morphology is imposed. citeturn3view0turn2view0
+
+The earlier assumption that a mounted rider was definitely Pl. V/1 is withdrawn because the OCR rendering in the stove paragraph is corrupted (“pl -1/1”).
