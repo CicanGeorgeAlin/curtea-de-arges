@@ -932,3 +932,47 @@ Control:
 This is an **uncontexted Curtea de Argeș object**. It must not be merged with context-controlled 1979–1980 stove-tile finds solely because both are associated with Curtea de Argeș.
 
 Source: citeturn5view0turn3view1
+
+
+## S94 — Maria-Venera Rădulescu, 2017 — *Meșteșug, artă, document. Cahlele din Țara Românească (secolele XIV–XVII)*
+
+Maria-Venera Rădulescu, *Meșteșug, artă, document. Cahlele din Țara Românească (secolele XIV–XVII)*, Târgoviște, Editura Cetatea de Scaun.
+
+Controlled use:
+- Later regional monograph on Wallachian stove tiles.
+- Contents include research history, heating installations, urban houses, typology/chronology and knight/tournament iconography.
+- Used as a later specialist/comparative layer; physical identity with a specific Curtea de Argeș excavation object must be separately demonstrated.
+
+Sources: citeturn2search22turn2search4
+
+
+## S95 — Maria-Venera Rădulescu, 2024 — Curtea de Argeș tournament cahlă provenance record
+
+Maria-Venera Rădulescu, “Cavalerul în turnir, temă iconografică redată pe cahle medievale din Muntenia”, *Cercetări Arheologice* 31.1 (2024), pp. 261–270.
+
+Controlled object:
+- fragmentary glazed panel tile;
+- 13.2 × 17 × 1.2 cm;
+- green glaze, mould-impressed decoration;
+- tournament knight;
+- Institutul de Arheologie „V. Pârvan” custody;
+- no inventory number stated;
+- discovery year, exact discovery place and stratigraphy unknown;
+- proposed first-half-16th-century date based on costume/armour/weapon/equipment.
+
+Control:
+**Excavation campaign = UNASSIGNED.**
+
+Source: citeturn1view2
+
+
+## S96 — 2022 *Cronica Cercetărilor Arheologice* bibliographic bridge
+
+A 2022 *Cronica Cercetărilor Arheologice* record cites:
+- L. Bătrîna & A. Bătrîna, *Cercetările arheologice de la Curtea de Argeş*, CA V, Pl. IV/6;
+- M. V. Rădulescu, *Meşteşug, artă, document. Cahlele din Ţara Românească*, 2017, Pl. CXL/1.
+
+Controlled use:
+This is a **comparison lead only**. The citation does not by itself establish that the two plates depict the same physical object.
+
+Source: citeturn2search1
