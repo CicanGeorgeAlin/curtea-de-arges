@@ -893,3 +893,42 @@ Controlled evidence:
 
 Official PDF:
 https://cercetari-arheologice.ro/wp-content/uploads/2020/01/ca05-12_Bitrina_Bitrina_Curtea_Arges.pdf
+
+
+## S92 — Maria-Venera Rădulescu, 2013 — later Wallachian stove-tile typology
+
+Maria-Venera Rădulescu, “Cahle pentru coronamentul sobelor medievale din Ţara Românească (secolele XIV–XVII)”, *Cercetări Arheologice* 20 (2013), pp. 175–195, DOI 10.46535/ca.20.06.
+
+Official journal record:
+https://cercetari-arheologice.ro/articol/ca20_06/
+
+Controlled use:
+- Later specialist typological framework for medieval Wallachian stove-canopy material.
+- Categories include disc tiles, convex tiles, fretwork tiles and plate tiles.
+- Bibliography explicitly cites both Bătrîna & Bătrîna 1979 report and 1982 Curtea de Argeș report.
+- Used as a later comparative/typological source, not as direct proof for an individual Curtea de Argeș fragment unless object identity is separately controlled.
+
+Source: citeturn3view0
+
+
+## S93 — Maria-Venera Rădulescu, 2024 — Curtea de Argeș tournament-scene stove tile
+
+Maria-Venera Rădulescu, “Cavalerul în turnir, temă iconografică redată pe cahle medievale din Muntenia”, *Cercetări Arheologice* 31.1 (2024), pp. 261–270.
+
+Official PDF:
+https://cercetari-arheologice.ro/wp-content/uploads/2024/07/ca31_1_17_radulescu.pdf
+
+Controlled Curtea de Argeș evidence:
+- fragmentary glazed panel tile;
+- 13.2 × 17 × 1.2 cm;
+- green glaze, partly exfoliated;
+- mould-impressed decoration;
+- mounted knight/tournament scene;
+- upper part and stove-fixing system missing;
+- discovery year, exact discovery place and archaeological stratigraphy are unknown;
+- specialist dating proposed from armour/lance/iconographic details: first half of the 16th century, with a possibility extending to the end of the preceding century.
+
+Control:
+This is an **uncontexted Curtea de Argeș object**. It must not be merged with context-controlled 1979–1980 stove-tile finds solely because both are associated with Curtea de Argeș.
+
+Source: citeturn5view0turn3view1
