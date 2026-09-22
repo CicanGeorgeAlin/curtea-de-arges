@@ -2036,3 +2036,37 @@ No object identity is claimed between them.
 **OPEN — NOT COMPLETE.**
 
 Next target remains the direct Rădulescu 2017 plate/caption if a reliable full scan can be recovered. If unavailable, the archive will preserve the controlled analogy chain and move on rather than manufacture catalogue certainty.
+
+## Re-analysis — Pass 71 — 22 September 2026
+
+### CXL/1: citation chain independently reproduced in the official 2019 CCA PDF
+
+The official CCA 2019 PDF independently reproduces the same Câmpulung description: a yellow-glazed cahlă fragment preserving a horse leg, classified under the “oșteanul ecvestru” theme, with an analogy to a piece discovered at Băjești, the court of Mareș Băjescu. Its note 11 again identifies Rădulescu 2017, Pl. CXL/1. citeturn2search6turn1search10
+
+This independent annual CCA record is important because it confirms that the citation chain is not a transcription artifact unique to one later web record.
+
+### Provenance boundary
+
+The 2017 Câmpulung excavation report separately documents the 2001 discovery of double-headed-eagle stove-tile fragments dated 1666 and records the excavators' hypothesis that the area may have contained the house of Mareș Băjescu. The report explicitly calls this a **hypothesis**, supported by a 1708 documentary reference. citeturn1search7turn1search10
+
+This must remain separate from the specific Băjești analogy cited through Rădulescu Pl. CXL/1. The Câmpulung archaeological context and the Băjești comparison are related in the literature but are not the same proven provenance.
+
+### Controlled conclusion
+
+The strongest current record is:
+
+**CÂMPULUNG HORSE-LEG CAHLĂ → ICONOGRAPHIC THEME “OȘTEANUL ECvestru” → ANALOGY AT BĂJEȘTI / MAREȘ BĂJESCU → RĂDULESCU 2017 PL. CXL/1**
+
+while:
+
+**CÂMPULUNG 2001/2017 → DOUBLE-HEADED EAGLE CAHLE, 1666 → HYPOTHESIS OF MAREȘ BĂJESCU FAMILY HOUSE**
+
+remains a separate archaeological-historical chain.
+
+No CXL/1 physical object identity is asserted until the 2017 plate/caption itself is recovered.
+
+### Stage
+
+**OPEN — NOT COMPLETE.**
+
+Next target: direct CXL/1 plate/caption recovery. If unavailable, move forward to the broader Curtea de Argeș ceramic corpus rather than spending further passes on an inaccessible plate.
