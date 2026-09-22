@@ -1680,3 +1680,72 @@ The 1980 campaign therefore adds a major methodological layer: **negative archae
 **OPEN — NOT COMPLETE.**
 
 Pass 62 closes the principal individual L1/L2/L3 architectural/ceramic summary and incorporates the 1980 campaign as a separate evidence layer. Next target: extract the 1980 campaign's ceramic and architectural finds more precisely, then connect the 1979–1980 urban sampling strategy to the 1982 publication and later specialist reassessments.
+
+
+## Re-analysis and gap check — Pass 63 — 22 September 2026
+
+### 1980 campaign: the ceramic evidence becomes a separate research object
+
+The 1980 continuation is not only a campaign report about three tested areas. Its principal material contribution is the recovery and analysis of ceramic material, especially from the garden at **Str. Mircea cel Mare nr. 1**, south-west of the Princely Court.
+
+The excavators state that the four sections there had a unified stratigraphy and repeatedly exposed the construction level of the Princely Court enclosure wall, which they date to around 1340. At the walking level associated with the enclosure they recovered numerous ceramic fragments and reconstructable vessels dated by stratigraphic and typological relationships to the **end of the 14th through the middle of the 15th century**. Later refuse pits cut 14th–15th-century occupation levels and contained substantial quantities of **16th–17th-century pottery**. citeturn0view0
+
+This creates a useful stratigraphic chain:
+
+**enclosure-wall construction level → later 14th/15th-century material → refuse pits cutting earlier occupation → 16th/17th-century material**
+
+The authors explicitly attribute the recovered material to the Princely Court because no other habitation complexes were known in the investigated area. That attribution is retained as an authorial contextual interpretation rather than treated as a universally proven provenance. citeturn0view0
+
+### 1980 ceramic study: function can alter typological classification
+
+A particularly useful methodological section concerns a group of unglazed ceramic objects previously difficult to classify as either **sfeșnice (candlesticks)** or **capace (lids)**. The authors argue that form alone can be misleading and propose using the location of secondary firing traces and the size/shape of the upper opening as functional criteria. Objects with secondary firing around the upper opening, little or no firing on the rim, richer exterior decoration and a larger opening are interpreted as candlesticks; objects with firing on the rim and a narrow upper opening are interpreted as lids. citeturn0view0turn1view0
+
+This is important for the archive's object model:
+
+**OBJECT FORM → USE-WEAR / FIRING EVIDENCE → FUNCTIONAL CLASSIFICATION → AUTHOR INTERPRETATION**
+
+We should not flatten this into a simple object label.
+
+### Evidence for nearby ceramic production
+
+The authors report numerous fragments of wheel-made, sgraffito-decorated vessels that remained unglazed, and identify them as wasters/rejects from a pottery workshop they consider likely to have been located not far from the find spot. A fragment of **crăiță**, a support used exclusively in kilns for firing glazed ceramics, was found in the same context. citeturn1view0
+
+This provides **evidence compatible with nearby ceramic production**, but the exact workshop location was not excavated in this campaign. The archive therefore records:
+
+- ceramic production waste/rejects: **find evidence**;
+- kiln support/crăiță: **find evidence**;
+- workshop nearby: **author interpretation**;
+- exact workshop location: **OPEN**.
+
+### 14th–15th-century glazed ceramics
+
+The glazed assemblage is quantitatively larger than the unglazed material in the studied surface. Dominant forms include **strachină** and **farfurie**, with ring feet; the farfurie includes a **taler** variant. Sgraffito decoration is varied, with yellow glaze frequently combined with brown and green accents. Motifs include geometric/linear patterns, spirals, whorls, vegetal and zoomorphic decoration. The report highlights a fragment interpreted as a **leopard** through comparison with material from southern Moldova. citeturn1view0
+
+The authors connect some of these decorative traditions to a broader Byzantine/Black Sea/Oriental artistic sphere. This is a comparative art-historical interpretation, not direct evidence of the object's place of manufacture.
+
+### Stove architecture and decorative ceramic elements
+
+The 1980 material also includes glazed and unglazed **discs and rectangular/triangular plates belonging to stoves**. The disc tiles are wheel-made, with concentric ribs and sometimes incised notches; the rectangular and triangular plates carry vegetal, geometric and figurative decoration. The illustrated material includes a mounted rider and a Christian image identified as a Madonna, as well as triangular crown pieces. citeturn1view0
+
+The authors explicitly connect these objects with interior architecture and the decoration of stoves. The archive should therefore maintain separate records for:
+**stove component → material → decoration → iconography → architectural function**.
+
+### 16th–17th-century ceramic horizon
+
+The later glazed pottery differs from the 14th–15th-century group. The authors note traditional forms such as strachină, bol, farfurie and taler, but describe a decorative technique using horn-drawn white motifs over brown slips followed by yellow or green glaze. They also warn that the 16th–17th-century glazed ceramics were comparatively understudied and that some earlier chronological assignments had been inaccurate. citeturn1view0
+
+This is valuable historiographical evidence: the excavators themselves warn against treating inherited ceramic chronologies as fixed.
+
+### The 1980 campaign's final conclusion
+
+The authors explicitly acknowledge that the campaign did **not intercept a complete habitation complex**, but argue that the recovered archaeological materials nevertheless add to knowledge of Romanian material culture from the 14th through 17th centuries. citeturn1view1
+
+This distinction is now recorded as a core methodological point:
+
+**material-rich campaign ≠ completely excavated settlement complex.**
+
+### Stage status
+
+**OPEN — NOT COMPLETE.**
+
+Pass 63 establishes the 1980 ceramic evidence as a distinct research layer and strengthens the archive's object-level methodology. The next target is to trace the **1982 publication backward to the 1979 campaign references and forward into later specialist ceramic/stove-tile studies**, checking which classifications survived, changed, or were disputed.
