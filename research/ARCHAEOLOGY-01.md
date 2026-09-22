@@ -491,3 +491,32 @@ Only after these are cross-linked can archaeological completeness be meaningfull
 
 Stage status: OPEN — NOT COMPLETE.
 Next priority: reconstruct intervention/publication history for Biserica Sf. Nicolae Domnesc/Curtea Domnească, Sân Nicoară, Argeș Monastery/Neagoe Basarab foundation, Olari, Drujești, and archaeological points appearing in older publications but not yet matched to current RAN/LMI records.
+
+## Archaeology autopilot — Pass 19 · 22 September 2026
+
+### New evidence category: negative archaeology
+
+The 1982 publication by Lia and Adrian Bătrîna reports archaeological research begun in 1979 and continued in 1980 in several areas of Curtea de Argeș. At the west foot of Sân Nicoară hill, two sections did not reveal cultural material or complexes that justified extending the investigation; one medieval circular-plan oven was nevertheless recorded. citeturn0search23
+
+This is a methodological milestone. The archive must record **where archaeologists looked and what they did not find**, not only positive discoveries.
+
+### Drujești strengthened
+
+The 1990 RMI study by Spiridon Cristocea is now linked as a specialist archaeological publication. A later specialist study cites it for a 16th-century funerary glass-vessel fragment found during the 1987 archaeological work at Drujești. citeturn1search0turn1search50
+
+### Bătușari enters reconciliation
+
+Bătușari/Brad-Botușari is a historically important monument documented by County Council Argeș, including a claimed 1583 foundation and later rebuilding phases. For now this is a **heritage/history lead**, not an archaeological conclusion. citeturn1search1turn1search47
+
+### Self-correction
+
+The archive's archaeological completeness test is now:
+
+1. Where are the current registered sites?
+2. Where were archaeological interventions performed historically?
+3. What was published from those interventions?
+4. What finds/evidence resulted?
+5. Where were investigations negative or inconclusive?
+6. Can each intervention be spatially reconciled to a present or historical place identity?
+
+Stage remains OPEN — NOT COMPLETE.
