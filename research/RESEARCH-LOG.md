@@ -1506,3 +1506,22 @@ index.html untouched.
 
 ### Next target
 Separate the I 5882 group into object-level records (a/b/c and probable two-or-three tiles), then trace I 5882 through later publications/catalogues for any recovered excavation or accession metadata. Keep the 2024 tournament cahlă separate.
+
+
+## Pass 90 — 22 September 2026
+
+**Target:** stabilize the I 5882 object record from the direct 2016 article text.
+
+### Verified
+The 2016 article states that several stove-tile fragments from the 1920–1922 Curtea Domnească excavations are held in the Institutul de Arheologie „Vasile Pârvan” collection. It identifies three studied unglazed fragments, 8.6 × 6.8 cm; 12.7 × 9.4 cm; 16 × 7.8 cm, deriving from two or three rectangular plate tiles. Inventory I 5882 is given in footnote 28. citeturn0search38
+
+### Controlled classification
+Three fragments / probable two-or-three parent tiles. Do not call them three complete tiles.
+
+### GitHub
+Backup: backup/pass90-pre-research-2026-09-22
+Updated archaeology, research log, sources.
+index.html untouched.
+
+### Next target
+Trace inventory I 5882 through later catalogues, collection publications and institutional records; attempt to recover accession or original excavation metadata without inventing a findspot.
