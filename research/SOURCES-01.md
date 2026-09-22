@@ -1183,3 +1183,53 @@ Control:
 Later 16th–17th-century forms and decoration are retained, but chronological assignments must be treated according to their specific context rather than inherited from older literature.
 
 Source: citeturn2view0
+
+
+## S115 — Pass 73 — 1982 primary plate/object control
+
+Primary source: Lia Bătrîna & Adrian Bătrîna, “Cercetările arheologice de la Curtea de Argeș”, *Cercetări Arheologice* V (1982), pp. 95–107.
+
+Official PDF: https://cercetari-arheologice.ro/wp-content/uploads/2020/01/ca05-12_Bitrina_Bitrina_Curtea_Arges.pdf
+
+Controlled evidence:
+- The article distinguishes the 14th–15th-century glazed vessel corpus from stove material.
+- Small cups are described at approximately 7 cm high, tronconic, with slightly inward-curved rim and widened foot; Pl. IV/1 is cited for this form.
+- Main glazed forms are **strachină**, **farfurie**, and **taler**; ring feet are characteristic.
+- Decoration includes concentric circles, spirals, radial/star patterns, curved-line combinations, scales, whirl motifs, vegetal decoration and a partially represented leopard.
+- Two perforations through ring feet are recorded as a physical feature; the authors interpret them as evidence connected with decorative interior use.
+- The same article separately describes stove discs with concentric ribs and central buttons and rectangular/triangular stove plates with vegetal-geometric or figurative decoration.
+- **Pl. VII is explicitly captioned as 14th-century stove discs.**
+- **Pl. VI is explicitly captioned as 16th–17th-century glazed ceramics (items 1–3) plus a cahlă fragment (item 4).**
+
+Control:
+**VESSEL CORPUS ≠ STOVE-TILE CORPUS**
+
+Source: citeturn1view0
+
+## S116 — Pl. IV/6: stabilized object classification
+
+Primary 1982 plate control confirms that the archive's Pl. IV/6 record belongs in the Curtea de Argeș glazed-vessel corpus.
+
+Controlled status:
+- locality: Curtea de Argeș;
+- plate: IV/6;
+- object class: glazed ceramic vessel;
+- decoration: spiral;
+- stove-tile status: NO;
+- later Câmpulung comparison: comparative citation only.
+
+This record remains separate from Rădulescu 2017 Pl. CXL/1.
+
+Source: citeturn1view0
+
+## S117 — 1982 plate hierarchy
+
+The 1982 article supports the following working plate hierarchy:
+
+**Pl. I–V** → principal 14th–15th-century vessel corpus and related ceramic objects  
+**Pl. VI** → 16th–17th-century glazed ceramics + cahlă fragment  
+**Pl. VII** → 14th-century stove discs
+
+This is a research classification based on the article text and plate captions, not a claim that every individual plate item has the same function.
+
+Source: citeturn1view0
