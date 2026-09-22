@@ -2176,3 +2176,34 @@ S202 added; Pass 116 recorded; index.html untouched.
 
 ### Next target
 Use the BCU Iași digitized volume record and page-level archival access routes to obtain the actual 1923 pages/plates, rather than relying on search-engine text extraction. Once the images are available, perform visual comparison only after confirming page and figure identity.
+
+
+## Pass 117 — 22 September 2026
+
+### Target
+Re-enter the original 1923 volume through institutional indexes and tighten the Fig. 305 / figs. 78–84 control using exact later citations.
+
+### New evidence
+BCU Iași's issue index independently confirms Drăghiceanu's *Jurnalul săpăturilor din Curtea Domnească a Argeșului* as a 1923 item, while Biblioteca Digitală indexes the journal at pp. 134–152. citeturn0search0turn0search2 A direct indexed PDF of the complete 1917–1923 BCMI volume was also located, although the current reader returned a gateway error when opening it; therefore its plate images were **not** treated as inspected. citeturn0search39
+
+Rădulescu 2016 supplies an exact provenance boundary for Fig. 305: the journal mentions stove terracottas at the north-west corner of the cellar of the princely house on the south side of the enclosure; Fig. 305 photographs 16 fragments; and the later author explicitly says it is unknown whether all 16 came from that one place or were distributed across the Curtea Domnească area. citeturn0search37
+
+The same 2016 article cites Drăghiceanu 1923a, pp. 70–71, figs. **78, 81, 82** for his iconographic commentary. This differs from the broader figure set cited in the 2018 study. Both citation sets are preserved separately; no silent harmonisation is made.
+
+### Evidence status
+- Original 1923 volume identity: verified.
+- Direct complete-volume PDF endpoint: located/indexed, but visual access failed in this pass.
+- Fig. 305 = photograph of 16 fragments: supported by Rădulescu 2016.
+- Individual provenance of all 16 fragments: explicitly uncertain.
+- Fig. 305 → C44/C81 identity: not established.
+- Figs. 78/81/82 → C44/C81 identity: not established by this source.
+
+### C44/C81 status
+Unchanged: C44/4119 stable; C81 4130 vs 10073 unresolved; unglazed vs green/light-green glazed unresolved.
+
+### GitHub
+Backup: backup/pass117-pre-research-2026-09-22
+S203 added; Pass 117 recorded; index.html untouched.
+
+### Next target
+Exploit the newly located complete-volume PDF endpoint through alternate institutional mirrors or page-image delivery, then inspect the original plates only when the image itself can be verified.
