@@ -426,3 +426,12 @@ This prevents a modern register date, an archaeological estimate and a historiog
 **OPEN — NOT COMPLETE.**
 
 The next archaeological target remains the same, but the control standard is now stronger: reconstruct the municipal archaeological inventory, then build the campaign/publication/context matrix while preserving disagreements and negative evidence. The archive will not close the archaeological foundation until those layers have been systematically checked.
+
+
+## Self-correction — Olari RAN code lead
+
+A targeted search for the previously unresolved Olari RAN status produced a new lead: a 2022 secondary article identifies **RAN 13631.09** for Biserica „Adormirea Maicii Domnului” — Olari. This is useful enough to change the research status, but not strong enough to upgrade it to VERIFIED because the current official RAN record could not be independently retrieved in this pass. citeturn5search0
+
+The archive therefore changes the Olari RAN field from **UNKNOWN** to **CANDIDATE — 13631.09, pending official RAN verification**.
+
+This is exactly the type of self-correction the project requires: a new lead is neither ignored nor promoted to fact before source control is complete.
