@@ -587,3 +587,14 @@ The 1983 article's searchable text now provides the specific heraldic basis for 
 This is recorded as the authors' dating method. The archive does not merge the seal date with the archaeological date of the dwelling.
 
 **Stage 1 remains OPEN.**
+
+
+### Pass 44 · 22 September 2026 · independent dating cross-check
+
+A 2018 specialist article independently calls the Curtea de Argeș object a Tournai lead cloth seal dated around 1426. citeturn1search25 The 1983 Bătrîna & Bătrîna article argues for post-1426 dating and suggests a first matrix series immediately after 1426, potentially in 1426. citeturn1search26
+
+The 2008 cumulative index independently confirms the 1979 dwelling-4 association and physical description. citeturn2search32
+
+The archive now preserves the dating formulations separately rather than forcing a false single-year consensus.
+
+**Stage 1 remains OPEN.**
