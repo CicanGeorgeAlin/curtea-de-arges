@@ -2111,3 +2111,14 @@ A later scholarly study on Curtea Domnească explicitly cites Drăghiceanu's *Ju
 The Greceanu bibliographic index independently lists pp.148–149 for excavations within the princely-court enclosure and separately lists Gassauer's later 1937 terracotta study. citeturn1search17
 
 This gives a stronger content map for the end of the Jurnal: pp.148–149 are not merely “late pages”; they are the section on excavations within the court enclosure and include figure references used by later scholarship. This remains secondary content control until direct inspection of the original pages/figure is obtained.
+
+
+## S230 — Primary-source article boundary independently supported by archive-based bibliography
+
+The 2020 CMI-archive study by Udrea-Manea and Carutiu gives Drăghiceanu's *Jurnalul săpăturilor din Curtea Domnească a Argeșului* as **BCMI 1923, pp. 134–149**, independently matching the specialist bibliographic extent. citeturn0search0 The official PROEUROPEANA catalogue still displays 134–152 as its catalogue extent. citeturn0search1
+
+The Greceanu index further identifies the Jurnal's pp.148–149 specifically with excavations inside the princely-court enclosure and lists figures 135–140, 150–155, 162 and 165. citeturn0search12
+
+A 2022 archaeological report cites the Jurnal specifically at pp.147–148 and p.148, including fig.158, confirming that late-page citations refer to the excavation journal itself. citeturn0search8
+
+Control conclusion: **134–149 is now the working physical/article extent; 134–152 is retained as official catalogue metadata.**
