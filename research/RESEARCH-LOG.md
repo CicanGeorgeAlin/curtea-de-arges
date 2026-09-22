@@ -2509,3 +2509,34 @@ S213 added; Pass 127 recorded; index.html untouched.
 
 ### Next target
 Use the newly established sheet 66 anchor and the surrounding 1922–1923 documentary sequence to search for excavation finds, transport, deposition, museum communication, inventories, and custody language.
+
+
+## Pass 128 — 22 September 2026
+
+### Target
+Reconcile the newly established dossier 1394 sheet-66 excavation-cost evidence with the published 1920–1922 excavation chronology, without silently merging them.
+
+### Result
+Rădulescu 2016 reports that archaeological work began in summer 1920; excavations in the Princely Court enclosure began **9 October 1920** and ended **1 April 1922**. She separately identifies stove-tile discoveries in the NW corner of the cellar of the princely house on the south side of the enclosure and cites Drăghiceanu 1923. citeturn0search23
+
+The independent CMI archival study identifies dossier 1394, **sheet 66**, as a Drăghiceanu request for reimbursement of **5,280 lei** for excavation works executed **September 1922–January 1923**. citeturn0search0
+
+### Critical chronology finding
+We now have two documented date ranges:
+- **9 Oct 1920 – 1 Apr 1922:** published excavation chronology for the Princely Court enclosure;
+- **Sep 1922 – Jan 1923:** excavation works appearing in the CMI reimbursement documentation.
+
+These must remain separate until the underlying administrative sheets show their relationship. The later period could represent supplementary work, a distinct work package, an accounting period, or another scope; this pass does not choose among those possibilities.
+
+### Why this matters for C44/C81
+This prevents an invalid shortcut such as “all 1920–1923 material belongs to one excavation event.” Provenance needs campaign/date control before object-level custody can be reconstructed.
+
+### C44/C81 status
+Unchanged: 4119/C44 stable; C81 4130 vs 10073 unresolved; 2000 unglazed vs 2007 green/light-green glazed unresolved.
+
+### GitHub
+Backup: backup/pass128-pre-research-2026-09-22
+S214 added; Pass 128 recorded; index.html untouched.
+
+### Next target
+Trace the relationship between the **1 April 1922 excavation end-date** and the **September 1922–January 1923** dossier 1394 expenditure period, starting with sheet 66 and adjacent documents.
