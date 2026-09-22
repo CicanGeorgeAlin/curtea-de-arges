@@ -1823,3 +1823,36 @@ Research files updated. index.html untouched.
 
 ### Next target
 Move from bibliographic control to visual/object control: obtain a usable rendering of Drăghiceanu figs. 78–80 and search institutional image/catalogue holdings, including MNAR and digitized heritage archives, for the actual fragments or accession records.
+
+
+## Pass 104 — 22 September 2026
+
+### Target
+Strengthen direct figure control for the early Curtea de Argeș terracotta corpus without conflating different Drăghiceanu publications or plate numbering.
+
+### New control
+The 1935 study by R. Gassauer, while discussing terracottas from Casa Domnească at Curtea de Argeș, explicitly refers readers to Drăghiceanu's *Curtea Domnească din Argeș* and plates 76, 79 and 80. citeturn5search12turn5search16
+
+### Important distinction
+This is **not** treated as proof that plates 79–80 are identical to the *Jurnalul săpăturilor* figures 78–80. We now have two controlled figure systems that must remain separate until the original plates are visually compared:
+
+- *Jurnalul săpăturilor* — figs. 78–80, directly identified in the 1923 illustration sequence.
+- *Curtea Domnească din Argeș* — plates 76, 79 and 80, cited independently by Gassauer in 1935.
+
+This prevents a dangerous figure-number merge based only on similar numbering.
+
+### Additional contextual control
+The 1967 Florescu discussion quotes Drăghiceanu on both unglazed and glazed terracottas at Curtea de Argeș. citeturn1search0turn5search2 This remains corpus-level context and does not resolve C44/C81.
+
+### Visual limitation
+The BCU Iași record provides the original 1923 PDF and confirms its contents and pagination, but the current web interface did not expose the scanned page images in a directly inspectable form during this pass. Therefore no visual claim about the actual shape, glaze or iconography of figs. 78–80 is made.
+
+### Status
+The C44/C81 contradiction remains unchanged and fully preserved. The research now has a stricter figure-control rule: **publication identity → figure/plate number → visual comparison → object identity**.
+
+### GitHub
+Backup: backup/pass104-pre-research-2026-09-22
+Research files updated. index.html untouched.
+
+### Next target
+Locate a directly image-readable copy of the relevant Drăghiceanu plates/pages, preferably through Biblioteca Digitală or another institutional scan, and compare the actual visual forms against the published 2000/2007 MNAR descriptions.
