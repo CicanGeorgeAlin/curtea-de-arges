@@ -1902,3 +1902,12 @@ Control point: this is corpus-level chronological interpretation, not an object-
 ## S206 — Pass 120 exact-identifier search boundary
 
 Search-control record: exact combinations of **4119/C44**, **4130/C81**, **10073/C81**, and the figure references did not return a new relevant institutional or scholarly object-level record in the current indexed web results. The returned matches were unrelated technical/catalogue documents and were rejected. This pass therefore adds no new object claim and reinforces the archive's rule that numerical coincidence is not evidence of identity.
+
+
+## S207 — CMI dossier 1394: museum-correspondence lead confirmed
+
+Institutional archive catalogue: “Valorificarea arhivei istorice a Comisiunii Monumentelor Istorice”, dossier no. 1394, Curtea Domnească / Biserica Sf. Nicolae Domnesc, Curtea de Argeș. The catalogue describes 184 leaves covering 1921–1930 and explicitly lists correspondence with the Muzeul Național de Antichități and Muzeul de Etnografie și Artă Națională, plus correspondence concerning photographs and payments for photographs. It also records a letter concerning photographs of the church treasure sent by the director of the Muzeul de Artă Națională, Alexandru Tzigara-Samurcaș. citeturn0search0
+
+Control point: this dossier is now the strongest publicly documented archival route toward reconstructing custody and photographic transfer after the 1920 excavation. The catalogue does **not** identify C44/C81, 4119, 4130 or 10073 by number, so no object-level link is asserted.
+
+URL: https://arhivacomisiuniimonumentelor.ro/?p=95291
