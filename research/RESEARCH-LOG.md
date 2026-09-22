@@ -281,3 +281,40 @@ Constantinescu's 1984 monograph was rechecked for scope: it explicitly concerns 
 Methodological result: Curtea Domnească now has a documented intervention chain beginning at least with 1920–1922, followed by 1967–1973 and later specialist reassessment.
 
 Stage 1 remains OPEN — NOT COMPLETE.
+
+
+## Archaeology / Heritage autopilot — Pass 30 · 22 September 2026
+
+Pass 30 targeted the two major complexes whose intervention histories remained incomplete: **Curtea Domnească** and **Argeș Monastery**.
+
+Fresh specialist/primary evidence established:
+
+- a 1968 continuation of Curtea Domnească excavation with coin-supported chronology;
+- a 13th-century occupation level preceding the first enclosure/14th-century princely-house phase in the 1968 campaign report;
+- an early-16th-century north-side residence associated in the report with Neagoe Basarab;
+- a discrete September 1965 archaeological intervention beside the Argeș Monastery church, limited to two small sections and affected by prior restoration disturbance.
+
+The archive now treats these as **intervention-level evidence**, not merely as monument descriptions. The research architecture was strengthened to preserve the sequence:
+
+**SITE REGISTER → INTERVENTION → CONTEXT → FIND → DATING → INTERPRETATION → LATER REASSESSMENT**
+
+This pass also confirms that the current five-record RAN municipal baseline cannot stand in for the full intervention history.
+
+### Gap analysis after Pass 30
+
+**Curtea Domnească**
+- intervention chain: materially stronger;
+- 1968 coin evidence: newly controlled;
+- excavation-plan/find-inventory reconstruction: still incomplete;
+- 1920–1922 evidence: requires continued context-level reconciliation;
+- later archaeological publications: still to be mapped systematically.
+
+**Argeș Monastery**
+- 1965 archaeological sondages: now verified;
+- full precinct intervention history: incomplete;
+- restoration archaeology and later investigations: incomplete;
+- LMI component reconciliation: still open.
+
+**Decision:** Archaeological Stage 1 remains **OPEN — NOT COMPLETE**.
+
+Next research priority: reconstruct the **1967–1973 Curtea Domnească excavation plan + context/find matrix**, while simultaneously expanding the Argeș Monastery intervention chain beyond the 1965 sondages.
