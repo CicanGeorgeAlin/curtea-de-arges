@@ -611,3 +611,14 @@ Direct text from the original 1983 article confirms that the authors connect the
 The authors further distinguish the reverse's heraldic shield from Tournai's civic arms and propose, as a hypothesis, that it may represent a Tournai textile/weavers' or cloth-makers' corporation, while the reverse represents the city's authority. This corporate identification is explicitly a hypothesis and must remain so in the archive. citeturn0search35
 
 This is stronger than the abstract-only formulation previously used and should replace the simpler 'post-1426' note with a layered dating record: **minimum terminus after 1426; authors' tighter hypothesis = immediately after 1426 / possibly 1426, based on heraldic change.**
+
+
+## S90 — Pass 43: direct primary-text extraction on Tournai seal heraldry
+
+The searchable text of the 1983 article now exposes the authors' fuller heraldic argument. They describe the accessible commercial seals as bearing, on one face, a **parted/counter-fasciated shield** and, on the other, a **heraldic fleur-de-lis within a quatrefoil**. They regard the latter motif as especially useful because fleur-de-lis imagery occurs on Tournai's civic and commercial seals and provides chronological evidence. citeturn1search13
+
+The article explains that in **1426** Tournai received the privilege of adding a French royal heraldic “chief” to its older arms. This historical change is the basis for the authors' post-1426 dating argument. citeturn1search13
+
+This strengthens the dating chain but does **not** independently prove that the Curtea de Argeș dwelling itself dates after 1426; the seal's object date and the dwelling's archaeological date remain separate fields.
+
+The searchable extraction still does not expose a reliable measurement block or complete plate captions, so dimensions and exact object measurements remain OPEN.
