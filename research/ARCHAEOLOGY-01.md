@@ -1053,3 +1053,38 @@ The project still lacks the original 1979 excavation plan in a controlled, reada
 Next target: recover the **1979 plan and figure captions**, then build the first true archaeological micro-map linking dwelling numbers, sections and finds to source pages.
 
 **Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+
+## Archaeology autopilot — Pass 37 · 22 September 2026
+
+### The dwelling-4 seal now has its dedicated primary publication
+
+Pass 37 resolved an important source-control gap. ProEuropeana identifies Adrian and Lia Bătrîna's 1983 article, **“Cu privire la un sigiliu de comerț din sec. al XV-lea descoperit la Curtea de Argeș”**, in *Cercetări Numismatice*, V, pp. 197–211. The catalogue classifies it under archaeological excavations, heraldry and seals. citeturn0search1
+
+This confirms that the dwelling-4 lead seal is not merely an incidental mention in a later bibliography: it has a dedicated specialist study.
+
+### Source-control correction
+
+The archive will now distinguish three levels:
+
+1. **Find-level fact:** a double lead seal was associated with dwelling 4 in the 1979 research record.
+2. **Publication classification:** the 1983 specialist article calls it a 15th-century trade seal.
+3. **Detailed interpretation:** still requires direct extraction from the 1983 article before the archive states why the seal is dated that way, how its inscription is read, or what commercial network it represents.
+
+This prevents the catalogue title from silently becoming our own archaeological interpretation.
+
+### New research target
+
+The next high-value task is therefore direct recovery of the **1983 seal article**, followed by a controlled extraction of:
+- object dimensions and material;
+- inscription reading;
+- heraldic/device description;
+- dating argument;
+- archaeological context;
+- comparison objects;
+- interpretation of the Tournai connection;
+- bibliography and earlier references.
+
+At the same time, the original 1979 excavation plan remains the spatial priority.
+
+**Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
