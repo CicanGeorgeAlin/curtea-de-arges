@@ -203,3 +203,21 @@ The perimeter is therefore treated as a spatial master/reference layer. Individu
 A second control was added: RAN municipality search pages can expose records through filtered/paginated selections, so the current five-record working inventory must not be declared exhaustive solely from one search result. citeturn0search7turn0search10
 
 Stage remains OPEN — NOT COMPLETE.
+
+## Pass 22 — Archaeology and heritage inventories formally separated
+
+The 2015 LMI reveals a much larger protected-heritage universe than the current RAN subset. The Curtea de Argeș list includes numerous 19th–20th-century buildings and ensembles, such as the Seminarul Teologic ensemble, Protoieria, Vila Rozelor, Casa Chiriță, Biserica Sf. Gheorghe and several historic houses. citeturn0search20turn0search21
+
+New rule:
+**LMI inventory completeness must not be confused with archaeological inventory completeness.**
+
+The archive will maintain:
+1. Heritage/monument inventory
+2. Archaeological/RAN inventory
+3. Intervention/publication inventory
+4. Memorial/public-art inventory
+5. Spatial relationships between them
+
+CIMEC public-monument records also reveal WWI and Soviet memorial places not represented simply by the current RAN list. citeturn0search1turn0search4turn0search6
+
+Stage remains OPEN — NOT COMPLETE.
