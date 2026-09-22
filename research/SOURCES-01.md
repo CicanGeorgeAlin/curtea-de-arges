@@ -2093,3 +2093,12 @@ Rădulescu 2016 provides a direct page-level citation to Drăghiceanu's *Jurnalu
 This gives us a second high-value primary-page anchor, alongside p.138, and importantly places the stove-tile provenance statement on p.148 of the Jurnal. It remains a secondary citation until the original p.148 image/text is directly inspected.
 
 The same source states that Fig.305 shows 16 terracotta fragments and that it is unknown whether all were found in one place or dispersed across the Curtea Domnească area. This is retained as a later-source provenance limitation, not individual-fragment provenance proof. citeturn0search17
+
+
+## S228 — Bibliographic index confirms the ceramic-related Jurnal pages are 148–149
+
+The Greceanu bibliographic index for BCMI explicitly lists, under Curtea domnească, Drăghiceanu's *Jurnalul săpăturilor din Curtea domnească a Argeşului* with **pp. 148–149 [săpături în incinta curţii domneşti]**, while separately listing Moisil's coin study at p.152. citeturn0search24 This independently confirms that the late pages 148–149 belong to the excavation journal and are specifically associated in the bibliography with excavations inside the princely-court enclosure.
+
+The same index separately records R. Gassauer's 1937 *Teracote sucevene*, p.153, for terracottas found at the Princely House. This is a later secondary ceramic study and is kept separate from Drăghiceanu's primary journal pages. citeturn0search24
+
+This strengthens the p.148 anchor without claiming direct inspection of the original page image.
