@@ -2015,3 +2015,14 @@ No new C44/C81 object identity or custody claim is established.
 A recent scholarly volume on the Curtea de Argeș princely church cites Drăghiceanu's *Jurnalul săpăturilor din Curtea domnească a Argeșului* specifically at **p. 138** for an observation concerning the excavation record. citeturn0search21 The 1923 BCMI bibliographic index independently identifies the journal as pp. 134–152. citeturn0search0
 
 This provides a reliable page-level anchor for future primary-source recovery. It does not by itself establish the complete content of p.138, so no archaeological claim is imported from the secondary citation beyond the fact that p.138 is used as the source location.
+
+
+## S220 — p.138 content control: sarcophagus observation, with later-source attribution
+
+A 2020 study by Lia Bătrîna and Adrian Bătrîna explicitly cites **Drăghiceanu 1923b, p.138** for his observation of a perforation made in the southern wall of the sarcophagus associated with grave 10 in the Princely Church. The study identifies Drăghiceanu's *Jurnalul* as a primary source for the grave-10 investigation. citeturn0search2
+
+A separate 1935 BCMI article also cites Drăghiceanu's *Jurnalul*, p.138, in discussion of observations concerning the buried individual. citeturn0search29
+
+Control status: the exact content of p.138 is now partially recoverable through independent later citations, but the original 1923 page image/text has not yet been directly inspected in this pass. Therefore the recovered observation is recorded as **secondary citation to a primary page**, not as a direct transcription of the 1923 page.
+
+This evidence concerns grave 10 in the Princely Church and is unrelated to MNAR C44/C81 terracotta fragments; no object linkage is inferred.
