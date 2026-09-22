@@ -316,3 +316,16 @@ Current RAN 13631.10 confirms:
 The LMI component universe remains broader and will be reconciled separately.
 
 Stage remains OPEN — NOT COMPLETE.
+
+## Pass 29 — Curtea Domnească intervention chronology strengthened
+
+A specialist 2016 study documents a distinct archaeological intervention phase at Curtea Domnească in **1920–1922**, before the major 1967–1973 programme. It records stove tiles found in the princely-house basement, broadly dated to the 15th–17th centuries, while explicitly warning that their exact spatial distribution is uncertain. citeturn0search22
+
+The same study records the 1967 restart under the Institute of Archaeology “Vasile Pârvan” and reports identification of earlier church foundations dated around the 13th century, together with construction phases and plans of the principal complex components. citeturn0search22
+
+This creates a stronger intervention chain:
+**1920–1922 → 1967–1973 → later synthesis/publication**
+
+The 1984 Constantinescu monograph's scope is explicitly the voivodal core, not the modern city as a whole. citeturn0search4
+
+Stage remains OPEN — NOT COMPLETE.
