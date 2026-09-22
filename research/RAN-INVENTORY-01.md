@@ -131,3 +131,19 @@ The inventory therefore now distinguishes:
 
 This correction replaces the older wording that no RAN code had been identified.
 \n\n## Pass 16 — Campaign/context reconciliation\n\nThe current source check strengthens two rows without closing the inventory.\n\n### Sân Nicoară — verified campaign context\n\nRAN 13631.05 is independently linked to the 2011 archaeological report (Report 4830). The report identifies research objectives covering construction chronology, stratigraphy, the tower, possible defensive function, enclosure/fortification questions, and the relationship between Sân Nicoară, the Domnească area and Curtea de Argeș. citeturn1search0turn2search4\n\n### Olari — archaeological intervention verified; RAN code still candidate\n\nThe County Council Argeș source independently confirms archaeological evidence exposed during the 1967–1968 restoration: earlier foundations and 15th–16th-century ceramics/coins. A secondary source continues to identify RAN 13631.09, but current official RAN search results have not independently produced that record. Therefore: **archaeological intervention = VERIFIED; LMI relationship = VERIFIED; RAN 13631.09 = CANDIDATE; official RAN verification = OPEN.** citeturn2search0turn1search1turn2search5\n\n### Inventory rule reinforced\n\nA site can remain in the archaeological inventory even when its current RAN identifier is unresolved. The record must preserve the distinction between archaeological evidence, heritage-register status and RAN identification.
+## Pass 17 — Current-source reconciliation and spatial-context control
+
+A fresh current-source check confirms that the RAN result set still exposes the core Curtea de Argeș records, including 13631.02 Drujești, 13631.05 Sân Nicoară, 13631.07 Curtea Domnească and the Argeș Monastery record in the municipal planning cross-check. The current RAN search pages show the individual records with their 26 April 2023 verification/update dates; these dates should not be confused with the date on which the archive accessed the database. citeturn0search1turn0search2turn0search4
+
+The municipal planning report independently lists RAN 13631.07, 13631.10 and 13631.05 as archaeological sites in Curtea de Argeș. This is useful as an institutional cross-check, but it is not evidence that the list is exhaustive. citeturn0search13
+
+A 2026 County Council statute provides a separate current administrative/spatial cross-check around Sân Nicoară, explicitly identifying the ruins and surrounding street context extending toward Olari and Drujești. This is retained as place/context evidence, not as archaeological dating evidence. citeturn0search12
+
+### Control conclusion
+
+The inventory must now maintain three independent completeness questions:
+1. What RAN records can currently be retrieved for the municipality?
+2. What archaeological interventions/publications are documented outside or before those current RAN records?
+3. What heritage/administrative sources identify places or spatial areas that require archaeological reconciliation?
+
+**Stage remains OPEN — NOT COMPLETE.**
