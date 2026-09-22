@@ -2939,3 +2939,30 @@ S228 added; Pass 142 recorded; index.html untouched.
 
 ### Next target
 Continue primary page recovery around pp.148–149 and the figure sequence, while maintaining the separation between Drăghiceanu's journal, later Gassauer/Rădulescu studies, and the MNAR C44/C81 group.
+
+
+## Pass 143 — 22 September 2026
+
+### Target
+Strengthen the content map for pp.148–149 using an independent later scholarly citation, especially the figure references.
+
+### Result
+A later study explicitly cites Drăghiceanu's *Jurnalul*, **pp.148–149**, for the section **“Săpături în incinta Curții Domnești”** and identifies **fig.162** in connection with important Gothic stone rib fragments discovered during the 1920 excavations. citeturn1search16
+
+The Greceanu bibliographic index independently lists the Jurnal at **pp.148–149 [săpături în incinta curții domnești]** and separately lists Gassauer's later 1937 *Teracote sucevene*. citeturn1search17
+
+### Significance
+The end of the Jurnal now has a more precise content map:
+**pp.148–149 → excavations inside the princely-court enclosure → fig.162 among the cited illustrations.**
+
+This is still **secondary content control**, not direct transcription/visual inspection of the 1923 pages. We therefore do not yet treat the later scholar's wording as the original text.
+
+### C44/C81 status
+Unchanged: 4119/C44 stable; C81 4130 vs 10073 unresolved; 2000 unglazed vs 2007 green/light-green glazed unresolved.
+
+### GitHub
+Backup: backup/pass143-pre-research-2026-09-22
+S229 added; Pass 143 recorded; index.html untouched.
+
+### Next target
+Continue recovering the actual scanned pages/figures, especially pp.148–149 and fig.162, while keeping all later descriptions explicitly marked as secondary until visually verified.
