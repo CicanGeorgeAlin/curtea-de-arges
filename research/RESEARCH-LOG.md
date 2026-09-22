@@ -1086,3 +1086,21 @@ The 2001/2017 Câmpulung Mareș Băjescu hypothesis remains separate from the B�
 
 ### Stage
 **Archaeological Stage 1 — OPEN / NOT COMPLETE.**
+
+## Pass 72 — 22 September 2026
+
+### Objective
+Move from the CXL/1 citation problem into the broader Curtea de Argeș non-stove ceramic corpus using the complete 1982 primary report.
+
+### Verified
+- The 1980 investigation at Str. Mircea cel Mare nr. 1 produced a unified stratigraphy; enclosure-wall construction level was around 1340; walking-level material was dated end 14th–mid 15th c.; later refuse pits contained 16th–17th c. pottery. citeturn2view0
+- The 14th–15th c. glazed group is dominated by străchini, farfurii and talere with ring feet.
+- Sgraffito decoration includes geometric, spiral, vegetal and zoomorphic motifs; a leopard fragment was identified by analogy with southern Moldavia. citeturn2view0
+- Two perforations through the ring feet of many vessels are interpreted by the authors as evidence for interior decorative use. The physical perforations and the functional interpretation are stored separately.
+- Unglazed sgraffito fragments interpreted as workshop rejects and a crăiță interpreted as a glazing-kiln tool provide production evidence. Exact workshop location remains OPEN. citeturn2view0
+- Stove discs and plates are maintained as a separate object class.
+- The authors warn that 16th–17th c. glazed ceramic chronology was under-studied and that earlier assignments could be inaccurate. citeturn2view0
+- The 1980 campaign did not intercept a complete habitation complex. citeturn2view0
+
+### Stage
+**Archaeological Stage 1 — OPEN / NOT COMPLETE.**
