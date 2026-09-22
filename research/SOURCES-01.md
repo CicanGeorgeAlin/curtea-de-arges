@@ -581,3 +581,12 @@ A 2010 *Argesis* article describes the find in the ruins of a **burned merchant-
 The searchable 1983 PDF is now located, but its full page-by-page text is not reliably exposed by the web interface. Therefore dimensions, exact layer, complete heraldic analysis, and the full dating argument remain **OPEN** until the original pages can be inspected directly.
 
 URL: https://biblioteca-digitala.ro/reviste/cercetari-numismatice/Cercetari-Numismatice-V-1983-16-Batrana-sigiliu-de-comert-XV-Curtea-de-Arges.pdf
+
+
+## S87 — Pass 40 source-control lead: 1979 excavation article and dwelling-4 figure trail
+
+The National Museum of Romanian History journal index confirms the 1979 Curtea de Argeș report by Lia and Adrian Bătrîna, *Cercetări arheologice efectuate în anul 1979 în cuprinsul așezării Curtea de Argeș, jud. Argeș*, *Cercetări Arheologice* IV (1981), pp. 144–171. citeturn0search0turn0search2
+
+A later specialist bibliography points to specific illustrations/pages from this 1979 report: p.166, fig.14/3 and p.103, pl.VII in the 1982 continuation are cited together in a later archaeological discussion. This is a lead for reconstructing the dwelling/find spatial context, not yet proof of what the cited figure depicts. citeturn0search25
+
+The original 1981 PDF and 1983 seal PDF were located by search but could not be reliably opened through the current web text interface. Therefore no new figure-level claim is promoted to verified status in this pass.
