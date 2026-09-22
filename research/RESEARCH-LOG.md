@@ -1459,3 +1459,24 @@ index.html untouched.
 
 ### Next target
 Continue direct-source reconstruction of the 2024 object's collection history and inspect the original 1923 Drăghiceanu pages/plates for the stove-tile group. Do not merge the two object records.
+
+
+## Pass 88 — 22 September 2026
+
+**Target:** directly control the original Drăghiceanu 1923 journal and the stove-tile reference.
+
+### Verified
+BCU Iași provides the original 1923 item as a discrete PDF: Drăghiceanu, “Jurnalul săpăturilor din Curtea Domnească a Argeșului,” pp. 134–152. The repository description explicitly includes section C, excavations in the Princely Court enclosure. citeturn2view0
+
+Rădulescu 2016 anchors the stove-tile statement to Drăghiceanu 1923b p. 148 and identifies BCMI 1923 Fig. 305 as the image showing 16 fragments. citeturn0search18turn1search24
+
+### Boundary preserved
+We do not yet claim independent visual reading of every fragment in Fig. 305 because the repository landing page does not expose the scan contents as searchable text. Individual fragment provenance remains unresolved.
+
+### GitHub
+Backup: backup/pass88-pre-research-2026-09-22
+Updated archaeology, research log, sources.
+index.html untouched.
+
+### Next target
+Inspect/materialize the actual 1923 PDF and perform page/plate-level control of p.148 and Fig.305; then compare any original descriptions with Rădulescu 2016.
