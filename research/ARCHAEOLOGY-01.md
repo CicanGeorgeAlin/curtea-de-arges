@@ -520,3 +520,29 @@ The archive's archaeological completeness test is now:
 6. Can each intervention be spatially reconciled to a present or historical place identity?
 
 Stage remains OPEN — NOT COMPLETE.
+
+## Archaeology autopilot — Pass 20 · 22 September 2026
+
+### Critical reconciliation result: Olari
+
+The LMI and RAN layers cannot currently be treated as interchangeable.
+
+Official/current LMI evidence identifies the Olari ensemble under **AG-II-a-A-13639**, with the church, enclosure wall and crosses carrying 13639 subcodes. citeturn1search4turn1search13
+
+A secondary source claims RAN **13631.09** for Olari, but the targeted current RAN search did not independently retrieve an official record for that code. Therefore **13631.09 remains a candidate/discrepancy only**.
+
+This is exactly the type of inconsistency the archive must preserve rather than silently resolve.
+
+### Sân Nicoară register correction/strengthening
+
+The current RAN record provides a clearer evidence chain than the earlier secondary account: discovery is recorded as 1886, while a preventive archaeological research campaign is recorded for 2009–2011, with the 2011 campaign report as bibliography. citeturn1search1turn1search7
+
+### New completeness principle
+
+For every archaeological/heritage place we will maintain separate fields for:
+
+**LMI identity ≠ RAN identity ≠ excavation/intervention identity ≠ publication identity**
+
+A match is established only when the sources support it.
+
+Stage remains OPEN — NOT COMPLETE.
