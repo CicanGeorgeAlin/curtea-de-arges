@@ -389,3 +389,19 @@ Use: spatial/archaeological umbrella context. Do not interpret the perimeter its
 
 ## S53 — RAN municipality selection cross-check
 Current RAN selection pages repeatedly return Drujești 13631.02 for Curtea de Argeș under the relevant municipality/county filters. This confirms that the public RAN interface supports municipality-level selection, but a single returned page must not be treated as an exhaustive list when pagination/filter state is unclear. citeturn0search7turn0search10
+
+## S54 — LMI 2015 full Curtea de Argeș block: heritage inventory baseline
+The official 2015 LMI PDF provides a much larger Curtea de Argeș protected-heritage inventory than the current archaeological/RAN subset. For example, it includes the Seminarul Teologic ensemble AG-II-a-B-13629 and components 13629.01–.02, former Seminar AG-II-m-B-13630, Protoieria AG-II-m-B-13631, Vila Rozelor 13632, Casa Chiriță 13633, Biserica Sf. Gheorghe 13634, Casa Vâlsănescu 13635, Casa Tică 13636, Casa Achim 13637 and the house at Str. Castanilor 14, 13638. citeturn0search20turn0search21
+Use: heritage inventory baseline. These are not automatically archaeological sites.
+
+## S55 — Curtea de Argeș Historic Study, municipal planning source
+The municipal historical study reproduces LMI entries and provides architectural/historical commentary for individual protected buildings, including Protoieria AG-II-m-B-13631. This is useful for linking register identity to building history, but it is not by itself an archaeological excavation source. citeturn0search22
+
+## S56 — CIMEC Gallery of Public Monuments: WWI memorial cemetery
+The CIMEC “Gallery of Public Monuments” records the Curtea de Argeș cemetery of WWI fallen soldiers, identifier MON-03-841, including its physical description, inscription and SIRUTA 13631. This creates a separate memorial/public-art dataset that should eventually be linked to the historical archive. citeturn0search1
+
+## S57 — CIMEC Gallery of Public Monuments: WWI memorial plaque
+CIMEC records a 1937 WWI memorial plaque in Curtea de Argeș, identifier MON-03-2981, with an inscription commemorating 86 local fallen soldiers of 1916–1918. citeturn0search4
+
+## S58 — CIMEC Gallery of Public Monuments: Soviet memorial/cemetery
+CIMEC records the Soviet soldiers' cemetery and monument in Curtea de Argeș, identifier MON-03-842. It is separate from the LMI/RAN monument inventory and therefore belongs to the future memorial/public-space layer. citeturn0search6
