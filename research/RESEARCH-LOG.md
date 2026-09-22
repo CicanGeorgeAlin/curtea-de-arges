@@ -1272,3 +1272,24 @@ index.html untouched.
 
 ### Next target
 Resolve Pl. IV/6 and the Pl. V/1 mounted-rider/leopard conflict by checking the full plate pages and surrounding captions/legends before entering any additional object identity.
+
+
+## Pass 79 — 22 September 2026
+
+**Target:** independent cross-check of the unresolved Pl. V references.
+
+### Newly verified
+- Official journal index and Biblioteca Digitală independently confirm the 1982 article, authors, volume and pages. citeturn0search0turn0search1
+- A later specialist ceramic study independently cites Curtea de Argeș 1982 for suspension-hole vessels and gives the plate sequence **III/1, III/4; IV/1–3,5; V/2**. citeturn0search24
+- This conflicts with the earlier working reference to V/4 and therefore triggers source reconciliation rather than normalization.
+
+### Method
+Primary source remains controlling; secondary citations are treated as independent cross-checks and anomaly detectors.
+
+### GitHub
+Backup: backup/pass79-pre-research-2026-09-22
+Updated: archaeology, research log, sources.
+index.html untouched.
+
+### Next target
+Return to the original 1982 plate and resolve **Pl. V/2 vs V/4**, then inspect Pl. VI–VII as a separate stove-material family.
