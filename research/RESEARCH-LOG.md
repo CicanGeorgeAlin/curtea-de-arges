@@ -2910,3 +2910,32 @@ S227 added; Pass 141 recorded; index.html untouched.
 
 ### Next target
 Recover the actual p.148 page and compare it against the later citation, then use the same approach for the figure sequence around Fig.305 without merging it with C44/C81.
+
+
+## Pass 142 — 22 September 2026
+
+### Target
+Cross-check the p.148 stove-terracotta anchor against an independent bibliographic index and determine whether the late pages are definitely part of Drăghiceanu's Jurnalul.
+
+### Result
+The Greceanu BCMI bibliographic index explicitly lists Drăghiceanu's *Jurnalul săpăturilor din Curtea domnească a Argeşului* with **pp.148–149 [excavations within the princely-court enclosure]**. citeturn0search24
+
+This independently confirms that p.148 belongs to the Jurnalul and that the late pages are specifically associated with excavation activity in the princely-court enclosure.
+
+The same index separately lists R. Gassauer's 1937 *Teracote sucevene*, p.153, concerning terracottas found at the Princely House. This later study remains a separate secondary source and is not merged with the 1923 primary journal. citeturn0search24
+
+### Significance
+The ceramic research now has a clean bibliographic chain:
+**1923 Jurnalul → pp.148–149 → excavations in the princely-court enclosure → p.148 later citation for stove terracottas.**
+
+The original page image is still not directly inspected, so the p.148 archaeological wording remains secondary-recovered content.
+
+### C44/C81 status
+Unchanged: 4119/C44 stable; C81 4130 vs 10073 unresolved; 2000 unglazed vs 2007 green/light-green glazed unresolved.
+
+### GitHub
+Backup: backup/pass142-pre-research-2026-09-22
+S228 added; Pass 142 recorded; index.html untouched.
+
+### Next target
+Continue primary page recovery around pp.148–149 and the figure sequence, while maintaining the separation between Drăghiceanu's journal, later Gassauer/Rădulescu studies, and the MNAR C44/C81 group.
