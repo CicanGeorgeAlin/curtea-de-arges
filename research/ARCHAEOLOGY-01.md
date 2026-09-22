@@ -1124,3 +1124,30 @@ The accessible record does not yet expose the full 15-page article. Therefore th
 - original 1979 plan/figure location.
 
 **Decision: Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+
+## Pass 39 — 22 September 2026 — 1979 seal: object-level reconstruction
+
+Pass 39 located the **actual searchable PDF** of the 1983 Bătrîna & Bătrîna article, not merely its catalogue record. citeturn2search28
+
+The cumulative index to *Cercetări Numismatice* provides an important object-level description: the 1979 excavation of **dwelling 4** produced a **double lead seal**, consisting of two round lead plates joined at two points. Both faces carried, by matrix impression, a **fleur-de-lis emblem** and the legend **“+ DE TOURNAI”**. citeturn5search25
+
+The article abstract independently identifies the object as a cloth trade seal from Tournai and states that its heraldic signs place it after 1426. citeturn2search0
+
+The research therefore now has a stronger evidence chain:
+
+**1979 campaign → dwelling 4 → double lead seal → fleur-de-lis + “+ DE TOURNAI” → cloth trade seal → post-1426 dating (authors) → western-European textile trade interpretation (authors).**
+
+A 2010 local synthesis further describes the associated building as a burned merchant-type house and connects the object with luxury cloth from Tournai, but this remains a later interpretation rather than a replacement for the 1983 study. citeturn5search26
+
+### Gap control
+
+Still open:
+- exact dimensions;
+- exact stratigraphic layer and find position;
+- complete heraldic comparison;
+- full dating argument from the 1983 article;
+- original 1979 excavation plan showing dwelling 4;
+- whether the burned condition and “merchant house” interpretation can be tied directly to the same context through the original excavation report.
+
+**Decision: Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
