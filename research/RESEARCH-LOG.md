@@ -1229,3 +1229,28 @@ Updated: archaeology, research log, sources.
 
 ### Next target
 Visual control of the actual numbered plates, beginning with Pl. I–III.
+
+
+## Pass 77 — 22 September 2026
+
+**Target:** visual control of the actual numbered plates against the 1982 text.
+
+### Major correction
+Previous Pass 76 incorrectly classified **Pl. IV/4 as glass**. The printed plate legend and image show **Pl. IV/4 = pahar (small cup)**. The earlier classification is withdrawn.
+
+### Visual controls completed
+- Pl. I: four items only; no safe Pl. I/5.
+- Pl. II: single glazed taler.
+- Pl. III: 1,3,4 glazed ceramic; 2 crăiță/kiln support.
+- Pl. IV: 1,2,3,5 glazed ceramic; 4 pahar; item 6 appears in the drawing and requires exact legend reconciliation before formal classification.
+
+### New OCR safeguard
+A textual “Pl. I/5” reference conflicts with the actual four-item Pl. I plate. It is retained as an unresolved source anomaly rather than converted into a fictional object.
+
+### GitHub
+Backup branch: backup/pass77-pre-research-2026-09-22
+Updated: archaeology, research log, sources.
+index.html untouched.
+
+### Next target
+Complete Pl. V visual/textual reconciliation, then return to unresolved Pl. IV/6 and the anomalous “Pl. I/5” reference.
