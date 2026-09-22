@@ -1383,3 +1383,14 @@ The 1982 primary article contains internal plate-reference conflicts that must b
 Archive status vocabulary: **CONTROLLED OBJECT**, **TEXTUAL ANOMALY**, **UNRESOLVED INTERNAL CONFLICT**.
 
 This prevents a publication numbering error from becoming a false archaeological object record.
+
+
+## S129 — Pass 79 — independent cross-check of Pl. V suspension-hole reference
+
+A later archaeological publication on medieval ceramics from Suceava cites Bătrîna & Bătrîna 1982, p. 103 and identifies Curtea de Argeș vessels with suspension holes at **Pl. III/1, III/4; Pl. IV/1–3,5; and Pl. V/2**. citeturn0search24
+
+This differs from the earlier working note that associated the perforation evidence with Pl. V/4. The discrepancy is preserved as an unresolved source-control issue. The later citation does not override the primary plate.
+
+## S130 — Pass 79 — bibliography/source identity cross-check
+
+The official *Cercetări Arheologice* index lists the Curtea de Argeș article by Lia Bătrîna and Adrian Bătrîna in volume V (1982), pp. 95–107. Biblioteca Digitală independently catalogs the same bibliographic record. citeturn0search0turn0search1
