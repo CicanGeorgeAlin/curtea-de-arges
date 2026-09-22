@@ -2092,3 +2092,33 @@ S198 and S199 added; Pass 113 recorded; index.html untouched.
 
 ### Next target
 Use the 2017 book's plate/index structure as a map for identifying the Curtea de Argeș entries, while maintaining strict object separation. Search the plate captions, catalogue numbers and bibliography for explicit MNAR identifiers.
+
+
+## Pass 114 — 22 September 2026
+
+### Target
+Test the 2017-book lead against later Curtea de Argeș plate-tile literature and search for exact C44/C81 identifiers again.
+
+### Result
+Exact-identifier searches did not produce a new public source explaining 4119/C44, 4130/C81 or 10073/C81. Instead, the search surfaced later Curtea de Argeș plate-tile literature, including Rădulescu's 2018 article on a plate tile depicting Mircea the Elder from the Royal Court at Curtea de Argeș. citeturn0search5
+
+This is another distinct Curtea de Argeș tile object and is logged as an exclusion/control source, not merged with the 1920 MNAR pair.
+
+A 2019 archaeological report also demonstrates that Rădulescu's 2017 synthesis is cited at plate level for stove-tile analogies, while Curtea de Argeș material is separately cited from Bătrîna & Bătrîna. citeturn0search0
+
+### Methodological consequence
+The Curtea de Argeș stove-tile corpus is demonstrably larger than the C44/C81 pair. Similar category, location, period or iconography cannot establish object identity.
+
+### C44/C81 status
+Still unresolved:
+- 4119/C44 stable;
+- C81 4130 vs 10073 unresolved;
+- unglazed vs green/light-green glazed unresolved;
+- 1920 provenance supported by both 2000 and 2007 publications.
+
+### GitHub
+Backup: backup/pass114-pre-research-2026-09-22
+S200 added; Pass 114 recorded; index.html untouched.
+
+### Next target
+Continue the 2017 synthesis/catalogue route, but focus on plate/cat­alogue captions and bibliography rather than broad Curtea de Argeș searches; search exact museum identifiers only when an object-level source is available.
