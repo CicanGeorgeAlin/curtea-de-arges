@@ -546,3 +546,25 @@ For every archaeological/heritage place we will maintain separate fields for:
 A match is established only when the sources support it.
 
 Stage remains OPEN — NOT COMPLETE.
+
+## Archaeology autopilot — Pass 21 · 22 September 2026
+
+### Historic Urban Site: new spatial master layer
+
+The current RAN record for the historic urban site (13631.11) gives a very extensive protected perimeter, including named streets, cemeteries, the railway/station area, Sân Nicoară Street and the zone around the Princely Court. The record dates the urban settlement broadly to the 13th–19th centuries. citeturn0search2
+
+This creates an important distinction:
+
+**protected perimeter = spatial/heritage control layer**
+
+but not:
+
+**every parcel inside perimeter = independently demonstrated archaeological deposit.**
+
+The archive will therefore use the historic urban site as a geographic master layer while preserving separate evidence records for individual buildings, excavations, cemeteries, streets and archaeological contexts.
+
+### Self-correction of inventory completeness
+
+Repeated current RAN selection results show Drujești, but the interface is paginated/filterable. Therefore the working five-record RAN inventory is still provisional and cannot be declared exhaustive from a single returned page. citeturn0search7turn0search10
+
+Next target: obtain an explicit municipality-scoped RAN result set and reconcile every returned code against LMI, archaeological publications and the existing inventory.
