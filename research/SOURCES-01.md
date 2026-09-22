@@ -1822,3 +1822,20 @@ The published work is a 430-page synthesis/catalogue covering research history, 
 Control result: searches within the accessible indexed PDF preview did not expose the exact identifiers 4119, 4130, 10073, C44 or C81. Therefore the book is confirmed as a major bibliographic/methodological source, but its accessible preview does not resolve the MNAR identity contradiction. No inference is made from the absence of these strings in the preview.
 
 URL: https://cdn4.libris.ro/userdocspdf/832/Mestesug%2C%20arta%2C%20document.%20Cahlele%20din%20Tara%20Romaneasca%20%28secolele%20XIV%20-%20XVII%29%20-%20Maria-Venera%20Radulescu.pdf
+
+
+## S198 — *Cronica Cercetărilor Arheologice*, campaign 2018: independent reference to Rădulescu 2017 Plate CXL/1
+
+Institution: Institutul Național al Patrimoniului / *Cronica Cercetărilor Arheologice*.  
+Coverage: the Câmpulung campaign report cites Rădulescu's 2017 *Meșteșug, artă, document* at Plate CXL/1 for a stove-tile analogy. The report also separately cites Bătrîna & Bătrîna's Curtea de Argeș ceramic publication, Plate IV/6. citeturn0search27turn0search0
+
+Control point: this independently confirms that the 2017 book is being used through specific plate-level references in archaeological reporting. It does **not** establish that Plate CXL/1 is C44/C81. The Câmpulung material and the Curtea de Argeș C44/C81 group remain separate.
+
+URL: https://cronica.cimec.ro/Public/Detalii.php?k=6103
+
+
+## S199 — Rădulescu 2024: Curtea de Argeș panel tile remains a separate comparative object
+
+Maria-Venera Rădulescu's 2024 article on tournament-scene stove tiles includes Plate II(a), identified as a panel stove tile from Curtea de Argeș, 16th century, with a drawing by Simona Movilă. The article's bibliography again cites the 2017 *Meșteșug, artă, document* synthesis. citeturn0search29
+
+Control point: this later Curtea de Argeș panel tile is a separate comparative object unless an explicit inventory/provenance link to C44/C81 is established. No such link was found in this pass.
