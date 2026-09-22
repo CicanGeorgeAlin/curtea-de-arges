@@ -2558,3 +2558,36 @@ The web cross-check confirms the 1982 Curtea article is repeatedly cited in late
 ### Research decision
 
 The correct next move is **not** to manufacture individual object records. Instead, the archive will first finish the corpus-level stove analysis and then search for later publications that reproduce, reinterpret or explicitly provenance the Curtea Pl. VII discs.
+
+
+## Later specialist control of the Pl. VII stove-disc corpus — Pass 84 · 22 September 2026
+
+### Rădulescu 2013 provides a new chronological/functional control
+
+Maria-Venera Rădulescu's 2013 study, *Cahle pentru coronamentul sobelor medievale din Țara Românească (secolele XIV–XVII)*, explicitly cites both Bătrîna & Bătrîna 1981 and 1982 as core Curtea de Argeș sources. The study classifies Wallachian stove-canopy tiles into disc, convex, simple-frame, fretwork and plate types. citeturn2view1
+
+The searchable text of the 2013 PDF states that the earliest disc tiles, datable to approximately **1370 / the second half of the 14th century**, were discovered at **Curtea de Argeș**, and interprets them as pieces used to decorate stoves in the voivodal residence as well as urban houses. This is a later scholarly synthesis, not a replacement for the 1982 primary plate captions. citeturn1search34
+
+### Important refinement of the Pl. VII chronology
+
+The 1982 primary plate legend gives Pl. VII = 14th century. Rădulescu 2013 narrows the earliest Wallachian disc-tile horizon represented by the Curtea de Argeș discoveries to approximately **1370 / second half of the 14th century**. The archive therefore records:
+
+- **Primary caption:** 14th century.
+- **Later typological synthesis:** earliest disc-tile horizon, approx. 1370 / second half of 14th century.
+- **Individual manufacture/deposition date:** not automatically fixed for every Pl. VII specimen.
+
+### Functional interpretation boundary
+
+Rădulescu's 2013 synthesis says disc tiles were used in stove architecture, including decoration of the combustion/heating chamber and canopy/crown. This is useful functional interpretation for the type, but it must not be converted into a claim about the exact installation of each Curtea de Argeș Pl. VII specimen.
+
+### New cross-link to later Curtea de Argeș stove-tile research
+
+A 2016 Rădulescu study on a ritual wedding-dance scene identifies plate-tile fragments discovered during the 1920–1922 excavations at the Princely Court of Argeș and dates them to the 15th century. This establishes that Curtea de Argeș has a later, separately documented **plate-tile** corpus from the Princely Court. It must remain separate from the 14th-century Pl. VII disc corpus. citeturn1search0turn1search39
+
+### Archive implication
+
+The Curtea de Argeș stove evidence is now best represented as a chronological/type sequence rather than one undifferentiated “stove tile” category:
+
+**14th c. disc-tile corpus (Pl. VII)** → **later 15th c. plate-tile corpus at Princely Court** → **16th–17th c. Pl. VI glazed ceramic/cahlă group**
+
+This is a research framework, not a claim that these are a single continuous assemblage.
