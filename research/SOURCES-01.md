@@ -1723,3 +1723,13 @@ Coverage: historical CMI correspondence and administrative material concerning C
 Use: primary archival lead for the institutional history of the Curtea Domnească excavation/restoration period. The public description does **not** identify MNAR C44/C81 or the terracotta fragments individually, so no object-identity claim is made from this source.
 
 URL: https://arhivacomisiuniimonumentelor.ro/?p=95291
+
+
+## S188 — CMI dossier 1394: museum and photography correspondence layer
+
+Institution: Back-up — Valorificarea arhivei istorice a Comisiunii Monumentelor Istorice.  
+Dossier: 1394, Curtea Domnească / Biserica „Sfântul Nicolae” – Domnesc.  
+Newly controlled catalogue details: the dossier explicitly lists correspondence concerning photography and payments for photographs; correspondence with the Muzeul Național de Antichități and Muzeul de Etnografie și Artă Națională; and correspondence involving photographs sent to the Museum of National Art. It also contains a Curtea Domnească plan.  
+Use: primary archival-control source for the documentary ecosystem around photographs and museum relationships in 1921–1930. It is a lead toward object/provenance documentation, not evidence that any named correspondence concerns C44/C81 or terracottas specifically.
+
+URL: https://arhivacomisiuniimonumentelor.ro/?p=95291
