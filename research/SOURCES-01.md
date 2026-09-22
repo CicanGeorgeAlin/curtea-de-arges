@@ -494,3 +494,18 @@ Author: Nicolae Constantinescu. Publication context: specialist archaeological s
 Coverage: a 45 m × 2 m section and a second 25 m × 2 m section in a microzone outside/around the former princely court, with stratigraphic profile EMV-I. The published profile distinguishes multiple occupation horizons: four successive habitation levels of the 13th–14th centuries up to about 1340, followed by later occupation from the second half of the 14th century onward. The profile also records a 14th-century iron-working layer and a 14th-century pottery kiln.  
 Use: **specialist archaeological synthesis / published section profile**. It is evidence for the excavated microzone, not proof of identical stratigraphy across the entire historic city. citeturn0search0  
 URL: https://biblioteca-digitala.ro/reviste/carte/muzeul-arges/CONSTANTINESCU_Timp-spatiu-voievodal-Argesul-istoric_2013.pdf
+
+
+## S79 — Nicolae Constantinescu, Spiridon Cristocea & Romeo Maschio, “Săpăturile de salvare la Curtea de Argeș (1983–1984)”
+
+Publication: *Argeșis*, XII, 2003, pp. 165–176.  
+Coverage: rescue archaeology in the EMV (extra muros-vest) microzone immediately west of the former Princely Court, beside the former Râului/L. Catargiu street. The publication describes the 1983–1984 campaign, the archaeological reserve context, the terrace morphology, and medieval cultural remains exposed during the construction project. It reports a 13th–14th-century habitation level, construction-related traces connected by the authors with the raising of Basarab I's enclosure around c. 1340, and a pottery kiln (COL 1) attributed by the authors to the time of Mircea cel Bătrân.  
+Use: **primary published rescue-archaeology report / specialist synthesis**. Spatial and chronological interpretations remain attributed to the authors. citeturn0search16  
+URL: https://biblioteca-digitala.ro/reviste/carte/muzeul-arges/CONSTANTINESCU_Timp-spatiu-voievodal-Argesul-istoric_2013.pdf
+
+## S80 — Adrian & Lia Bătrîna, “Cercetările arheologice de la Curtea de Argeș” (1982)
+
+Publication: *Cercetări Arheologice*, V, 1982, pp. 95–107.  
+Coverage: archaeological research in Curtea de Argeș beyond the single monument core; bibliographic record confirms the dedicated publication and its 1982 placement in the national archaeological series.  
+Use: **specialist archaeological publication lead**. Full context and section-level claims require direct inspection of the article before promotion into detailed evidence. citeturn0search2turn0search3  
+URL: https://biblioteca-digitala.ro/
