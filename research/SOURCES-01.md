@@ -423,3 +423,7 @@ The municipal historical study explicitly reproduces a table titled “Lista mon
 ## S63 — LMI 2015 Curtea Domnească component record
 The 2015 LMI lists Curtea Domnească as AG-II-a-A-13647, dated sec. XIV–XVI, and lists Biserica Sf. Nicolae Domnesc as component AG-II-m-A-13647.01, dated 1351–1370 and explicitly stating that it incorporates foundations of a 13th-century church. citeturn0search0
 Use: LMI component evidence; retain separately from RAN's own chronology and from archaeological interpretation.
+
+## S64 — LMI 2015 municipality block extraction: Curtea de Argeș records 444–505
+The 2015 LMI PDF contains a continuous Curtea de Argeș block from record 444 (Gara, AG-II-m-A-13627) through record 505 (Biserica Intrarea în Biserică / Brad-Bătușari, AG-II-m-A-13663). It includes the Argeș Monastery ensemble (13628), Seminarul Teologic ensemble (13629), numerous historic buildings (13630–13638, 20194–20196), Olari (13639), additional commercial/residential/religious monuments (13640, 13642–13644), the historic urban site (13645), hospital ensemble (13646), Princely Court ensemble and nine components (13647.01–.09), former city hall/hotel (13648–13649), Drujești (13650), additional houses (13651–13654), Sân Nicoară (13655), more houses/churches (13656–13661), and Brad-Bătușari (13663). citeturn0search6turn0search1
+Use: canonical 2015 heritage-baseline block for systematic reconciliation. This is an LMI inventory, not an archaeological inventory.
