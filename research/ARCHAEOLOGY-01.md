@@ -1088,3 +1088,39 @@ The next high-value task is therefore direct recovery of the **1983 seal article
 At the same time, the original 1979 excavation plan remains the spatial priority.
 
 **Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+
+## Pass 38 — 22 September 2026 — 1979 trade-seal evidence upgraded
+
+Pass 38 directly recovered the publisher/library abstract for Adrian and Lia Bătrîna's 1983 dedicated study of the Curtea de Argeș trade seal. The record confirms that the seal was found during the **1979 excavations**, in an **urban-type dwelling dated by the article to the end of the 14th / beginning of the 15th century**. The object is identified as a **cloth trade seal from Tournai**, and the abstract states that its heraldic signs place it after **1426**. citeturn0search0turn0search1
+
+This creates four separate evidence fields:
+
+1. **Excavation campaign:** 1979.
+2. **Dwelling context:** end of the 14th / beginning of the 15th century, according to the 1983 study.
+3. **Object classification:** trade seal for cloth from Tournai.
+4. **Seal dating:** after 1426, according to the heraldic evidence described in the abstract. citeturn0search0
+
+The authors interpret the object as evidence of economic relations between Wallachia and major western European textile/cloth centres in the first half of the 15th century. This interpretation remains explicitly attributed to Bătrîna & Bătrîna. citeturn0search0
+
+### Method upgrade
+
+The 1979 settlement matrix now requires:
+
+**CAMPAIGN → DWELLING → OBJECT → OBJECT CLASSIFICATION → OBJECT DATING → CONTEXT DATING → AUTHOR INTERPRETATION**
+
+The apparent chronological tension between the dwelling's broad archaeological date and the seal's post-1426 dating is **preserved**, not normalized. It may reflect reuse, continued occupation, dating ranges, or another contextual issue, but no explanation is adopted until the full article and original excavation documentation are inspected.
+
+### Still open
+
+The accessible record does not yet expose the full 15-page article. Therefore the following remain unverified from the primary text:
+- seal dimensions and physical construction;
+- exact inscription reading and all visible devices;
+- detailed heraldic description;
+- exact archaeological layer/context;
+- whether “dwelling 4” is explicitly the dwelling named in the article's full text;
+- comparison seals/objects;
+- complete bibliography and dating argument;
+- original 1979 plan/figure location.
+
+**Decision: Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
