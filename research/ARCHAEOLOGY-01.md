@@ -1296,3 +1296,14 @@ A specialist catalogue also cites Bătrîna & Bătrîna 1981, p.166 fig.14/3 and
 This strengthens the independent ceramic/heating evidence for medieval urban housing at Curtea de Argeș, but it still does not justify assigning every cited figure to L4 or to the Tournai seal. The Pass 41 correction remains active.
 
 **Stage 1 remains OPEN.**
+
+
+## Pass 52 — 22 September 2026 — primary report recovery and extraction discipline
+
+The original 1979 excavation report is now directly retrievable as a PDF and exposes the campaign methodology and the detailed beginning of the dwelling sequence. The authors identify four dwellings and then give a detailed stratigraphic description of L1, demonstrating that the report contains dwelling-specific archaeological evidence rather than only a general campaign summary. citeturn0search19
+
+**Control decision:** L4 must be extracted from its own original report pages before dimensions, floor plan, construction details or stratigraphy are promoted. Later catalogues remain corroborating sources, not substitutes.
+
+No unsupported L4 measurements or plan details are added in this pass.
+
+**Stage 1 remains OPEN.**
