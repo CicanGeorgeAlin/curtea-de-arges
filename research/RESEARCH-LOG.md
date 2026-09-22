@@ -1420,3 +1420,20 @@ index.html untouched.
 
 ### Next target
 Trace the 2024 tournament cahlă bibliography backward to its cited source (especially reference 23), and separately locate the 2016 plate/tile figures and their original Drăghiceanu 1923 source chain.
+
+
+## Pass 86 — 22 September 2026
+
+**Target:** trace the bibliography behind the 2024 tournament cahlă and the 2016 wedding-tile corpus.
+
+### Corrections / discoveries
+- 2024 Rădulescu reference for the tournament-tile comparison is **ref. 28**, not ref. 23: Rădulescu 2000, “Noi cahle medievale decorate cu scene de turnir (secolele XIV–XVI),” SCIVA 51 (2000), 1–2, pp. 93–102. citeturn0search24
+- 2016 Rădulescu article securely anchors the wedding/dance tiles to the 1920–1922 Drăghiceanu excavations and cites Drăghiceanu 1923 documentation. citeturn0search2turn0search25
+
+### GitHub
+Backup: backup/pass86-pre-research-2026-09-22
+Updated: archaeology, research log, sources.
+index.html untouched.
+
+### Next target
+Locate and inspect Rădulescu 2000 SCIVA 51 and Drăghiceanu 1923 directly, then compare their provenance/object descriptions with the 2016 and 2024 syntheses.
