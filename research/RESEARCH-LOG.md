@@ -1378,3 +1378,24 @@ index.html untouched.
 
 ### Next target
 Search later specialist literature for explicit Curtea Pl. VII object references/provenance, then return to the Pl. VI 16th–17th-century group.
+
+
+## Pass 84 — 22 September 2026
+
+**Target:** later specialist literature for the Pl. VII stove-disc corpus.
+
+### Newly verified
+- Rădulescu 2013 explicitly cites the 1981 and 1982 Curtea de Argeș reports. citeturn2view1
+- The 2013 study classifies Wallachian stove-canopy tiles by construction/form, including disc tiles, and its searchable PDF text places the earliest Curtea de Argeș disc-tile discoveries at approximately 1370 / second half of the 14th century. citeturn1search34
+- Rădulescu 2016 documents a separate 15th-century plate-tile corpus from the 1920–1922 Princely Court excavations at Argeș. citeturn1search0turn1search39
+
+### Control
+Later typological synthesis narrows chronology/function at corpus level but does not assign an individual Pl. VII specimen to an exact date or room.
+
+### GitHub
+Backup: backup/pass84-pre-research-2026-09-22
+Updated: archaeology, research log, sources.
+index.html untouched.
+
+### Next target
+Trace the 2016/2018/2024 Curtea de Argeș stove-tile studies and build a chronological stove-tile evidence matrix, keeping disc tiles, plate tiles and later cahlă forms separate.
