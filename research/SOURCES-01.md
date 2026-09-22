@@ -1571,3 +1571,16 @@ Control: 1923a figs. 78–82 and 1923 Fig. 305 are separate source-image groups 
 Rădulescu 2016 records three glazed *cahle-oală* found during 1968 research at Curtea Domnească, dimensions 29.6×29.6 cm, 26.5×26.5 cm and 22×22 cm; she gives Argeș County Museum inventory 1614, F.1615. citeturn2view0
 
 Control: separate from I 5882 and from the 1920–1922 wedding/dance fragments.
+
+
+## S161 — Pass 94 — Slătineanu figure-family control
+
+Later ceramic literature by Barbu Slătineanu identifies rectangular relief-impressed ceramic plates as a category and cites **BCMI 1923, figs. 78–82, 84 and 301** among the examples. citeturn0search36turn2search21
+
+Control: secondary classification only; original 1923 figures remain required for individual identification.
+
+## S162 — Pass 94 — Figure 305 remains separate
+
+Rădulescu 2016 identifies BCMI 1923 **Fig. 305** as the image of 16 stove-tile fragments, while the Slătineanu evidence separately groups figs. 78–82, 84 and 301 as rectangular relief-decorated plate examples. citeturn0search35turn0search36
+
+No figure-number bridge to I 5882 has been established.
