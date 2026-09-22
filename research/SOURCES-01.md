@@ -737,3 +737,12 @@ A source audit found that the earlier Pass 47–48 use of the 1999–2001 specia
 Therefore the archive withdraws the claim that this catalogue independently confirms Curtea de Argeș L4 as semi-sunken/gârlici and first-half-15th-century. The Curtea de Argeș L4 architectural description remains OPEN pending direct control of the original 1979 report or a source that explicitly identifies the Curtea dwelling.
 
 The 1983 primary trade-seal article itself remains controlled: it explicitly refers to the burned remains of **L4 at Curtea de Argeș** and cites the 1979 excavation report in its notes. citeturn1search21
+
+
+## S103 — Pass 56: exact primary-source note on L4 reference and publication pagination
+
+A direct search of the original 1983 seal article confirms that the L4 ownership inference cites the 1979 excavation report specifically at **p.144 and p.153**. The article states that the burned remains of L4 were uncovered in the 1979 research and identifies the probable owner only as an inference by the authors. citeturn0search35
+
+The same article's note 3 points to the 1979 report p.153, providing a concrete page-level target for the next excavation-context recovery attempt. This is now a higher-priority target than the previously used p.166/fig.14 trail, which is known to concern comparative stove-tile evidence and not necessarily L4 itself. citeturn0search35turn0search36
+
+Pass 56 therefore upgrades the retrieval target: **1979 report p.153 → L4 description/context**.
