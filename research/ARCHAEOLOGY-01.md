@@ -385,3 +385,44 @@ The municipal planning report currently available online lists four major cultur
 ### Stage status
 
 **OPEN — NOT COMPLETE.**
+
+
+## Re-analysis and gap check — Pass 15
+
+A fresh current-source check was run before advancing the archaeological stage.
+
+### Current RAN records: source-control update
+
+The National Archaeological Repertory pages currently expose the Curtea de Argeș records with their site-level data and identify the National Heritage Institute as the database administrator. The current database footer shows a **27 July 2026** database update, while the individual Drujești and Sân Nicoară records retain their own record-update dates. This distinction is now important: a current database access date is not the same thing as a newly discovered archaeological event.
+
+The current Drujești record confirms **RAN 13631.02**, a medieval church and necropolis, systematic research in 1987 by Spiridon Cristocea, and the associated *Cronica Cercetărilor Arheologice* bibliography. The current Sân Nicoară record confirms **RAN 13631.05**, LMI **AG-II-m-A-13655.01**, medieval church dating in the register, and preventive archaeological research in 2009–2011 by named researchers and institutions. citeturn0search0turn0search1
+
+### Sân Nicoară: chronology remains explicitly unresolved
+
+The current RAN record gives a 14th-century register chronology. The accessible 2011 archaeological report, however, preserves earlier research and discusses a hypothesis placing the church around the turn of the 15th/16th centuries on the basis of a coin attributed to Vladislav II Jagello. The archive will therefore keep the **register dating and specialist hypotheses as separate evidence layers** rather than silently selecting one date. citeturn0search1turn0search12
+
+This is an important example of the archive's intended model:
+**current register → archaeological report → earlier excavation history → interpretation → unresolved chronology**.
+
+### Constantinescu 1984: stronger control over the 13th-century question
+
+The bibliographic record for Nicolae Constantinescu's *Curtea de Argeș (1200–1400). Asupra începuturilor Țării Românești* confirms that the book synthesizes the archaeological research carried out in **1967–1973** and explicitly distinguishes the archaeological/princely centre under study from the modern city as a whole. The archive will therefore avoid using the 1984 synthesis as if every conclusion automatically applied to the entire present-day municipality. citeturn0search3turn0search7
+
+The same evidence base supports an important distinction already established in earlier passes: 13th-century archaeological material at the Curtea Domnească area is evidence of activity at that location, but it does not by itself prove the exact size, political status or urban form of the settlement at that time. citeturn0search3turn0search7
+
+### New research-control rule
+
+For chronology claims, the archive will now maintain four separate fields whenever evidence permits:
+
+1. **Register chronology** — what the current official database says.
+2. **Excavation dating** — what the archaeological context/material supports.
+3. **Historical interpretation** — what a named scholar or institution argues.
+4. **Current synthesis** — how later research relates the earlier evidence and interpretations.
+
+This prevents a modern register date, an archaeological estimate and a historiographical interpretation from being accidentally merged into one apparently certain fact.
+
+### Stage 1 status
+
+**OPEN — NOT COMPLETE.**
+
+The next archaeological target remains the same, but the control standard is now stronger: reconstruct the municipal archaeological inventory, then build the campaign/publication/context matrix while preserving disagreements and negative evidence. The archive will not close the archaeological foundation until those layers have been systematically checked.
