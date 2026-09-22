@@ -809,3 +809,18 @@ The report explicitly associates L2, L3 and L4 with **Str. Castanilor nr. 2** an
 The next logical micro-pass is the **continuation of the L4 ceramic assemblage immediately after p.153**, followed by a structured reconstruction of Fig. 5 and Fig. 6. After that, the research should return to the other 1979 dwellings rather than over-concentrating on L4.
 
 **Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+
+## Pass 60 — 22 September 2026
+
+Recovered the page sequence around L4 from the official 1979 excavation report.
+
+Key result: printed **p.154 is a figure-only page containing Fig. 6**, the stratigraphic profile for L4/S3. It is therefore not appropriate to invent a separate “p.154 ceramic narrative.” The page visually records 27 stratigraphic categories, including carbonized wood, carbonized cellar boards, daub/tile/clay fill, charcoal-bearing layers, clean clay, carbonized sills and logs.
+
+Fig. 5 on p.152 was also checked directly. It is the plan of dwellings **L2, L3 and L4 at Str. Castanilor nr. 2**, with S1/S2/S3 section labels, a north arrow and a 1 m scale. It establishes relative spatial relationships but does not provide modern GIS coordinates.
+
+The ceramic narrative begins after the Fig. 6 sheet. The report treats L4 as a closed archaeological complex and analyzes domestic pottery and stove tiles. It separates unglazed and glazed pottery and documents multiple vessel forms and decorative techniques. Figure captions repeatedly identify illustrated objects as coming from the L4 fill and date the illustrated assemblage to the second half of the 14th century.
+
+The 1983 Tournai-seal study was cross-checked again. Its object chronology must remain separate from the 1979 architectural chronology: L4 is dated by the excavation report to the last decades of the 14th century, while the seal is dated by the 1983 authors to after the 1426 Tournai heraldic change. No reconciliation is asserted.
+
+Next target: complete the L4 stove/tile evidence extraction, then deliberately move back to the broader 1979 campaign and L1–L3.
