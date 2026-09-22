@@ -1409,3 +1409,15 @@ The 1982 body text explicitly lists perforated ring-foot examples at **V/4**. A 
 The 1982 text associates V/1 with the vârtej motif and also describes a partial leopard at V/1. The plate image visibly shows a strongly radial/whirling composition but is not sufficient by itself to prove the zoomorphic identification. Both textual claims are preserved with attribution; no single morphology is imposed. citeturn3view0turn2view0
 
 The earlier assumption that a mounted rider was definitely Pl. V/1 is withdrawn because the OCR rendering in the stove paragraph is corrupted (“pl -1/1”).
+
+
+## S133 — Pass 81 — stove-material corpus boundary
+
+Primary source: Bătrîna & Bătrîna, “Cercetările arheologice de la Curtea de Argeș”, *Cercetări Arheologice* V (1982), pp. 95–107. Official journal record and digital primary PDF confirm the article. citeturn0search2turn0search12
+
+Controlled stove corpus:
+- **Pl. VI/4** — stove-tile fragment / cahlă; 16th–17th-century plate group.
+- **Pl. VII** — stove discs; 14th-century plate group.
+- L4 context — stove tiles + smoke tiles + daub in cellar fill; smoke-flue dimensions approximately 45–50 cm high and up to about 28 cm diameter.
+
+Control rule: plate-caption chronology is not automatically equivalent to manufacture date or depositional date. Stove-material object classes remain separate from vessel ceramics.
