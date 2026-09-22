@@ -2019,3 +2019,30 @@ S193 and S194 added; Pass 110 recorded; index.html untouched.
 
 ### Next target
 Search bibliographic citations around Rădulescu's 2002 doctoral thesis and older museum catalogues for the exact C44/C81 pair, then return to the CMI 1394 archival route for accession/custody documentation.
+
+
+## Pass 111 — 22 September 2026
+
+### Target
+Investigate the 2002 Rădulescu doctoral thesis as a possible bridge between the 2000 and 2007 C44/C81 publications.
+
+### Result
+The thesis *Cahlele din Țara Românească din sec. XIV–XVII* is independently confirmed as a 2002 doctoral work by Maria-Venera Rădulescu. Later scholarly publications cite it as a comparative source for medieval stove tiles, including material connected with the Curtea de Argeș region. citeturn0search28turn0search30
+
+However, the searchable material recovered in this pass did not expose the thesis pages needed to test the exact MNAR identifiers 4119/C44, 4130/C81 or 10073/C81. Therefore the thesis is logged as a **bibliographic lead, not object-level evidence**.
+
+The PROEUROPEANA descriptor for Curtea Domnească din Argeș independently indexes the relevant 1917–1923 BCMI volume and 2007 Rădulescu article. citeturn0search1
+
+### C44/C81 status
+No resolution. The contradiction remains exactly preserved:
+- C44 / 4119 stable;
+- C81 numerical inventory 4130 vs 10073 unresolved;
+- 2000 unglazed vs 2007 green/light-green glazed unresolved;
+- 1920 excavation provenance supported by both publications.
+
+### GitHub
+Backup: backup/pass111-pre-research-2026-09-22
+S195 and S196 added; Pass 111 recorded; index.html untouched.
+
+### Next target
+Recover the 2002 thesis itself if possible, then pursue its cited museum/catalogue references. In parallel, continue the CMI dossier 1394 route and older MNAR documentation.
