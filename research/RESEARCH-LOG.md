@@ -3023,3 +3023,34 @@ S231 added; Pass 145 recorded; index.html untouched.
 
 ### Next target
 Continue direct recovery of the original 1923 page images/figures, prioritizing p.148 and Fig.158, then the 150-series and Fig.305 without conflating separate figure systems.
+
+
+## Pass 146 — 22 September 2026
+
+### Target
+Strengthen the late-Jurnal figure provenance using a precise secondary citation that identifies page, figure, material and excavation campaign together.
+
+### Result
+A 1994 specialist study cites Drăghiceanu's *Jurnalul săpăturilor* at **pp.148–149, fig.162** for important **Gothic stone-rib fragments** discovered during the **1920 archaeological excavations** at the Casa Domnească. citeturn0search24
+
+### Significance
+This is a high-quality secondary provenance anchor because four dimensions align:
+**primary publication → pp.148–149 → fig.162 → Gothic stone fragments → 1920 excavation.**
+
+The original figure itself remains uninspected, so this is still secondary evidence about the figure's content/provenance.
+
+### Critical separation
+The fragments are architectural **stone**, not terracotta stove tiles. They must remain separate from:
+- Fig.305 / 16 terracotta fragments;
+- the C44/C81 MNAR pair;
+- other later terracotta studies.
+
+### C44/C81 status
+Unchanged: 4119/C44 stable; C81 4130 vs 10073 unresolved; 2000 unglazed vs 2007 green/light-green glazed unresolved.
+
+### GitHub
+Backup: backup/pass146-pre-research-2026-09-22
+S232 added; Pass 146 recorded; index.html untouched.
+
+### Next target
+Continue exact-page/figure recovery, prioritizing the original 1923 pages 148–149 and Fig.162, while keeping material classes and object groups strictly separated.
