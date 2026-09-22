@@ -15,7 +15,7 @@ This is the controlled archaeological-inventory layer for Curtea de Argeș. It i
 | 13631.07 | Ansamblul Curții Domnești | princely court / archaeological and architectural ensemble | medieval and later components | AG-II-a-A-13647 | Constantinescu 1967–1973; later synthesis and studies | VERIFIED |
 | 13631.10 | Ansamblul Mănăstirii Argeșului | monastery ensemble | church 1512–1517; later components | AG-II-a-A-13628 | RAN / LMI / institutional heritage sources | VERIFIED |
 | 13631.11 | Situl urban Orașul istoric Curtea de Argeș | protected historic urban archaeological site | 13th–19th c. in current RAN description | AG-II-s-A-13645 | RAN / municipal historical study / LMI | VERIFIED |
-| — | Biserica Adormirea Maicii Domnului — Olari | church; archaeological evidence from restoration excavation | older church foundations dated around mid-15th c. in archaeological publication; current monument dated ante 1687 in LMI | AG-II-a-A-13639 / AG-II-m-A-13639.01 | archaeological campaign 1967; Dinu V. Rosetti; 1968 publication; 2005 specialist synthesis | VERIFIED archaeological intervention; no RAN code currently identified |
+| 13631.09? | Biserica Adormirea Maicii Domnului — Olari | church; archaeological evidence from restoration excavation | older church foundations dated around mid-15th c. in archaeological publication; current monument dated ante 1687 in LMI | AG-II-a-A-13639 / AG-II-m-A-13639.01 | archaeological campaign 1967; Dinu V. Rosetti; 1968 publication; 2005 specialist synthesis | VERIFIED archaeological intervention; RAN 13631.09 is a secondary-source candidate pending official RAN verification |
 
 ## Naming and grammar control
 
@@ -117,3 +117,16 @@ A current RAN date is not automatically the same thing as an excavation date, co
 ### Status
 
 **OPEN — NOT COMPLETE.**
+
+
+## Pass 14 — Olari RAN code lead
+
+A targeted external search produced a secondary-source reference assigning **RAN 13631.09** to Biserica „Adormirea Maicii Domnului” — Olari. Because the official RAN record was not independently retrieved during this pass, the code is recorded as a **candidate**, not as a verified RAN identifier. citeturn5search0
+
+The inventory therefore now distinguishes:
+- **verified archaeological intervention:** yes;
+- **LMI relationship:** verified;
+- **RAN code:** candidate 13631.09;
+- **official RAN verification:** still required.
+
+This correction replaces the older wording that no RAN code had been identified.
