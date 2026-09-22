@@ -665,3 +665,12 @@ A later specialist study citing the Curtea de Argeș excavation literature ident
 This later synthesis is not used to replace the 1983 seal article's formulation. It provides an independent chronology for the dwelling type and a potential architectural clue: L4 is treated as a semi-sunken dwelling with a gârlici entrance. Exact dimensions and plan remain unverified.
 
 The archive now records a controlled chronological tension: 1983 seal article describes L4 in the late-14th/early-15th-century context; later specialist synthesis dates L4 by pottery to the first half of the 15th century. These ranges overlap and are not forced into a single exact date.
+
+
+## S95 — Pass 48: direct independent confirmation of L4 typology and chronology
+
+A specialist archaeological catalogue independently states that Curtea de Argeș L4 belongs to the category of **semi-sunken dwellings with a gârlici-shaped entrance** and dates it, from ordinary pottery, to the **first half of the 15th century**. It also notes that the tile types from L4 fit that period. citeturn0search24
+
+A 2010 Argeș museum synthesis separately describes the late-14th-century evolution of a merchant-type house with cellar and elongated gârlici, and places a Tournai luxury-cloth seal in the calcined ruins of such a house. Because that text does not explicitly name L4 in the passage, the archive keeps the architectural typology and the seal association as separate evidence layers rather than treating the synthesis as a direct plan-level identification. citeturn0search25
+
+The controlled public-facing implication is therefore: L4 is independently documented as a semi-sunken, gârlici-entry dwelling of first-half-15th-century date; its connection with the Tournai seal is directly supported by the 1983 study, while the exact architectural reconstruction remains open.
