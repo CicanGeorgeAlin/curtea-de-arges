@@ -1752,3 +1752,13 @@ Exact control: the article states that two fragments from the 1920 Curtea Domnea
 Use: exact-page baseline for the 2007 side of the contradiction and for the strong bibliographic bridge between the two publications.
 
 URL: https://biblioteca-digitala.ro/reviste/Argesis/dl.asp?filename=Argesis-16-Studii-si-comunicari-Muzeul-Judetean-Arges-2007_204.pdf
+
+
+## S191 — Rădulescu, *Cercetări Arheologice* XXXI/1 (2018): separate Curtea de Argeș tile with unknown exact provenance
+
+Author: Maria-Venera Rădulescu.  
+Publication: “Cahlele medievale cu tema «întreceri cavalereşti» şi «scene de turnir» descoperite în Ţara Românească”, *Cercetări Arheologice* XXXI/1.  
+Coverage: discusses a fragmentary stove tile from Curtea de Argeș. The author states that it probably resulted from archaeological research, but that the year, exact discovery place and stratigraphy are not recorded; the proposed first-half-16th-century dating is based only on costume, weapons and military-equipment details.  
+Use: negative-control / provenance-method source. It demonstrates that even specialist publications can preserve a Curtea de Argeș attribution while explicitly lacking excavation context. It is **not** identified with MNAR C44/C81 and must remain a separate object.
+
+URL: https://cercetari-arheologice.ro/wp-content/uploads/2024/07/ca31_1_17_radulescu.pdf
