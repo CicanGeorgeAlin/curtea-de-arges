@@ -819,3 +819,35 @@ The new Curtea Domnească evidence is significant, but it also exposes a remaini
 For Argeș Monastery, the 1965 sondages are now verified, but the full sequence of restoration-era investigations and any later archaeological interventions remains to be reconstructed.
 
 **Archaeological Stage 1: OPEN — NOT COMPLETE.**
+
+
+## Archaeology autopilot — Pass 31 · 22 September 2026
+
+### Curtea Domnească — spatial and stratigraphic reconstruction
+
+The next research step was completed using Nicolae Constantinescu's later specialist synthesis *Timp și spațiu voievodal în Argeșul istoric (1200–1500)* (2013), cross-checked against the earlier 1967 campaign material.
+
+The digitized volume provides a useful bridge between individual campaign reports and the future archive map:
+
+- a plan of the **1967–1969 excavations** at Curtea Domnească;
+- a separate **1969 plan of the Domnească Church excavations**, showing contours attributed to an older 13th-century church;
+- stratigraphic profiles from 1968 sections;
+- explicit profile categories for a 13th-century level, 14th-century deposits, a c.1369 construction level and construction deposits associated with the first enclosure.
+
+The source also records later research in microzones of the historic voivodal centre, where evidence included iron-working slag, a pottery kiln, pottery fragments and pottery-making tools. These observations are not merged into the 1967–1969 core-court phase.
+
+### Research architecture improvement
+
+The archaeological map model now needs another distinction:
+
+**CAMPAIGN → SECTION / SURFACE → STRATIGRAPHIC LEVEL → STRUCTURE → FIND → INTERPRETATION**
+
+This is more precise than mapping only “site” or “monument”.
+
+### Self-challenge
+
+We still do **not** possess a complete context-by-context excavation database. The published plans and profiles provide a controlled reconstruction of the archaeologist's published model, but original notebooks, section registers, complete inventories and all campaign drawings still need to be located or verified.
+
+Therefore the archive must label this layer as **PUBLISHED RECONSTRUCTION**, not raw excavation data.
+
+**Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
