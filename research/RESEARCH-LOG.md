@@ -620,3 +620,14 @@ The archive now separates this into three levels: burned L4 = primary textual ev
 This is the first controlled upgrade from generic “urban-type dwelling” to the publication's own dwelling identifier **L4**.
 
 **Stage 1 remains OPEN.**
+
+
+### Pass 47 · 22 September 2026 · L4 independent architectural cross-check
+
+A later specialist synthesis provides a new controlled clue: Curtea de Argeș L4 is described as a semi-sunken dwelling with a gârlici-type entrance and is dated by ordinary pottery to the first half of the 15th century. citeturn0search32
+
+The source cites the 1979 report p.166, fig.14/3 and 1982 p.103, pl.VII, but the archive does not yet claim that these figures have been directly inspected. The earlier Pass 41 correction remains in force: bibliographic citation alone does not establish the figure's exact content.
+
+The dwelling chronology is now recorded as overlapping source formulations rather than a forced single date.
+
+**Stage 1 remains OPEN.**
