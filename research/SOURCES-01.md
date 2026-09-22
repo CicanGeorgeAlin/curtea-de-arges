@@ -1702,3 +1702,13 @@ Coverage: a broader ceramic discussion of Curtea de Argeș that quotes Virgiliu 
 Use: contextual control only. It confirms that both glazed and unglazed terracotta existed in the wider Curtea de Argeș corpus, but it does not identify the MNAR C44/C81 pair individually and therefore does not resolve the 2000/2007 contradiction.
 
 URL: https://ro.scribd.com/document/704164965/Florescu-Arta-Populara-Arges-Muscel-1967
+
+
+## S186 — Gassauer 1935: independent figure/plate cross-reference for Curtea terracottas
+
+Author: R. Gassauer.  
+Publication: “Teracote sucevene”, *Buletinul Comisiunii Monumentelor Istorice*, XXVIII, fasc. 86 (1935).  
+Coverage: comparative discussion of medieval terracottas, including examples from Casa Domnească at Curtea de Argeș. The article explicitly cites Drăghiceanu's *Curtea Domnească din Argeș* and refers to plates 76, 79 and 80 when discussing the Argeș material.  
+Use: figure-control evidence only. This independently confirms that plates 79–80 belong to the earlier Drăghiceanu publication's terracotta evidence chain, but it does not establish that these plates are identical to Jurnalul figures 78–80 or identify MNAR C44/C81 individually.
+
+URL: https://biblioteca-digitala.ro/reviste/Buletinul-Comisiunii-Monumentelor-Istorice/Buletinul-Comisiunii-Monumentelor-Istorice-1935-anul-XXVIII.pdf
