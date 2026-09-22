@@ -676,3 +676,12 @@ The original 1979 report is directly accessible and confirms the campaign's sett
 The report's opening pages expose detailed evidence for L1, showing that the authors document individual dwellings stratigraphically. This reinforces the rule that L4 should be reconstructed from its own original pages rather than inferred from later summaries.
 
 **Stage 1 remains OPEN.**
+
+
+### Pass 53 · 22 September 2026 · seal function and ownership inference
+
+The original 1983 text states that the Curtea de Argeș seal type was suited to sealing large bales/rolls of Tournai cloth and uses comparative evidence to distinguish it from seals for smaller cloth pieces. citeturn0search35
+
+The authors then infer a high-value textile purchase by a major Argeș merchant and propose that this merchant was probably the owner of burned L4. This remains an authorial hypothesis, not a named historical identification. citeturn0search35
+
+**Stage 1 remains OPEN.**
