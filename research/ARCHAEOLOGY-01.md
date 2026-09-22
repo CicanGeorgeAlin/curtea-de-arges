@@ -1184,3 +1184,14 @@ The article also proposes—but does not establish—that the other side's divid
 **Evidence hierarchy:** object/find context = 1979 excavation; publication classification = 1983; dating argument = heraldic/sphragistic analysis by the authors; corporate attribution = explicit hypothesis.
 
 Stage 1 remains OPEN because exact archaeological layer, dimensions and spatial plan are still unresolved.
+
+
+## Pass 43 — 22 September 2026 — heraldic mechanism of seal dating
+
+Direct searchable text from the 1983 article provides a more precise description of the heraldic mechanism. The authors describe four accessible trade seals as carrying a **parted/counter-fasciated shield** on one face and a **fleur-de-lis inside a quatrefoil** on the other. They treat the fleur-de-lis as a chronological and attributional marker. citeturn1search13
+
+The authors connect this to Tournai's 1426 heraldic privilege: the city received the right to add a French royal heraldic chief to its older arms. Their chronology therefore rests on a documented change in Tournai's heraldic system, not simply on a visual resemblance. citeturn1search13
+
+**Control rule:** the date of the seal and the date of its archaeological dwelling context remain separate records. The seal's post-1426 dating cannot automatically be used to redraft the dwelling's archaeological chronology.
+
+Exact dimensions and complete plate-level object description remain OPEN.
