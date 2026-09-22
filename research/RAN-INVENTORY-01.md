@@ -296,3 +296,23 @@ A further LMI component, AG-IV-m-A-13655.03, is the 1916–1918 Heroes' Cross, d
 New rule: a single place-name may contain **multiple chronological layers and heritage functions**. These must be represented as linked components, not one blended record.
 
 Stage remains OPEN — NOT COMPLETE.
+
+## Pass 28 — Curtea Domnească and Argeș Monastery component audit
+
+### Curtea Domnească
+Current RAN 13631.07 confirms a multi-component site with:
+- princely court, c. 1345
+- Domnească Church, 1351–1370
+- additional medieval/modern walls, towers, park and later structures. citeturn0search0turn0search8
+
+The RAN record's narrative says the church was completed in 1352, while its component chronology gives 1351–1370. Both statements are preserved as source claims.
+
+### Argeș Monastery
+Current RAN 13631.10 confirms:
+- church, 1512–1517
+- chapel, 1885
+- episcopal palace, 1885. citeturn0search1
+
+The LMI component universe remains broader and will be reconciled separately.
+
+Stage remains OPEN — NOT COMPLETE.
