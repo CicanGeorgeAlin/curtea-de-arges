@@ -2008,3 +2008,31 @@ We now have three separate ceramic records:
 No identity is merged between these records.
 
 **Stage remains OPEN — NOT COMPLETE.**
+
+## Re-analysis — Pass 70 — 22 September 2026
+
+### CXL/1 chain: wording now controlled, but direct plate identification remains pending
+
+A fresh check of the full 2018 *Cronica Cercetărilor Arheologice* PDF confirms the exact sentence and footnote structure. The Câmpulung report says the yellow-glazed cahlă fragment with a horse leg belongs to the “oșteanul ecvestru” theme and has **“analogie la o piesă descoperită la Băjești, Curtea marelui ban Mareș Băjescu (sec. XVII)”**; footnote 11 is Rădulescu 2017, Pl. CXL/1. citeturn0search13turn1search0
+
+This is stronger than merely saying that CXL/1 is “nearby in the bibliography.” The citation is attached to the **Băjești analogy statement**. Therefore the archive can safely record:
+
+**CÂMPULUNG HORSE-LEG CAHLĂ → ANALOGY → BĂJEȘTI / MAREȘ BĂJESCU → RĂDULESCU 2017 PL. CXL/1**
+
+However, without the actual CXL/1 plate and caption, we should not yet state that CXL/1 itself is definitively the Băjești object. The safest level is **CITED ANALOGY / DIRECT PLATE CONTROL PENDING**.
+
+### New control: Pl. IV/6 is independent
+
+The same report's spiral-decorated glazed plate sentence carries footnote 10, independently citing Bătrîna & Bătrîna, Curtea de Argeș, Pl. IV/6. citeturn0search0turn0search15
+
+Thus:
+
+**CURTEA Pl. IV/6** and **RĂDULESCU Pl. CXL/1** are two different citation targets in the same report.
+
+No object identity is claimed between them.
+
+### Stage
+
+**OPEN — NOT COMPLETE.**
+
+Next target remains the direct Rădulescu 2017 plate/caption if a reliable full scan can be recovered. If unavailable, the archive will preserve the controlled analogy chain and move on rather than manufacture catalogue certainty.
