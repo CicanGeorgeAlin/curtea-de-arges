@@ -2008,3 +2008,10 @@ This helps explain why catalogue-level records can give the journal as 134–152
 A 2014 study cites a specific observation from Drăghiceanu's Jurnal at **p. 138**, confirming that page-level citation is used by later scholarship. citeturn0search21
 
 No new C44/C81 object identity or custody claim is established.
+
+
+## S219 — Page-138 citation anchor independently confirmed
+
+A recent scholarly volume on the Curtea de Argeș princely church cites Drăghiceanu's *Jurnalul săpăturilor din Curtea domnească a Argeșului* specifically at **p. 138** for an observation concerning the excavation record. citeturn0search21 The 1923 BCMI bibliographic index independently identifies the journal as pp. 134–152. citeturn0search0
+
+This provides a reliable page-level anchor for future primary-source recovery. It does not by itself establish the complete content of p.138, so no archaeological claim is imported from the secondary citation beyond the fact that p.138 is used as the source location.
