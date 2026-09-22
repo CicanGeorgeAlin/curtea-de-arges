@@ -357,3 +357,17 @@ This is the first securely sourced archaeological intervention added to the Arge
 ### Current completeness warning
 
 The five-record current RAN municipality baseline remains useful but is not equivalent to a complete intervention inventory. Pass 30 strengthens the intervention/publication layer and therefore reduces a known gap, but **Archaeological Stage 1 remains OPEN — NOT COMPLETE**.
+
+
+## Pass 31 — Curtea Domnească plan/context reconstruction
+
+Pass 31 added a later specialist synthesis that allows the archaeological campaign to be represented spatially and stratigraphically without pretending that the original field documentation has been recovered.
+
+The 2013 Constantinescu volume reproduces:
+- a **1967–1969 overall plan** of the Princely Court excavations;
+- a **1969 excavation plan of the Domnească Church**, marking contours attributed to an older 13th-century church;
+- stratigraphic profiles from 1968 sections with separate horizons for the 13th century, 14th-century deposits, the c.1369 church construction level and construction layers associated with the first enclosure.
+
+The same volume also records later research in microzones of the historic voivodal centre, including evidence of iron-working activity, a pottery kiln, pottery fragments and pottery-making tools. These later microzone observations are kept separate from the 1967–1969 core-court plan.
+
+**Control:** the 2013 volume is a later synthesis. It can reconstruct the published archaeological model, but it does not by itself replace original field notebooks, context sheets or complete find inventories.
