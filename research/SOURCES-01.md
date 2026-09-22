@@ -1332,3 +1332,23 @@ Source: citeturn0view0
 The primary report connects individual plate items to decorative motifs, while separately discussing functional classification and ring-foot perforations. The archive therefore keeps **form**, **decoration**, **physical feature**, **function** and **interpretation** as independent fields.
 
 Source: citeturn0view0
+
+
+## S126 — Pass 76 — Pl. I–V material/object control
+
+Primary source: Bătrîna & Bătrîna, “Cercetările arheologice de la Curtea de Argeș”, *Cercetări Arheologice* V (1982), pp. 95–107. Official journal index confirms the article and page range. citeturn0search3turn0search0
+
+Controlled plate map:
+- Pl. I/1–2 — ornamental ceramic.
+- Pl. I/3–4 — sfeșnic/capac candidates; unresolved function.
+- Pl. II — glazed taler, 14th c.
+- Pl. III/1,3,4 — glazed ceramic.
+- Pl. III/2 — crăiță / kiln support.
+- Pl. IV/1 — small pahar.
+- Pl. IV/2 — vârtej/whirl motif.
+- Pl. IV/3,5 — concentric-circle decoration.
+- Pl. IV/4 — glass.
+- Pl. V/1 — partial leopard/zoomorphic image, comparative identification.
+- Pl. V/4 — curved-line/incised decoration and perforation reference.
+
+Control rule: material class is independent of plate number and object function. citeturn0search12
