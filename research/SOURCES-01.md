@@ -339,3 +339,12 @@ Coverage: institutional account of the 1967–1968 restoration at Biserica Olari
 Use: institutional cross-check for the Olari archaeological intervention; does not independently verify RAN 13631.09.
 
 URL: https://www.cjarges.ro/en/biserica-olari-din-curtea-de-arges
+
+## S40 — Argeș County Council, 2026 Statute / heritage-location cross-check
+
+Institution: Consiliul Județean Argeș.  
+Document: Hotărârea nr. 73 din 26.02.2026 — Statutul Județului Argeș.  
+Coverage: current institutional listing that places the Sân Nicoară ruins within a defined Curtea de Argeș heritage/religious context and identifies the associated streets/area, including the segment extending toward Olari and Drujești.  
+Use: current administrative/institutional cross-check for place-name and spatial context. It is **not** an archaeological excavation source and does not establish construction chronology.
+
+URL: https://www.cjarges.ro/documents/10865/3232914/HCJ_nr_73_din_26.02.2026_Statut.pdf/b8451558-f7ac-4164-845f-fab65219faca
