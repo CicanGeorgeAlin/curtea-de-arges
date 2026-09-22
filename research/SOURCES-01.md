@@ -674,3 +674,12 @@ A specialist archaeological catalogue independently states that Curtea de Argeș
 A 2010 Argeș museum synthesis separately describes the late-14th-century evolution of a merchant-type house with cellar and elongated gârlici, and places a Tournai luxury-cloth seal in the calcined ruins of such a house. Because that text does not explicitly name L4 in the passage, the archive keeps the architectural typology and the seal association as separate evidence layers rather than treating the synthesis as a direct plan-level identification. citeturn0search25
 
 The controlled public-facing implication is therefore: L4 is independently documented as a semi-sunken, gârlici-entry dwelling of first-half-15th-century date; its connection with the Tournai seal is directly supported by the 1983 study, while the exact architectural reconstruction remains open.
+
+
+## S96 — Pass 49: direct 1979 excavation report broadens the L4 context
+
+Direct search of the original 1979 report confirms that the authors deliberately placed their sections in vacant plots aligned with streets because they hypothesized that at least part of the modern street network preserved the medieval one. They report four dwellings in the 1979 campaign, two completely and two partially. citeturn0search24
+
+The report's opening excavation context therefore matters for the future spatial archive: L4 is not an isolated monument but part of a deliberately sampled urban-settlement investigation designed to test medieval street/settlement continuity. Exact L4 section placement still requires the relevant later pages/figures.
+
+A broader 1992 specialist synthesis independently cites the 1979 report for evidence of mid-14th-century houses at Curtea de Argeș and notes the development of substantial timber houses with cellars and tile stoves from the second half of the 14th century. It is used only as wider urban-context corroboration, not as a direct description of L4. citeturn0search28
