@@ -1772,3 +1772,22 @@ Coverage: two fragments from Curtea Domnească at Argeș, found during the 1920 
 Control point: this is the later publication that produces the surface-description conflict with Rădulescu 2000. The 2007 passage must be retained alongside, not substituted for, the 2000 statement that the fragments are unglazed. The 2007 passage does not by itself explain the different C81 numerical inventory cited elsewhere.
 
 URL: https://biblioteca-digitala.ro/reviste/Argesis/dl.asp?filename=Argesis-16-Studii-si-comunicari-Muzeul-Judetean-Arges-2007_204.pdf
+
+
+## S193 — ProEuropeana descriptor control: Curtea Domnească / medieval stove-tile literature
+
+Institutional index: Biblioteca Digitală / PROEUROPEANA.  
+Coverage: the Curtea Domnească din Argeș descriptor independently indexes Drăghiceanu's 1917–1923 *Jurnalul săpăturilor* and Rădulescu's 2007 study on heraldic stove tiles. The broader Curtea de Argeș descriptor also indexes Rădulescu's 2016 study on a ritual dance/wedding scene on medieval stove tiles from Curtea Domnească din Argeș. citeturn3search0turn3search5
+
+Control point: the 2016 dance/wedding study is a separate archaeological object group (the I 5882 material already isolated in this archive) and is not merged with MNAR C44/C81. The index therefore strengthens the publication/object-separation layer but does not resolve the C81 inventory discrepancy.
+
+URL: https://biblioteca-digitala.ro/?descriptor=36094-curte-domneasca
+
+
+## S194 — Rădulescu, *Argesis* XIX (2010): MNAR C111 is a different object
+
+Maria-Venera Rădulescu's 2010 discussion of stove tiles from the princely palace at Târgoviște identifies a separate tile held by the National Museum of Art of Romania as inventory **C 111**, while another exemplar is held by the Municipal Museum of Curtea de Argeș. The passage concerns a Târgoviște tile type and is not evidence for MNAR C44/C81. citeturn3search24
+
+Control point: this is another useful exclusion: an MNAR “C” inventory number in Curtea de Argeș-related stove-tile literature does not, by itself, identify the C44/C81 pair.
+
+URL: https://biblioteca-digitala.ro/reviste/Argesis/Argesis-19-Studii-si-comunicari-Muzeul-Judetean-Arges-2010_093.pdf
