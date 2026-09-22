@@ -989,3 +989,43 @@ Controlled use: later comparative citation only. The report itself concerns Câm
 ## S98 — 2018 *Cronica Cercetărilor Arheologice* bibliography
 
 The 2018 archaeological chronicle independently repeats the same Curtea de Argeș Pl. IV/6 + Rădulescu 2017 Pl. CXL/1 citation pairing. Controlled use: confirms circulation of the comparison; object identity remains unproven. Source: citeturn0search17
+
+
+## S99 — Bătrîna & Bătrîna, 1982 — Pl. IV/6 direct plate control
+
+Lia Bătrîna & Adrian Bătrîna, “Cercetările arheologice de la Curtea de Argeș”, *Cercetări Arheologice* V (1982), pp. 95–107.
+
+Controlled evidence:
+- official journal record confirms article, authors and pp. 95–107;
+- Pl. IV legend identifies the Curtea de Argeș group as 14th-century glazed ceramics, with item 4 as glass;
+- the actual plate contains numbered item 6;
+- item 6 is a glazed ceramic vessel with a prominent spiral motif.
+
+Control:
+**OBJECT CLASS = GLAZED CERAMIC VESSEL**
+**DECOR = SPIRAL**
+**PLATE = IV/6**
+**CURTEA DE ARGEȘ CONTEXT = DIRECTLY PUBLISHED**
+**STOVE-TILE STATUS = NOT APPLICABLE**
+
+Sources: citeturn4search25turn5view0turn9view0
+
+## S100 — 2018 Câmpulung comparative use of Curtea Pl. IV/6
+
+The 2018 *Cronica Cercetărilor Arheologice* report for Câmpulung, Str. Negru Vodă nr. 76, describes glazed plates with ring bases and hanging holes, frequently decorated with a spiral, dated in that report to the 16th century. It cites Bătrîna & Bătrîna, Curtea de Argeș, Pl. IV/6 as a similar published example and then cites Rădulescu 2017 Pl. CXL/1.
+
+Control:
+This is a **comparative bibliography from a Câmpulung excavation**, not evidence that the Curtea de Argeș object belongs to the Câmpulung excavation or to the Câmpulung 16th-century date.
+
+Source: citeturn10view0
+
+## S101 — Rădulescu 2017 plate remains visually uncontrolled
+
+Maria-Venera Rădulescu, *Meșteșug, artă, document. Cahlele din Țara Românească (secolele XIV–XVII)*, Editura Cetatea de Scaun, 2017, Pl. CXL/1.
+
+The accessible online PDF is a partial preview: its contents show that the complete work contains a large plate corpus, but the available preview does not include Pl. CXL/1. Therefore the physical image, exact object provenance and catalogue context represented by CXL/1 remain to be recovered before object identity can be asserted.
+
+Control:
+**CURTEA Pl. IV/6 ↔ RĂDULESCU Pl. CXL/1 = UNPROVEN PHYSICAL IDENTITY**
+
+Source: citeturn13view0turn16view0
