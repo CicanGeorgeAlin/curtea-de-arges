@@ -203,3 +203,13 @@ A separate memorial/public-art layer was also identified through CIMEC records f
 This expands the future archive architecture while preserving source discipline.
 
 Stage 1 remains OPEN — NOT COMPLETE.
+
+## Archaeology autopilot — Pass 23 · 22 September 2026
+
+Pass 23 strengthened component-level modelling. The official LMI 2015 breaks the Princely Court ensemble AG-II-a-A-13647 into multiple protected structures and phases, so the archive will preserve ensemble/component relationships instead of treating the court as one object. citeturn0search16
+
+A 2026 county territorial strategy provides an important methodological warning: many RAN sites nationally lack precise location and some are not represented in LMI. This is recorded as national heritage-management context, not as a Curtea de Argeș-specific statistic. citeturn0search18
+
+New future-map field: location confidence = EXACT / PERIMETER / APPROXIMATE / HISTORICAL ONLY / UNRESOLVED.
+
+Stage 1 remains OPEN — NOT COMPLETE.
