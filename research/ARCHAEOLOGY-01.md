@@ -2803,3 +2803,23 @@ The absence of an indexed match is **not evidence that no earlier record exists*
 
 ### Next high-value route
 Return to the 2016 article's bibliography and identify every cited Curtea de Argeș stove-tile source, then inspect those sources individually for older object records, especially publications that may reproduce plates without modern inventory numbers.
+
+
+## Pass 93 — 1923 figure-chain recovered through later ceramic literature
+
+A new bibliographic fingerprint has been verified: a 1994 study by Daniela Marcu and Emil Lupu on 16th–17th-century stove tiles in the Buzău County Museum collection explicitly compares a group of fragments to **Curtea de Argeș, Drăghiceanu 1923, figs. 78–79**. This is the first independent later source found in this pass that points to specific Drăghiceanu figures for Curtea de Argeș stove-tile comparison. citeturn4search16turn7search12
+
+### What this does and does not prove
+It proves that Drăghiceanu's Curtea de Argeș figures 78–79 were still being used as a ceramic comparison by 1994. It does **not** prove that the 1994 authors were studying the I 5882 fragments, nor that figs. 78–79 depict the three wedding/dance fragments. No object-number bridge to I 5882 was found.
+
+The 2016 Rădulescu paper separately cites Drăghiceanu 1923a figs. 78, 81 and 82 when criticizing parts of Drăghiceanu's iconographic/chronological comments, while its actual image of the 16 fragments is BCMI 1923 Fig. 305. citeturn1view0
+
+### New figure-chain model
+**Drăghiceanu 1923a figs. 78–82** = older Curtea de Argeș stove-tile/iconographic material referenced by later authors.
+
+**BCMI 1923 Fig. 305** = photographic plate of 16 stove-tile fragments from the excavation publication.
+
+These figure groups must not be conflated until the 1923 scan is visually inspected.
+
+### Separate 1968 excavation corpus
+Rădulescu 2016 also records three glazed *cahle-oală* found during the 1968 research at Curtea Domnească, with dimensions 29.6×29.6, 26.5×26.5 and 22×22 cm, dated by her to the 15th century and held in the Argeș County Museum, inventory 1614, F.1615. This is a separate later excavation corpus and must not be merged with I 5882. citeturn2view0
