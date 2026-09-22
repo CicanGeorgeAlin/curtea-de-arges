@@ -578,3 +578,12 @@ The original 1983 trade-seal article yielded a stronger dating argument than its
 They also hypothesize that the opposing shield may be a corporate emblem of Tournai weavers/cloth-makers. This is recorded as hypothesis, not fact. citeturn0search35
 
 **Stage 1 remains OPEN.**
+
+
+### Pass 43 · 22 September 2026 · heraldic dating mechanism
+
+The 1983 article's searchable text now provides the specific heraldic basis for the dating argument: a parted/counter-fasciated shield and a fleur-de-lis within a quatrefoil occur on the trade seals discussed; the fleur-de-lis is connected by the authors to Tournai's heraldic development, including the city's 1426 privilege to add a French royal chief. citeturn1search13
+
+This is recorded as the authors' dating method. The archive does not merge the seal date with the archaeological date of the dwelling.
+
+**Stage 1 remains OPEN.**
