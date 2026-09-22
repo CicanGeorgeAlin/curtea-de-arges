@@ -2842,3 +2842,41 @@ The figure family was already circulating in ceramic scholarship before the late
 
 ### Caution
 The later Slătineanu text is secondary evidence about the classification/use of Drăghiceanu's figures. The original 1923 plates remain the authority for what each figure actually depicts.
+
+
+## Pass 95 — Major new object corpus: 1920 Curtea de Argeș fragments in MNAR
+
+### New independently controlled object identity
+Rădulescu's 2000 *Argessis* study **“Influențe heraldice pe cahle argeșene – «Leii rampanți-afrontați»”**, IX (2000), pp. 165–172, reports two fragments in the **Muzeul Național de Artă al României** collections that came from the archaeological excavation at Curtea de Argeș in **1920**. One measures **18 × 13.5 cm**; the other **13 × 10 cm**. Both are glazed and preserve technical evidence including a rear *rumpa* and soot from stove use. The article compares their composition with pieces reproduced by Tocilescu and Drăghiceanu and cites Drăghiceanu 1923, figs. 78–80. citeturn2search20turn3search15
+
+### Museum identity / inventory reconciliation
+The 2000 article footnote gives the two museum numbers as **4119 (C 44)** and **4130 (C 81)** in the OCR/searchable text. A later 2007 Rădulescu article independently reprints the same two fragments and gives the second as **10073/C 81**, while retaining **4119/C 44** for the first. citeturn3search14turn4search11
+
+This creates a genuine **inventory-number discrepancy requiring reconciliation**:
+- Fragment A: 4119 / C 44 — repeated in 2000 and 2007.
+- Fragment B: 4130 / C 81 — 2000 text.
+- Fragment B: 10073 / C 81 — 2007 text.
+
+We do not choose one silently. The archive records the discrepancy and treats **C 81** as the stable collection-code component until an institutional catalogue resolves the numerical identifier.
+
+### Provenance and object status
+- Excavation campaign: 1920 — explicit.
+- Site: Curtea Domnească, Curtea de Argeș — explicit.
+- Collection: Muzeul Național de Artă al României — explicit.
+- Collection codes: C44 and C81 — explicit.
+- Exact excavation location: not established in the cited 2000/2007 passages.
+- Stratigraphy: not established.
+- These fragments are **not I 5882**: different museum, different inventory identity, different measured fragments, and different documented object group.
+
+### Figure-chain breakthrough
+The 2000 article directly links these 1920 MNAR fragments to **Drăghiceanu 1923 figs. 78–80**. This is stronger than the earlier generic “figure-family” link and gives us a specific object-to-figure bridge. citeturn2search20
+
+### Interpretation boundary
+The 2000 article's study is explicitly about heraldic influences and “Leii rampanți-afrontați”; the Curtea fragments are presented within that decorative/interpretive framework. Raw physical observations (glaze, dimensions, rumpa, soot) remain separate from the heraldic interpretation.
+
+### Consequence for the archive
+We now have at least three distinct medieval stove-tile object corpora associated with Curtea de Argeș:
+1. **1920 MNAR C44/C81 fragments** — glazed, heraldic motif study; linked to Drăghiceanu figs. 78–80.
+2. **1920–1922 I 5882 group** — unglazed wedding/dance fragments; exact findspot unresolved.
+3. **1968 Argeș County Museum 1614/F.1615 group** — three glazed *cahle-oală*.
+A fourth, separate 2024 tournament cahlă remains provenance-unknown.
