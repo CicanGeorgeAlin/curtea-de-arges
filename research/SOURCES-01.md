@@ -1920,3 +1920,10 @@ The public dossier catalogue gives a more precise inventory than the earlier sum
 Control point: these entries establish a documented network of objects, photographs, museum institutions and Curtea Domnească documentation in 1921–1930. They do **not** identify the C44/C81 terracotta pair or its inventory numbers. The archive therefore treats dossier 1394 as a custody/documentation lead, not as proof of C44/C81 identity.
 
 URL: https://arhivacomisiuniimonumentelor.ro/?p=95291
+
+
+## S209 — CMI collection-service context: Drăghiceanu as conservator of CMI museums
+
+A 1990 BCMI institutional history records that Virgil Drăghiceanu headed the CMI collections service from 1907–1938 and held the title “conservator al muzeelor Comisiunii Monumentelor Istorice” from 1914. The same institutional history states that the CMI collections were opened to the public from 23 November 1910. citeturn0search6
+
+Control point: this establishes an institutional custody context for Drăghiceanu and CMI collections in the period surrounding the 1920 Curtea Domnească excavations. It does **not** establish that C44/C81 entered a CMI collection, nor does it identify 4119/4130/10073.
