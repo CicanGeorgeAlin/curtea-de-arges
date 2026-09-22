@@ -635,3 +635,15 @@ The archive therefore records two controlled dating formulations:
 These are not forced into a single artificial date. The shared chronological signal is early 15th century, tightly connected by the cited scholarship to the 1426 heraldic change at Tournai.
 
 The 2008 cumulative *Cercetări Numismatice* index independently confirms the object came from **dwelling 4** in the 1979 excavation and records its physical construction and “+ DE TOURNAI” legend. citeturn2search32
+
+
+## S92 — Pass 45: campaign chronology control for the 1979–1983 seal evidence
+
+The authoritative journal index confirms the sequence of publications: the 1979 archaeological campaign was published in *Cercetări Arheologice* IV (1981), pp.144–171; the continuation of Curtea de Argeș research appears in *Cercetări Arheologice* V (1982), pp.95–107; and the dedicated trade-seal study appears in *Cercetări Numismatice* V (1983), pp.197–211. citeturn0search0turn0search5
+
+This gives the archive a controlled publication chain:
+**1979 field campaign → 1981 archaeological publication → 1983 dedicated seal study**, with the 1982 campaign publication kept as a separate research record.
+
+The 1983 abstract explicitly states that the seal was found during the 1979 excavations in an urban-type dwelling dated by the authors to the end of the 14th / beginning of the 15th century. citeturn0search1
+
+No later source found in this pass justifies changing the archaeological dwelling date to the seal's heraldic date. Those chronology fields remain separate.
