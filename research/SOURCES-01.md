@@ -1934,3 +1934,12 @@ Control point: this establishes an institutional custody context for Drăghicean
 The 1914 *Anuarul Comisiunii Monumentelor Istorice* contains a report by V. Drăghiceanu, identified as “Conservatorul”, concerning the Commission's collections and requests a category-by-category report specifying which objects/documents were held in the collections. The same administrative material states, in another case, that discovered objects should be deposited at the central museum in the capital. citeturn0search4
 
 Control point: this is **pre-1920 institutional precedent**, not evidence about C44/C81. It is valuable because it demonstrates that CMI administrative practice included formal reporting and transfer of discovered objects to a central museum. It should guide searches in the 1921–1930 dossier for terms such as inventory, collection, deposit, transfer and central museum.
+
+
+## S211 — CMI archival catalogue: dossier 1394 exact date/file extent and contextual separation
+
+A 1996 BCMI archival catalogue independently lists dossier no. 1394 for Curtea de Argeș, Biserica Domnească Sf. Nicolae, with **184 files/leaves**, covering **1922–1930** in this catalogue entry, and describes correspondence, payment states, a 1928 site plan, 1929 restoration estimates and 1930 restoration documentation; named signatories include V. Drăghiceanu and Tzigara Samurcaș. citeturn0search24
+
+Control point: this independently confirms the dossier as a substantial administrative/documentary unit and adds a catalogue-date nuance: the 1996 archival finding aid gives 1922–1930, whereas the project page has previously described the dossier as 1921–1930. This discrepancy is preserved rather than silently reconciled. Neither catalogue identifies C44/C81 or the later MNAR numbers.
+
+URL: https://biblioteca-digitala.ro/reviste/Buletinul-Comisiunii-Monumentelor-Istorice/BCMI_1996_nr.3-4_114_1.pdf
