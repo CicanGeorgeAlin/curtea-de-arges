@@ -466,3 +466,28 @@ This prevents a current administrative document from being accidentally used to 
 ### Stage status
 
 **OPEN — NOT COMPLETE.** The next priority remains the complete municipal archaeological inventory and campaign/publication/context matrix, with special attention to older interventions and sites that appear in heritage or administrative sources but are not yet matched one-to-one to current RAN records.
+
+## Archaeology autopilot — Pass 18 · 22 September 2026
+
+### Major research-architecture upgrade: intervention history
+
+The 1984 Constantinescu monograph is explicitly a synthesis of research conducted in 1967–1973, focused on the voivodal core rather than the modern city as a whole. citeturn0search4
+
+Bibliographic indexing confirms Constantinescu's 1967 Curtea Domnească study, Chihaia's 1969 Basarab necropolis study, and Cantacuzino's 1980 archaeological sondaje at the Neagoe Basarab foundation. citeturn0search8
+
+A specialist account reports investigations at Sân Nicoară by Nicolae Gabrielescu in 1886, followed by Virgil Drăghiceanu's 1920 work. The 1920 descriptions include graves, stone sarcophagi and structural/floor evidence, but do not provide modern stratigraphic recording. citeturn0search0
+
+A 2005 specialist study independently discusses the 1920 Sân Nicoară discoveries and notes contextual limitations for some recovered coins. citeturn0search12
+
+### Self-correction
+
+The project previously treated completeness mainly as finding every RAN code. That was too narrow.
+
+The correct model is now:
+
+CURRENT REGISTER INVENTORY + HISTORICAL INTERVENTION INVENTORY + PUBLICATION BIBLIOGRAPHY + FIND/EVIDENCE INVENTORY + SPATIAL RECONCILIATION
+
+Only after these are cross-linked can archaeological completeness be meaningfully assessed.
+
+Stage status: OPEN — NOT COMPLETE.
+Next priority: reconstruct intervention/publication history for Biserica Sf. Nicolae Domnesc/Curtea Domnească, Sân Nicoară, Argeș Monastery/Neagoe Basarab foundation, Olari, Drujești, and archaeological points appearing in older publications but not yet matched to current RAN/LMI records.
