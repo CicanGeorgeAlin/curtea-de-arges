@@ -191,3 +191,15 @@ New safeguard: the protected perimeter is not being interpreted as proof of arch
 The RAN interface was also re-audited for completeness. Municipality-level results are filtered/paginated, so the current five-record working inventory remains provisional until an explicit municipality-scoped result set is captured and reconciled. citeturn0search7turn0search10
 
 Stage 1 remains OPEN — NOT COMPLETE.
+
+## Archaeology autopilot — Pass 22 · 22 September 2026
+
+Pass 22 revealed a major scope distinction: the 2015 LMI heritage inventory for Curtea de Argeș is substantially broader than the current RAN archaeological subset. The official LMI includes numerous protected 19th–20th-century buildings and ensembles. citeturn0search20turn0search21
+
+The archive therefore now separates heritage inventory from archaeology inventory instead of trying to force every monument into an archaeological category.
+
+A separate memorial/public-art layer was also identified through CIMEC records for the WWI heroes' cemetery, a 1937 WWI memorial plaque and the Soviet soldiers' cemetery/monument. citeturn0search1turn0search4turn0search6
+
+This expands the future archive architecture while preserving source discipline.
+
+Stage 1 remains OPEN — NOT COMPLETE.
