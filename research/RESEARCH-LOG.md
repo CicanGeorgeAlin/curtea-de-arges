@@ -1677,3 +1677,25 @@ index.html untouched.
 
 ### Next target
 Locate the actual figures in Rădulescu 2000/2007 and compare with Drăghiceanu 1923 figs. 78–80; then resolve the glaze discrepancy through visual/object catalogue evidence.
+
+
+## Pass 98 — 22 September 2026
+
+**Target:** recheck the C44/C81 glaze discrepancy and bibliographic sequence.
+
+### Verified
+The 2007 article explicitly describes the two Curtea de Argeș fragments as green-glazed/light-green and identifies them as MNAR **4119/C44 and 10073/C81**. citeturn0search24
+
+### Correction
+The previous pass treated the 2000 “unglazed” wording too definitively. It remains a source discrepancy pending direct page/figure control. Current controlled status: **2007 glaze explicit; 2000 wording requires exact-page recheck before object property is stabilized**.
+
+### Bibliographic sequence
+The 2000, 2001 and 2007 Rădulescu heraldic-cahlă studies are independently indexed in the Argeș bibliography, confirming a coherent publication sequence. citeturn0search0turn0search1
+
+### GitHub
+Backup: backup/pass98-pre-research-2026-09-22
+Updated archaeology, research log, sources.
+index.html untouched.
+
+### Next target
+Perform exact-page comparison of the 2000 passage and figure captions against the 2007 object description, then inspect Drăghiceanu figs. 78–80.
