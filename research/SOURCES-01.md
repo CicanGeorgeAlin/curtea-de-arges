@@ -656,3 +656,12 @@ The original 1983 article provides a stronger context than the abstract alone: i
 This does **not** establish the merchant's identity as a named individual. The article's formulation is an authorial inference: the authors argue that the merchant who handled the cloth was probably the owner of L4. The archive records this as **author interpretation**, not verified biography/property ownership.
 
 The same primary text says the quantity and quality of the cloth implied by the seal would have made the bale expensive and argues that it would have been accessible especially to major merchants and elite consumers. This is economic interpretation by the authors, not direct evidence of an individual transaction at L4. citeturn0search20
+
+
+## S94 — Pass 47: independent architectural chronology for L4
+
+A later specialist study citing the Curtea de Argeș excavation literature identifies a Curtea de Argeș dwelling L4 and describes the type as a semi-sunken dwelling with an entrance in a **gârlici** form; it dates L4, on the basis of ordinary pottery, to the **first half of the 15th century**. The same bibliography points to the 1979 Curtea de Argeș publication (p.166, fig.14/3) and the 1982 continuation (p.103, pl.VII) for the relevant tile evidence. citeturn0search32
+
+This later synthesis is not used to replace the 1983 seal article's formulation. It provides an independent chronology for the dwelling type and a potential architectural clue: L4 is treated as a semi-sunken dwelling with a gârlici entrance. Exact dimensions and plan remain unverified.
+
+The archive now records a controlled chronological tension: 1983 seal article describes L4 in the late-14th/early-15th-century context; later specialist synthesis dates L4 by pottery to the first half of the 15th century. These ranges overlap and are not forced into a single exact date.
