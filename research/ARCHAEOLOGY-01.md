@@ -2709,3 +2709,32 @@ Rădulescu 2016 gives the exact retrospective page reference: Drăghiceanu 1923b
 
 ### Evidence boundary
 The digital repository page confirms the original PDF exists, but its landing page does not expose OCR/full page text. Therefore this pass does **not** claim that every word or object visible in Fig. 305 has been independently re-read from the 1923 scan. The next source-control step is page/plate-level inspection of the actual PDF.
+
+
+## Pass 89 — Major provenance correction: 1920–1922 tile fragments have an inventory identity
+
+### Critical correction
+The previous archive status “inventory number unknown” for the **2016 wedding/dance tile fragments** is now corrected. Rădulescu 2016, footnote 28, explicitly gives the collection identity as **Colecția Institutului de Arheologie „Vasile Pârvan”, București, nr. inv. I 5882**. The author states that the three selected fragments were studied in that collection and acknowledges the Institute and Oana Damian for access. citeturn1view1
+
+This does **not** resolve individual archaeological findspots. It does, however, establish a museum/collection identity for the selected three fragments.
+
+### Object-control refinement
+The three selected fragments:
+- a: 8.6 × 6.8 cm
+- b: 12.7 × 9.4 cm
+- c: 16 × 7.8 cm
+are described as deriving from **two (or possibly three?) rectangular plate-tile examples**. A reconstructed plate could have been about 22 × 17 cm. The reverse preserves a 2 cm-wide mounting frame (rumpa). citeturn1view1
+
+### Important separation
+**COLLECTION IDENTITY:** I 5882 — established.
+**CAMPAIGN:** 1920–1922 — established.
+**SITE:** Princely Court of Argeș — established.
+**EXACT FINDSPOT:** unresolved.
+**STRATIGRAPHY:** unresolved.
+**INDIVIDUAL FRAGMENT ↔ EXACT FINDSPOT:** unresolved.
+
+### Interpretation boundary
+Rădulescu dates the fragments by stylistic interpretation because archaeological context is absent. She describes the iconography as a pair of dancers and a bagpiper with a cross, and interprets it as a ritual/wedding scene; this remains an attributed interpretation, not a raw archaeological fact. citeturn1view1
+
+### New source-chain insight
+The 2016 paper therefore provides a bridge from **1920–1922 excavation material → surviving museum collection object group I 5882 → modern specialist study**. This is stronger than a simple “found at Curtea de Argeș” statement, while still preserving the missing-context warning.
