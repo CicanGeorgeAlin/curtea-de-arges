@@ -1359,3 +1359,22 @@ index.html untouched.
 
 ### Next target
 Item-level reconstruction of Pl. VII and trace every available contextual reference before assigning provenance.
+
+
+## Pass 83 — 22 September 2026
+
+**Target:** item-level control of the Pl. VII stove-disc corpus.
+
+### Result
+The primary report securely controls the corpus characteristics: glazed/unglazed discs, fast-wheel manufacture, concentric ribs, central button, 14th-century caption date. It does not securely provide individual stratigraphic provenance for each illustrated disc.
+
+### Decision
+No individual Pl. VII disc receives an invented context. L4 remains a separate contextual record.
+
+### GitHub
+Backup: backup/pass83-pre-research-2026-09-22
+Updated: archaeology, research log, sources.
+index.html untouched.
+
+### Next target
+Search later specialist literature for explicit Curtea Pl. VII object references/provenance, then return to the Pl. VI 16th–17th-century group.
