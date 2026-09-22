@@ -2055,3 +2055,12 @@ The 2014 Romanian Academy study does **not** say that the page itself is dated 3
 The same study describes the discovery of grave 10 as occurring at the end of July **1920**, and notes that the investigations were printed in 1923. citeturn0search12 Therefore the archive must not interpret “31 July 1923” as the excavation/discovery date. The date belongs to the later information cited by the footnote and requires direct page verification for exact meaning.
 
 The p.138 retrieval target remains valid, but the date is now marked **secondary-citation context, not direct primary-page metadata**.
+
+
+## S224 — 1923 Jurnalul: exact bibliographic identity confirmed; p.138 remains a secondary-recovery target
+
+The official Biblioteca Digitală/PROEUROPEANA record continues to identify Drăghiceanu's **Jurnalul săpăturilor din Curtea Domnească a Argeșului** as a distinct article in BCMI X–XIV (1917–1923), pp. **134–152**. citeturn0search0 A 2022–2023 *SCIVA* article independently gives the same full bibliographic citation as “Drăghiceanu 1923b” and distinguishes it from “Drăghiceanu 1923a,” the broader *Note istorice şi arheologice*, pp. 9–76. citeturn0search13
+
+A 1969 *Argesis* study explicitly separates the abbreviations C.D.A. (the broader article), J.S. (the *Jurnalul*), and C.A.O. (Rainer's anthropological study), and warns that the archaeological data were incomplete and that subjective opinions had entered the broader historical article. citeturn0search14
+
+This strengthens the source architecture but does not recover p.138 itself. The page-138 claims remain secondary citations until the original scan is directly inspected.
