@@ -1879,3 +1879,14 @@ The article states that Drăghiceanu's excavation journal mentions stove terraco
 Control point: Fig. 305 is therefore a group photograph with uncertain individual-fragment provenance. The 16 fragments must not be treated as a single original tile or automatically identified with C44/C81. Also, later literature cites differing subsets of Drăghiceanu figure numbers; those citation lists must not be silently harmonised.
 
 URL: https://cercetari-arheologice.ro/wp-content/uploads/2020/01/CA_2016-06-MARIA-VENERA-R%C4%82DULESCU-151-164_compressed.pdf
+
+
+## S204 — Drăghiceanu 1923: exact table-of-contents and page-level figure control
+
+Biblioteca Digitală's indexed scan of the 1917–1923 BCMI volume exposes the illustration table of contents for Drăghiceanu's *Curtea Domnească din Argeș*. It records: **figs. 78–79, “Teracote găsite în Casa Domnească” (p. 69); fig. 80, “Teracotă găsită în Casa Domnească” (p. 71); fig. 81, “Teracotă găsită în Casa Domnească: un cavaler călare” (p. 72); fig. 82, “Teracotă din Casa Domnească: fragmente dintr-un tors de cavaler” (p. 72); fig. 84, “Teracotă din Casa Domnească: un cavaler cu suliță” (p. 73).** citeturn1search35
+
+A separate indexed page excerpt from the same 1923 volume states that fig. 82 is a fragment showing a knight's head, and fig. 84 is glazed (“zmălțuită”), more coarsely worked, showing the torso of a mounted knight; it also refers to a horse-body trace in the annex plates, fig. 305. Fig. 80 is captioned as a terracotta found in the Princely House. citeturn1search33
+
+Control point: this is the first direct textual recovery of the **specific figure subjects** from the original 1923 volume, even though the image pages themselves remain blocked by the current reader. It still does not establish C44/C81 identity. In particular, the 1923 text shows that multiple separately numbered terracotta figures existed, including both glazed and other terracotta pieces, so later references to “figs. 78–80” must be interpreted at figure level rather than as a single object group.
+
+URL: https://biblioteca-digitala.ro/reviste/Buletinul-Comisiunii-Monumentelor-Istorice/Buletinul-Comisiunii-Monumentelor-Istorice-1917-1923-anul-X-XVI.pdf
