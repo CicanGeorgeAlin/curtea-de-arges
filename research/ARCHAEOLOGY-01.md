@@ -1307,3 +1307,20 @@ The original 1979 excavation report is now directly retrievable as a PDF and exp
 No unsupported L4 measurements or plan details are added in this pass.
 
 **Stage 1 remains OPEN.**
+
+
+## Pass 53 — 22 September 2026 — seal function and L4 ownership inference
+
+The 1983 primary article explicitly argues that the Curtea de Argeș seal type was used to close a **large bale/roll of Tournai cloth**. The authors distinguish this from other seal types used for smaller cloth pieces, based on comparative finds and documentary information. citeturn0search35
+
+They then infer that the bale would have been high-value and therefore likely acquired by a major Argeș merchant; they propose that this merchant was probably the owner of the burned L4 dwelling. citeturn0search35
+
+**Evidence control:**
+- Seal function: authorial archaeological/numismatic interpretation.
+- High-value/major-merchant inference: authorial economic interpretation.
+- Merchant = L4 owner: authorial hypothesis.
+- Merchant's personal identity: unknown.
+
+This chain must not be presented publicly as a proven biography.
+
+**Stage 1 remains OPEN.**
