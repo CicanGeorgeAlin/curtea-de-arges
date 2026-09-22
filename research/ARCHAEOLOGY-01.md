@@ -710,3 +710,33 @@ RAN archaeological completeness: **OPEN**
 Heritage/LMI reconciliation: **OPEN**
 Intervention/publication reconciliation: **OPEN**
 Spatial reconciliation: **OPEN**
+
+## Archaeology autopilot — Pass 27 · 22 September 2026
+
+### First deep record-by-record reconciliation: Drujești
+
+The current RAN record directly connects Drujești to a 1987 systematic archaeological investigation by Spiridon Cristocea. It distinguishes the church from the medieval necropolis: church late 16th–second half 18th century; necropolis 16th–17th century. citeturn0search0turn0search9
+
+This is stronger than simply citing the 1990 RMI article: the RAN record itself provides the intervention year, researcher and campaign bibliography.
+
+### Sân Nicoară: medieval + modern + memorial layers
+
+The current RAN record identifies the medieval church and 2009–2011 preventive research. The primary 2011 campaign report places the ruin on a hill of about 448 m and discusses its relationship to the surrounding historic urban landscape. citeturn0search3turn0search20
+
+The LMI simultaneously records:
+- AG-II-a-A-13655 — ensemble
+- AG-II-m-A-13655.01 — ruin
+- AG-II-m-A-13655.02 — park
+- AG-IV-m-A-13655.03 — Heroes' Cross 1916–1918. citeturn0search6turn0search23
+
+This demonstrates that “Sân Nicoară” is not one historical object. It is a **layered place** containing medieval religious archaeology, a later park, and a modern memorial component.
+
+### Methodological result
+
+The archive must model:
+**PLACE → COMPONENT → PERIOD → FUNCTION → EVIDENCE**
+
+rather than:
+**PLACE → one date**
+
+Stage remains OPEN — NOT COMPLETE.
