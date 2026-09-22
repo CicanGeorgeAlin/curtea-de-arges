@@ -2161,3 +2161,12 @@ The Greceanu bibliographic index separately identifies Drăghiceanu's *Jurnalul 
 This gives a controlled bibliographic identity for Fig.162 without claiming direct inspection of the original plate. The 1994 source also cites later architectural interpretation separately; that interpretation is not folded into the primary discovery record.
 
 **Status:** Fig.162 = secondary-confirmed provenance/material; direct primary image/text recovery still open.
+
+
+## S235 — Reassessment of the late-Jurnal figure cluster
+
+The 2016 Rădulescu study gives a precise footnote cluster for the late section of Drăghiceanu's *Jurnalul*: **pp.148–149, figs.150–155, 159–160, 162, 165**. It separately identifies p.148 as the location where the stove terracottas are mentioned and Fig.305 as the plate showing 16 terracotta fragments. citeturn0search19 The Greceanu index independently lists the same *Jurnalul* figures and describes pp.148–149 as excavations inside the princely-court enclosure. citeturn0search20 A 2022 *Cronica* report separately cites pp.147–148 with plan Fig.158. citeturn0search0
+
+This establishes that the late-Jurnal figure cluster is broader than the stove-tile corpus. Fig.162 remains controlled as Gothic stone-rib material, while Fig.305 is the separate 16-fragment terracotta plate. No figure should be merged merely because it falls within the same page cluster.
+
+**Status:** figure-cluster structure = secondary-confirmed; direct primary-page inspection remains open.
