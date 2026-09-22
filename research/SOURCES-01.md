@@ -1668,3 +1668,12 @@ Rădulescu 2000, p.168 directly states that two fragments from the 1920 Curtea d
 ## S179 — Pass 100 — glaze discrepancy
 
 2000: fragments explicitly described as unglazed. Later 2007 source previously controlled in this project: fragments described as green/light-green glazed. Status: **UNRESOLVED PUBLICATION-LEVEL MATERIAL DESCRIPTION DISCREPANCY**. Direct object/catalogue imagery is required before deciding whether the discrepancy reflects cataloguing, conservation, two different object states, or another issue.
+
+
+## S180 — Pass 101 — 1968 fragment group separated from MNAR pair
+
+Rădulescu 2007 explicitly distinguishes the 1920 MNAR pair (4119/C44 and 10073/C81; green/light-green glazed) from two **other unglazed terracotta fragments discovered by Nicolae Constantinescu in 1968**, which contributed to graphic reconstruction. citeturn11search2turn15search33
+
+## S181 — Pass 101 — glaze contradiction remains genuine
+
+Rădulescu 2000 directly describes the MNAR fragments as unglazed and identifies them as 4119/C44 and 4130/C81. citeturn14search1 Rădulescu 2007 describes the corresponding MNAR pair as green/light-green glazed and gives C81 as 10073. Status: **PUBLICATION-LEVEL MATERIAL + INVENTORY DISCREPANCY; UNRESOLVED**.
