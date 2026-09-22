@@ -622,3 +622,16 @@ The article explains that in **1426** Tournai received the privilege of adding a
 This strengthens the dating chain but does **not** independently prove that the Curtea de Argeș dwelling itself dates after 1426; the seal's object date and the dwelling's archaeological date remain separate fields.
 
 The searchable extraction still does not expose a reliable measurement block or complete plate captions, so dimensions and exact object measurements remain OPEN.
+
+
+## S91 — Pass 44: independent later citation and dating nuance for the Tournai seal
+
+A later 2018 specialist study independently identifies the Curtea de Argeș object as a lead cloth seal from Tournai and describes it as dating **around 1426**. This is a later scholarly formulation and should not replace the 1983 authors' more specific argument that the seal belongs after 1426, with a possible first matrix series immediately after 1426 or even in 1426. citeturn1search25turn1search26
+
+The archive therefore records two controlled dating formulations:
+1. **1983 Bătrîna & Bătrîna:** after 1426; potentially immediately after 1426 / possibly 1426.
+2. **2018 later specialist study:** around 1426.
+
+These are not forced into a single artificial date. The shared chronological signal is early 15th century, tightly connected by the cited scholarship to the 1426 heraldic change at Tournai.
+
+The 2008 cumulative *Cercetări Numismatice* index independently confirms the object came from **dwelling 4** in the 1979 excavation and records its physical construction and “+ DE TOURNAI” legend. citeturn2search32
