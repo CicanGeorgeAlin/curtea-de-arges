@@ -1968,3 +1968,31 @@ S191 added; Pass 108 recorded; archive status page updated; index.html untouched
 
 ### Next target
 Continue through national heritage databases and older museum publications, using each identifier independently, while maintaining strict separation of all other Curtea de Argeș tile fragments.
+
+
+## Pass 109 — 22 September 2026
+
+### Target
+Re-test the exact C44/C81 identifiers against indexed scholarly material and isolate any new evidence without collapsing object identity.
+
+### Result
+The exact-identifier search again recovered the 2000 publication, which explicitly gives MNAR inventory 4119 (C44) and 4130 (C81) and describes the fragments as unglazed. citeturn0search25
+
+The 2007 publication independently gives the same two Curtea Domnească fragments, their dimensions, 1920 excavation provenance, MNAR custody, and describes their surfaces as “verde crud” and “verde deschis” glazed. citeturn2search0
+
+No indexed source located in this pass explains why the C81 numerical inventory appears as 4130 in 2000 and 10073 in 2007. No source located in this pass proves that 4130 and 10073 are the same inventory record, a renumbering, a different object, or a publication error.
+
+### Evidence status
+The contradiction is therefore preserved as a **documentary contradiction**, not resolved by inference:
+
+- C44 / 4119 — stable across the two publications.
+- C81 — stable collection code, but numerical inventory differs: 4130 vs 10073.
+- Surface — 2000: unglazed; 2007: green/light-green glazed.
+- Provenance — both publications connect the pair to the 1920 Curtea Domnească excavation.
+
+### GitHub
+Backup: backup/pass109-pre-research-2026-09-22
+S192 added; Pass 109 recorded; index.html untouched.
+
+### Next target
+Move from broad web indexing to documentary museum-control sources: older MNAR catalogues, accession/inventory registers, conservation records, object cards, and CMI–museum correspondence, with each identifier searched independently.
