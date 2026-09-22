@@ -1208,3 +1208,14 @@ The 2008 cumulative numismatic index independently anchors the find to **1979 dw
 **Controlled synthesis:** early-15th-century Tournai cloth-seal evidence is secure; the exact preferred date remains source-dependent and should not be collapsed into a single year in the public archive until the evidence chain is presented transparently.
 
 **Stage 1 remains OPEN.**
+
+
+## Pass 45 — 22 September 2026 — publication-chain control
+
+A source-chain cross-check confirms three distinct stages: the 1979 excavation campaign was published in 1981; the 1980 continuation was published in 1982; and the dedicated Tournai seal study appeared in 1983. citeturn0search0turn0search5
+
+The 1983 study's abstract explicitly places the seal in a 1979 urban-type dwelling and gives that dwelling a late-14th/early-15th-century date. citeturn0search1
+
+This prevents a common chronological error: the seal's post-1426 heraldic dating is not automatically the date of the dwelling. Both are retained as separate chronological statements until the excavation context can be reconstructed.
+
+**Stage 1 remains OPEN.**
