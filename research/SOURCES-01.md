@@ -1603,3 +1603,16 @@ The 2000 study directly links the two 1920 MNAR fragments to Drăghiceanu 1923 f
 ## S166 — Pass 95 — Corpus separation
 
 The 1920 MNAR C44/C81 fragments are distinct from I 5882, the 1968 Argeș County Museum corpus, and the 2024 tournament cahlă. They have different collection identities and object descriptions.
+
+
+## S167 — Pass 96 — Later control of MNAR C44/C81
+
+Rădulescu 2007 explicitly gives **4119/C44** and **10073/C81** for two glazed Curtea de Argeș fragments from the 1920 Drăghiceanu excavation, dimensions 18 × 13.5 cm and 13 × 10 cm; the article cites Drăghiceanu 1923 figs. 78–80. citeturn6search2
+
+## S168 — Pass 96 — C81 numerical discrepancy
+
+Earlier 2000 text/OCR gives 4130/C81; later 2007 gives 10073/C81. C44 remains 4119/C44 in both. No independent institutional catalogue resolving the C81 number was located in this pass. Record both values; do not silently normalize.
+
+## S169 — Pass 96 — Figure-list caution
+
+Rădulescu 2007's Fig. 4 is a general Curtea de Argeș griffin-terracotta illustration; footnote 13 separately lists the MNAR inventory pair. Therefore Fig. 4 is not automatically evidence that the pictured pieces are C44/C81. citeturn4search1
