@@ -2122,3 +2122,15 @@ The Greceanu index further identifies the Jurnal's pp.148–149 specifically wit
 A 2022 archaeological report cites the Jurnal specifically at pp.147–148 and p.148, including fig.158, confirming that late-page citations refer to the excavation journal itself. citeturn0search8
 
 Control conclusion: **134–149 is now the working physical/article extent; 134–152 is retained as official catalogue metadata.**
+
+
+## S231 — Page-figure control: p.147–148 and Fig.158 independently tied to the Jurnalul
+
+The 2022 *Cronica Cercetărilor Arheologice* report cites Drăghiceanu's *Jurnalul săpăturilor* specifically at **pp.147–148**, with **Fig.158** described as the associated plan. It separately cites p.148. citeturn0search0 Rădulescu 2016 independently cites the same Jurnal section at **pp.148–149** and identifies figures 150–155, 159–160, 162 and 165 in that page range; her footnote gives the stove-terracotta observation specifically to p.148. citeturn0search21
+
+This creates a controlled figure/page map without claiming direct visual inspection of the original 1923 plates:
+- p.147–148 → Fig.158 / plan reference;
+- p.148 → stove-terracotta observation;
+- pp.148–149 → late excavation section and figures 150–155, 159–160, 162, 165.
+
+The official catalogue's 134–152 extent remains catalogue metadata, while specialist bibliographies continue to use 134–149. citeturn0search1turn0search24
