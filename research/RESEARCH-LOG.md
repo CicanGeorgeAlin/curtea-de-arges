@@ -2763,3 +2763,33 @@ S222 added; Pass 136 recorded; index.html untouched.
 
 ### Next target
 Attempt direct recovery of p.138 using the dated 31 July 1923 anchor, then map any recovered wording to the exact printed page and distinguish it from later interpretation.
+
+
+## Pass 137 — 22 September 2026
+
+### Target
+Correct the wording around the p.138 / 31 July 1923 anchor and prevent a possible date misreading.
+
+### Result
+The 2014 Romanian Academy study's footnote says that **more information about the day of 31 July 1923** can be found in Drăghiceanu's *Jurnalul săpăturilor*, p.138. It does not state that p.138 itself is dated 31 July 1923. citeturn0search12
+
+The same article states that grave 10 was discovered at the end of July **1920**, and that the investigations were published in 1923. citeturn0search12
+
+### Correction
+The previous shorthand “Jurnalul p.138 → dated content (31 July 1923)” was too strong. The controlled formulation is now:
+**later scholar's footnote → additional information about 31 July 1923 → Drăghiceanu, Jurnalul, p.138 → original page not directly inspected.**
+
+We must not interpret 31 July 1923 as the excavation/discovery date of grave 10.
+
+### Significance
+This is precisely the kind of micro-correction the archive's evidence-control system is designed to catch before a small bibliographic shorthand becomes a false historical statement.
+
+### C44/C81 status
+Unchanged: 4119/C44 stable; C81 4130 vs 10073 unresolved; 2000 unglazed vs 2007 green/light-green glazed unresolved.
+
+### GitHub
+Backup: backup/pass137-pre-research-2026-09-22
+S223 added; Pass 137 recorded; index.html untouched.
+
+### Next target
+Continue direct recovery of p.138, with the corrected date interpretation and no inference from secondary footnotes beyond what they explicitly state.
