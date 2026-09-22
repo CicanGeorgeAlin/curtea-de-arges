@@ -1884,3 +1884,33 @@ S187 added to the source register; Pass 105 added to the research log; archive s
 
 ### Next target
 Prioritize the 1394 archive dossier as a potential **museum-transfer / photography / object-history source**, while continuing the search for a directly image-readable copy of Drăghiceanu's plates 79–80 and the exact MNAR accession history.
+
+
+## Pass 106 — 22 September 2026
+
+### Target
+Exploit the newly identified CMI dossier 1394 more precisely: determine whether its catalogue description contains documentary routes that could connect the 1920–1930 Curtea Domnească work to museum custody, photographs and object documentation.
+
+### New control
+The archive catalogue explicitly lists: correspondence concerning photography of the Domnească Church paintings; payment for photographs; correspondence with the National Museum of Antiquities and the Museum of Ethnography and National Art; and correspondence concerning photographs sent to the Museum of National Art. It also confirms a Curtea Domnească plan and 184 leaves. citeturn1view0
+
+### Interpretation boundary
+This materially strengthens the **archival provenance route**, because the dossier demonstrates that museum and photographic documentation formed part of the Curtea Domnească administrative record in 1921–1930. But the catalogue does not identify C44, C81, 4119, 4130 or 10073, and the full PDF remains too large for the current web reader. No object-level inference is made.
+
+### 2000 source recheck
+The digitized 2000 Rădulescu article independently and explicitly records MNAR inventory numbers **4119 (C44)** and **4130 (C81)**, cites Drăghiceanu figs. 78–80, and describes the fragments as unglazed. citeturn3search1 This is a direct primary-publication control and remains the baseline for the 2000 side of the contradiction.
+
+### Status
+The archive now has a stronger three-layer chain:
+1. 1920–23 excavation/publication layer;
+2. 1921–30 institutional archive / photography / museum-correspondence layer;
+3. 2000–07 museum-object publication layer.
+
+The missing bridge is still the actual accession/object-history document connecting those layers.
+
+### GitHub
+Backup: backup/pass106-pre-research-2026-09-22
+S188 added; Pass 106 recorded; public research-status page updated; index.html untouched.
+
+### Next target
+Search specifically for **Muzeul Național de Antichități → Muzeul Național de Artă → MNAR inventory-history** pathways, and for digitized photographs or catalogue entries containing the C44/C81 identifiers. In parallel, continue visual recovery of Drăghiceanu figs. 78–80.
