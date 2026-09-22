@@ -363,3 +363,12 @@ Bibliographic record: Studii și Comunicări, V (1980), pp. 239–244. Type: arc
 
 ## S45 — “Vase de sticlă descoperite în complexe funerare” (2005)
 Type: specialist archaeological study using earlier excavation publications and finds. It independently discusses the 1920 Sân Nicoară campaign, including graves and stone sarcophagi, while noting limitations in contextual information for some coins. citeturn0search12
+
+## S46 — Lia Bătrîna & Adrian Bătrîna, “Cercetările arheologice de la Curtea de Argeș” (1982)
+Type: primary archaeological publication/report. The authors state that research begun in 1979 continued in 1980 in additional areas of Curtea de Argeș. One investigated area lay west of Sân Nicoară hill; two sections produced no cultural material or complexes warranting expanded research, except a medieval circular-plan oven at the eastern end of one section. This is important **negative archaeological evidence** and must be retained rather than omitted. citeturn0search23
+
+## S47 — Spiridon Cristocea, “Biserica Drujești din Curtea de Argeș în lumina cercetărilor arheologice” (1990)
+Type: specialist archaeological study. RMI index records the article in Revista Monumentelor Istorice, LIX, no. 1 (1990), pp. 29–36. A later specialist study also cites Cristocea 1990 for the discovery at Drujești of a 16th-century funerary glass vessel fragment and archaeological evidence for an earlier church phase. citeturn1search0turn1search50
+
+## S48 — Biserica Bătușari / Brad-Botușari: institutional historical lead
+County Council Argeș identifies the church as a historic monument and states a foundation in 1583 attributed to Petru Cercel, with later rebuilding/restoration phases. This is a **heritage/history lead, not yet an archaeological campaign record**. It should be reconciled against LMI/RAN and specialist literature before being promoted into the archaeological chronology. citeturn1search1turn1search47
