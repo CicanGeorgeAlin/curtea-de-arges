@@ -1810,3 +1810,15 @@ Institutional index: PROEUROPEANA.
 The descriptor for Curtea Domnească din Argeș indexes the 1917–1923 BCMI volume containing Drăghiceanu's excavation documentation and the 2007 Rădulescu heraldic-tile article. citeturn0search1
 
 Use: bibliographic provenance/control layer only. It confirms the relationship between the publication corpus and the Curtea Domnească descriptor, but does not supply a museum accession record.
+
+
+## S197 — Maria-Venera Rădulescu, *Meșteșug, Artă, Document* (2016/2017): full-book bibliographic and methodological control
+
+Author: Maria-Venera Rădulescu.  
+Title: *Meșteșug, Artă, Document. Cahlele din Țara Românească (secolele XIV–XVII)*.  
+Publisher: Editura Cetatea de Scaun.  
+The published work is a 430-page synthesis/catalogue covering research history, materials and production techniques, typology/chronology, ornament, graphic stove reconstructions, selected catalogue, bibliography, place index and plates. A publicly indexed PDF/preview confirms this structure and the existence of dedicated sections for typology, ornament and catalogue. citeturn1search13turn1search1
+
+Control result: searches within the accessible indexed PDF preview did not expose the exact identifiers 4119, 4130, 10073, C44 or C81. Therefore the book is confirmed as a major bibliographic/methodological source, but its accessible preview does not resolve the MNAR identity contradiction. No inference is made from the absence of these strings in the preview.
+
+URL: https://cdn4.libris.ro/userdocspdf/832/Mestesug%2C%20arta%2C%20document.%20Cahlele%20din%20Tara%20Romaneasca%20%28secolele%20XIV%20-%20XVII%29%20-%20Maria-Venera%20Radulescu.pdf
