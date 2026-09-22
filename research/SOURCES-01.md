@@ -1644,3 +1644,14 @@ Control: earlier 2000 wording previously summarized as “unglazed” remains un
 Bibliographic databases independently index Rădulescu 2000 (*Argessis* IX, pp.165–172), Rădulescu 2001 (Câmpulung heraldic tiles, pp.123–126), and Rădulescu 2007 (heraldic-inspired tiles, pp.209–227). citeturn0search0turn0search1
 
 Control: publication sequence only; no object identity is inferred from thematic similarity.
+
+
+## S175 — Pass 99 — C44/C81 chain strengthened
+
+Rădulescu 2007 explicitly links the Curtea Domnească fragments (18 × 13.5 cm and 13 × 10 cm) to MNAR 4119/C44 and 10073/C81 and footnote 14 directs readers to Rădulescu 2000 pp.165–172 for chronology, iconography, analogies, technique and dimensions. The 2007 article also gives a reconstructed tile size of about 26 × 20.5 cm and cites Drăghiceanu 1923 figs.78–80. citeturn2search12
+
+Control level: STRONG GROUP-IDENTITY BRIDGE between the 2000 and 2007 discussions; individual fragment-to-inventory mapping remains unresolved.
+
+## S176 — Pass 99 — glaze discrepancy remains open
+
+2007 explicitly says the two fragments are green/light-green glazed. Earlier 2000 extraction in this project reported an unglazed description. Until the 2000 page/figure is visually controlled, preserve both statements rather than normalizing them. citeturn2search12
