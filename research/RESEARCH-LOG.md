@@ -3102,3 +3102,28 @@ S234 added; Pass 148 recorded; index.html untouched.
 
 ### Next target
 Move from citation triangulation back toward primary-page recovery: original pp.148–149 and Fig.162, then the neighboring figures 150–155, 159–160 and 165.
+
+
+## Pass 149 — 22 September 2026
+
+### Target
+Reassess the late *Jurnalul* figure cluster before attempting further object matching.
+
+### Result
+Rădulescu 2016 gives the late-section citation cluster as **pp.148–149, figs.150–155, 159–160, 162, 165**, while separately citing p.148 for the stove-terracotta statement and Fig.305 for the 16-fragment terracotta plate. citeturn0search19 Greceanu independently lists the same *Jurnalul* figures and identifies pp.148–149 as excavations within the princely-court enclosure. citeturn0search20 A 2022 archaeological report separately uses pp.147–148 and Fig.158 for a plan. citeturn0search0
+
+### Significance
+The late figure sequence is demonstrably **multi-material and multi-function**. It must not be treated as a single terracotta corpus:
+- Fig.162 = Gothic stone-rib material, secondary-confirmed;
+- Fig.305 = separate plate of 16 terracotta fragments;
+- Figs.150–155, 159–160, 165 = not yet individually assigned without primary-page inspection.
+
+### Methodological boundary
+Page proximity is not object identity. Shared excavation context is not sufficient to merge finds.
+
+### GitHub
+Backup: backup/pass149-pre-research-2026-09-22
+S235 added; Pass 149 recorded; index.html untouched.
+
+### Next target
+Recover the actual original pages/plates, then assign each figure only after reading its caption/context.
