@@ -2521,3 +2521,40 @@ The L4 cellar context contains stove tiles, smoke tiles and daub, but the plate 
 
 ### Next target
 Trace the individual Pl. VII disc items and determine whether the 1982 text gives item-level references, then separately reconcile the 16th–17th-century Pl. VI vessel group with later ceramic typologies. 
+
+
+## Stove-disc object control — Pass 83 · 22 September 2026
+
+### Primary evidence remains the controlling layer
+
+The 1982 Curtea de Argeș article is confirmed in the official *Cercetări Arheologice* index as volume V (1982), pp. 95–107. citeturn0search0turn0search12
+
+### Pl. VII: what is actually controlled
+
+The primary text describes the Pl. VII stove-disc corpus as **glazed and unglazed discs**, made on the fast wheel, with **concentric ribs and a central button**. The printed plate legend assigns the group to the **14th century**. citeturn0search12
+
+The archive therefore records the following as controlled corpus-level facts:
+- OBJECT FAMILY = stove discs / disc cahle
+- FORM = disc
+- SURFACE = glazed or unglazed
+- MANUFACTURE = fast-wheel, according to the excavators
+- RELIEF/PROFILE = concentric ribs
+- CENTRAL FEATURE = button
+- PLATE = VII
+- CAPTION DATE = 14th century
+
+### Individual-item caution
+
+The available textual description does not safely assign a unique provenance or stratigraphic context to each numbered Pl. VII disc. We therefore do **not** create individual excavation-context records merely from plate position.
+
+### L4 relationship remains unproven
+
+L4 contains stove tiles, smoke tiles and daub in its cellar fill, but the report does not establish that the illustrated Pl. VII discs came from L4. The two records remain linked only as **same-period/related heating-material evidence**, not as identical provenances.
+
+### Comparative literature
+
+The web cross-check confirms the 1982 Curtea article is repeatedly cited in later archaeological bibliographies. A later publication also references the 1982 study, but no newly verified source was found in this pass that supplies a secure item-by-item provenance for Pl. VII. citeturn0search13
+
+### Research decision
+
+The correct next move is **not** to manufacture individual object records. Instead, the archive will first finish the corpus-level stove analysis and then search for later publications that reproduce, reinterpret or explicitly provenance the Curtea Pl. VII discs.
