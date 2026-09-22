@@ -1421,3 +1421,16 @@ Controlled stove corpus:
 - L4 context — stove tiles + smoke tiles + daub in cellar fill; smoke-flue dimensions approximately 45–50 cm high and up to about 28 cm diameter.
 
 Control rule: plate-caption chronology is not automatically equivalent to manufacture date or depositional date. Stove-material object classes remain separate from vessel ceramics.
+
+
+## S134 — Pass 82 — Pl. VI visual control
+
+Primary plate: Pl. VI contains four numbered objects. Printed caption: glazed ceramic from the 16th–17th centuries (1–3) and a cahlă/stove-tile fragment (4). Visual inspection confirms the stove-tile fragment carries a human-face relief. citeturn0search12
+
+## S135 — Pass 82 — Pl. VII stove-disc control
+
+Primary report: Pl. VII is the 14th-century Curtea de Argeș stove-disc group. The text describes glazed and unglazed discs, fast-wheel manufacture, concentric ribs and a central button. citeturn0search12
+
+## S136 — Pass 82 — comparative disc-cahlă evidence
+
+A later study of stove tiles from Roman notes comparable disc cahle in Wallachian sites including Curtea de Argeș. This is a comparative typological statement, not proof that the Roman specimen and a particular Curtea object are identical. citeturn0search13
