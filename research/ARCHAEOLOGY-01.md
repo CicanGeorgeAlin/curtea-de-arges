@@ -1333,3 +1333,16 @@ A direct attempt to search the original 1979 excavation PDF for L4 did not retur
 **Self-control:** no new measurements, plan orientation, stratigraphy or exact find position are inferred. The 1983 seal publication remains the controlled primary source for the seal's association, while later specialist synthesis remains secondary corroboration for L4's semi-sunken/gârlici typology and first-half-15th-century dating. citeturn0search0turn0search23
 
 **Stage 1 remains OPEN.**
+
+
+## Pass 55 — 22 September 2026 — major source-control correction
+
+**Self-correction:** Passes 47–48 incorrectly treated a later 1999–2001 catalogue passage as an independent description of Curtea de Argeș L4. The passage actually concerns **L4 at Săbăoani**, discovered in 1989. Curtea de Argeș is cited only comparatively in footnote 37, through Bătrîna & Bătrîna 1981 p.166 fig.14/3 and 1982 p.103 pl.VII, as a source for similar stove tiles. citeturn1search22
+
+Accordingly, the previous claims that this catalogue independently established Curtea L4 as semi-sunken, gârlici-entry and first-half-15th-century are **withdrawn**.
+
+What remains directly controlled is stronger and cleaner: the 1983 primary trade-seal article explicitly names the burned **L4 dwelling at Curtea de Argeș** and proposes that the cloth merchant was probably its owner. citeturn1search21
+
+**Current L4 status:** identity = controlled; burned remains = controlled from 1983 article; architecture/plan/independent pottery dating = OPEN.
+
+**Stage 1 remains OPEN.**
