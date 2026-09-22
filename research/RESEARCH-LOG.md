@@ -658,3 +658,12 @@ The official journal index confirms the dedicated 1979 excavation report and sep
 The archive now explicitly separates source roles before spatial reconstruction: excavation reports for L4 architecture/context; numismatic study for seal identification/dating/interpretation.
 
 **Stage 1 remains OPEN.**
+
+
+### Pass 51 · 22 September 2026 · tile evidence cross-check
+
+A 2013 specialist article reproduces a Curtea de Argeș stove-tile fragment dated 14th–15th century and cites Bătrîna & Bătrîna 1982, plate I/2. citeturn0search28 A specialist catalogue separately cites the 1979 report's p.166 fig.14/3 and the 1982 report's p.103 pl.VII. citeturn0search26
+
+These references strengthen the broader medieval urban-heating evidence but do not establish a direct L4/seal identification for the figures.
+
+**Stage 1 remains OPEN.**
