@@ -568,3 +568,36 @@ The archive will therefore use the historic urban site as a geographic master la
 Repeated current RAN selection results show Drujești, but the interface is paginated/filterable. Therefore the working five-record RAN inventory is still provisional and cannot be declared exhaustive from a single returned page. citeturn0search7turn0search10
 
 Next target: obtain an explicit municipality-scoped RAN result set and reconcile every returned code against LMI, archaeological publications and the existing inventory.
+
+## Archaeology autopilot — Pass 22 · 22 September 2026
+
+### Major scope correction: heritage inventory is much larger than archaeology inventory
+
+The 2015 LMI contains a broad Curtea de Argeș protected-heritage inventory extending well beyond the archaeological core: the Seminarul Teologic ensemble and components, former Seminar, Protoieria, Vila Rozelor, Casa Chiriță, Biserica Sf. Gheorghe and multiple historic houses are all independently listed. citeturn0search20turn0search21
+
+This does **not** mean all these properties are archaeological sites.
+
+It means the archive needs a parallel heritage layer from which archaeological relevance can be assessed case by case.
+
+### New five-layer model
+
+The working architecture is now:
+
+**HERITAGE / LMI**
+→ protected monuments and ensembles
+
+**ARCHAEOLOGY / RAN**
+→ registered archaeological sites and urban archaeological zones
+
+**INTERVENTIONS / PUBLICATIONS**
+→ excavations, surveys, restoration investigations and published research
+
+**MEMORIAL / PUBLIC ART**
+→ war cemeteries, monuments, plaques and other commemorative places
+
+**SPATIAL GRAPH**
+→ relationships among all four
+
+CIMEC records a WWI heroes' cemetery, a 1937 WWI memorial plaque and a Soviet memorial/cemetery in Curtea de Argeș. These are evidence that the public-memory layer must be independently inventoried rather than assumed to be covered by LMI/RAN. citeturn0search1turn0search4turn0search6
+
+Stage remains OPEN — NOT COMPLETE.
