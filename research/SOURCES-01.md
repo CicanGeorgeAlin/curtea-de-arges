@@ -850,3 +850,27 @@ These dates are retained as excavators' archaeological datings for the sampled c
 
 Official PDF:
 https://cercetari-arheologice.ro/wp-content/uploads/2020/01/ca04-15_Bitrina_Bitrina_Curtea_Arges.pdf
+
+
+## S90 — Pass 62 — L1/L2/L3 evidence and 1980 campaign control
+
+Primary sources:
+- Bătrîna & Bătrîna, “Cercetări arheologice efectuate în anul 1979 în cuprinsul aşezării Curtea de Argeş, jud. Argeş”, *Cercetări Arheologice* IV (1981), pp.144–171.
+- Bătrîna & Bătrîna, “Cercetările arheologice de la Curtea de Argeş”, *Cercetări Arheologice* V (1982), pp.95–107.
+
+Controlled Pass 62 evidence:
+- L1 has two phases; first phase is late 13th/early 14th century; second is first half of 14th century.
+- L1 phase 1 includes a simple central hearth, refuse pit, oală-borcan pottery and bronze rosette appliqué.
+- L1 phase 2 has a compacted-clay floor and vaulted oven on a c.25 cm socle; excavators state this heating system predates tiled stoves.
+- L2 at Str. Castanilor nr.2 is partially cut by L4, has two phases, and is dated to the first decades of the 14th century.
+- L3 at Str. Castanilor nr.2 is a mid-14th-century surface dwelling with stone socle and compacted-clay floor; floor-level pottery is used by the authors for 14th-century ceramic/decorative chronology.
+- The authors' identification of L1 occupants as servants of the voivodal residence is explicitly treated as interpretation.
+
+1980 campaign control:
+- west of Sân Nicoară: two sections mostly negative; one circular oven about 1.05 m diameter; direct dating uncertain.
+- northeast of Sân Nicoară: six sections tested a reported wall; excavators rejected a medieval defensive interpretation for that tested wall and place its construction no earlier than late 18th century, possibly early 19th.
+- Str. Mircea cel Mare nr.1: four sections documented the Princely Court enclosure-wall construction level and later deposits.
+
+Source links:
+https://cercetari-arheologice.ro/wp-content/uploads/2020/01/ca04-15_Bitrina_Bitrina_Curtea_Arges.pdf
+https://cercetari-arheologice.ro/wp-content/uploads/2020/01/ca05-12_Bitrina_Bitrina_Curtea_Arges.pdf
