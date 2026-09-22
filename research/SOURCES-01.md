@@ -710,3 +710,12 @@ The original 1979 report is directly accessible again and confirms the settlemen
 This provides a useful methodological warning: the 1979 report contains **dwelling-by-dwelling archaeological descriptions**, so L4 should not be reconstructed from later catalogues when its original pages can be recovered. The current search result exposes the opening L1 section but not yet the L4 pages. No L4 dimensions are therefore added in this pass.
 
 The archive records the direct PDF as the controlling primary source for the next extraction pass.
+
+
+## S100 — Pass 53: primary 1983 text confirms L4 merchant inference and seal function
+
+Direct primary text confirms the authors interpret the Curtea de Argeș lead seal as a device for closing a **large bale/roll of Tournai cloth**, not merely a small piece. They use comparative documentary evidence to argue that large quantities were transported in bales/rolls and that the Curtea de Argeș type of hanging lead seal was suited to such quantities. citeturn0search35
+
+The authors then infer that such a bale would have been expensive and likely acquired by a major Argeș merchant, whom they further infer was probably the owner of L4. This entire merchant-owner step remains **author interpretation**, not independently documented identity. citeturn0search35
+
+This is now separated in the archive into: object function (authors' interpretation supported by comparisons) → economic inference → L4 ownership hypothesis.
