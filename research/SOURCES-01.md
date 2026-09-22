@@ -2073,3 +2073,14 @@ The official PROEUROPEANA/BCMI index lists Drăghiceanu's *Jurnalul săpăturilo
 This is now recorded as a genuine bibliographic extent discrepancy, not resolved by assuming that pp.150–152 are part of the journal. The official index is the current primary catalogue control for the 134–152 extent; secondary bibliographies reporting 134–149 are retained as alternate citation metadata.
 
 A 2022 archaeological report cites the journal at pp.147–148 for Sân Nicoară documentation and p.148 separately, confirming page-level use within the work. citeturn0search5
+
+
+## S226 — Original 1923 table of contents resolves the article boundary
+
+The scanned 1923 BCMI table of contents gives **“Jurnalul săpăturilor din Curtea Domnească a Argeşului” by Virgiliu Drăghiceanu — p. 134**, followed by **“Monede vechi găsite în săpături” by Constantin Moisil — p. 150**, and **“Cercetări antropologice asupra osemintelor aflate în săpături” by Rainer — p. 153**. citeturn0search29 This is stronger than relying on later bibliographies: it is the volume's own contemporary table of contents.
+
+A specialist bibliography citing the journal as pp. 134–149 therefore aligns with the original table-of-contents boundary: Moisil begins at p.150. The official digital catalogue's 134–152 extent appears to be a metadata aggregation that spans into the following article. citeturn0search1turn0search29
+
+This resolves the article-boundary issue for the archive: **Drăghiceanu Jurnalul = pp.134–149**, while **p.150 onward belongs to Moisil's separate coin study**. The broader catalogue extent 134–152 is retained as catalogue metadata, not as the article's physical boundary.
+
+The page-138 target is therefore firmly inside Drăghiceanu's Jurnalul.
