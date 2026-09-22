@@ -1856,3 +1856,31 @@ Research files updated. index.html untouched.
 
 ### Next target
 Locate a directly image-readable copy of the relevant Drăghiceanu plates/pages, preferably through Biblioteca Digitală or another institutional scan, and compare the actual visual forms against the published 2000/2007 MNAR descriptions.
+
+
+## Pass 105 — 22 September 2026
+
+### Target
+Expand the primary-source search from published archaeology into the surviving archive of the Comisiunii Monumentelor Istorice for the 1921–1930 Curtea Domnească period.
+
+### New primary archival lead
+The Back-up archive project publishes dossier no. 1394 for Curtea Domnească / Biserica „Sfântul Nicolae” – Domnesc. The dossier covers correspondence from 1921–1930, contains 184 leaves, and includes a plan of the Curtea Domnească, correspondence signed by Virgil Drăghiceanu, photography-related correspondence, restoration documentation, and correspondence involving national museums. citeturn8view0
+
+### Why this matters
+This is a new institutional bridge into the administrative/archive layer surrounding the excavation period. It may contain documentary evidence about photographs, object movements, museum correspondence or documentation that is absent from the published archaeological articles.
+
+### Strict limitation
+The public dossier description does **not** identify MNAR 4119/C44, 4130/C81 or 10073/C81, nor does it explicitly identify the terracotta fragments. The dossier PDF is approximately 119 MB and could not be fetched through the current web reader because of its size limit. Therefore no claim about its individual pages or contents beyond the published archive description is made.
+
+### Current C44/C81 status
+No resolution of the numerical C81 discrepancy or glaze discrepancy was found in this pass.
+
+### Figure-control status
+The original Drăghiceanu *Curtea domnească din Argeş* item is confirmed by BCU Iași as a 1923 publication covering pp. 5–76 and including the archaeological excavations and objects. citeturn4view0 A directly image-readable rendering of the relevant plates remains the next visual-control target.
+
+### GitHub
+Backup: backup/pass105-pre-research-2026-09-22
+S187 added to the source register; Pass 105 added to the research log; archive status page updated; index.html untouched.
+
+### Next target
+Prioritize the 1394 archive dossier as a potential **museum-transfer / photography / object-history source**, while continuing the search for a directly image-readable copy of Drăghiceanu's plates 79–80 and the exact MNAR accession history.
