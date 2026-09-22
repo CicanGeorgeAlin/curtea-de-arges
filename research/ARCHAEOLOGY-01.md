@@ -2789,3 +2789,17 @@ A numerical inventory search alone produces many unrelated uses of “5882”; t
 
 ### Research decision
 Do not manufacture a chain of custody. The current evidence supports a **collection identity**, but not an accession history. The next productive target is the institutional/archaeological bibliography around the 1920–1922 excavation and later Curtea de Argeș stove-tile publications, looking for references that reproduce I 5882 or the three dimensions.
+
+
+## Pass 92 — Bibliographic fingerprint search for I 5882
+
+A second search strategy was tested using the distinctive dimensions and object description rather than the inventory number: **8.6 × 6.8 cm; 12.7 × 9.4 cm; 16 × 7.8 cm; approx. 22 × 17 cm; dancers; bagpiper; cross; Curtea de Argeș**. The indexed web results did not reveal an independent earlier publication that reproduces these exact measurements or identifies I 5882 outside the 2016 Rădulescu article. The search also demonstrated that the string “I 5882” occurs in unrelated museum catalogues, so numerical matching alone remains unsafe. citeturn0search44turn1search38
+
+### Research conclusion
+No new pre-2016 bibliographic fingerprint for I 5882 was verified in this pass.
+
+### New methodological boundary
+The absence of an indexed match is **not evidence that no earlier record exists**. It means only that no independently indexed result was located using the tested signatures. The archive therefore keeps the accession history as unresolved.
+
+### Next high-value route
+Return to the 2016 article's bibliography and identify every cited Curtea de Argeș stove-tile source, then inspect those sources individually for older object records, especially publications that may reproduce plates without modern inventory numbers.
