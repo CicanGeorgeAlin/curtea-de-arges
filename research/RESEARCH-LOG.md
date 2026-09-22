@@ -903,3 +903,26 @@ The campaign also recovered:
 Important methodological conclusion: the 1980 campaign did not expose a complete habitation complex, even though the material assemblage is substantial. citeturn1view1
 
 Next: connect the 1982 publication to later ceramic/stove-tile specialist literature and track changes in classification/chronology.
+
+
+## Pass 64 — 22 September 2026
+
+### Objective
+Trace the 1982 ceramic/stove classifications into later specialist literature and determine which identifications, typologies and chronologies were retained or revised.
+
+### Verified
+- Maria-Venera Rădulescu's 2013 specialist study on Wallachian stove canopies explicitly cites both the 1979 and 1982 Bătrîna & Bătrîna Curtea de Argeș reports and provides a later constructive typology of stove tiles. citeturn3view0
+- A 2024 Rădulescu study directly analyses a fragmentary **Curtea de Argeș cahlă-placă** with a tournament scene, measuring 13.2 × 17 × 1.2 cm.
+- The 2024 study explicitly states that the tile's discovery year, exact place and archaeological stratigraphy are unknown; its proposed 16th-century dating is based on costume, armour and lance typology rather than archaeological context. citeturn5view0
+
+### Control decision
+The 2024 uncontexted tile is **not** merged with the context-controlled stove material recovered in the 1979–1980 excavations. Locality alone is insufficient to establish object identity or excavation provenance.
+
+### Method upgrade
+Ceramic records now require separate fields for:
+**excavation context → primary dating → later typology → later re-dating → provenance confidence**.
+
+### Stage
+**Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+Next: trace specific 1979–1980 ceramic figures/plates through later specialist citations and continue the wider campaign matrix.
