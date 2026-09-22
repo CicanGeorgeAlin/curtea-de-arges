@@ -2070,3 +2070,65 @@ No CXL/1 physical object identity is asserted until the 2017 plate/caption itsel
 **OPEN — NOT COMPLETE.**
 
 Next target: direct CXL/1 plate/caption recovery. If unavailable, move forward to the broader Curtea de Argeș ceramic corpus rather than spending further passes on an inaccessible plate.
+
+## Re-analysis — Pass 72 — 22 September 2026
+
+### Non-stove glazed ceramic sequence: direct primary-source recovery
+
+The complete 1982 Bătrîna & Bătrîna article gives a much richer controlled ceramic sequence than the earlier plate-comparison work suggested. The material discussed here comes from the 1980 investigation at **Str. Mircea cel Mare nr. 1**, southwest of the Princely Court. The authors describe a unified stratigraphy, with the construction level of the Princely Court enclosure around 1340; material from the walking level is dated by stratigraphic and typological relationships to the end of the 14th through mid-15th centuries, while later refuse pits cutting the earlier habitation levels contain 16th–17th-century pottery. citeturn2view0
+
+The authors explicitly state that the 14th–15th-century ceramic assemblage includes both unglazed and glazed forms, and that glazed ceramics greatly outnumber the unglazed category in the excavated material. citeturn2view0
+
+### Controlled forms and decoration
+
+For the 14th–15th-century glazed group, the principal forms are:
+- **strachină**;
+- **farfurie**;
+- **taler** as a variant of the plate form;
+- all described with ring feet.
+
+The decorative system includes **sgraffito**, commonly on a yellow glaze with brown and green color accents. Motifs include straight/oblique/wavy/zig-zag lines, spirals, curls, vegetal and zoomorphic elements, concentric circles, radial/star-like decoration, interlaced curves and scale-like motifs. The article specifically identifies a fragment interpreted as part of a **leopard**, based on analogy with a similar piece from southern Moldavia. citeturn2view0
+
+### Functional evidence: interior decoration
+
+A particularly important observation is that many ring-footed bowls and plates have **two perforations through the ring foot**. The authors interpret these as evidence that at least part of the vessels had a decorative function in interiors, preserving an older practice of decorating interiors with glazed vessels. This is an authorial functional interpretation and must be stored separately from the physical fact of the perforations. citeturn2view0
+
+### Production evidence
+
+The excavated area also contained numerous fragments of **engobed, sgraffito-decorated vessels that remained unglazed**, which the excavators interpret as rejects from a pottery workshop located close to the findspot. A fragment of **crăiță**, identified as a tool used exclusively in kilns for firing glazed ceramics, occurred in the same context. citeturn2view0
+
+Controlled interpretation:
+**OBJECT FACT → unglazed sgraffito fragments + crăiță**
+→ **AUTHORIAL FUNCTIONAL INTERPRETATION → kiln/workshop activity**
+→ **AUTHORIAL SPATIAL INFERENCE → workshop nearby**
+→ **EXACT WORKSHOP LOCATION → OPEN**
+
+This must not be converted into a mapped workshop location without additional evidence.
+
+### Stove material kept separate
+
+The same article separately discusses glazed and unglazed discs and rectangular/triangular plates belonging to stoves, including figurative pieces such as a mounted rider and a Christian image. These are maintained as the **stove-tile sequence**, not merged with the tableware/interior-vessel sequence. citeturn2view0
+
+### Later 16th–17th-century ceramic sequence
+
+The article warns that 16th–17th-century glazed ceramics were less studied and that some earlier chronological assignments had been inaccurate. It describes traditional forms such as strachină, bowl, plate and taler, with differences in ring-foot profiles. Decoration is described as predominantly horn-drawn white motifs over brown-toned engobe, followed by yellow or green glaze; spiral, concentric-circle and wavy-line motifs occur. citeturn2view0
+
+The authors explicitly state that the 1980 campaign did **not** intercept a complete habitation complex, despite the archaeological material being informative. citeturn2view0
+
+### Stage
+
+The ceramic corpus can now be divided into controlled chains:
+
+**A. 14th–15th c. table/interior ceramic**
+→ forms → decoration → perforated ring feet → possible interior-decorative function.
+
+**B. 14th–15th c. production evidence**
+→ unglazed sgraffito rejects + crăiță → kiln/workshop interpretation → exact workshop location OPEN.
+
+**C. 14th–15th c. stove ceramics**
+→ discs/plates → figurative/geometric decoration → separate stove sequence.
+
+**D. 16th–17th c. glazed ceramics**
+→ traditional forms → horn-drawn decoration → yellow/green glaze → chronology controlled with authorial caution.
+
+**Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
