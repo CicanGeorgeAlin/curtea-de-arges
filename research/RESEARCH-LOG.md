@@ -2326,3 +2326,36 @@ S207 added; Pass 121 recorded; index.html untouched.
 
 ### Next target
 Attempt page-level recovery of dossier 1394 through the archive's PDF download and any indexed OCR/page fragments. Search within it for Drăghiceanu, Muzeul Național de Antichități, Muzeul de Artă Națională, photographs, teracote/cahle and related custody terms.
+
+
+## Pass 122 — 22 September 2026
+
+### Target
+Read the public catalogue of CMI dossier 1394 at full descriptive detail and isolate every museum/photography/custody lead that can guide page-level examination of the 184-leaf dossier.
+
+### Result
+The public catalogue gives several highly specific documentary actions within the 1921–1930 dossier: payment for photographs signed by **Iosif Kessler**; correspondence with the **Muzeul Național de Antichități** and **Muzeul de Etnografie și Artă Națională** concerning tombstones in the Papassoglu collection said to contain material from Biserica Domnească; correspondence concerning photographs by **Mihalache Lăzărescu**; and correspondence concerning photographs of the church treasure signed by **Alexandru Tzigara-Samurcaș**, director of the Muzeul de Artă Națională. The catalogue also records a **plan of the Curtea Domnească**. citeturn0search0
+
+### Why this matters
+The dossier is not merely an administrative file. Its catalogue documents an active network of:
+- archaeological/historic objects;
+- museum institutions;
+- photographs and photographic copies;
+- payments for photographic work;
+- plans of the Curtea Domnească;
+- correspondence about transferring or documenting heritage material.
+
+This makes the dossier a strong candidate for reconstructing how documentation and objects moved between the excavation context and museum institutions after 1920.
+
+### Important boundary
+None of the public catalogue descriptions names **C44, C81, 4119, 4130 or 10073**. No object-level identification is inferred.
+
+### C44/C81 status
+Unchanged. 4119/C44 remains stable; C81 4130 vs 10073 remains unresolved; 2000 unglazed vs 2007 green/light-green glazed remains unresolved.
+
+### GitHub
+Backup: backup/pass122-pre-research-2026-09-22
+S208 added; Pass 122 recorded; index.html untouched.
+
+### Next target
+Use the dossier's own downloadable PDF, where accessible, to search page-level OCR/images for the names **Drăghiceanu, Kessler, Lăzărescu, Tzigara-Samurcaș, Muzeul Național de Antichități, Muzeul de Artă Națională**, and terms for terracotta/stove tiles, while keeping tombstone/photograph correspondence separate from the C44/C81 object chain until an explicit link appears.
