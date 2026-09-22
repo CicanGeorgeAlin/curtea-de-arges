@@ -1274,3 +1274,14 @@ This provides important methodological context for L4: it was part of a settleme
 A 1992 specialist synthesis cites the 1979 publication for mid-14th-century houses at Curtea de Argeș and describes broader development of timber houses with cellars and tile stoves from the later 14th century. This is retained as wider urban context, not as direct L4 evidence. citeturn0search28
 
 **Stage 1 remains OPEN** for L4's exact section, dimensions, stratigraphy and plan.
+
+
+## Pass 50 — 22 September 2026 — source separation before spatial reconstruction
+
+The MNIR journal index confirms the dedicated 1979 excavation report (pp.144–171) and the separate 1982 continuation (pp.95–107). citeturn0search0turn0search6
+
+The MNIR Numismatic Research record independently confirms that the 1979 excavations produced the Tournai cloth seal in an urban-type dwelling dated by the 1983 authors to the late 14th/early 15th century, with the seal itself dated after 1426 by heraldic signs. citeturn0search8
+
+**Next-stage control:** L4's architectural reconstruction must be extracted from the excavation publications; the 1983 seal study supplies object-level evidence but is not a substitute for the dwelling plan, dimensions or stratigraphy.
+
+**Stage 1 remains OPEN.**
