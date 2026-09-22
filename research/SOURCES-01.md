@@ -321,3 +321,21 @@ Coverage: identifies the Olari church as RAN 13631.09 and repeats its LMI identi
 Use: **secondary-source lead only**. The RAN code 13631.09 remains CANDIDATE until the official RAN record is independently retrieved and reconciled.
 
 URL: https://ziarulnatiunea.ro/2022/08/28/biserica-adormirea-maicii-domnului-olari-din-curtea-de-arges-1687-unicat-in-zona/
+
+## S38 — Cronica Cercetărilor Arheologice, Sân Nicoară 2011 (Report 4830)
+
+Institution: Institutul Național al Patrimoniului / *Cronica Cercetărilor Arheologice*.
+Coverage: archaeological research at Str. Sân Nicoară nr. 1 in 2011; medieval and modern periods; RAN 13631.05. The report records research objectives concerning construction chronology, stratigraphy, the tower, possible defensive function, enclosure/fortification questions, the site's relationship to the Domnească area, and its relationship to the city. It also preserves historical/iconographic evidence and earlier scholarship that must be separated from the 2011 excavation results.
+
+Use: primary archaeological-report source for the Sân Nicoară campaign; interpretations in the report remain attributed to the report/authors.
+
+URL: https://cronica.cimec.ro/Public/Detalii.php?k=4830
+
+## S39 — County Council Argeș — Olari archaeological/restoration evidence
+
+Institution: Consiliul Județean Argeș.
+Coverage: institutional account of the 1967–1968 restoration at Biserica Olari, stating that foundations of a 15th-century construction, supported on wooden piles, and archaeological material including ceramics and coins from the 15th–16th centuries were exposed.
+
+Use: institutional cross-check for the Olari archaeological intervention; does not independently verify RAN 13631.09.
+
+URL: https://www.cjarges.ro/en/biserica-olari-din-curtea-de-arges
