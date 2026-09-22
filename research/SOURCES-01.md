@@ -602,3 +602,12 @@ Therefore the earlier Pass 40 wording treating fig.14/3 as a direct lead to the 
 - **1979 pp.166–167 / fig.14:** independently useful for urban dwelling/heating evidence, but not yet proven to depict dwelling 4 or the seal context.
 
 This correction prevents a secondary citation trail from being mistaken for direct archaeological context.
+
+
+## S89 — Pass 42: direct 1983 article extraction strengthens seal dating
+
+Direct text from the original 1983 article confirms that the authors connect the heraldic fleur-de-lis on the lead seals with changes in Tournai's heraldic/sphragistic practice in **1426**. They argue that the Curtea de Argeș, Novgorod and Lund seals should therefore be dated after 1426, and suggest that the first series of matrices may have been produced immediately after 1426, possibly in that year. citeturn0search35
+
+The authors further distinguish the reverse's heraldic shield from Tournai's civic arms and propose, as a hypothesis, that it may represent a Tournai textile/weavers' or cloth-makers' corporation, while the reverse represents the city's authority. This corporate identification is explicitly a hypothesis and must remain so in the archive. citeturn0search35
+
+This is stronger than the abstract-only formulation previously used and should replace the simpler 'post-1426' note with a layered dating record: **minimum terminus after 1426; authors' tighter hypothesis = immediately after 1426 / possibly 1426, based on heraldic change.**
