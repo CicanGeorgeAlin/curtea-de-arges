@@ -1653,3 +1653,27 @@ index.html untouched.
 
 ### Next target
 Recover/inspect the actual 2000 and 2007 figures and then target the MNAR collection catalogue or institutional records. In parallel, inspect Drăghiceanu figs. 78–80 directly.
+
+
+## Pass 97 — 22 September 2026
+
+**Target:** direct object-level control of the 1920 MNAR C44/C81 fragments.
+
+### New details
+The 2000 Rădulescu article states that one fragment measures 18 × 13.5 cm and preserves a 4.7 cm-wide rumpa; reconstructed original plate approx. 26 × 20.3 cm. It describes homogeneous clay with sand and mica, wooden mould impression through dense fabric, unglazed fragments, and soot on the reverse. citeturn0search24
+
+The 2007 article identifies the two MNAR pieces as 4119/C44 and 10073/C81. citeturn0search23
+
+### Correction / discrepancy
+The 2000 detailed description says **unglazed**, while the 2007 passage says **green-glazed**. This is recorded as a source discrepancy. No silent normalization.
+
+### Figure control
+Drăghiceanu figs. 78–80 are the cited original figure chain. Modern reconstruction and surviving fragments are separate evidence layers.
+
+### GitHub
+Backup: backup/pass97-pre-research-2026-09-22
+Updated archaeology, research log, sources.
+index.html untouched.
+
+### Next target
+Locate the actual figures in Rădulescu 2000/2007 and compare with Drăghiceanu 1923 figs. 78–80; then resolve the glaze discrepancy through visual/object catalogue evidence.
