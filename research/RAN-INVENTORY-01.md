@@ -282,3 +282,17 @@ However, the five-record RAN set is **not equivalent to “all archaeology in th
 A new reconciliation issue was identified at Argeș Monastery: LMI 13628 contains components not represented as separate components on the current RAN 13631.10 page, including the park and relocated wooden church. citeturn0search4turn0search13
 
 Stage remains OPEN — NOT COMPLETE.
+
+## Pass 27 — Deep reconciliation begins: Drujești and Sân Nicoară
+
+### Drujești
+Current RAN 13631.02 directly records the 1987 systematic archaeological research by Spiridon Cristocea and separates the church chronology (late 16th–second half 18th century) from the necropolis chronology (16th–17th century). citeturn0search0
+
+### Sân Nicoară
+Current RAN 13631.05 records the medieval church, discovery entry 1886, and preventive research 2009–2011. The primary 2011 campaign report adds spatial/contextual evidence and confirms the LMI ensemble structure of ruin + park. citeturn0search2turn0search20
+
+A further LMI component, AG-IV-m-A-13655.03, is the 1916–1918 Heroes' Cross, dated 1916–1920. It is a memorial component, not medieval archaeology. citeturn0search23
+
+New rule: a single place-name may contain **multiple chronological layers and heritage functions**. These must be represented as linked components, not one blended record.
+
+Stage remains OPEN — NOT COMPLETE.
