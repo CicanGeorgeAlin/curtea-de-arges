@@ -2691,3 +2691,21 @@ Pass 86 incorrectly promoted **Rădulescu 2000b** as the direct earlier source f
 The 2016 Rădulescu study directly cites Drăghiceanu 1923 and states that the 1920–1922 excavations produced stove-tile fragments. The journal records stove tiles in the NW corner of the cellar of the princely house on the south side of the enclosure; a plate shows 16 fragments. Rădulescu cautions that it is unknown whether all photographed fragments came from the same place or were dispersed across the Princely Court. citeturn9search30
 
 This means the 2024 tournament cahlă and the 1920–1922 stove-tile group must remain **separate object records** unless an original collection/provenance document connects them.
+
+
+## Pass 88 — Direct control of Drăghiceanu 1923 journal
+
+The original 1923 journal is now verified in the Biblioteca Centrală Universitară „Mihai Eminescu” Iași digital repository as a discrete item: **Virgiliu Drăghiceanu, “Jurnalul săpăturilor din Curtea Domnească a Argeșului,” BCMI X–XVI (1917–1923), pp. 134–152**, issued 1923. The repository description explicitly divides it into: A) excavations inside Biserica Domnească; B) excavations inside Sân Nicoară; C) excavations within the Princely Court enclosure; followed by coins. citeturn2view0turn0search0
+
+### Stove-tile provenance control
+Rădulescu 2016 gives the exact retrospective page reference: Drăghiceanu 1923b, **p. 148**, for the statement that stove tiles were discovered in the **north-west corner of the cellar of the princely house on the south side of the enclosure**. The same study identifies **BCMI 1923, Fig. 305** as the image of 16 stove-tile fragments. It also records that the 1920–1922 excavation ran from 9 October 1920 to 1 April 1922. citeturn0search18turn1search24
+
+### What is now directly controlled
+- The primary journal exists as a separately digitized 1923 item.
+- Its scope explicitly includes the Princely Court enclosure excavations.
+- The stove-tile statement is anchored to p. 148 through the later specialist citation.
+- Fig. 305 is independently identified by the 2016 article as the plate showing 16 tile fragments.
+- We have **not** yet treated the individual 16 fragments as separately provenanced objects; the 2016 author explicitly says their individual distribution is unknown.
+
+### Evidence boundary
+The digital repository page confirms the original PDF exists, but its landing page does not expose OCR/full page text. Therefore this pass does **not** claim that every word or object visible in Fig. 305 has been independently re-read from the 1923 scan. The next source-control step is page/plate-level inspection of the actual PDF.
