@@ -549,3 +549,12 @@ The archive now distinguishes:
 - **spatial context** — still unresolved until the original 1979 plan is reconstructed.
 
 **Decision: Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+
+### Pass 40 · 22 September 2026 · figure-recovery control
+
+Research located an authoritative journal index entry for the 1979 Curtea de Argeș settlement report and a later specialist bibliography that cites p.166, fig.14/3 of that report and p.103, pl.VII of the 1982 continuation. citeturn0search0turn0search25
+
+The figures are now explicit retrieval targets. Because the underlying PDFs were not reliably exposed by the current web text interface, their contents are not inferred. This preserves the archive's rule: a bibliographic lead is not promoted to archaeological fact until the underlying figure/page is inspected.
+
+**Stage 1 remains OPEN — exact dwelling-4 spatial context not yet established.**
