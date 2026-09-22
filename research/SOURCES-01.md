@@ -549,3 +549,13 @@ Cross-reference: *Cercetări Numismatice* XIV (2008), cumulative index for 1978�
 Use: **specialist numismatic cross-reference to the 1979 archaeological campaign**. It is evidence for an internationally connected object found in a specific excavated dwelling, but the seal's historical attribution/interpretation should be taken from the dedicated 1983 publication before being promoted beyond the controlled find record.
 
 URL: https://www.biblioteca-digitala.ro/reviste/cercetari-numismatice/CERCETARI_NUMISMATICE_XIV_2008.pdf
+
+
+## S85 — Bătrîna & Bătrîna, 1980 settlement archaeology: direct publication control
+
+Authors: Lia Bătrîna; Adrian Bătrîna.  
+Publication: *Cercetări Arheologice*, V, 1982, pp. 95–107, “Cercetările arheologice de la Curtea de Argeș”. The national archaeological bibliography confirms the Curtea de Argeș article and its pagination. citeturn2view0  
+Coverage controlled in the publication: research continued in several city zones in 1980; one area was at the foot of Sân Nicoară hill, west of it. The article records two east–west sections there and states that the results did not justify expanding research; the medieval installation recorded was a circular-plan oven. citeturn0search23  
+Use: **primary specialist archaeological publication**. This source is retained as a separate 1980 campaign record and is not merged with the 1979 test sectors.
+
+URL: https://biblioteca-digitala.ro/reviste/cercetari-arheologice/05-cercetari-arheologice-V-1982.pdf
