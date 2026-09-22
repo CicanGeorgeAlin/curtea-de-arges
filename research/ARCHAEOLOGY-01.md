@@ -2487,3 +2487,37 @@ The 1982 plate legend gives **Pl. VII stove discs = 14th century**, while the Pl
 ### Research stage
 
 **Archaeological Stage 1 — OPEN.** The stove-material branch is established. The next task is to reconstruct the individual Pl. VI and Pl. VII forms and then connect them to the 1979 L4 stove evidence without conflating separate contexts.
+
+
+## Stove-material visual control — Pass 82 · 22 September 2026
+
+### Pl. VI now visually controlled
+
+The primary plate image shows four numbered items. The printed caption states: **Pl. VI — Curtea de Argeș, ceramică smălțuită din sec. XVI–XVII (1, 2, 3) și fragment de cahlă (4)**. The visual plate confirms item 4 is a stove-tile fragment with a human-face relief, while 1–3 are glazed ceramic vessel fragments. citeturn0search12
+
+Controlled distinction:
+- VI/1–3 = glazed ceramic, caption group 16th–17th c.
+- VI/4 = cahlă/stove-tile fragment, separate object family.
+- The visible human-face relief is a physical/iconographic observation; no broader identification is added without text support.
+
+### Pl. VII: stove-disc family
+
+The 1982 article's plate legend identifies Pl. VII as **stove discs, 14th century**. The accompanying text describes the discs as glazed or unglazed, wheel-made on a fast wheel, with concentric ribs and a central button. citeturn0search12
+
+The archive therefore records:
+**FORM = DISC**
+**MANUFACTURE = FAST-WHEEL, according to authors**
+**SURFACE = GLAZED OR UNGLAZED**
+**DECORATIVE/RELIEF FEATURE = CONCENTRIC RIBS + CENTRAL BUTTON**
+**CAPTION DATE = 14th c.**
+
+### New contextual bridge — but not identity merging
+
+A later ceramic study describes a disc cahlă from a late-14th/early-15th-century dwelling at Roman and notes that comparable disc cahle were known from Wallachian sites including Curtea de Argeș. This is comparative evidence only; it does not prove that the Roman object is identical to any particular Curtea de Argeș specimen. citeturn0search13
+
+### L4 boundary reaffirmed
+
+The L4 cellar context contains stove tiles, smoke tiles and daub, but the plate corpus does not establish that every Pl. VII disc or Pl. VI/4 fragment came from L4. Context identity remains **not assigned** unless the primary report explicitly connects an illustrated object to a specific complex.
+
+### Next target
+Trace the individual Pl. VII disc items and determine whether the 1982 text gives item-level references, then separately reconcile the 16th–17th-century Pl. VI vessel group with later ceramic typologies. 
