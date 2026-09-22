@@ -2817,3 +2817,34 @@ S224 added; Pass 138 recorded; index.html untouched.
 
 ### Next target
 Continue primary scan recovery for the exact p.138 page, preserving all secondary citations as secondary until direct inspection is possible.
+
+
+## Pass 139 — 22 September 2026
+
+### Target
+Test the remaining pagination issue by comparing the official BCMI catalogue with specialist bibliographies and later page-level citations.
+
+### Result
+The official PROEUROPEANA/BCMI catalogue lists the *Jurnalul săpăturilor din Curtea Domnească a Argeșului* at **pp. 134–152**. citeturn0search1 Several specialist/later bibliographic records instead give **pp. 134–149**. citeturn0search25turn0search8 Another later scholarly citation uses the full 134–152 extent. citeturn0search24
+
+### Control decision
+We do **not** force a single extent. The archive now records:
+- **Official catalogue extent:** 134–152;
+- **Alternate scholarly bibliographic extent:** 134–149.
+
+This is a bibliographic metadata discrepancy. It does not by itself establish whether pp.150–152 are an appendix, continuation, editorial matter, or another indexing convention.
+
+A 2022 archaeological report independently cites Drăghiceanu's journal at **pp.147–148**, confirming page-level use inside the journal. citeturn0search5
+
+### Significance
+This improves source identity control before page-level extraction. We will use the **official catalogue as the primary bibliographic identity**, while preserving 134–149 as an alternate scholarly citation range.
+
+### C44/C81 status
+Unchanged: 4119/C44 stable; C81 4130 vs 10073 unresolved; 2000 unglazed vs 2007 green/light-green glazed unresolved.
+
+### GitHub
+Backup: backup/pass139-pre-research-2026-09-22
+S225 added; Pass 139 recorded; index.html untouched.
+
+### Next target
+Recover actual page images/text for p.138 and, if possible, pp.147–149, then determine the physical/article boundary from the original volume rather than bibliography alone.
