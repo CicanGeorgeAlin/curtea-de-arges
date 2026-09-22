@@ -1584,3 +1584,22 @@ Control: secondary classification only; original 1923 figures remain required fo
 Rădulescu 2016 identifies BCMI 1923 **Fig. 305** as the image of 16 stove-tile fragments, while the Slătineanu evidence separately groups figs. 78–82, 84 and 301 as rectangular relief-decorated plate examples. citeturn0search35turn0search36
 
 No figure-number bridge to I 5882 has been established.
+
+
+## S163 — Pass 95 — 1920 MNAR C44/C81 object corpus
+
+Maria-Venera Rădulescu, “Influențe heraldice pe cahle argeșene – «Leii rampanți-afrontați»”, *Argessis. Studii și comunicări. Seria Istorie* IX (2000), pp. 165–172, records two fragments from the 1920 Curtea de Argeș excavation in the Muzeul Național de Artă al României: 18 × 13.5 cm and 13 × 10 cm. They are glazed and preserve stove-use/technical evidence. The article cites Drăghiceanu 1923, figs. 78–80. citeturn2search20turn4search12
+
+## S164 — Pass 95 — C81 inventory discrepancy
+
+The 2000 Rădulescu text gives MNAR inventory **4119 (C44)** and **4130 (C81)**. A 2007 Rădulescu article gives **4119/C44** and **10073/C81** for the same two 1920 Curtea de Argeș fragments. citeturn3search14turn4search11
+
+Control: do not normalize the second number without institutional catalogue evidence. Stable component = C81; numerical identifier = discrepancy 4130 vs 10073.
+
+## S165 — Pass 95 — Figure bridge
+
+The 2000 study directly links the two 1920 MNAR fragments to Drăghiceanu 1923 figs. 78–80. This is an object-to-figure bridge, but not a direct bridge to I 5882. citeturn2search20
+
+## S166 — Pass 95 — Corpus separation
+
+The 1920 MNAR C44/C81 fragments are distinct from I 5882, the 1968 Argeș County Museum corpus, and the 2024 tournament cahlă. They have different collection identities and object descriptions.
