@@ -2678,3 +2678,31 @@ S219 added; Pass 133 recorded; index.html untouched.
 
 ### Next target
 Use p.138 as the first exact-page target in the primary journal, then expand to nearby pages only when the page image/text is actually recovered.
+
+
+## Pass 134 — 22 September 2026
+
+### Target
+Use the p.138 retrieval anchor to determine what later scholarship actually cites from the primary journal, while maintaining the distinction between direct primary evidence and secondary citation.
+
+### Result
+A 2020 Bătrîna study explicitly cites **Drăghiceanu 1923b, p.138** for his observation that a perforation had been made in the southern wall of the sarcophagus associated with grave 10. The same study treats Drăghiceanu's *Jurnalul* as a primary source for the grave-10 investigation. citeturn0search2
+
+A separate 1935 BCMI article also cites the *Jurnalul*, p.138, in discussion of the buried individual's physical observations. citeturn0search29
+
+### Significance
+We now have partial content control for p.138 from two later scholarly uses. However, the original 1923 page itself has **not** been directly inspected in this pass. The archive therefore records this as:
+**PRIMARY PAGE IDENTIFIED → CONTENT RECOVERED THROUGH SECONDARY CITATIONS → DIRECT PAGE IMAGE NOT YET VERIFIED.**
+
+### Important separation
+This material concerns **grave 10 / the Princely Church**, not the MNAR C44/C81 terracotta fragments. No relationship is inferred.
+
+### C44/C81 status
+Unchanged: 4119/C44 stable; C81 4130 vs 10073 unresolved; 2000 unglazed vs 2007 green/light-green glazed unresolved.
+
+### GitHub
+Backup: backup/pass134-pre-research-2026-09-22
+S220 added; Pass 134 recorded; index.html untouched.
+
+### Next target
+Continue trying to recover the actual 1923 page image/text, while using these independent citations only as controlled retrieval anchors.
