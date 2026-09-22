@@ -1406,3 +1406,83 @@ The controlled chain remains:
 - merchant ownership of L4: remains the 1983 authors’ interpretation, not a demonstrated personal identification. citeturn7search41
 
 **Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+
+## Archaeology / Heritage autopilot — Pass 59 · 22 September 2026 · p.153 RECOVERED
+
+Pass 59 successfully recovered the actual primary text of **p.153** of the 1979 excavation report. The official *Cercetări Arheologice* PDF is now directly readable through the journal's own repository. citeturn2view0turn3view0
+
+### L4 — controlled primary evidence from p.153
+
+The report states that **L4 was the last complex investigated** and that it **cut the remains of L2 and L3**. On the basis of stratigraphic relationships and ceramic material found in its fill, the authors date L4 to the **last decades of the 14th century**. citeturn3view0
+
+The report says that the only surviving element of the complex was the **cellar (pivniță)**. Its fill contained **carbonized remains of the wooden structure**, which the authors interpret as evidence that abandonment/destruction resulted from a **strong fire**. citeturn3view0
+
+The cellar is described as **square, 5.10 m per side**, cut to a depth of **1.60 m**. Oak sill beams measuring approximately **25 cm wide × 20 cm thick** were embedded along the sides, with posts at the corners. The cellar walls were made from longitudinally split fir trunks arranged vertically. citeturn3view0
+
+Fragments of **wattle-and-daub (chirpici)** with concave profiling indicate that the dwelling walls, at least externally, were coated with clay mixed with straw. The space between the excavation cut and cellar walls was filled with compacted clay. citeturn3view0
+
+The entrance to the cellar was through a **gârlici**, an inclined passage continuing from one side and positioned at the **north corner**. The threshold between cellar and gârlici measured **35 cm** wide. citeturn3view0
+
+The cellar floor included an initial layer of unevenly scattered gravel, while the actual floor consisted of **fir planks**, laid northeast–southwest, approximately **10–15 cm wide and 1.5 cm thick**. Two lightly buried oak boards on a northwest–southeast axis were interpreted by the authors as possible bases for intermediate posts supporting the floor/ceiling structure. The authors estimate the cellar surface at approximately **25 m²**. citeturn3view0
+
+### Evidence classification
+
+**DIRECT PRIMARY OBSERVATION / REPORT DESCRIPTION**
+- L4 cuts L2 and L3.
+- L4 chronology: last decades of the 14th century, according to the excavators.
+- Surviving element: cellar.
+- Carbonized wooden structural remains.
+- Strong-fire interpretation attached directly to the excavation report.
+- Square cellar, 5.10 m × 5.10 m.
+- Excavated depth: 1.60 m.
+- Oak sill beams: approximately 25 × 20 cm.
+- Corner posts.
+- Vertically arranged split-fir wall elements.
+- Wattle-and-daub/clay-and-straw wall coating evidence.
+- North-corner gârlici.
+- 35 cm threshold.
+- Gravel and fir-plank flooring.
+- Approximate cellar floor area: 25 m².
+- Ceramic assemblage recovered from the cellar fill.
+
+**AUTHORIAL INTERPRETATION**
+- The fire caused the abandonment/destruction of L4.
+- The two oak boards probably supported intermediate posts.
+- The building belongs to a broader class of cellar-and-timber dwellings associated by the authors with prosperous urban elements.
+
+These levels are kept separate. citeturn3view0
+
+### Important correction to the previous L4 record
+
+The earlier withdrawn Săbăoani evidence must **not** be used here. The architectural details now entered into the Curtea de Argeș record come directly from the **1979 Curtea de Argeș excavation report itself, p.153**, not from the previously misattributed specialist catalogue. citeturn3view0turn0search45
+
+### Cross-check with the 1983 Tournai seal study
+
+The 1983 Bătrîna & Bătrîna study had already identified the Curtea de Argeș object as a Tournai cloth-trade seal and connected the seal discussion with the burned L4. The newly recovered 1979 p.153 independently confirms that L4 was a substantial timber-and-cellar structure destroyed by fire and dated by the excavators to the final decades of the 14th century.
+
+This creates a much stronger evidence chain:
+
+**1979 excavation → L4 → cellar architecture → carbonized timber → strong fire → late-14th-century archaeological dating**
+
+plus
+
+**1979 excavation → L4 → Tournai seal → 1983 numismatic identification/dating**
+
+The two publications should still be kept separate: the archaeological report controls the structure/context, while the 1983 study controls the seal's identification and its heraldic dating. No single date should be imposed on both. citeturn3view0
+
+### Location confidence
+
+The report places L2/L3/L4 at **Str. Castanilor nr. 2** and provides a plan (Fig. 5) and profile (Fig. 6). This is now a controlled site-level location, but the archive should **not** yet convert it into an exact modern GIS point without separately georeferencing the historical parcel/plan. citeturn3view0
+
+### Stage 1 status
+
+**Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+The p.153 L4 gap is now **CLOSED at primary-text level**.
+
+Remaining tasks:
+- extract the continuation of the L4 ceramic assemblage;
+- reconstruct the full Fig. 5 / Fig. 6 spatial relationship;
+- cross-check the 1983 seal article against the recovered architectural context;
+- continue through the other 1979 dwellings and later settlement campaigns.
