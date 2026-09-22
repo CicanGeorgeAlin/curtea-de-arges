@@ -825,3 +825,28 @@ https://cercetari-arheologice.ro/wp-content/uploads/2020/01/ca04-15_Bitrina_Bitr
 
 Official article record:
 https://cercetari-arheologice.ro/articol/ca04_15/
+
+
+## S89 — Pass 61 — L4 stove/tile evidence and 1979 settlement sequence
+
+Primary source: Lia Bătrîna & Adrian Bătrîna, “Cercetări arheologice efectuate în anul 1979 în cuprinsul aşezării Curtea de Argeş, jud. Argeş”, *Cercetări Arheologice*, IV (1981), pp.144–171.
+
+New controlled evidence:
+- **Fig. 14, p.165:** two cahle-oală and one cahlă-disc from the L4 fill; caption assigns the material to the second half of the 14th century.
+- L4 fill also contained smoke flues and daub; the authors use this combination as evidence for a stove.
+- Smoke flues are described as approximately 45–50 cm high and up to 28 cm maximum diameter.
+- The report places the L4 tiled stove in the last decades of the 14th century and compares it with a tiled stove in a timber cellar house at Târgoviște around 1390.
+- The report's wider 1979 sequence records L1, L2, L3 and L4 as successive/overlapping archaeological contexts rather than as isolated monuments.
+
+Control note: Fig.14/3 is the disc stove tile. It is not the Tournai seal. The earlier uncertainty about the figure has been resolved by direct primary-source recovery.
+
+The same source documents:
+- L1: two phases before the enclosure wall, with late-13th/early-14th and first-half-14th-century signals;
+- L2: first decades of 14th century;
+- L3: middle of 14th century;
+- L4: last decades of 14th century.
+
+These dates are retained as excavators' archaeological datings for the sampled contexts, not as a complete chronology of the medieval city.
+
+Official PDF:
+https://cercetari-arheologice.ro/wp-content/uploads/2020/01/ca04-15_Bitrina_Bitrina_Curtea_Arges.pdf
