@@ -976,3 +976,16 @@ Controlled use:
 This is a **comparison lead only**. The citation does not by itself establish that the two plates depict the same physical object.
 
 Source: citeturn2search1
+
+
+## S97 — 2022 *Cronica Cercetărilor Arheologice*, Câmpulung report
+
+The 2022 archaeological chronicle contains the recurring paired bibliography:
+- L. Bătrîna & A. Bătrîna, *Cercetările arheologice de la Curtea de Argeș*, CA V, **Pl. IV/6**.
+- M. V. Rădulescu, *Meșteșug, artă, document. Cahlele din Țara Românească, sec. XIV-XVII*, 2017, **Pl. CXL/1**.
+
+Controlled use: later comparative citation only. The report itself concerns Câmpulung, so the Curtea de Argeș plate is not Câmpulung excavation evidence. Object identity between the two plates is unproven. Source: citeturn0search0
+
+## S98 — 2018 *Cronica Cercetărilor Arheologice* bibliography
+
+The 2018 archaeological chronicle independently repeats the same Curtea de Argeș Pl. IV/6 + Rădulescu 2017 Pl. CXL/1 citation pairing. Controlled use: confirms circulation of the comparison; object identity remains unproven. Source: citeturn0search17
