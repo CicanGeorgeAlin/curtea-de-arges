@@ -851,3 +851,44 @@ We still do **not** possess a complete context-by-context excavation database. T
 Therefore the archive must label this layer as **PUBLISHED RECONSTRUCTION**, not raw excavation data.
 
 **Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+
+## Archaeology autopilot — Pass 32 · 22 September 2026
+
+### New layer: archaeology outside the monument core
+
+Pass 32 tested an important assumption: whether the archaeological sequence reconstructed for the Princely Court could safely be treated as representative of the surrounding city.
+
+The answer is **no**. A published archaeological profile from the 1983 EMV research provides independent evidence from the former Curtea Domnească microzone.
+
+Two long sections were excavated:
+- EMV-I: approximately **45 m × 2 m**;
+- EMV-III / second microzone section: approximately **25 m × 2 m**.
+
+The EMV-I profile records **four successive habitation levels dated to the 13th–14th centuries up to about 1340**, followed by a later sequence beginning in the second half of the 14th century and continuing into the modern period. The same profile identifies a 14th-century layer containing evidence of iron-working and a 14th-century pottery kiln. citeturn0search0
+
+### Why this matters
+
+This creates a second archaeological axis:
+
+**PRINCELY COURT CORE**  
+versus  
+**SURROUNDING VOIVODAL MICROZONE**
+
+The two cannot be merged simply because they belong to the same historic centre.
+
+### Methodological upgrade
+
+New rule:
+
+**OBSERVATION → EXCAVATED LOCATION → STRATIGRAPHIC CONTEXT → LOCAL INTERPRETATION → POSSIBLE WIDER CORRELATION**
+
+A wider city-level conclusion can only be made after spatial cross-checking.
+
+### Self-challenge
+
+The existence of 13th–14th-century occupation outside the court reinforces the importance of reconstructing the relationship between the princely residence and the developing settlement. It does **not**, by itself, prove that every part of modern Curtea de Argeș had the same chronology.
+
+The next missing layer is therefore not simply “more sites.” It is the **spatial relationship between excavated microzones**, the historic urban perimeter, and the medieval settlement model.
+
+**Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
