@@ -2793,3 +2793,27 @@ S223 added; Pass 137 recorded; index.html untouched.
 
 ### Next target
 Continue direct recovery of p.138, with the corrected date interpretation and no inference from secondary footnotes beyond what they explicitly state.
+
+
+## Pass 138 — 22 September 2026
+
+### Target
+Reconfirm the exact identity of the 1923 excavation journal and ensure later scholarship is not conflated with Drăghiceanu's broader 1923 article or Rainer's separate study.
+
+### Result
+The official Biblioteca Digitală/PROEUROPEANA record identifies Drăghiceanu's **Jurnalul săpăturilor din Curtea Domnească a Argeșului** as a distinct BCMI article at **pp. 134–152**. citeturn0search0 A 2022–2023 *SCIVA* article independently labels this source **Drăghiceanu 1923b** and separately identifies **Drăghiceanu 1923a** as *Curtea Domnească din Argeş. Note istorice şi arheologice*, pp. 9–76. citeturn0search13
+
+A 1969 *Argesis* study likewise separates C.D.A., J.S., and Rainer's C.A.O., and notes that the archaeological data were incomplete and that subjective opinions had entered the broader article. citeturn0search14
+
+### Significance
+This is a strong negative-control pass: it confirms that our p.138 retrieval target is the **Jurnalul itself**, not the broader 1923 article and not Rainer's later pages.
+
+### C44/C81 status
+Unchanged: 4119/C44 stable; C81 4130 vs 10073 unresolved; 2000 unglazed vs 2007 green/light-green glazed unresolved.
+
+### GitHub
+Backup: backup/pass138-pre-research-2026-09-22
+S224 added; Pass 138 recorded; index.html untouched.
+
+### Next target
+Continue primary scan recovery for the exact p.138 page, preserving all secondary citations as secondary until direct inspection is possible.
