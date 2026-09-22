@@ -413,3 +413,13 @@ Use: component-level heritage reconciliation. Do not collapse the whole ensemble
 ## S60 — Argeș Territorial Development Strategy 2026
 The current county strategy states that LMI 2015 archaeological monuments are not being fully valorised and notes that around 50% of RAN archaeological sites nationally lack precise location, while some are not represented in LMI. It also identifies conservation-monitoring gaps. This is an institutional planning assessment, not evidence that 50% of Curtea de Argeș sites are unlocated. citeturn0search18
 Use: current heritage-management context and a warning about spatial uncertainty in archaeological data.
+
+## S61 — Current RAN municipality-selection behaviour
+The current RAN interface states that selections can be filtered by multiple criteria and displays paginated results. A current selection page shows 29,000+ national records and confirms Curtea de Argeș entries such as Drujești 13631.02, while separate current records confirm Curtea Domnească 13631.07 and the historic urban site 13631.11. This supports the need for a dedicated municipality-scoped extraction rather than relying on generic search-result pages. citeturn0search7turn0search8
+
+## S62 — Municipal Historical Study: complete LMI table as reconciliation baseline
+The municipal historical study explicitly reproduces a table titled “Lista monumentelor istorice din municipiul Curtea de Argeș” according to the 2015 LMI and provides the historical/architectural commentary used by the planning study. This gives the archive a second municipality-specific heritage baseline alongside the official LMI PDF. citeturn0search33
+
+## S63 — LMI 2015 Curtea Domnească component record
+The 2015 LMI lists Curtea Domnească as AG-II-a-A-13647, dated sec. XIV–XVI, and lists Biserica Sf. Nicolae Domnesc as component AG-II-m-A-13647.01, dated 1351–1370 and explicitly stating that it incorporates foundations of a 13th-century church. citeturn0search0
+Use: LMI component evidence; retain separately from RAN's own chronology and from archaeological interpretation.
