@@ -1988,3 +1988,12 @@ The Biblioteca Digitală/PROEUROPEANA record confirms the 1923 BCMI volume struc
 A 1968 archaeological reassessment explicitly distinguishes the “Jurnalul de săpături” as a source and notes that it contains direct field observations, while also criticizing its lack of sufficient phaseological orientation. citeturn0search15
 
 Research control: claims about excavation observations should preferentially be traced to **Jurnalul**, pp.134–152, rather than automatically to the broader historical/archaeological notes, pp.9–76. This is source-location control, not a claim that the broader article is unreliable.
+
+
+## S217 — Page-range and thematic control for Drăghiceanu's 1923 excavation journal
+
+PROEUROPEANA independently indexes Drăghiceanu's **Jurnalul săpăturilor din Curtea Domnească a Argeșului** at pp. 134–152 and assigns the descriptors “jurnal de săpătură arheologică,” Curtea Domnească, Biserica Domnească, Sân Nicoară, complex de monumente, oseminte, morminte de înhumaţie and vestimentaţie medievală. citeturn0search0turn0search2
+
+The BCU Iași catalogue independently records the work as a 1923 publication by Drăghiceanu. citeturn0search10 A later Rădulescu study cites the journal specifically as pp. 134–150, while citing the broader “Note istorice şi arheologice” separately at pp. 9–76. citeturn0search8
+
+This provides independent page-range and thematic controls for the primary excavation journal. It does not yet recover the page images themselves, and therefore does not establish new object-level claims.
