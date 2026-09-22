@@ -685,3 +685,12 @@ The original 1983 text states that the Curtea de Argeș seal type was suited to 
 The authors then infer a high-value textile purchase by a major Argeș merchant and propose that this merchant was probably the owner of burned L4. This remains an authorial hypothesis, not a named historical identification. citeturn0search35
 
 **Stage 1 remains OPEN.**
+
+
+### Pass 54 · 22 September 2026 · primary-report access limitation
+
+The 1979 excavation PDF was rechecked, but the current web text interface did not expose searchable page-level L4 text. citeturn0search21
+
+No unsupported L4 plan/dimension/stratigraphy claims were added. This pass therefore strengthens the archive's evidence-control record rather than expanding the historical claim set.
+
+**Stage 1 remains OPEN.**
