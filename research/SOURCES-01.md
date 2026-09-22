@@ -2102,3 +2102,12 @@ The Greceanu bibliographic index for BCMI explicitly lists, under Curtea domneas
 The same index separately records R. Gassauer's 1937 *Teracote sucevene*, p.153, for terracottas found at the Princely House. This is a later secondary ceramic study and is kept separate from Drăghiceanu's primary journal pages. citeturn0search24
 
 This strengthens the p.148 anchor without claiming direct inspection of the original page image.
+
+
+## S229 — Independent confirmation of p.148–149 content and Fig.162
+
+A later scholarly study on Curtea Domnească explicitly cites Drăghiceanu's *Jurnalul*, pp. **148–149**, and identifies the relevant section as **“Săpături în incinta Curții Domnești”**. Its footnote also identifies **fig. 162** in the Jurnalul in connection with important Gothic stone rib fragments discovered during the 1920 excavations. citeturn1search16
+
+The Greceanu bibliographic index independently lists pp.148–149 for excavations within the princely-court enclosure and separately lists Gassauer's later 1937 terracotta study. citeturn1search17
+
+This gives a stronger content map for the end of the Jurnal: pp.148–149 are not merely “late pages”; they are the section on excavations within the court enclosure and include figure references used by later scholarship. This remains secondary content control until direct inspection of the original pages/figure is obtained.
