@@ -265,3 +265,20 @@ This gives us a concrete municipality-wide **LMI baseline set**, while the RAN a
 Next control: create a record-by-record reconciliation matrix for LMI 13627–13663 against RAN, archaeological interventions, publications and current status.
 
 Stage remains OPEN — NOT COMPLETE.
+
+## Pass 26 — Current RAN municipality result set captured
+
+The current municipality-filtered RAN result set returns five Curtea de Argeș records:
+- 13631.02 — Drujești
+- 13631.05 — Sân Nicoară
+- 13631.07 — Curtea Domnească
+- 13631.10 — Argeș Monastery
+- 13631.11 — Historic Urban Site. citeturn0search3turn0search5
+
+This is a stronger baseline than the earlier generic search pages.
+
+However, the five-record RAN set is **not equivalent to “all archaeology in the municipality.”** Archaeological interventions, older publications, unregistered discoveries and heritage components can exist outside the current RAN set.
+
+A new reconciliation issue was identified at Argeș Monastery: LMI 13628 contains components not represented as separate components on the current RAN 13631.10 page, including the park and relocated wooden church. citeturn0search4turn0search13
+
+Stage remains OPEN — NOT COMPLETE.
