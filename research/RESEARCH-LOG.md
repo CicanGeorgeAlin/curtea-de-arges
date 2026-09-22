@@ -598,3 +598,14 @@ The 2008 cumulative index independently confirms the 1979 dwelling-4 association
 The archive now preserves the dating formulations separately rather than forcing a false single-year consensus.
 
 **Stage 1 remains OPEN.**
+
+
+### Pass 45 · 22 September 2026 · publication-chain and chronology control
+
+Cross-checking the official journal indexes confirms the sequence: 1979 fieldwork → 1981 publication; 1980 continuation → 1982 publication; dedicated seal study → 1983 publication. citeturn0search0turn0search5
+
+The 1983 abstract explicitly says the seal was found in the 1979 excavations in an urban-type dwelling dated to the end of the 14th/beginning of the 15th century. citeturn0search1
+
+The archive keeps this dwelling chronology separate from the seal's heraldic dating.
+
+**Stage 1 remains OPEN.**
