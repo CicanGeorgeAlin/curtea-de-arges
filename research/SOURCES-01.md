@@ -1911,3 +1911,12 @@ Institutional archive catalogue: “Valorificarea arhivei istorice a Comisiunii 
 Control point: this dossier is now the strongest publicly documented archival route toward reconstructing custody and photographic transfer after the 1920 excavation. The catalogue does **not** identify C44/C81, 4119, 4130 or 10073 by number, so no object-level link is asserted.
 
 URL: https://arhivacomisiuniimonumentelor.ro/?p=95291
+
+
+## S208 — CMI dossier 1394: exact public catalogue inventory of documentary actions
+
+The public dossier catalogue gives a more precise inventory than the earlier summary: it explicitly lists an address concerning payment for photographs signed by Iosif Kessler; correspondence with the Muzeul Național de Antichități and Muzeul de Etnografie și Artă Națională concerning tombstones in the Papassoglu collection said to contain material from Biserica Domnească; correspondence concerning photographs sent by photographer Mihalache Lăzărescu; and an address concerning photographs of the church treasure signed by Muzeul de Artă Națională director Alexandru Tzigara-Samurcaș. The catalogue also records a plan of the Curtea Domnească. citeturn0search0
+
+Control point: these entries establish a documented network of objects, photographs, museum institutions and Curtea Domnească documentation in 1921–1930. They do **not** identify the C44/C81 terracotta pair or its inventory numbers. The archive therefore treats dossier 1394 as a custody/documentation lead, not as proof of C44/C81 identity.
+
+URL: https://arhivacomisiuniimonumentelor.ro/?p=95291
