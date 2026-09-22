@@ -2148,3 +2148,31 @@ S201 added; Pass 115 recorded; index.html untouched.
 
 ### Next target
 Return to the 1923 Drăghiceanu pages 70–71 and recover the actual figure plates/illustrations, while separately tracking every later inventory such as I 5884. The goal is now visual + textual figure-to-object mapping, not broad keyword discovery.
+
+
+## Pass 116 — 22 September 2026
+
+### Target
+Attempt direct recovery of the 1923 Drăghiceanu figure plates and pages 70–71, with particular attention to figs. 80–84 and 301/305.
+
+### Result
+Web indexing did not return a reliable visual copy of the relevant Curtea de Argeș plates. Search results produced unrelated documents containing the same figure numbers, so they were rejected as evidence. This is an important negative-control outcome: figure-number coincidence is not sufficient to establish source identity.
+
+The later Rădulescu 2018 article remains the independent textual cross-reference to Drăghiceanu pp. 70–71, figs. 80, 81, 82, 84, 301 and 305. No new visual attribution is made from the failed plate recovery. 
+
+### Methodological result
+We now explicitly distinguish:
+- **figure citation recovered** = yes;
+- **figure caption/page sequence recovered** = partially;
+- **actual visual plate recovered and inspected** = not yet;
+- **object-to-figure identity** = unresolved.
+
+### C44/C81 status
+No change. 4119/C44 remains stable; C81 4130 vs 10073 remains unresolved; 2000 unglazed vs 2007 green/light-green glazed remains unresolved.
+
+### GitHub
+Backup: backup/pass116-pre-research-2026-09-22
+S202 added; Pass 116 recorded; index.html untouched.
+
+### Next target
+Use the BCU Iași digitized volume record and page-level archival access routes to obtain the actual 1923 pages/plates, rather than relying on search-engine text extraction. Once the images are available, perform visual comparison only after confirming page and figure identity.
