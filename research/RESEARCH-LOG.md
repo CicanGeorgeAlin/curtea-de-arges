@@ -1943,3 +1943,28 @@ S189–S190 added; Pass 107 recorded; archive status page updated; index.html un
 
 ### Next target
 Search older MNAR catalogues, Romanian national cultural-property databases and digitized museum publications for **4119, 4130, 10073, C44 and C81** as separate search keys. The strongest possible resolution remains a museum register, accession card, inventory ledger or conservation record.
+
+
+## Pass 108 — 22 September 2026
+
+### Target
+Test the museum-database route and strengthen the archive's provenance-confidence rules with later Curtea de Argeș tile publications.
+
+### Museum-database route
+The Institutul Național al Patrimoniului's national classified-mobile-heritage database is publicly searchable and provides object-level fields such as holder, discovery place, material/technique and accession number. Current searches did not return a matching public record for the exact MNAR identifiers 4119/C44, 4130/C81 or 10073/C81. This is a **negative search result**, not proof that the objects are absent from the database. citeturn0search0turn0search1
+
+### New provenance-control source
+A later Rădulescu study describes a separate fragmentary cahlă from Curtea de Argeș and explicitly says that the year, exact place of discovery and stratigraphy are unknown; its proposed dating is based only on iconographic details. citeturn1search4
+
+### Methodological significance
+This provides an independent example supporting the archive's provenance-confidence rule: a Curtea de Argeș attribution does not automatically establish an excavation context. For C44/C81, the 1920 provenance remains much stronger because the 2000/2007 publications explicitly connect the MNAR fragments to the 1920 excavation. The later separate tile is not merged with them.
+
+### Status
+C44/C81 contradiction unchanged. Museum-database search route remains open. No object identity is inferred from the negative search result.
+
+### GitHub
+Backup: backup/pass108-pre-research-2026-09-22
+S191 added; Pass 108 recorded; archive status page updated; index.html untouched.
+
+### Next target
+Continue through national heritage databases and older museum publications, using each identifier independently, while maintaining strict separation of all other Curtea de Argeș tile fragments.
