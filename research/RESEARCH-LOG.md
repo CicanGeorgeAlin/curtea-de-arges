@@ -640,3 +640,12 @@ A specialist archaeological catalogue independently confirms L4 as a semi-sunken
 A separate 2010 Curtea de Argeș synthesis describes the merchant-house type and the Tournai seal in calcined ruins, but the archive keeps this broader synthesis separate from the exact L4 identification until the original plan/context is directly controlled. citeturn0search25
 
 **Stage 1 remains OPEN.**
+
+
+### Pass 49 · 22 September 2026 · urban sampling strategy
+
+The original 1979 report's opening methodology confirms that excavation sections were deliberately placed in vacant plots aligned with streets, under the hypothesis that portions of the modern street grid preserved the medieval one. Four dwellings were identified in the campaign, two completely and two partially. citeturn0search24
+
+This is now recorded as contextual methodology for L4. A 1992 synthesis independently uses the 1979 publication in discussing the development of medieval urban housing at Curtea de Argeș. citeturn0search28
+
+**Stage 1 remains OPEN.**
