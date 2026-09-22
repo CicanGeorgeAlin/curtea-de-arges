@@ -2738,3 +2738,34 @@ Rădulescu dates the fragments by stylistic interpretation because archaeologica
 
 ### New source-chain insight
 The 2016 paper therefore provides a bridge from **1920–1922 excavation material → surviving museum collection object group I 5882 → modern specialist study**. This is stronger than a simple “found at Curtea de Argeș” statement, while still preserving the missing-context warning.
+
+
+## Pass 90 — I 5882 object-level stabilization
+
+The direct 2016 article text now confirms that the surviving Curtea de Argeș stove-tile fragments are held in the Institutul de Arheologie „Vasile Pârvan” collection under **inventory I 5882**. It also gives the three measured fragments and explicitly states that they derive from **two or three rectangular plate-tile examples**. citeturn0search38
+
+### Stabilized object record
+- Collection/inventory: **I 5882** — explicit.
+- Material: ceramic; unglazed fragments.
+- Fragment A: 8.6 × 6.8 cm.
+- Fragment B: 12.7 × 9.4 cm.
+- Fragment C: 16 × 7.8 cm.
+- Reconstructed plate estimate: approx. 22 × 17 cm.
+- Reverse mounting frame (*rumpa*): approx. 2 cm wide.
+- Paste: clay mixed with fine sand.
+- Firing: oxidizing, incomplete, according to Rădulescu 2016.
+- Decoration: impressed with a wooden mould.
+- Composition: dancers + bagpiper, framed by a saw-tooth border; cross in background.
+
+### Important correction to object terminology
+The three surviving fragments are not three securely identified complete tiles. The source says they come from **two or possibly three** plate-tile examples. Therefore the archive should represent them as **three fragments / probable two-or-three parent objects**, not as three certain tiles. citeturn0search38
+
+### Provenance status
+Collection identity: EXPLICIT.
+Campaign/site association: EXPLICIT in the 2016 specialist study.
+Exact excavation location: NOT ESTABLISHED.
+Stratigraphic context: NOT ESTABLISHED.
+Fragment-to-findspot mapping: NOT ESTABLISHED.
+
+### Research consequence
+The next high-value target is not another general stove-tile typology paper. It is the **accession/provenance history of I 5882**: later catalogues, excavation inventories, museum records, or publications that may preserve information lost from the 2016 article.
