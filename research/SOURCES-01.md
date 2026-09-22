@@ -2064,3 +2064,12 @@ The official Biblioteca Digitală/PROEUROPEANA record continues to identify Dră
 A 1969 *Argesis* study explicitly separates the abbreviations C.D.A. (the broader article), J.S. (the *Jurnalul*), and C.A.O. (Rainer's anthropological study), and warns that the archaeological data were incomplete and that subjective opinions had entered the broader historical article. citeturn0search14
 
 This strengthens the source architecture but does not recover p.138 itself. The page-138 claims remain secondary citations until the original scan is directly inspected.
+
+
+## S225 — Direct bibliographic contradiction resolved at article-extent level: 134–152 catalogue vs 134–149 scholarly citation
+
+The official PROEUROPEANA/BCMI index lists Drăghiceanu's *Jurnalul săpăturilor din Curtea Domnească a Argeșului* as pp. **134–152**. citeturn0search1 However, a specialist bibliography gives the same work as pp. **134–149**, while another later bibliography gives 134–152. citeturn0search25turn0search24 The IntechOpen study based on CMI archive research likewise cites the journal as **134–149**. citeturn0search8
+
+This is now recorded as a genuine bibliographic extent discrepancy, not resolved by assuming that pp.150–152 are part of the journal. The official index is the current primary catalogue control for the 134–152 extent; secondary bibliographies reporting 134–149 are retained as alternate citation metadata.
+
+A 2022 archaeological report cites the journal at pp.147–148 for Sân Nicoară documentation and p.148 separately, confirming page-level use within the work. citeturn0search5
