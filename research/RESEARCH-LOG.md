@@ -971,3 +971,31 @@ Current identity status:
 **Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
 
 Next: recover the actual 1982 plate scan/caption, then return to the non-stove ceramic sequence.
+
+
+## Pass 67 — 22 September 2026
+
+### Objective
+Recover the actual 1982 **Pl. IV/6** image and caption and replace the earlier generic “plate recovery pending” status with controlled object identification.
+
+### Verified
+- The official *Cercetări Arheologice* PDF for Bătrîna & Bătrîna, *Cercetările arheologice de la Curtea de Argeș*, CA V (1982), pp. 95–107, is now directly accessible. The journal page confirms the article and page range. citeturn4search0turn4search25
+- The article's plate legend identifies **Pl. IV** as Curtea de Argeș glazed ceramics from the 14th century; items 1, 2, 3 and 5 are glazed ceramics and item 4 is a glass vessel. citeturn5view0
+- The actual plate image contains a numbered **item 6**, a glazed ceramic vessel with a spiral decoration. citeturn9view0
+- Therefore **Pl. IV/6 is a glazed ceramic vessel, not a stove tile**.
+- The 2018 Câmpulung report describes spiral-decorated glazed plates and cites Curtea de Argeș Pl. IV/6 as a comparative published example. citeturn10view0
+- The same later bibliography cites Rădulescu 2017 Pl. CXL/1, but the full 2017 plate image remains unrecovered in this pass. citeturn10view0turn13view0
+
+### Control decision
+The previous Pass 66 statement that Pl. IV/6 still needed to be identified is now superseded.
+
+Current status:
+**CURTEA Pl. IV/6 = IDENTIFIED AS A GLAZED CERAMIC VESSEL WITH SPIRAL DECORATION.**
+
+Comparison status:
+**CURTEA Pl. IV/6 ↔ RĂDULESCU 2017 Pl. CXL/1 = OBJECT IDENTITY UNPROVEN.**
+
+### Stage
+**Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+Next: recover the full 2017 Pl. CXL/1 image/context, then move into the wider non-stove ceramic sequence.
