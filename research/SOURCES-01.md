@@ -1861,3 +1861,10 @@ Object: a fragmentary, rectangular **unglazed** plate tile depicting Mircea the 
 Control point: I 5884 is a distinct object from the MNAR C44/C81 pair and from the previously isolated I 5882 group. The 2018 citation demonstrates that Drăghiceanu's figure range 80/81/82/84/301/305 was used in later literature as a broader reference set for Curtea de Argeș terracottas. It does **not** prove that any one of those figures is I 5884, C44, or C81. Object identity remains controlled by explicit evidence.
 
 URL: https://biblioteca-digitala.ro/reviste/Argesis/Argesis-27-Studii-si-comunicari-Muzeul-Judetean-Arges-2018_056.pdf
+
+
+## S202 — Drăghiceanu 1923 figure-range cross-reference: later independent citation
+
+A later Rădulescu study on the I 5884 Curtea de Argeș plate tile cites Drăghiceanu, *Jurnalul săpăturilor*, pp. 70–71, figs. 80, 81, 82, 84, 301 and 305. This is independent later confirmation of the figure/page references, but it does not identify the individual figures with C44/C81. The direct visual plates remain the required next evidence tier.
+
+Control point: web indexing in this pass did not produce a reliable visual rendering of the relevant 1923 plates. Therefore no new visual claim is entered for figs. 80–84 or 301/305.
