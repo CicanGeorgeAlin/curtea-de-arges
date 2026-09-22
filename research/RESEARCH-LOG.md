@@ -462,3 +462,10 @@ Still required:
 - broader search for later publications reusing the 1979 domestic evidence.
 
 **Decision: Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+
+### Pass 35 addendum — find-level evidence
+
+A specialist numismatic index was cross-checked and revealed that **dwelling 4**, excavated in Curtea de Argeș in 1979, produced a **double lead seal** bearing a fleur-de-lis emblem and the legend “+ DE TOURNAI”. The index directs the reader to the detailed publication in *Cercetări Numismatice* V. citeturn11search23
+
+Methodological consequence: the 1979 campaign must eventually be reconstructed at **structure → find** level, not only as a settlement-chronology exercise. Attribution and interpretation of the seal remain open until the dedicated publication is inspected.
