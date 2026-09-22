@@ -1552,3 +1552,22 @@ Searches using exact fragment dimensions (8.6 × 6.8 cm; 12.7 × 9.4 cm; 16 × 7
 The string “I 5882” occurs in unrelated institutional catalogues, so the number alone cannot identify the Curtea de Argeș object. Institution + object + context matching is required. citeturn1search38
 
 Control: no claim of absence of earlier records; only no independently indexed match verified in this pass.
+
+
+## S158 — Pass 93 — 1994 figure-level bridge
+
+Daniela Marcu & Emil Lupu, 1994, stove-tile study in *Mousaios* IV/1, cites **Curtea de Argeș (Drăghiceanu 1923, figs. 78–79)** as a comparison for similar stove-tile fragments. citeturn4search16turn7search12
+
+Control: this is a bibliographic/figure bridge only. It does not identify I 5882 or establish that figs. 78–79 depict the 2016 wedding/dance fragments.
+
+## S159 — Pass 93 — Drăghiceanu figure separation
+
+Rădulescu 2016 footnote 8 cites Drăghiceanu 1923a figs. 78, 81, 82 in connection with errors in iconographic/chronological commentary, while footnote 7 identifies BCMI 1923 Fig. 305 as the photographic plate of 16 stove-tile fragments. citeturn1view0
+
+Control: 1923a figs. 78–82 and 1923 Fig. 305 are separate source-image groups until direct plate-level inspection proves a relationship.
+
+## S160 — Pass 93 — 1968 stove corpus separation
+
+Rădulescu 2016 records three glazed *cahle-oală* found during 1968 research at Curtea Domnească, dimensions 29.6×29.6 cm, 26.5×26.5 cm and 22×22 cm; she gives Argeș County Museum inventory 1614, F.1615. citeturn2view0
+
+Control: separate from I 5882 and from the 1920–1922 wedding/dance fragments.
