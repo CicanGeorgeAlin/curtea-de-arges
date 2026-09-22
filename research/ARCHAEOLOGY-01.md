@@ -1324,3 +1324,12 @@ They then infer that the bale would have been high-value and therefore likely ac
 This chain must not be presented publicly as a proven biography.
 
 **Stage 1 remains OPEN.**
+
+
+## Pass 54 — 22 September 2026 — primary-report access limitation
+
+A direct attempt to search the original 1979 excavation PDF for L4 did not return usable page-level text through the current web interface. citeturn0search21
+
+**Self-control:** no new measurements, plan orientation, stratigraphy or exact find position are inferred. The 1983 seal publication remains the controlled primary source for the seal's association, while later specialist synthesis remains secondary corroboration for L4's semi-sunken/gârlici typology and first-half-15th-century dating. citeturn0search0turn0search23
+
+**Stage 1 remains OPEN.**
