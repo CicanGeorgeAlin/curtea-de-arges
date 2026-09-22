@@ -2046,3 +2046,26 @@ S195 and S196 added; Pass 111 recorded; index.html untouched.
 
 ### Next target
 Recover the 2002 thesis itself if possible, then pursue its cited museum/catalogue references. In parallel, continue the CMI dossier 1394 route and older MNAR documentation.
+
+
+## Pass 112 — 22 September 2026
+
+### Target
+Recover the 2016/2017 Rădulescu synthesis *Meșteșug, Artă, Document* and test it directly for the C44/C81 identifiers.
+
+### Result
+A publicly indexed PDF/preview of the 430-page work was located. Its contents show that it is a major synthesis/catalogue with dedicated sections for the history of research, materials and techniques, typology/chronology, ornament, stove reconstructions, a selected catalogue, bibliography, topographic index and plates. citeturn1search13turn1search1
+
+The accessible indexed preview is only a small portion of the complete 430-page book. Searches in that accessible text did not expose 4119, 4130, 10073, C44 or C81. This is therefore **not evidence of absence from the complete book**; it is only a limitation of the recovered searchable preview.
+
+The book's existence and structure make it a higher-value lead than the 2002 thesis alone, but the exact C44/C81 pages still need to be recovered from the complete publication or another scan/catalogue.
+
+### C44/C81 status
+Unchanged. No new evidence resolves 4130 vs 10073 or unglazed vs green/light-green glazed.
+
+### GitHub
+Backup: backup/pass112-pre-research-2026-09-22
+S197 added; Pass 112 recorded; index.html untouched.
+
+### Next target
+Target the complete 2016/2017 book through institutional-library records, alternate scans and cited plate/catalogue references, especially the Curtea Domnească entries and any MNAR inventory listings.
