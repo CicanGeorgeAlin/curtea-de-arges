@@ -461,3 +461,20 @@ The Municipal Museum states that excavation of the foundations of the 14th-centu
 
 ## S74 — Constantinescu 1984 scope control
 The official bibliographic record for Constantinescu's 1984 monograph explicitly states that its subject is the archaeological research carried out in 1967–1973 and that “Curtea de Argeș” in the study refers specifically to the voivodal core within the modern city, not the whole modern municipality. citeturn0search4
+
+
+## S75 — SCIVA archaeological campaign report, Curtea de Argeș, 1968 continuation
+
+Publication: *Studii și Cercetări de Istorie Veche și Arheologie* (SCIVA), vol. 20, no. 3, archaeological campaign reports, entry for Curtea de Argeș.  
+Coverage: continuation of research on the former Princely Court in 1968, including stratigraphic observations and archaeological material, explicitly including coins. The report states that the south-side princely house belongs to the first half of the 14th century, dated by coins of Bulgarian Tsar Ivan Alexander (1331–1355) and Hungarian king Charles Robert of Anjou (1338); it places the first enclosure after a 13th-century Byzantine-coin-dated occupation level, including a coin of Andronikos II Palaiologos dated 1295–1320; it also identifies the north-side residence as an early-16th-century construction associated with Neagoe Basarab.  
+Use: **primary archaeological campaign-report evidence** for the 1968 season; individual interpretations remain attributed to the report.  
+URL: https://biblioteca-digitala.ro/reviste/sciva/dl.asp?filename=SCIVA_20_3.pdf
+
+## S76 — Gheorghe I. Cantacuzino, “Sondaje arheologice la ctitoria lui Neagoe Basarab din Curtea de Argeș” (1980)
+
+Author: Gheorghe I. Cantacuzino.  
+Publication: *Argesis — Studii și Comunicări*, V, 1980, pp. 239–244.  
+Research date: September 1965.  
+Coverage: two limited archaeological sections beside the Argeș Monastery church, undertaken in connection with consolidation works to the terrace. The published report records removal/disturbance of superficial layers during the 19th-century restoration and documents the stratigraphy observed in the two sections.  
+Use: **primary archaeological survey report** for the 1965 intervention; scope is limited to the two sections and must not be generalized to the entire monastery ensemble.  
+URL: https://biblioteca-digitala.ro/reviste/Argesis/Argesis-05-Studii-si-comunicari-Muzeul-Judetean-Arges-1980_241.pdf
