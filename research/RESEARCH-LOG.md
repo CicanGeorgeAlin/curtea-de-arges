@@ -503,3 +503,27 @@ The archive now separates the find from the later interpretation: the seal is a 
 - exact relationship between 1979 sectors, 1980 tests and EMV: **OPEN**.
 
 **Decision: Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+
+## Archaeology / Heritage autopilot — Pass 38 · 22 September 2026
+
+Pass 38 recovered a stronger primary-source description for the unusual 1979 Curtea de Argeș trade seal. The National Museum of Romanian History's *Cercetări Numismatice* record and the Digital Library of Romania both identify the dedicated Bătrîna & Bătrîna article in volume V (1983), pp. 197–211. citeturn0search0turn0search1
+
+The accessible abstract adds controlled detail: the seal was found in a 1979 archaeological excavation, in an urban-type dwelling dated by the article to the end of the 14th/beginning of the 15th century; it is identified as a cloth trade seal from Tournai; and the heraldic signs are said to date it after 1426. The authors interpret the object as evidence of economic relations between Wallachia and major western European textile centres in the first half of the 15th century. citeturn0search0
+
+### Self-correction
+
+The archive will **not** collapse these statements into a single date. The dwelling's archaeological dating and the seal's post-1426 dating are now separate evidence fields. The difference is potentially meaningful and must be investigated through the full article and original excavation context.
+
+The source register has been upgraded from “article identified” to **abstract-level extracted evidence**, while the full article remains **UNEXTRACTED**.
+
+### Gap analysis after Pass 38
+
+- 1983 seal article bibliographic control: **YES**
+- 1983 seal article abstract-level extraction: **YES**
+- full article text / dimensions / heraldic details / exact layer: **OPEN**
+- 1979 original excavation plan: **OPEN**
+- dwelling-by-dwelling spatial reconstruction: **OPEN**
+- exact relationship between 1979 sectors, 1980 tests and EMV: **OPEN**
+
+**Decision: Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
