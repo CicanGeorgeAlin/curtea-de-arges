@@ -569,3 +569,12 @@ The earlier Pass 40 assumption that this figure was a direct lead to dwelling 4 
 The Tournai seal's association with a 1979 urban-type dwelling remains supported by the 1983 specialist article, but its exact spatial relationship to the figure-14 material is **not established**. citeturn0search0
 
 **Stage 1 remains OPEN.**
+
+
+### Pass 42 · 22 September 2026 · direct primary-text extraction
+
+The original 1983 trade-seal article yielded a stronger dating argument than its abstract alone: the authors connect the fleur-de-lis to Tournai's heraldic/sphragistic changes of 1426, date the Curtea de Argeș seal after 1426, and suggest an initial matrix series immediately after 1426, possibly in 1426. citeturn0search35
+
+They also hypothesize that the opposing shield may be a corporate emblem of Tournai weavers/cloth-makers. This is recorded as hypothesis, not fact. citeturn0search35
+
+**Stage 1 remains OPEN.**
