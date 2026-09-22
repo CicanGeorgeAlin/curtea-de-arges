@@ -1565,3 +1565,27 @@ index.html untouched.
 
 ### Next target
 Systematically inspect the 2016 bibliography for all Curtea de Argeș stove-tile references and trace each backward, rather than continuing broad inventory-number searches.
+
+
+## Pass 93 — 22 September 2026
+
+**Target:** trace the 2016 bibliography backward through specific stove-tile figures.
+
+### New independent lead
+A 1994 Marcu & Lupu stove-tile study explicitly cites **Drăghiceanu 1923, figs. 78–79** for similar fragments at Curtea de Argeș. citeturn4search16turn7search12
+
+This is a useful figure-level bibliographic bridge, but it is not an I 5882 identification.
+
+### Figure separation
+2016 footnote 8 cites Drăghiceanu figs. 78, 81, 82 for problematic iconographic/chronological commentary; 2016 footnote 7 identifies BCMI Fig. 305 as the photograph of 16 fragments. These figure groups remain separate pending direct visual control of the 1923 scan. citeturn1view0
+
+### Separate 1968 corpus
+Three glazed *cahle-oală* from the 1968 excavations are recorded with Argeș County Museum inventory 1614, F.1615. They are separate from I 5882. citeturn2view0
+
+### GitHub
+Backup: backup/pass93-pre-research-2026-09-22
+Updated archaeology, research log, sources.
+index.html untouched.
+
+### Next target
+Directly inspect Drăghiceanu 1923a pp. 70–71 and figures 78–82, and Fig. 305 in the 1923 journal, then map which later publications are referring to which original images.
