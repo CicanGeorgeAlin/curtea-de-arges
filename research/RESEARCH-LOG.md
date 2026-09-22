@@ -707,3 +707,12 @@ The controlled evidence remains the 1983 primary seal study, which explicitly id
 This correction is intentionally preserved in the research history rather than silently deleting the earlier mistake.
 
 **Stage 1 remains OPEN.**
+
+
+### Pass 56 · 22 September 2026 · page-level retrieval upgrade
+
+The 1983 seal article's notes identify **1979 report p.144 and p.153** as direct references in the L4 discussion. citeturn0search35
+
+The archive therefore promotes p.153 to the primary retrieval target for L4 context. The older p.166/fig.14 trail remains a comparative stove-tile lead and is not treated as an L4 plan reference. citeturn0search36
+
+**Stage 1 remains OPEN.**
