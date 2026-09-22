@@ -694,3 +694,16 @@ The 1979 excavation PDF was rechecked, but the current web text interface did no
 No unsupported L4 plan/dimension/stratigraphy claims were added. This pass therefore strengthens the archive's evidence-control record rather than expanding the historical claim set.
 
 **Stage 1 remains OPEN.**
+
+
+### Pass 55 · 22 September 2026 · critical self-correction
+
+A source audit discovered that the supposed independent confirmation of Curtea de Argeș L4 in Passes 47–48 was actually a passage about **Săbăoani L4**. The Curtea de Argeș material appears only in its bibliography/footnote as comparative stove-tile evidence. citeturn1search22
+
+The archive therefore withdraws the earlier secondary claim that this catalogue independently described Curtea L4 as semi-sunken/gârlici and dated it to the first half of the 15th century.
+
+The controlled evidence remains the 1983 primary seal study, which explicitly identifies the burned L4 at Curtea de Argeș. citeturn1search21
+
+This correction is intentionally preserved in the research history rather than silently deleting the earlier mistake.
+
+**Stage 1 remains OPEN.**
