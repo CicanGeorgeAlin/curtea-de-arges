@@ -2880,3 +2880,24 @@ We now have at least three distinct medieval stove-tile object corpora associate
 2. **1920–1922 I 5882 group** — unglazed wedding/dance fragments; exact findspot unresolved.
 3. **1968 Argeș County Museum 1614/F.1615 group** — three glazed *cahle-oală*.
 A fourth, separate 2024 tournament cahlă remains provenance-unknown.
+
+
+## Pass 96 — MNAR C81 discrepancy narrowed; 2007 is the later control
+
+The 2007 Rădulescu article independently gives the MNAR collection identifiers for the two 1920 Curtea de Argeș fragments as **4119/C44** and **10073/C81**. It explicitly states that the two fragments were recovered during the 1920 excavations led by Virgiliu Drăghiceanu and gives their dimensions as 18 × 13.5 cm and 13 × 10 cm. It also cites Drăghiceanu 1923, figs. 78–80. citeturn6search2
+
+### Inventory discrepancy status
+The 2000 article was previously indexed in OCR with **4119/C44 and 4130/C81**; the 2007 article gives **4119/C44 and 10073/C81**. Because the later 2007 publication repeats the object description and explicitly lists 10073/C81, the archive now records:
+- C44: numerical identifier **4119**, stable across 2000 and 2007.
+- C81: **4130 (2000 OCR/text) vs 10073 (2007)** — unresolved numerical discrepancy.
+
+We still do not silently replace 4130 with 10073. The later 2007 value is stronger chronological control, but without an institutional catalogue it is not a formal resolution.
+
+### Object description stabilized
+The 2007 text confirms the two fragments are glazed, one light fresh green and one light green, and preserves the same dimensions. The article's figure list identifies **Fig. 4** as Curtea de Argeș terracottas with griffin decoration, but the two MNAR pieces are cited in footnote 13 separately; no claim is made that Fig. 4 depicts the MNAR C44/C81 pair. citeturn4search1
+
+### No catalogue resolution found
+A targeted search for the exact collection phrase plus 4119, 10073, C44 and C81 did not locate an independent MNAR catalogue entry. Therefore the archive retains the discrepancy rather than normalizing it.
+
+### Figure-chain status
+**1920 excavation → MNAR C44/C81 → Drăghiceanu figs. 78–80** is now independently repeated in 2007. This is a strong object-to-figure bridge, but exact excavation sub-location remains unknown.
