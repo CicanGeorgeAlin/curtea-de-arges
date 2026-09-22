@@ -1254,3 +1254,21 @@ index.html untouched.
 
 ### Next target
 Complete Pl. V visual/textual reconciliation, then return to unresolved Pl. IV/6 and the anomalous “Pl. I/5” reference.
+
+
+## Pass 78 — 22 September 2026
+
+**Target:** resolve apparent contradictions between the 1982 ceramic text and printed plate legends.
+
+### Newly established
+1. “Pl. I/5” is a real textual reference in the primary article, but Pl. I visibly contains only four numbered objects. It is therefore an anomalous cross-reference, not a fifth object.
+2. The text identifies the small pahar at **Pl. IV/1**, while the printed plate legend identifies the pahar as **Pl. IV/4** and the visual plate shows item 4 as the cup. The archive preserves this as an internal publication conflict.
+3. The stove discussion creates another numbering ambiguity involving Pl. V/1 and the mounted-rider example; this remains unresolved.
+
+### GitHub
+Backup: backup/pass78-pre-research-2026-09-22
+Updated: archaeology, research log, sources.
+index.html untouched.
+
+### Next target
+Resolve Pl. IV/6 and the Pl. V/1 mounted-rider/leopard conflict by checking the full plate pages and surrounding captions/legends before entering any additional object identity.
