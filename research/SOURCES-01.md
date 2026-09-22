@@ -778,3 +778,29 @@ Use: primary-source bibliographic control and direct retrieval route. The curren
 
 Article page: https://cercetari-arheologice.ro/articol/ca04_15/  
 Direct PDF: https://cercetari-arheologice.ro/wp-content/uploads/2020/01/ca04-15_Bitrina_Bitrina_Curtea_Arges.pdf
+
+
+## S87 — Bătrîna & Bătrîna 1981, p.153 — primary L4 evidence recovered
+
+Authors: Lia Bătrîna; Adrian Bătrîna.  
+Publication: “Cercetări arheologice efectuate în anul 1979 în cuprinsul aşezării Curtea de Argeş, jud. Argeş”, *Cercetări Arheologice*, IV, 1981, pp. 144–171.  
+Primary page recovered: **p.153**.
+
+Controlled evidence from p.153:
+- L4 cuts L2 and L3.
+- Excavators date L4 to the last decades of the 14th century from stratigraphic relationships and ceramic material.
+- Only the cellar survived.
+- Carbonized remains of wooden structure occur in the cellar fill; the report attributes the abandonment to a strong fire.
+- Square cellar, 5.10 m per side; excavation depth 1.60 m.
+- Oak sill beams approximately 25 × 20 cm and corner posts.
+- Vertically arranged split-fir wall elements.
+- Wattle-and-daub/clay-and-straw evidence.
+- North-corner gârlici with a 35 cm threshold.
+- Fir-plank floor and possible intermediate supports.
+- Approximate cellar floor area: 25 m².
+- The L2/L3/L4 complex is associated in the report with Str. Castanilor nr. 2.
+
+Use: **primary archaeological evidence** for L4 architecture, stratigraphic relationship and contextual dating. Exact GIS coordinates are not established by this page alone.
+
+Primary PDF: https://cercetari-arheologice.ro/wp-content/uploads/2020/01/ca04-15_Bitrina_Bitrina_Curtea_Arges.pdf
+Article record: https://cercetari-arheologice.ro/articol/ca04_15/
