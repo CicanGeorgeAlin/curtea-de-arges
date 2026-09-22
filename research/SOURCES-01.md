@@ -2152,3 +2152,12 @@ A 1994 *Studii și Cercetări de Istoria Artei* article independently identifies
 This independently reproduces the same page/figure/material/campaign linkage already controlled through the Greceanu index and later archaeological literature. The source also attributes a later comparison of the profiles to Pavel Chihaia; that later interpretation is kept separate from Drăghiceanu's discovery record.
 
 Control status: **Fig.162 = secondary-confirmed provenance; original image/text still not directly inspected.**
+
+
+## S234 — Direct bibliographic control of Fig.162's material identity
+
+The Greceanu bibliographic index separately identifies Drăghiceanu's *Jurnalul săpăturilor* entry with figures 135–140, 150–155, **162**, and 165, and places **pp.148–149** under “săpături în incinta curții domnești” (excavations within the princely-court enclosure). citeturn0search26turn0search27 A 1994 specialist article independently cites the same primary reference, **pp.148–149, fig.162**, in connection with the Gothic stone-rib fragments from the 1920 excavations. citeturn0search25
+
+This gives a controlled bibliographic identity for Fig.162 without claiming direct inspection of the original plate. The 1994 source also cites later architectural interpretation separately; that interpretation is not folded into the primary discovery record.
+
+**Status:** Fig.162 = secondary-confirmed provenance/material; direct primary image/text recovery still open.
