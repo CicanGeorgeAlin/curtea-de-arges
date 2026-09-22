@@ -701,3 +701,12 @@ A fresh check of the 1979 and 1982 excavation publications confirms their separa
 The 1999–2001 specialist catalogue cites Bătrîna & Bătrîna 1981, p.166 fig.14/3 and the 1982 report p.103 pl.VII in its bibliography. This confirms the references are real but does not, by itself, establish that either figure is the Tournai seal or L4 plan. citeturn0search26
 
 The archive therefore preserves the Pass 41 correction: figure 14 remains a **stove/heating evidence lead**, not a direct seal-context plan.
+
+
+## S99 — Pass 52: primary report re-opened; L1 controlled, L4 still requires exact page extraction
+
+The original 1979 report is directly accessible again and confirms the settlement-wide scope: the team intentionally tested vacant plots aligned to streets and identified four dwellings. The report immediately gives a detailed description of L1, including two phases before the c.1340 enclosure wall. citeturn0search19
+
+This provides a useful methodological warning: the 1979 report contains **dwelling-by-dwelling archaeological descriptions**, so L4 should not be reconstructed from later catalogues when its original pages can be recovered. The current search result exposes the opening L1 section but not yet the L4 pages. No L4 dimensions are therefore added in this pass.
+
+The archive records the direct PDF as the controlling primary source for the next extraction pass.
