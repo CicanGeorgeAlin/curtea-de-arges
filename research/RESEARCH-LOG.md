@@ -108,3 +108,10 @@ The archaeological foundation remains **OPEN — NOT COMPLETE**. The current evi
 The project is no longer only accumulating sources. Each new pass must also test whether the **research architecture itself** is becoming more accurate. When a better distinction, source-control rule or record structure is discovered, it becomes part of the methodology and is then applied to subsequent research.
 
 Next priority: continue archaeological inventory reconciliation and campaign/publication reconstruction before expanding into the next historical layer.
+
+
+## Self-correction discovered during Pass 15
+
+A targeted search uncovered a previously unresolved RAN-code lead for **Biserica Olari**: secondary-source material identifies the site as **RAN 13631.09**. The official RAN record was not independently retrieved in the same pass, so the project did not promote the code to verified status. The inventory now records it as a candidate pending official verification. citeturn5search0
+
+This is an intentional autopilot behavior: when new evidence changes an earlier conclusion, the archive updates the earlier state rather than protecting an outdated assumption.
