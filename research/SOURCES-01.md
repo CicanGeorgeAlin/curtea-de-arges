@@ -1443,3 +1443,16 @@ Primary source: Bătrîna & Bătrîna, *Cercetările arheologice de la Curtea de
 Controlled facts: Pl. VII = stove discs, 14th century; discs may be glazed or unglazed; fast-wheel made; concentric ribs; central button.
 
 No individual Pl. VII item receives a specific excavation context unless a source explicitly provides it.
+
+
+## S138 — Pass 84 — Rădulescu 2013 specialist control of disc cahle
+
+Maria-Venera Rădulescu, “Cahle pentru coronamentul sobelor medievale din Țara Românească (secolele XIV–XVII),” *Cercetări Arheologice* 20 (2013), pp. 175–195. Official journal page confirms title, author, volume/pages, DOI and bibliography including the Curtea de Argeș 1981 and 1982 reports. citeturn2view1
+
+The searchable article text states that the earliest disc tiles, datable to approximately 1370 / second half of the 14th century, were discovered during research at Curtea de Argeș and were interpreted as stove-decorating pieces associated with the voivodal residence and urban houses. citeturn1search34
+
+Control: this is later typological synthesis, not a replacement for the 1982 primary plate caption.
+
+## S139 — Pass 84 — separate 15th-century plate-tile corpus
+
+Maria-Venera Rădulescu, “O scenă de dans ritual, de nuntă, redată pe cahle medievale descoperite la Curtea Domnească din Argeș (secolul al XV-lea),” *Cercetări Arheologice* 23 (2016), pp. 151–164. The official article page states that archaeological research at the Princely Court of Argeș in 1920–1922 revealed stove-decoration ceramic fragments and that the study concerns three unglazed plate-tile fragments with a dance/wedding scene, dated to the end of the 15th century. citeturn1search0
