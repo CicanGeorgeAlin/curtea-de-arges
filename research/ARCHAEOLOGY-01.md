@@ -1627,3 +1627,56 @@ This means the four-house sequence is especially valuable as **settlement eviden
 **OPEN — NOT COMPLETE.**
 
 Pass 61 substantially strengthens the 1979 settlement record and closes the Fig.14 stove-tile identification gap. The next target is a structured extraction of the **individual L1/L2/L3 evidence chains**, including their finds, phases, heating installations and ceramic dating, before integrating the 1980 continuation and other urban excavation campaigns.
+
+
+## Re-analysis and gap check — Pass 62 — 22 September 2026
+
+### L1: phase structure and ceramic evidence
+
+The 1979 primary report provides the strongest detailed sequence for L1. L1 is a semi-sunken dwelling north of the Princely Court and had two occupation phases before the enclosure wall was built over the decommissioned dwelling. The first phase had a light timber structure with wattle-and-daub walls, a thatched roof, no specially prepared floor, and a central simple hearth. The excavators identify a domestic refuse pit containing pottery and a bronze rosette-shaped appliqué. The first-phase ceramic assemblage is fragmentary and relatively poor, but the excavators date the phase stratigraphically to the end of the 13th/beginning of the 14th century. citeturn0view0
+
+The first-phase pottery is dominated by the oală-borcan form. The authors distinguish two paste qualities and several rim profiles. Fig. 3 illustrates first-phase pottery and the caption dates it to the 13th–14th-century transition. citeturn0view0turn1view0
+
+The second phase shows a construction/functional change: thicker posts, a specially prepared compacted-clay floor about 5 cm thick, and replacement of the simple hearth by a vaulted oven on a masonry socle approximately 25 cm high. The excavators explicitly state that this heating system predates the appearance of tiled stoves. citeturn1view0
+
+The second-phase ceramic assemblage is technically more varied: large storage vessels were handmade and thick-walled; medium-thickness vessels were made on a slow wheel; thinner vessels were made on a fast wheel and oxidatively fired. The authors use this coexistence of techniques to discuss technological development during the first half of the 14th century. Forms include oală-borcan, handled cooking pot, cups and possible jugs, with incised/wavy-line, notch and burnished decoration. citeturn1view0
+
+### L1 interpretation control
+
+The excavators propose that L1 may have belonged throughout its use to a modest family of servants attached to the voivodal residence, and interpret its abandonment as connected to Basarab I's construction works after 1330, especially the enclosure wall. This remains **authorial interpretation**, not a documented identification of the occupants. The absence of fire traces is part of their argument against a violent destruction. citeturn1view1
+
+The archive therefore separates:
+**archaeological fact:** L1 was overlain/affected by the later enclosure construction;
+**author interpretation:** the occupants were modest servants of the voivodal residence;
+**author interpretation:** abandonment was a consequence of the construction programme.
+
+### L2: partial survival and contemporaneity with L1
+
+L2 and L3 were found at **Str. Castanilor nr. 2** and were only partially excavated because L4 later cut them. L2 preserved part of its gârlici as an inclined plane bordered by posts about 15 cm in diameter. Two functional phases were identified: the first had a simple beaten-earth floor; the second added a uniform, compacted clay layer. On stratigraphic grounds the excavators date L2 to the first decades of the 14th century and explicitly call it contemporary with L1. citeturn1view1
+
+Because wall sills and horizontal planks were not preserved, the excavators classify L2 as another semi-sunken complex with a simple timber structure. This classification is based on the surviving archaeological architecture and should not be expanded beyond the evidence. citeturn1view1
+
+### L3: transition toward a surface-built house
+
+The excavators place L3 around the middle of the 14th century and describe it as succeeding L1/L2. Unlike the semi-sunken L1/L2, L3 was a surface dwelling. Its wall line was represented by a river-stone socle interpreted as the support for wooden sill beams, and its floor was a uniformly compacted clay layer. Pottery fragments found at floor level are treated as reference material for the development of 14th-century ceramics and decoration. The assemblage is described as good-quality pottery decorated prominently with white paint, including bands and, in one case, brush-painted spirals, dots and vegetal motifs. citeturn1view1
+
+### A significant ceramic chronology observation
+
+The excavators make a broader chronological argument from L1's second-phase pottery: forms that were common south of the Carpathians in the second half of the 14th century are, at Curtea de Argeș, present **before 1340**. They compare them with material from Dumbrăvița Bârsei and use this as evidence for connections between communities north and south of the Carpathians. This is a published interpretation based on comparative typology, not a direct record of individual movement or trade. citeturn1view0
+
+### 1980 continuation: crucial negative evidence and new contexts
+
+The 1980 continuation is now incorporated as a separate campaign rather than being merged with 1979.
+
+The investigators tested several zones:
+- west of Sân Nicoară hill: two sections produced no material/cultural complexes warranting expanded excavation; one circular medieval oven of about **1.05 m diameter** was found near the eastern end of the first section. Its direct dating was uncertain because the functioning layer lacked diagnostic material; the overlying abandonment layer contained 17th-century pottery, while the authors considered a broader 15th–16th-century range possible. citeturn2view0
+- northeast of Sân Nicoară hill: six sections tested a reported stone wall thought locally to be fortification. The excavators concluded that the evidence **excluded a medieval defensive function**; they instead dated the wall no earlier than the late 18th century, possibly early 19th century, based partly on its stratigraphic relationship to a water conduit whose ceramic pipes were no earlier than the 18th century. This is a controlled **negative interpretation for the tested area**, not evidence that no medieval fortification existed elsewhere. citeturn2view0
+- Str. Mircea cel Mare nr. 1, south-west of the Princely Court: four sections showed the construction level of the Princely Court enclosure wall, which the authors place around 1340. Pottery and other finds from the walking level at the wall were dated stratigraphically and typologically from the end of the 14th to the middle of the 15th century; later refuse pits cut 14th–15th-century occupation levels and contained 16th–17th-century pottery. citeturn2view0
+
+The 1980 campaign therefore adds a major methodological layer: **negative archaeology is spatially bounded**. The failure to confirm a medieval fortification at the northeast Sân Nicoară terrace cannot be generalized to the entire hill or city.
+
+### Stage status
+
+**OPEN — NOT COMPLETE.**
+
+Pass 62 closes the principal individual L1/L2/L3 architectural/ceramic summary and incorporates the 1980 campaign as a separate evidence layer. Next target: extract the 1980 campaign's ceramic and architectural finds more precisely, then connect the 1979–1980 urban sampling strategy to the 1982 publication and later specialist reassessments.
