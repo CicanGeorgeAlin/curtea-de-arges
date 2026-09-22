@@ -601,3 +601,25 @@ The working architecture is now:
 CIMEC records a WWI heroes' cemetery, a 1937 WWI memorial plaque and a Soviet memorial/cemetery in Curtea de Argeș. These are evidence that the public-memory layer must be independently inventoried rather than assumed to be covered by LMI/RAN. citeturn0search1turn0search4turn0search6
 
 Stage remains OPEN — NOT COMPLETE.
+
+## Archaeology autopilot — Pass 23 · 22 September 2026
+
+### Princely Court must be modelled component-by-component
+
+The official LMI 2015 breaks the Princely Court ensemble (AG-II-a-A-13647) into multiple protected components, including Basarab I house ruins, Neagoe Basarab house ruins, gate towers and separate enclosure-wall phases. citeturn0search16
+
+This confirms another structural rule for the archive:
+
+**ensemble ≠ component ≠ archaeological context**
+
+Each component must retain its own chronology, evidence and source chain while remaining linked to the ensemble.
+
+### Spatial uncertainty becomes an explicit field
+
+The 2026 Argeș territorial strategy states that around 50% of RAN sites nationally lack precise location and that some are absent from LMI. This statement is useful as a warning about the limitations of archaeological spatial data, but it must not be misapplied as a Curtea de Argeș statistic. citeturn0search18
+
+The future archive therefore needs a location-confidence field:
+
+**EXACT / PERIMETER / APPROXIMATE / HISTORICAL ONLY / UNRESOLVED**
+
+Stage remains OPEN — NOT COMPLETE.
