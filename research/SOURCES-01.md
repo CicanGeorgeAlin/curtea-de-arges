@@ -1530,3 +1530,14 @@ Control: represent as fragments / probable parent-object count, not three comple
 ## S153 — Pass 90 — Provenance boundary reaffirmed
 
 I 5882 establishes collection identity but does not establish exact excavation findspot, stratigraphy, or fragment-to-findspot mapping. The 2016 article explicitly says archaeological context data are lacking. citeturn0search38
+
+
+## S154 — Pass 91 — I 5882 independent-record search
+
+Targeted search combinations for inventory **I 5882** with Curtea de Argeș, Institutul de Arheologie „Vasile Pârvan”, and medieval stove tiles returned the 2016 Rădulescu article as the only directly relevant indexed result. No independent accession record adding a date, transfer history, excavation parcel, stratigraphy, or fragment-level findspot was located. citeturn0search36
+
+Control: unrelated records using the number 5882 are excluded unless institution/object/context match.
+
+## S155 — Pass 91 — Provenance status
+
+I 5882 remains an explicit **collection/inventory identity**, but its accession/chain-of-custody history remains unresolved. Exact archaeological findspot and stratigraphy remain unresolved.
