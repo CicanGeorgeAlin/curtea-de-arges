@@ -1766,3 +1766,25 @@ index.html untouched.
 
 ### Next target
 Search museum/collection databases and later specialist publications for C44/C81, then inspect the 1923 figures. If no object-level catalogue is discoverable, record the contradiction as permanent unresolved evidence rather than infer a resolution.
+
+
+## Pass 102 — 22 September 2026
+
+### Target
+Recover direct evidence for Drăghiceanu figs.78–80.
+
+### Verified
+The original digitized BCMI volume directly captions figs.78–79 as terracottas found in the Princely House. citeturn3search24turn3search25 A later 1967 specialist study independently gives the figure/page references as figs.78–79 p.69 and fig.80 p.71. citeturn3search26
+
+### Research boundary
+We still do not have sufficiently reliable searchable evidence to map C44 or C81 to a particular subfigure. No glaze conclusion is drawn from the figures until visual inspection is possible.
+
+### Context
+A 1967 ceramic study confirms that the broader Curtea terracotta corpus included both glazed and unglazed pieces. This is not used to resolve the MNAR contradiction. citeturn3search0
+
+### GitHub
+Backup: backup/pass102-pre-research-2026-09-22
+index.html untouched.
+
+### Next target
+Obtain a visual rendering of the original figure pages and, in parallel, continue the museum inventory-history search for C44/C81.
