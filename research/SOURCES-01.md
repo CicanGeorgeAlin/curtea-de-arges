@@ -486,3 +486,11 @@ Author: Nicolae Constantinescu. Publisher: Editura Ordessos, Pitești, 2013. Bib
 Coverage: later synthesis by the principal archaeologist of the Curtea Domnească research programme. The digitized text contains plans and stratigraphic profiles for the 1967–1973 research, including a 1969 excavation plan for the Domnească Church and profiles from 1968 sections. It identifies archaeological levels and construction horizons including a 13th-century level, a first-half-14th-century enclosure/construction phase, a c.1369 church construction level, and later medieval deposits. It also documents later microzone research and finds such as iron-working slag, a pottery kiln and pottery-making tools in areas of the historic voivodal centre.  
 Use: **later specialist synthesis / publication-level control**, not a substitute for the original excavation notebooks or campaign reports. Chronological statements remain attributed to Constantinescu's synthesis. citeturn1search23turn1search0  
 URL: https://biblioteca-digitala.ro/reviste/carte/muzeul-arges/CONSTANTINESCU_Timp-spatiu-voievodal-Argesul-istoric_2013.pdf
+
+
+## S78 — Constantinescu, archaeological research in the former Curtea Domnească microzone, 1983
+
+Author: Nicolae Constantinescu. Publication context: specialist archaeological synthesis/publication in the Digital Library of Romania, discussing the 1983 EMV-I and EMV-III sections in the former Curtea Domnească area.  
+Coverage: a 45 m × 2 m section and a second 25 m × 2 m section in a microzone outside/around the former princely court, with stratigraphic profile EMV-I. The published profile distinguishes multiple occupation horizons: four successive habitation levels of the 13th–14th centuries up to about 1340, followed by later occupation from the second half of the 14th century onward. The profile also records a 14th-century iron-working layer and a 14th-century pottery kiln.  
+Use: **specialist archaeological synthesis / published section profile**. It is evidence for the excavated microzone, not proof of identical stratigraphy across the entire historic city. citeturn0search0  
+URL: https://biblioteca-digitala.ro/reviste/carte/muzeul-arges/CONSTANTINESCU_Timp-spatiu-voievodal-Argesul-istoric_2013.pdf
