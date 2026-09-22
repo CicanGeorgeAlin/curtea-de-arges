@@ -1497,3 +1497,14 @@ Rădulescu 2000b, “Noi cahle medievale decorate cu scene de turnir (secolele X
 Rădulescu 2016 states that Drăghiceanu's 1923 journal records stove tiles in the NW corner of the cellar of the princely house on the south side of the enclosure; a plate shows 16 stove-tile fragments. The 2016 author explicitly says it is unknown whether all fragments came from the same place or were dispersed across the Princely Court. citeturn9search30
 
 Control: the 1920–1922 group and the later 2024 tournament cahlă remain separate records.
+
+
+## S148 — Pass 88 — Drăghiceanu 1923 primary journal repository control
+
+BCU Iași digital repository record: Virgiliu Drăghiceanu, “Jurnalul săpăturilor din Curtea Domnească a Argeșului,” BCMI X–XVI (1917–1923), pp. 134–152, 1923. The record states that the journal covers excavations inside Biserica Domnească, Sân Nicoară, and the Princely Court enclosure, followed by coins. citeturn2view0
+
+## S149 — Pass 88 — Stove-tile reference control
+
+Rădulescu 2016 cites Drăghiceanu 1923b p. 148 for stove tiles found in the north-west corner of the cellar of the princely house on the south side of the enclosure and identifies BCMI 1923 Fig. 305 as the image of 16 fragments. citeturn0search18turn1search24
+
+Control: Fig. 305 has not yet been treated as independently re-read at fragment level; provenance remains group-level.
