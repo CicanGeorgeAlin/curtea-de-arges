@@ -44,3 +44,19 @@ This is an evidence table, not yet the final narrative chronology. Dates remain 
 ## Methodological warning
 
 The chronology must never be made artificially smooth. Where evidence is absent, the timeline should say that evidence is absent. Where historians disagree, the disagreement itself becomes part of the archive.
+
+
+## Chronology control update — Pass 15
+
+The archaeological re-analysis adds an important distinction to the working chronology: the presence of 13th-century archaeological evidence at the Curtea Domnească area should not be treated as proof of a fully formed medieval town, princely residence or municipality-wide settlement pattern without additional evidence.
+
+The 1984 Constantinescu synthesis is specifically a study of the archaeological/princely centre within the modern city and synthesizes research carried out in 1967–1973. citeturn0search3turn0search7
+
+The chronology will therefore preserve separate layers for:
+- archaeological evidence and proposed dating;
+- official register chronology;
+- documentary attestations;
+- scholarly interpretation;
+- later reinterpretation.
+
+This prevents the timeline from becoming artificially smooth and makes disagreements visible as part of the historical record.
