@@ -2901,3 +2901,25 @@ A targeted search for the exact collection phrase plus 4119, 10073, C44 and C81 
 
 ### Figure-chain status
 **1920 excavation → MNAR C44/C81 → Drăghiceanu figs. 78–80** is now independently repeated in 2007. This is a strong object-to-figure bridge, but exact excavation sub-location remains unknown.
+
+
+## Pass 97 — 1920 MNAR corpus and Drăghiceanu figure family clarified
+
+The direct 2000 Rădulescu article provides stronger object-level data than previously recorded. It states that the two fragments in the MNAR collection came from the 1920 Curtea de Argeș excavation and that one fragment (18 × 13.5 cm) preserves a 4.7 cm-wide *rumpa*. It reconstructs the original rectangular plate at approximately **26 × 20.3 cm**, describes homogeneous clay with sand and mica, wooden-mould impression through a dense fabric, unglazed surface, and soot on the reverse from stove use. The decorative composition includes vegetal stems and volutes; the article interprets the motif within a heraldic “rampant affronted lions” framework. citeturn0search24
+
+The 2007 article gives the same 1920 provenance and dimensions and explicitly identifies the two MNAR pieces as **4119/C44 and 10073/C81**. citeturn0search23
+
+### Correction: glaze status of the MNAR pair
+Earlier passes stated that both fragments were glazed based on the 2007 shorthand description. The direct 2000 object description says the two fragments under detailed study are **nesmălțuite (unglazed)** and have soot on their backs. The 2007 passage describes them as green-glazed in a broader comparison sentence. This is an internal source discrepancy, not something to resolve by choosing silently.
+
+Archive status:
+- 2000 detailed description: **unglazed**.
+- 2007 descriptive passage: **green glazed / light green**.
+- Resolution: **UNRESOLVED** until object photographs/catalogue are inspected.
+
+### Figure-chain refinement
+The 2000 detailed text cites Drăghiceanu 1923 figs. **78–80** and notes that Drăghiceanu did not provide dimensions/technical details or secure chronology for the illustrated material. Rădulescu reconstructs the object from surviving museum fragments and Daniel Spânu's reconstruction. citeturn0search24
+
+### Important new distinction
+The surviving MNAR fragment description may represent a reconstruction from physical fragments that Drăghiceanu's original 1923 publication did not individually document. Therefore:
+**original illustration → later physical fragment → modern reconstruction** must be kept as separate evidence layers.
