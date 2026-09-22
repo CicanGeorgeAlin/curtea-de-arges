@@ -147,3 +147,17 @@ The inventory must now maintain three independent completeness questions:
 3. What heritage/administrative sources identify places or spatial areas that require archaeological reconciliation?
 
 **Stage remains OPEN — NOT COMPLETE.**
+
+## Pass 18 — Campaign/publication matrix begins
+
+The inventory is no longer treated as a simple list of RAN codes. A second linked layer is required: archaeological interventions and publications, including work predating current RAN records.
+
+Leads identified:
+- 1886 — Nicolae Gabrielescu investigations at Sân Nicoară; an early architectural investigation, not automatically equivalent to a modern controlled excavation. citeturn0search0
+- 1920 — Virgil Drăghiceanu investigations at Sân Nicoară and Biserica Sf. Nicolae Domnesc during restoration work. citeturn0search0turn0search3
+- 1967–1973 — major archaeological research programme at the Curtea Domnească/voivodal core, synthesized by Nicolae Constantinescu in 1984. citeturn0search4
+- 1980 — archaeological sondaje at the Neagoe Basarab foundation. citeturn0search8
+
+Control rule: site inventory and intervention history are separate datasets. A place can link to RAN/LMI identity, investigation, excavation/intervention, publication, finds and interpretation without assuming every intervention generated a current RAN record.
+
+Stage remains OPEN — NOT COMPLETE.
