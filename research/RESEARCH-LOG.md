@@ -1399,3 +1399,24 @@ index.html untouched.
 
 ### Next target
 Trace the 2016/2018/2024 Curtea de Argeș stove-tile studies and build a chronological stove-tile evidence matrix, keeping disc tiles, plate tiles and later cahlă forms separate.
+
+
+## Pass 85 — 22 September 2026
+
+**Target:** build a provenance/chronology matrix for later Curtea de Argeș stove-tile publications.
+
+### Newly verified
+- Rădulescu 2016: 1920–1922 Princely Court stove fragments were noted in the NW corner of the cellar of the princely house on the south side of the enclosure, but the author states it is unknown whether all 16 fragments came from the same location; broad decorative chronology 15th–17th c. citeturn0search12
+- 2016 study's three unglazed plate-tile fragments with dance/wedding scene are treated separately and dated to end 15th c. citeturn0search0
+- 2024 turnir cahlă is a separate object with unknown discovery year/exact place/stratigraphy. citeturn0search13
+
+### New provenance confidence model
+EXPLICIT / GROUP-LEVEL / UNCERTAIN.
+
+### GitHub
+Backup: backup/pass85-pre-research-2026-09-22
+Updated: archaeology, research log, sources.
+index.html untouched.
+
+### Next target
+Trace the 2024 tournament cahlă bibliography backward to its cited source (especially reference 23), and separately locate the 2016 plate/tile figures and their original Drăghiceanu 1923 source chain.
