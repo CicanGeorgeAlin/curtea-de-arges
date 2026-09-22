@@ -1006,3 +1006,16 @@ Next targets:
 5. build a controlled **medieval domestic architecture matrix** for Curtea de Argeș.
 
 **Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+
+### New find-level cross-check: dwelling 4, 1979
+
+A numismatic bibliography index adds an important find-level link to the 1979 programme: **dwelling 4** produced a double lead seal with a fleur-de-lis emblem and the legend **“+ DE TOURNAI”**. The index identifies the find as belonging to the 1979 excavations and points to the detailed publication in *Cercetări Numismatice* V. citeturn11search23
+
+This is significant for the future archive because it connects the settlement layer to an individual excavated structure and to an object with an explicit inscription. However, the archive will not yet infer who used the seal, how it entered the dwelling, or what the inscription proves about trade or population movement. Those questions require the dedicated 1983 study and the original excavation context.
+
+The evidence model is therefore extended:
+
+**CAMPAIGN → TEST AREA → STRUCTURE → FIND → INSCRIPTION / TYPE → INTERPRETATION → LOCATION CONFIDENCE**
+
+This is another reason the 1979 campaign deserves a dedicated micro-record rather than a single paragraph in the city chronology.
