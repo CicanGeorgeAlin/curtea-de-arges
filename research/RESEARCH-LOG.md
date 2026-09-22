@@ -2882,3 +2882,31 @@ S226 added; Pass 140 recorded; index.html untouched.
 
 ### Next target
 Use the now-resolved article boundary to pursue the actual scanned pages **134–149**, beginning with p.138 and then figures/pages relevant to the excavation record.
+
+
+## Pass 141 — 22 September 2026
+
+### Target
+Move beyond p.138 and establish another exact primary-page anchor relevant to the archaeological ceramic corpus.
+
+### Result
+Rădulescu 2016 explicitly cites Drăghiceanu's **Jurnalul, p.148** for the discovery of stove terracottas in the **north-west corner of the cellar of the princely house on the south side of the Curtea Domnească enclosure**. citeturn0search17
+
+The same study states that Fig.305 presents **16 terracotta fragments**, while cautioning that it is not known whether they were all found in the same place or were distributed across the Curtea Domnească area. citeturn0search17
+
+### Significance
+We now have two controlled page-level retrieval targets inside the Jurnal:
+- **p.138** — grave-10-related observations recovered through later citations;
+- **p.148** — stove-terracotta discovery/provenance statement.
+
+The p.148 statement is particularly valuable for the ceramic research because it gives a precise **group-level find location** while simultaneously preserving the later source's warning that individual Fig.305 fragments cannot be assigned that location with certainty.
+
+### C44/C81 status
+Unchanged: 4119/C44 stable; C81 4130 vs 10073 unresolved; 2000 unglazed vs 2007 green/light-green glazed unresolved.
+
+### GitHub
+Backup: backup/pass141-pre-research-2026-09-22
+S227 added; Pass 141 recorded; index.html untouched.
+
+### Next target
+Recover the actual p.148 page and compare it against the later citation, then use the same approach for the figure sequence around Fig.305 without merging it with C44/C81.
