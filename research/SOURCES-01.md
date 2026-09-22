@@ -1979,3 +1979,12 @@ The BCMI contents for the 1917–1923 volume independently list Drăghiceanu's *
 This confirms that the 1917–1923 BCMI volume contains multiple distinct documentary/analytical components concerning the Curtea excavations. It is therefore unsafe to treat every statement in the volume as if it came from a single report or a single field campaign. This supports maintaining separate identities for Drăghiceanu's historical-archaeological notes, the excavation journal, specialist studies, and later museum-object publications.
 
 No C44/C81 inventory numbers are established by this bibliographic control.
+
+
+## S216 — Primary-source architecture confirmed: separate Drăghiceanu articles in BCMI 1923
+
+The Biblioteca Digitală/PROEUROPEANA record confirms the 1923 BCMI volume structure: Drăghiceanu's **“Curtea Domnească din Argeş. Note istorice şi arheologice”** occupies pp. 9–76, while his **“Jurnalul săpăturilor din Curtea Domnească a Argeşului”** occupies pp. 134–152. The volume contents independently list these as separate works. citeturn0search18turn0search0
+
+A 1968 archaeological reassessment explicitly distinguishes the “Jurnalul de săpături” as a source and notes that it contains direct field observations, while also criticizing its lack of sufficient phaseological orientation. citeturn0search15
+
+Research control: claims about excavation observations should preferentially be traced to **Jurnalul**, pp.134–152, rather than automatically to the broader historical/archaeological notes, pp.9–76. This is source-location control, not a claim that the broader article is unreliable.
