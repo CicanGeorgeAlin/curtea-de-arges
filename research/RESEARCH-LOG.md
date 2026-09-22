@@ -233,3 +233,15 @@ This changes the next phase from discovery-by-search to **systematic reconciliat
 The project now has a concrete heritage baseline against which RAN, archaeological campaigns, publications, finds, spatial evidence and current status can be checked record-by-record.
 
 Stage 1 remains OPEN — NOT COMPLETE.
+
+## Archaeology / Heritage autopilot — Pass 26 · 22 September 2026
+
+The current municipality-filtered RAN result set has now been captured: five Curtea de Argeș records — 13631.02 Drujești, 13631.05 Sân Nicoară, 13631.07 Curtea Domnească, 13631.10 Argeș Monastery and 13631.11 Historic Urban Site. citeturn0search3turn0search5
+
+This resolves the earlier uncertainty about the current RAN municipality baseline, but not archaeological completeness beyond RAN.
+
+A component discrepancy was identified at Argeș Monastery: LMI 13628 includes a park and relocated wooden church in addition to the church, chapel and episcopal palace represented on the current RAN page. citeturn0search4turn0search13
+
+Next: systematic record-by-record reconciliation of the five RAN records against every relevant LMI component, intervention and publication.
+
+Stage 1 remains OPEN — NOT COMPLETE.
