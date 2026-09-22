@@ -1087,3 +1087,24 @@ Control:
 Contextual historical source only; it does not establish the catalogue identity of Rădulescu Pl. CXL/1.
 
 Source: citeturn2search27
+
+## S107 — Complete 2018 report: CXL/1 citation attachment confirmed
+
+The complete 2018 *Cronica Cercetărilor Arheologice* PDF confirms that the Câmpulung horse-leg cahlă fragment is described as belonging to the “oșteanul ecvestru” theme, with an analogy to a piece discovered at Băjești, Curtea marelui ban Mareș Băjescu (17th century in the report). Footnote 11 cites Rădulescu 2017, Pl. CXL/1.
+
+Control:
+**CÂMPULUNG HORSE-LEG CAHLĂ → BĂJEȘTI ANALOGY → RĂDULESCU 2017 PL. CXL/1**
+**DIRECT PLATE/CAPTION CONTROL = PENDING**
+
+Source: citeturn0search13turn1search0
+
+## S108 — Complete 2018 report: Pl. IV/6 is a separate citation
+
+The same report independently attaches footnote 10 to the spiral-decorated glazed plates and cites Bătrîna & Bătrîna, Curtea de Argeș, Pl. IV/6.
+
+Control:
+**CURTEA Pl. IV/6 ≠ RĂDULESCU Pl. CXL/1 citation target**
+
+No physical identity is claimed.
+
+Sources: citeturn0search0turn0search15
