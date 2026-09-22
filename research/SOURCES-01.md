@@ -434,3 +434,14 @@ Important limitation: this establishes the currently retrievable municipality re
 
 ## S66 — RAN/LMI identity correction for Argeș Monastery
 Current RAN 13631.10 maps to LMI AG-II-a-A-13628 and lists the church (1512–1517), chapel (1885) and episcopal palace (1885). The 2015 LMI block additionally records the ensemble's park and a relocated wooden church from Palanga, Vâlcea, which are LMI components but are not all represented as RAN components in the current RAN page. citeturn0search4turn0search13
+
+## S67 — RAN Drujești current record: direct intervention chain
+Current RAN 13631.02 identifies Biserica şi necropola medievală de la Drujeşti, with church dated late 16th–second half 18th century and necropolis dated 16th–17th century. It directly records systematic research in 1987 by Spiridon Cristocea, Muzeul Județean Argeș, and cites the 1987 campaign report published by CIMEC. citeturn0search0turn0search1
+Use: canonical RAN/intervention chain.
+
+## S68 — Sân Nicoară 2011 campaign report, Report 4830
+The primary 2011 campaign report identifies RAN 13631.05, LMI ensemble/ruin/park AG-II-m-A-13655/.01/.02, and places the ruin on a hill at approximately 448 m. It describes the site as overlooking the Argeș valley and the area of the Domnească church and former city hospital. The report's research context covers medieval and modern periods. citeturn0search2turn0search20
+Use: primary campaign/spatial-context evidence; do not treat contextual interpretation as proof of an entire city's chronology.
+
+## S69 — Sân Nicoară LMI memorial component
+The 2015 LMI also records AG-IV-m-A-13655.03, “Crucea Eroilor 1916–1918,” at Str. Sân Nicoară 1, dated 1916–1920. This is a separate memorial component within the broader Sân Nicoară landscape and should not be conflated with the medieval church archaeological site. citeturn0search23
