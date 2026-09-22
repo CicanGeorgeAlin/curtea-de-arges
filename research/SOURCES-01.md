@@ -1541,3 +1541,14 @@ Control: unrelated records using the number 5882 are excluded unless institution
 ## S155 — Pass 91 — Provenance status
 
 I 5882 remains an explicit **collection/inventory identity**, but its accession/chain-of-custody history remains unresolved. Exact archaeological findspot and stratigraphy remain unresolved.
+
+
+## S156 — Pass 92 — I 5882 bibliographic fingerprint search
+
+Searches using exact fragment dimensions (8.6 × 6.8 cm; 12.7 × 9.4 cm; 16 × 7.8 cm), reconstructed plate dimensions (~22 × 17 cm), and iconographic descriptors did not identify an independent pre-2016 record for the I 5882 fragments. The 2016 Rădulescu article remains the directly relevant indexed source. citeturn0search44
+
+## S157 — Pass 92 — Inventory-number ambiguity control
+
+The string “I 5882” occurs in unrelated institutional catalogues, so the number alone cannot identify the Curtea de Argeș object. Institution + object + context matching is required. citeturn1search38
+
+Control: no claim of absence of earlier records; only no independently indexed match verified in this pass.
