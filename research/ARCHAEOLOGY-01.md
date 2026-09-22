@@ -1486,3 +1486,72 @@ Remaining tasks:
 - reconstruct the full Fig. 5 / Fig. 6 spatial relationship;
 - cross-check the 1983 seal article against the recovered architectural context;
 - continue through the other 1979 dwellings and later settlement campaigns.
+
+
+## Re-analysis and gap check — Pass 60 — 22 September 2026
+
+### L4 continuation recovered: p.154 is a figure-only evidence page
+
+The original 1979 excavation report has now been checked through the page sequence surrounding p.153. The next printed page, **p.154**, is occupied by **Fig. 6**, the stratigraphic profile associated with L4. It adds no separate narrative paragraph, so the archive will not manufacture a textual “p.154 ceramic continuation” that is not present.
+
+Fig. 6 is captioned as the profile of the south-west wall of **S3 (locuința 4)** and provides a numbered stratigraphic key with 27 units/symbol categories. The legend distinguishes, among other things, living soil, sandy clay, gravel, stones, carbonized wood, pits, the cellar floor with carbonized boards, cellar-fill material containing daub, tiles and clay, the packed material between the excavation cut and cellar walls, charcoal-bearing layers, clean clay, vegetation/topsoil, carbonized sill beams and carbonized logs. This graphic therefore independently reinforces the written p.153 description of a burned timber/daub cellar complex.
+
+The p.153–154 sequence should be represented in the archive as:
+
+**L4 → p.153 written architectural/stratigraphic description → Fig. 5 plan → Fig. 6 profile → p.155 ceramic typology begins.**
+
+The original report identifies the L2/L3/L4 complex with **Str. Castanilor nr. 2**. Fig. 5 is explicitly titled “Planul locuințelor 2, 3, 4 de la Curtea de Argeș” and visually places L4, L2 and L3 within the same investigated urban plot. The figure should be treated as a spatial evidence object, not converted into invented modern coordinates.
+
+### Controlled spatial reconstruction of Fig. 5
+
+Fig. 5 shows:
+- **L4** as the large principal plan within the investigated area;
+- **L2** as a smaller surviving complex immediately to the east/right of L4;
+- **L3** as a separate elongated investigated area to the south of the L4/L2 complex;
+- section labels **S1, S2 and S3** associated with the investigated areas;
+- the street label **Str. Castanilor Nr. 2** at the top of the plan;
+- a north arrow and a 1 m graphic scale.
+
+The figure is useful for reconstructing the relative spatial relationship of the three dwellings, but it does not provide modern georeferenced coordinates. The archive therefore records the location as **parcel/site-level controlled: Str. Castanilor nr. 2**, with exact GIS position still OPEN.
+
+### L4 ceramic assemblage: p.155 onward
+
+The next narrative page after the Fig. 6 sheet begins the ceramic analysis. The authors state that the material from L4 is sufficiently rich to support both chronological placement of the complex and broader observations about pottery manufacture, especially because domestic pottery and stove tiles came from a closed complex.
+
+The authors divide the domestic pottery into two broad groups:
+1. unglazed pottery;
+2. glazed pottery.
+
+They state that the assemblage was wheel-made on a fast wheel and generally oxidatively fired, with mica commonly present in the paste. They distinguish a good-quality paste used for many unglazed or partially glazed forms from a finer smooth paste used for tableware.
+
+For the first vessel category, the authors identify the **oală-borcan** and handled cooking pot as common forms. Within L4 they document several rim variants, including short everted rims with distinctive lower ridges and other profiles that they compare with material from other medieval centres. The text explicitly dates the relevant L4 ceramic context to the **second half of the 14th century** in the figure captions and discussion.
+
+This is now controlled as **publication-level typology/interpretation**, not as an independent modern redating of the structure.
+
+### Figure-controlled ceramic evidence
+
+The report's subsequent figures explicitly identify material as coming from the **umplutura locuinței 4**, including:
+- Fig. 7: fragments of oală-borcan, dated in the caption to the second half of the 14th century;
+- Fig. 9: oală-borcan, cup with handle, drinking vessel and trilobate-mouth jug from L4 fill;
+- Fig. 10: oală-borcan, lids, candlestick and bowl from L4 fill;
+- later figures: decorated vessel fragments, handles, glazed bowl/pan material, and stove tiles from L4 fill.
+
+The stove evidence becomes especially important because the authors later state that stove tiles, smoke tiles and daub fragments in the L4 fill demonstrate the presence of a **stove within the complex**. This is a direct authorial interpretation of the archaeological material and should be linked to the specific find classes rather than summarized merely as “L4 had a stove.”
+
+### Cross-check against the 1983 Tournai-seal study
+
+The dedicated 1983 Bătrîna & Bătrîna article independently records the Curtea de Argeș lead cloth seal as a find from the 1979 excavation in an urban-type dwelling dated to the end of the 14th/beginning of the 15th century. Its heraldic argument dates the seal to a period after the Tournai heraldic change of **1426**, with the authors discussing an immediate-post-1426 possibility.
+
+The archive must keep these chronological fields separate:
+
+- **L4 archaeological context:** last decades of the 14th century in the 1979 excavation report.
+- **1983 authors' dwelling formulation:** end of the 14th / beginning of the 15th century.
+- **seal object dating:** after 1426 according to the 1983 heraldic argument; later scholarship may phrase this more loosely as around 1426.
+
+The difference is not resolved here. It is a research question about the relationship between the dwelling, its fill, the seal's deposition and the chronology of the rebuilt/abandoned structure. The archive will not force the seal's date onto the architectural date of L4.
+
+### Stage status
+
+**OPEN — NOT COMPLETE.**
+
+Pass 60 closes the p.153–154 architectural/graphic gap and begins controlled extraction of the L4 ceramic assemblage. The next useful target is the remainder of the L4 material analysis, especially the stove-tile section and its figure/plate references, followed by a return to the broader 1979 campaign so L4 does not become disproportionately documented relative to L1–L3 and the other urban excavation areas.
