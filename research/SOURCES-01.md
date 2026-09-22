@@ -2046,3 +2046,12 @@ A 2014 Academy of the Romanian Republic study cites Drăghiceanu's *Jurnalul* at
 A 2019 Argesis article independently cites the same *Jurnalul*, p.138, in its discussion of Curtea Domnească chronology. citeturn0search23 A separate 2013 study cautions that the printed *Jurnalul* was edited before publication, so later scholarship must distinguish the printed text from what Drăghiceanu may have thought contemporaneously. citeturn0search4
 
 Control status: p.138 is now a high-priority primary retrieval target with a dated-content anchor, but the original page remains uninspected.
+
+
+## S223 — Correction/clarification of the p.138 dated anchor
+
+The 2014 Romanian Academy study does **not** say that the page itself is dated 31 July 1923. Its footnote says that **additional information about the day of 31 July 1923** is found in Drăghiceanu's *Jurnalul*, p.138. citeturn0search12 This is a more precise formulation than the previous pass's shorthand “p.138 → dated content (31 July 1923).”
+
+The same study describes the discovery of grave 10 as occurring at the end of July **1920**, and notes that the investigations were printed in 1923. citeturn0search12 Therefore the archive must not interpret “31 July 1923” as the excavation/discovery date. The date belongs to the later information cited by the footnote and requires direct page verification for exact meaning.
+
+The p.138 retrieval target remains valid, but the date is now marked **secondary-citation context, not direct primary-page metadata**.
