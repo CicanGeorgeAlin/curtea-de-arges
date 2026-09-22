@@ -1721,3 +1721,26 @@ index.html untouched.
 
 ### Next target
 Recover and visually inspect Drăghiceanu 1923 figs.78–80 and, if possible, MNAR catalogue/object imagery. The key unresolved questions are individual fragment mapping, glaze, and the relationship between the published reconstruction and surviving museum pieces.
+
+
+## Pass 100 — 22 September 2026
+
+### Major verification
+Direct control of Rădulescu 2000 p.168 confirms the earlier 2000 wording: the MNAR Curtea de Argeș fragments are explicitly described as **nesmălțuite (unglazed)**. The article gives 18 × 13.5 cm for one fragment, 4.7 cm *rumpă*, reconstructed dimensions 26 × 20.3 cm, technical details, soot on the reverse, and inventories **4119 (C44)** and **4130 (C81)**. citeturn6search21
+
+### Important result
+The contradiction with the later 2007 record is now confirmed at source-text level:
+- 2000: unglazed; C81 = 4130.
+- 2007: previously controlled in this project as green/light-green glazed; C81 = 10073.
+
+This is now treated as a genuine unresolved discrepancy, not an extraction error.
+
+### Separate corpus
+The I 5882 wedding/dance fragments remain separate: 3 unglazed plate-tile fragments, 1920–1922, Institute “Vasile Pârvan”, inventory I 5882. citeturn2view2
+
+### GitHub
+Backup: backup/pass100-pre-research-2026-09-22
+index.html untouched.
+
+### Next target
+Object-level catalogue/collection control for MNAR C44 and C81, followed by direct inspection of Drăghiceanu figs. 78–80. The key questions are whether C81 was renumbered, whether the 2007 glaze statement refers to the same surviving pieces, and whether conservation/reconstruction history explains the material-description change.
