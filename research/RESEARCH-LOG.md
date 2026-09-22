@@ -2359,3 +2359,31 @@ S208 added; Pass 122 recorded; index.html untouched.
 
 ### Next target
 Use the dossier's own downloadable PDF, where accessible, to search page-level OCR/images for the names **Drăghiceanu, Kessler, Lăzărescu, Tzigara-Samurcaș, Muzeul Național de Antichități, Muzeul de Artă Națională**, and terms for terracotta/stove tiles, while keeping tombstone/photograph correspondence separate from the C44/C81 object chain until an explicit link appears.
+
+
+## Pass 123 — 22 September 2026
+
+### Target
+Add institutional context to the CMI dossier route: who controlled the Commission's collections during the period immediately following the 1920 Curtea Domnească excavation.
+
+### Result
+A 1990 institutional history of the CMI records that **Virgil Drăghiceanu** directed the Commission's collections service from **1907 to 1938** and, from **1914**, held the title **“conservator al muzeelor Comisiunii Monumentelor Istorice.”** It also records that the CMI collections were opened to the public from 23 November 1910. citeturn0search6
+
+### Why this matters
+This gives the archival route a concrete institutional context: Drăghiceanu was not only the excavator/documentarian; he also occupied the CMI museum-collections role during the period in which the 1920 excavation material would have been documented and administratively handled.
+
+This does **not** prove that the C44/C81 fragments passed through a CMI collection. No inventory number or accession document linking them to such a collection was found in this pass.
+
+### C44/C81 status
+Unchanged:
+- 4119/C44 stable;
+- C81 4130 vs 10073 unresolved;
+- 2000 unglazed vs 2007 green/light-green glazed unresolved;
+- 1920 provenance supported by both later Rădulescu publications.
+
+### GitHub
+Backup: backup/pass123-pre-research-2026-09-22
+S209 added; Pass 123 recorded; index.html untouched.
+
+### Next target
+Use this institutional context to prioritize CMI collection/accession terminology in the 1394 dossier and related CMI records: “colecții”, “muzee”, “conservator”, “predare”, “inventar”, “Muzeul Național de Antichități”, and photographic documentation.
