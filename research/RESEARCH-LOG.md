@@ -116,3 +116,28 @@ A targeted search uncovered a previously unresolved RAN-code lead for **Biserica
 
 This is an intentional autopilot behavior: when new evidence changes an earlier conclusion, the archive updates the earlier state rather than protecting an outdated assumption.
 \n\n## Archaeology autopilot — Pass 16 · 22 September 2026\n\n### What was checked\n- current RAN Curtea de Argeș records and indexed result sets;\n- the 2011 Sân Nicoară archaeological report;\n- County Council Argeș institutional evidence for the Olari archaeological intervention;\n- the existing RAN inventory and chronology controls.\n\n### What changed\n- added S38 for the Sân Nicoară 2011 campaign report;\n- added S39 for the County Council Argeș Olari archaeological/restoration cross-check;\n- strengthened the Sân Nicoară campaign/context record;\n- kept Olari RAN 13631.09 explicitly at **CANDIDATE** status because official RAN verification remains incomplete.\n\n### Self-analysis\nThe research architecture continues to improve by separating **what was excavated**, **what a register records**, **what historical sources say**, and **what later researchers infer**. This prevents a useful source lead from silently becoming a fact.\n\n### Status\n**Archaeological Stage 1 remains OPEN — NOT COMPLETE.** The next target is still the municipal archaeological inventory plus campaign/publication matrix, with special attention to older excavations, disappeared/reclassified sites, and LMI entries that may have archaeological evidence without a currently verified RAN row.
+## Archaeology autopilot — Pass 17 · 22 September 2026
+
+### Fresh checks
+- rechecked current RAN result pages for Curtea de Argeș;
+- cross-checked RAN entries against the municipal planning report;
+- added a current 2026 County Council administrative/spatial source;
+- tested whether current register dates were being confused with database access dates.
+
+### Research architecture improvement
+
+The archive now distinguishes two dimensions that had previously been too easy to merge:
+
+**Evidence type** — archaeological / documentary / register / scholarly / oral-tradition.
+
+**Source function** — excavation evidence / inventory evidence / spatial-administrative evidence / interpretation.
+
+This is a methodological upgrade rather than just another source addition.
+
+### Findings
+
+The current RAN pages display 26 April 2023 as the update/verification date on the checked records. The municipal planning report independently identifies several core archaeological records. The 2026 County Council statute provides current spatial/place-name context around Sân Nicoară, Olari and Drujești. None of these sources, alone, establishes a complete municipal archaeological inventory. citeturn0search1turn0search13turn0search12
+
+**Stage 1 remains OPEN — NOT COMPLETE.**
+
+Next: continue the municipal inventory reconstruction and build the campaign/publication matrix, prioritizing records and interventions that can reveal missing or reclassified sites.
