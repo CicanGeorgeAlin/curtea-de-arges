@@ -238,3 +238,18 @@ Therefore future mapping must distinguish:
 - unresolved location
 
 Stage remains OPEN — NOT COMPLETE.
+
+## Pass 24 — Municipality-wide extraction becomes a formal research task
+
+The RAN interface confirms that searches are criterion-based and paginated. Current pages expose Curtea de Argeș records, but generic pages are not a defensible municipality-wide inventory. citeturn0search7turn0search8
+
+A municipality-specific historical study independently reproduces the complete 2015 LMI table for Curtea de Argeș. This will serve as the heritage baseline against which RAN and archaeological records are reconciled. citeturn0search33
+
+The Princely Court component is now explicitly controlled across sources:
+- LMI ensemble: AG-II-a-A-13647
+- LMI church component: AG-II-m-A-13647.01
+- LMI wording: church dated 1351–1370 and incorporating foundations of a 13th-century church
+- RAN site: 13631.07
+These are linked but remain distinct evidence records. citeturn0search0turn0search2
+
+Stage remains OPEN — NOT COMPLETE.
