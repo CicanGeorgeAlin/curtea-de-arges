@@ -1519,3 +1519,14 @@ Control: I 5882 establishes collection identity, not exact archaeological findsp
 ## S151 — Pass 89 — Provenance correction
 
 Withdraw previous wording that the 2016 wedding/dance tile group's inventory number was unknown. The corrected status is: **inventory/collection identity explicit = I 5882; exact findspot unresolved**. The separate 2024 tournament cahlă remains a distinct record and should not inherit I 5882 unless independently demonstrated.
+
+
+## S152 — Pass 90 — I 5882 object-level control
+
+Rădulescu 2016 directly states that the Curtea de Argeș fragments are in the Institutul de Arheologie „Vasile Pârvan” collection and gives inventory I 5882. Three unglazed fragments are measured at 8.6 × 6.8 cm, 12.7 × 9.4 cm and 16 × 7.8 cm; they derive from two or possibly three rectangular plate tiles. Reconstructed plate approx. 22 × 17 cm; rear mounting frame approx. 2 cm. citeturn0search38
+
+Control: represent as fragments / probable parent-object count, not three complete tiles.
+
+## S153 — Pass 90 — Provenance boundary reaffirmed
+
+I 5882 establishes collection identity but does not establish exact excavation findspot, stratigraphy, or fragment-to-findspot mapping. The 2016 article explicitly says archaeological context data are lacking. citeturn0search38
