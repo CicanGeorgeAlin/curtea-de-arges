@@ -509,3 +509,20 @@ Publication: *Cercetări Arheologice*, V, 1982, pp. 95–107.
 Coverage: archaeological research in Curtea de Argeș beyond the single monument core; bibliographic record confirms the dedicated publication and its 1982 placement in the national archaeological series.  
 Use: **specialist archaeological publication lead**. Full context and section-level claims require direct inspection of the article before promotion into detailed evidence. citeturn0search2turn0search3  
 URL: https://biblioteca-digitala.ro/
+
+
+## S81 — Bătrîna & Bătrîna, “Cercetări arheologice efectuate în anul 1979 în cuprinsul așezării Curtea de Argeș” (1981)
+
+Authors: Lia Bătrîna; Adrian Bătrîna.  
+Publication: *Cercetări Arheologice*, IV, 1981, pp. 144–171.  
+Coverage: archaeological investigations begun in 1979 in sectors of the Curtea de Argeș settlement. The publication is an important early source for settlement archaeology outside the princely-core excavation programme.  
+Use: **specialist primary archaeological publication**. Detailed section-by-section extraction is still required before its claims are integrated into the spatial model. citeturn0search7  
+URL: https://biblioteca-digitala.ro/reviste/cercetari-arheologice/04-cercetari-arheologice-IV-1981.pdf
+
+## S82 — Bătrîna & Bătrîna, “Cercetările arheologice de la Curtea de Argeș” (1982) — full article
+
+Authors: Lia Bătrîna; Adrian Bătrîna.  
+Publication: *Cercetări Arheologice*, V, 1982, pp. 95–107.  
+Coverage: continuation of archaeological investigations begun in 1979, including work west of Sân Nicoară hill and other sectors of the medieval settlement. The article records negative evidence in one investigated area and a medieval circular-plan oven preserved in part.  
+Use: **primary specialist archaeological publication**. citeturn0search31  
+URL: https://biblioteca-digitala.ro/reviste/cercetari-arheologice/05-cercetari-arheologice-V-1982.pdf
