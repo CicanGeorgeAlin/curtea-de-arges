@@ -402,3 +402,33 @@ Next targets:
 - identify additional medieval settlement/craft microzones.
 
 **Decision: Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+
+## Archaeology / Heritage autopilot — Pass 34 · 22 September 2026
+
+Pass 34 completed an important source-control correction.
+
+The Bătrîna & Bătrîna 1982 article is now treated as a **primary specialist archaeological publication**, rather than merely a bibliographic lead. It records continuation of investigations begun in 1979 and gives direct evidence for a tested area west of Sân Nicoară hill. citeturn0search31
+
+The result is particularly valuable because it includes **negative archaeological evidence**: no material culture or complexes justified expanding research in the two investigated east–west sections, while a partially preserved circular-plan medieval oven was recorded.
+
+The 1981 article is now linked as the preceding publication for the 1979 research programme. citeturn0search7
+
+### Method upgrade
+
+The archive now records settlement investigations using:
+
+**CAMPAIGN → TEST AREA → RESULT → POSITIVE / NEGATIVE → INTERPRETATION**
+
+Negative results are retained, but only within their tested spatial boundaries.
+
+### Gap analysis
+
+Next:
+- extract the 1979 article;
+- identify all 1979–1980 test areas;
+- map their relationship to Sân Nicoară, Curtea Domnească and EMV;
+- search for additional settlement archaeology publications;
+- preserve all negative observations.
+
+**Decision: Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
