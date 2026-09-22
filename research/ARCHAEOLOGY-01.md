@@ -1937,3 +1937,42 @@ The 1982 Pl. IV/6 vessel must remain in the **non-stove glazed ceramic sequence*
 **OPEN — NOT COMPLETE.**
 
 The next logical move is to recover the actual Pl. CXL/1 image from the complete 2017 volume or another reliable full scan. If recovered, compare form, decoration, provenance and catalogue context against Curtea Pl. IV/6. If the physical identity still cannot be demonstrated, retain both as separate objects/examples linked only by comparison.
+
+
+## Re-analysis and gap correction — Pass 68 — 22 September 2026
+
+### Critical citation-control correction: Pl. CXL/1 was previously linked to the wrong sentence
+
+A close reading of the 2018 Câmpulung report resolves the ambiguity left in Pass 67.
+
+The report first describes **farfurii smălțuite** with ring bases, hanging holes and spiral decoration, dated in the Câmpulung report to the 16th century. The sentence says similar pieces were found at Câmpulung and **Curtea de Argeș**, and its footnote is **10**, which cites Bătrîna & Bătrîna, *Cercetările arheologice de la Curtea de Argeș*, **Pl. IV/6**. citeturn6search0turn6search10
+
+Only after that, under decorative ceramic, the report describes a **yellow-glazed cahlă fragment with a horse leg**, interpreted within the iconographic theme „oșteanul ecvestru”. That sentence carries footnote **11**, which cites Rădulescu 2017, **Pl. CXL/1**. citeturn6search0turn6search10
+
+Therefore the earlier assumption that **Pl. IV/6 and Pl. CXL/1 were a paired reference for the same spiral-decorated vessel was incorrect**.
+
+### Corrected citation chain
+
+**CÂMPULUNG 2018 → spiral-decorated glazed plates → comparison to Curtea de Argeș → footnote 10 → Bătrîna & Bătrîna 1982, Pl. IV/6**
+
+Separately:
+
+**CÂMPULUNG 2018 → yellow-glazed stove-tile fragment with horse-leg motif → „oșteanul ecvestru” → footnote 11 → Rădulescu 2017, Pl. CXL/1**
+
+This means the 2017 CXL/1 reference is **not evidence of physical identity with Curtea de Argeș Pl. IV/6**. It is attached to a different object discussion in the Câmpulung report.
+
+### Consequence for the archive
+
+The previous **“Pl. IV/6 ↔ Pl. CXL/1 = UNPROVEN OBJECT IDENTITY”** formulation should be replaced.
+
+The stronger and more accurate status is:
+
+**PL. IV/6 ↔ PL. CXL/1 = NO OBJECT-IDENTITY CLAIM; THE 2018 CITATION STRUCTURE DOES NOT PAIR THEM AS THE SAME OBJECT.**
+
+The Curtea Pl. IV/6 vessel remains a controlled non-stove glazed ceramic reference. The Rădulescu CXL/1 reference remains in the separate stove-tile/iconographic comparison chain.
+
+### New research lead
+
+The horse-leg fragment is now a separate lead worth tracing: determine whether the 2017 Pl. CXL/1 illustration represents the Câmpulung fragment itself, the Băjești analogy mentioned in the text, or another object in Rădulescu's catalogue. That question should be resolved from the 2017 plate/catalogue, not inferred from the footnote alone.
+
+**Stage remains OPEN — NOT COMPLETE.**
