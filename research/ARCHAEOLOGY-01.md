@@ -436,3 +436,33 @@ The archive therefore changes the Olari RAN field from **UNKNOWN** to **CANDIDAT
 
 This is exactly the type of self-correction the project requires: a new lead is neither ignored nor promoted to fact before source control is complete.
 \n\n## Archaeology autopilot — Pass 16 · 22 September 2026\n\nA new source-control pass focused on the relationship between the current RAN inventory, archaeological campaign reports, and the historical urban question.\n\n### Sân Nicoară: broader urban-context evidence\n\nThe 2011 *Cronica* report is more than a building-dating source. Its stated research objectives include the site's relationship to the Domnească area and to the city, as well as questions of enclosure and possible fortification. The report also uses historical images and earlier surveys as evidence. These layers will be kept distinct: excavation observations, documentary/iconographic evidence, and historical interpretation are not interchangeable. citeturn1search0turn2search4\n\n### Olari: candidate status retained, archaeological evidence strengthened\n\nA current County Council Argeș institutional page independently confirms the 1967–1968 restoration exposed foundations of an earlier 15th-century construction and archaeological material including ceramics and coins from the 15th–16th centuries. This strengthens the archaeological-intervention record, but it does **not** independently verify the secondary-source RAN code 13631.09. That code therefore remains **CANDIDATE**. citeturn2search0turn1search1\n\n### New research warning\n\nA search result that repeats a RAN code is not sufficient to promote that code to verified status. Official RAN retrieval remains the required control step. Likewise, an institutional description of an archaeological discovery is evidence for the intervention, not automatically proof of every later historical interpretation attached to it.\n\n### Stage status\n\n**OPEN — NOT COMPLETE.** The archaeological foundation now has a clearer campaign/context distinction, but the municipal inventory and full campaign/publication matrix remain incomplete.
+## Archaeology autopilot — Pass 17 · 22 September 2026
+
+This pass tested the inventory against a second kind of current evidence: administrative heritage documentation, rather than only archaeological databases.
+
+### Current RAN record-date control
+
+Fresh RAN result pages continue to expose Curtea de Argeș records such as Drujești (13631.02), Sân Nicoară (13631.05) and Curtea Domnească (13631.07). The individual pages display 26 April 2023 as their current verification/update date. The archive will therefore distinguish **database access date** from **record update date** in all future source notes. citeturn0search1turn0search2turn0search4
+
+### Municipal planning cross-check
+
+The municipal planning report independently lists archaeological sites including Curtea Domnească, Argeș Monastery and Sân Nicoară. This strengthens the existence/control of those records but does not establish that the table is exhaustive. citeturn0search13
+
+### Spatial-context cross-check
+
+The 2026 County Council statute identifies the Sân Nicoară ruins together with a defined street/area context extending toward the Olari and Drujești churches. This creates a useful future spatial-record connection between sites that should not currently be interpreted as proof of a single archaeological complex. citeturn0search12
+
+### Self-analysis
+
+The research architecture now needs to distinguish not only **archaeological source type**, but also **source function**:
+- discovery/excavation evidence;
+- register/inventory evidence;
+- documentary/historical evidence;
+- administrative/spatial context;
+- scholarly interpretation.
+
+This prevents a current administrative document from being accidentally used to date a monument.
+
+### Stage status
+
+**OPEN — NOT COMPLETE.** The next priority remains the complete municipal archaeological inventory and campaign/publication/context matrix, with special attention to older interventions and sites that appear in heritage or administrative sources but are not yet matched one-to-one to current RAN records.
