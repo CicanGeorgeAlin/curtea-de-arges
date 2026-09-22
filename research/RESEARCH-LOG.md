@@ -1744,3 +1744,25 @@ index.html untouched.
 
 ### Next target
 Object-level catalogue/collection control for MNAR C44 and C81, followed by direct inspection of Drăghiceanu figs. 78–80. The key questions are whether C81 was renumbered, whether the 2007 glaze statement refers to the same surviving pieces, and whether conservation/reconstruction history explains the material-description change.
+
+
+## Pass 101 — 22 September 2026
+
+### Major clarification
+The 2007 article explicitly separates two Curtea de Argeș groups: the 1920 MNAR pair (18 × 13.5 cm and 13 × 10 cm; inventories 4119/C44 and 10073/C81; green/light-green glazed) and two **other unglazed fragments found by Nicolae Constantinescu in 1968**, used for graphic reconstruction. citeturn11search2turn15search33
+
+### Consequence
+The earlier glaze discrepancy cannot be dismissed as a simple confusion between the 1920 MNAR pair and the 1968 pair. The 2000 article itself attaches its unglazed description to the MNAR pair and gives 4119/C44 and 4130/C81. citeturn14search1
+
+### Status
+- MNAR pair: identity strongly bridged across 2000/2007, but C81 numbering differs (4130 vs 10073).
+- Surface description: 2000 unglazed vs 2007 green/light-green glazed.
+- 1968 pair: separately established as two other unglazed fragments.
+- No museum catalogue/collection record resolving C81 renumbering was found in this pass.
+
+### GitHub
+Backup: backup/pass101-pre-research-2026-09-22
+index.html untouched.
+
+### Next target
+Search museum/collection databases and later specialist publications for C44/C81, then inspect the 1923 figures. If no object-level catalogue is discoverable, record the contradiction as permanent unresolved evidence rather than infer a resolution.
