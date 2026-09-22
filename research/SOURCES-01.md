@@ -1839,3 +1839,14 @@ URL: https://cronica.cimec.ro/Public/Detalii.php?k=6103
 Maria-Venera Rădulescu's 2024 article on tournament-scene stove tiles includes Plate II(a), identified as a panel stove tile from Curtea de Argeș, 16th century, with a drawing by Simona Movilă. The article's bibliography again cites the 2017 *Meșteșug, artă, document* synthesis. citeturn0search29
 
 Control point: this later Curtea de Argeș panel tile is a separate comparative object unless an explicit inventory/provenance link to C44/C81 is established. No such link was found in this pass.
+
+
+## S200 — Rădulescu, *Argesis* XXVII (2018): “The Picture of Mircea The Elder ...”
+
+Author: Maria-Venera Rădulescu.  
+Publication: *Argesis — Studii și Comunicări*, XXVII (2018).  
+Coverage: a plate tile from the Royal Court at Curtea de Argeș depicting Mircea the Elder; the issue table of contents identifies the article and page range. citeturn0search5
+
+Control point: this is a later, separately published Curtea de Argeș plate-tile object and is not evidence for MNAR C44/C81. It demonstrates that “Curtea de Argeș + plate tile” is a broader corpus category, so object-level identifiers remain essential.
+
+URL: https://biblioteca-digitala.ro/?volum=26113-argesis-studii-si-comunicari-xxvii-2018
