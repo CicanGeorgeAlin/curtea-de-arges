@@ -2591,3 +2591,44 @@ The Curtea de Argeș stove evidence is now best represented as a chronological/t
 **14th c. disc-tile corpus (Pl. VII)** → **later 15th c. plate-tile corpus at Princely Court** → **16th–17th c. Pl. VI glazed ceramic/cahlă group**
 
 This is a research framework, not a claim that these are a single continuous assemblage.
+
+
+## Stove-tile chronology and provenance matrix — Pass 85 · 22 September 2026
+
+### 1920–1922 evidence is older than the 2016 interpretation and has its own uncertainty
+
+Rădulescu 2016 revisits the stove-tile material recorded during Virgiliu Drăghiceanu's 1920–1922 excavations at the Princely Court. The study states that fragments were found in the **north-west corner of the cellar of the princely house on the south side of the enclosure**, but also explicitly notes that it is unknown whether all 16 photographed fragments came from the same place or were dispersed across the Princely Court area. Their decorative chronology is broad, **15th–17th centuries**. citeturn0search12
+
+This is a major provenance control: the 1920–1922 stove corpus has a documented location at the level of the excavation report, but the individual fragment-to-context linkage is not fully secure.
+
+### Three separate stove evidence layers now controlled
+
+**A. 14th-century disc tiles**
+- Curtea de Argeș Pl. VII, Bătrîna & Bătrîna 1982.
+- Later Rădulescu synthesis places earliest disc-tile examples around c.1370 / second half of 14th century.
+
+**B. 15th-century plate-tile evidence**
+- Rădulescu 2016 study of three unglazed plate-tile fragments with a ceremonial wedding/dance scene.
+- Excavation history: 1920–1922 Princely Court.
+- Study dates iconography to the end of the 15th century. citeturn0search0turn0search12
+
+**C. 16th–17th-century material**
+- Bătrîna & Bătrîna 1982 Pl. VI/1–3 glazed ceramic group; VI/4 cahlă fragment.
+- Exact provenance of each illustrated fragment remains unassigned unless explicitly stated.
+
+### Iconography must remain attributed
+
+The 2016 study interprets the central cross in the dance composition as Christian symbolism connected with a wedding ceremony. The archive records this as **Rădulescu's interpretation**, not as a direct archaeological fact. citeturn0search0turn0search12
+
+### New source-control principle
+
+For early excavations with incomplete field documentation, provenance must have its own confidence field:
+- **EXPLICIT** — directly stated for the object.
+- **GROUP-LEVEL** — stated for a photographed/corpus group.
+- **UNCERTAIN** — source explicitly says exact distribution is unknown.
+
+The 1920–1922 stove fragments currently belong to **GROUP-LEVEL / UNCERTAIN at individual-fragment level**.
+
+### 2024 turnir cahlă remains a separate research object
+
+The 2024 Rădulescu article documents a fragmentary green-glazed plate tile from Curtea de Argeș depicting a mounted tournament knight. Its dimensions are 13.2 × 17 × 1.2 cm; the upper portion and fixing system are missing. The article says the discovery year, exact place and stratigraphy are unknown. It therefore cannot be merged with the 1920–1922 fragments or Pl. VII without new provenance evidence. citeturn0search13
