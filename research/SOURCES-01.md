@@ -719,3 +719,12 @@ Direct primary text confirms the authors interpret the Curtea de Argeș lead sea
 The authors then infer that such a bale would have been expensive and likely acquired by a major Argeș merchant, whom they further infer was probably the owner of L4. This entire merchant-owner step remains **author interpretation**, not independently documented identity. citeturn0search35
 
 This is now separated in the archive into: object function (authors' interpretation supported by comparisons) → economic inference → L4 ownership hypothesis.
+
+
+## S101 — Pass 54: primary-report access limitation recorded
+
+The original 1979 excavation PDF remains confirmed as the primary source for dwelling-by-dwelling context, but the current web text layer failed to expose/search the L4 pages directly. citeturn0search21
+
+No new L4 dimensions, plan details or stratigraphic claims are therefore promoted in this pass. The 1983 numismatic study remains independently controlled for the seal context and identification. citeturn0search0
+
+A later specialist source continues to support L4 as a semi-sunken dwelling with gârlici entrance and first-half-15th-century pottery chronology, but it is retained as secondary corroboration rather than a substitute for the original L4 pages. citeturn0search23
