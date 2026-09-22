@@ -1437,3 +1437,25 @@ index.html untouched.
 
 ### Next target
 Locate and inspect Rădulescu 2000 SCIVA 51 and Drăghiceanu 1923 directly, then compare their provenance/object descriptions with the 2016 and 2024 syntheses.
+
+
+## Pass 87 — 22 September 2026
+
+**Target:** verify the direct source behind the 2024 Curtea de Argeș tournament cahlă and control the 2000 bibliography chain.
+
+### Critical correction
+Pass 86 overstated the role of Rădulescu 2000b. The 2024 paper's footnote 23 for the Curtea de Argeș object points to the Institute of Archaeology “Vasile Pârvan” collection record, with no inventory number and unknown discovery year. Rădulescu 2000b is a general comparative study; a text search of the full PDF found no Curtea de Argeș occurrence. citeturn5view0turn3view0
+
+### 2024 object control
+Fragmentary green-glazed panel stove tile; 13.2 × 17 × 1.2 cm; armored mounted knight; slightly raised tournament lance; upper part and fixing system missing; no inventory number; discovery year and archaeological context unknown. Rădulescu proposes early 16th century, possibly late 15th, while explicitly noting the lack of archaeological context prevents exact dating. citeturn5view0
+
+### 1920–1922 control
+Rădulescu 2016 states that Drăghiceanu's journal records stove tiles in the NW corner of the cellar of the princely house on the south side of the enclosure; a plate shows 16 fragments. Individual fragment provenance remains unresolved. citeturn9search30
+
+### GitHub
+Backup: backup/pass87-pre-research-2026-09-22
+Updated: archaeology, research log, sources.
+index.html untouched.
+
+### Next target
+Continue direct-source reconstruction of the 2024 object's collection history and inspect the original 1923 Drăghiceanu pages/plates for the stove-tile group. Do not merge the two object records.
