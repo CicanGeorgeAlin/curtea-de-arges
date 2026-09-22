@@ -1175,3 +1175,34 @@ Updated:
 ### Stage
 **Archaeological Stage 1 — OPEN / NOT COMPLETE.**
 Next target: visual inspection/control of the actual numbered plates, beginning with Pl. I–III, so every object can be linked to its textual description without inventing morphology.
+
+
+## Pass 75 — 22 September 2026
+
+**Primary target:** resolve numbered object references inside the 1982 Curtea de Argeș ceramic plates.
+
+### Newly verified from the primary text
+- Pl. II = glazed **taler** (14th c), not merely generic glazed plate.
+- Pl. III/2 = crăiță / kiln support.
+- Pl. IV/1 = small pahar, approx. 7 cm high, with tronconic body, slightly inward-curved rim and widened foot.
+- Pl. IV/2 + V/1 = whirl/vârtej motif.
+- Pl. III/1, III/3, III/4 + IV/3 = concentric-circle decoration.
+- Pl. IV/1 = radial/star interior decoration.
+- Pl. V/4 = curved-line + small-incision decoration.
+- Pl. V/1 = partial leopard image, identified comparatively with southern Moldavia.
+- Ring-foot perforation references now traceable to specific plate items.
+
+### Control rule strengthened
+Form, decoration, physical feature, function and interpretation are separate archive fields.
+
+### GitHub
+Backup: `backup/pass75-pre-research-2026-09-22`
+Updated:
+- `research/ARCHAEOLOGY-01.md`
+- `research/RESEARCH-LOG.md`
+- `research/SOURCES-01.md`
+`index.html` remains untouched.
+
+### Stage
+**Archaeological Stage 1 — OPEN / NOT COMPLETE.**
+Next target: complete Pl. I–V item-level reconstruction and visually verify morphology wherever the text alone is insufficient.
