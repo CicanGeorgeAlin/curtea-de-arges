@@ -2190,3 +2190,55 @@ Where an image cannot be recovered, the archive will preserve the textual descri
 ### Stage status
 
 **OPEN — NOT COMPLETE.**
+
+
+## Archaeology autopilot — Pass 74 · 22 September 2026
+
+### Plate-level reconstruction: the 1982 corpus is now much more explicit
+
+The official 1982 article's plate legend and main text allow a more precise reconstruction of the illustrated corpus. The plates are not interchangeable: **Pl. I** contains ornamental ceramic plus pieces discussed as candlesticks/lids; **Pl. II** is a glazed plate; **Pl. III** is glazed ceramic plus a kiln support; **Pl. IV** is glazed ceramic plus one glass item; **Pl. V** is glazed ceramic; **Pl. VI** is 16th–17th-century glazed ceramic plus a stove-tile fragment; and **Pl. VII** is 14th-century stove discs. citeturn2view0
+
+### New controlled plate map
+
+**Pl. I** → ornamental ceramic (1–2) + candlestick/lid problem (3–4), 14th century  
+**Pl. II** → glazed plate, 14th century  
+**Pl. III** → glazed ceramic (1,3,4) + kiln support/crăiță (2), 14th century  
+**Pl. IV** → glazed ceramic (1,2,3,5) + glass (4), 14th century  
+**Pl. V** → glazed ceramic, 14th century  
+**Pl. VI** → glazed ceramic (1–3), 16th–17th centuries + stove-tile fragment (4)  
+**Pl. VII** → stove discs, 14th century
+
+The French plate legend independently confirms the same classification, which is useful because it reduces the risk of OCR ambiguity in the Romanian text. citeturn2view0
+
+### Important correction to the earlier working hierarchy
+
+The earlier shorthand **“Pl. I–V = principally vessel corpus”** was too broad. **Pl. I includes non-vessel functional candidates**, specifically pieces discussed as candlesticks versus lids. The archive now preserves that ambiguity instead of collapsing it.
+
+Likewise, **Pl. III/2 is not a generic vessel**: it is the illustrated crăiță/kiln-support fragment associated with the workshop-production discussion. citeturn2view0
+
+### Object-level chronology map
+
+The article's plate captions assign Pl. I–V material to the 14th century. The excavation context itself is discussed within the 14th–15th-century corpus and comes from the 1980 investigation at Str. Mircea cel Mare nr. 1. Therefore the archive will retain two chronology fields where necessary:
+
+**PLATE/CAPTION CHRONOLOGY** → 14th century  
+**EXCAVATION CORPUS CHRONOLOGY** → 14th–15th century
+
+These are not contradictory; they operate at different levels of precision. Individual object dating should not be made more precise than the evidence permits.
+
+### New object record: Pl. II
+
+The French legend explicitly identifies **Pl. II as a glazed plate from the 14th century**. This is the cleanest directly captioned vessel record after IV/6. citeturn2view0
+
+### New object record: Pl. III/2
+
+The main text associates a **crăiță fragment** with the same context as the workshop rejects and identifies it as a tool used exclusively in kilns for firing glazed ceramics. The plate legend identifies Pl. III/2 as the 14th-century support. This gives the archive a direct object → function/evidence chain without needing to infer that the item is itself a vessel. citeturn2view0
+
+### New object record: Pl. I/3–4
+
+The authors explicitly state that the form of these unglazed pieces can fit either **sfeșnice** or **capace**. They propose distinguishing them through secondary-firing traces, opening size and decorative treatment. This is a valuable example of archaeological classification being evidence-driven but not initially self-evident. citeturn2view0
+
+### Research status
+
+The archive has now moved from a plate bibliography toward an actual **plate/object evidence matrix**. The next target is to recover the visual plates themselves at sufficient resolution to inspect each numbered item and link the image to the textual description, without inventing attributes that the image or caption does not establish.
+
+**Stage 1 — OPEN / NOT COMPLETE.**
