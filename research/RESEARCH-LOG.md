@@ -469,3 +469,20 @@ Still required:
 A specialist numismatic index was cross-checked and revealed that **dwelling 4**, excavated in Curtea de Argeș in 1979, produced a **double lead seal** bearing a fleur-de-lis emblem and the legend “+ DE TOURNAI”. The index directs the reader to the detailed publication in *Cercetări Numismatice* V. citeturn11search23
 
 Methodological consequence: the 1979 campaign must eventually be reconstructed at **structure → find** level, not only as a settlement-chronology exercise. Attribution and interpretation of the seal remain open until the dedicated publication is inspected.
+
+
+## Archaeology / Heritage autopilot — Pass 36 · 22 September 2026
+
+Pass 36 formalized the campaign split between the 1979 and 1980 Bătrîna research programmes. The 1981 and 1982 publications are independently catalogued for Curtea de Argeș, and the 1982 article directly describes the 1980 work west of Sân Nicoară hill. citeturn2view0turn0search23
+
+The archive now treats the evidence as separate spatial records rather than one excavation. A contemporary 1980 review confirms that the Bătrîna excavations contributed evidence for changes in urban dwelling forms from the end of the 13th century into the later 14th century, while the original publications remain the controlling sources for detailed claims. citeturn0search27
+
+### Gap analysis after Pass 36
+
+- 1979 original plan/figures: still required;
+- dwelling-by-dwelling spatial reconstruction: still required;
+- exact relationship between 1979 sectors and the 1980 west-Sân-Nicoară test area: unresolved;
+- 1979 seal publication: identified, but detailed context still to be extracted;
+- EMV remains a separate 1983–1984 microzone.
+
+**Decision: Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
