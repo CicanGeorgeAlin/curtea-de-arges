@@ -388,3 +388,17 @@ A second section, EMV-III, was also part of the campaign. The two sections were 
 These data are retained as a separate **microzone intervention** and are not automatically merged with the stratigraphy of the princely-court enclosure.
 
 **Spatial-control rule:** archaeological observations are attached to their excavated section/microzone before being generalized to any wider historical interpretation.
+
+
+## Pass 33 — EMV rescue archaeology becomes a controlled microzone record
+
+The EMV (extra muros-vest) work is now promoted from a generic “surrounding microzone” reference to a controlled intervention record.
+
+The 1983–1984 rescue campaign took place immediately west of the former Princely Court, along the former Râului/L. Catargiu street. The published account describes the terrace morphology and explains that construction activity exposed/destroyed medieval cultural remains before the archaeological rescue investigation was carried out. citeturn0search16
+
+The authors report:
+- a 13th–14th-century habitation level;
+- construction-related traces interpreted by the authors in relation to the raising of Basarab I's enclosure around c. 1340;
+- a pottery kiln designated **COL 1**, attributed by the authors to the period of Mircea cel Bătrân. citeturn0search16turn0search17
+
+**Control:** these are EMV observations and author interpretations. They are not automatically generalized to the whole historic urban site.
