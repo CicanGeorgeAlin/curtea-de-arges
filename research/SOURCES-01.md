@@ -1943,3 +1943,10 @@ A 1996 BCMI archival catalogue independently lists dossier no. 1394 for Curtea d
 Control point: this independently confirms the dossier as a substantial administrative/documentary unit and adds a catalogue-date nuance: the 1996 archival finding aid gives 1922–1930, whereas the project page has previously described the dossier as 1921–1930. This discrepancy is preserved rather than silently reconciled. Neither catalogue identifies C44/C81 or the later MNAR numbers.
 
 URL: https://biblioteca-digitala.ro/reviste/Buletinul-Comisiunii-Monumentelor-Istorice/BCMI_1996_nr.3-4_114_1.pdf
+
+
+## S212 — Independent historiographic control: 1920–1922 research scope and methodological caution
+
+Nicolae Constantinescu's later synthesis states that Virgil Drăghiceanu's investigations under the former Commission of Historic Monuments took place **20 July–10 September 1920**, covering the interior of St Nicholas Princely Church as well as the wider former princely-court complex and the Sân-Nicoară ruin. The same source stresses that the 1920 investigation did not aim systematically at chronology and that later interpretations require critical control. citeturn0search0
+
+This is useful as a historiographic control for the archive: it supports treating Drăghiceanu's 1920 material as a historically important but methodologically uneven primary documentation layer. It does not identify C44/C81, does not establish museum custody, and does not resolve the 2000/2007 glaze contradiction.
