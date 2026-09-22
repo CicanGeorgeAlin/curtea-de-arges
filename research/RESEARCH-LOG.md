@@ -3079,3 +3079,26 @@ S233 added; Pass 147 recorded; index.html untouched.
 
 ### Next target
 Continue primary-page recovery, with priority on obtaining a readable original scan of Jurnal pp.148–149 and Fig.162.
+
+
+## Pass 148 — 22 September 2026
+
+### Target
+Consolidate the Fig.162 control using independent bibliographic and specialist references, while avoiding any claim of direct inspection.
+
+### Result
+The Greceanu index lists Drăghiceanu's *Jurnalul săpăturilor* with Fig.162 among the Curtea domnească figures and explicitly associates pp.148–149 with excavations inside the princely-court enclosure. citeturn0search26turn0search27 A separate 1994 specialist study independently cites **pp.148–149, Fig.162** for Gothic stone-rib fragments from the 1920 excavations. citeturn0search25
+
+### Significance
+The figure now has a stable bibliographic/provenance identity across independent secondary controls:
+**Jurnalul → pp.148–149 → Fig.162 → 1920 excavation → Gothic stone-rib material.**
+
+### Boundary
+No direct visual inspection of the original Fig.162 has been claimed. Later architectural interpretation remains separately attributed.
+
+### GitHub
+Backup: backup/pass148-pre-research-2026-09-22
+S234 added; Pass 148 recorded; index.html untouched.
+
+### Next target
+Move from citation triangulation back toward primary-page recovery: original pp.148–149 and Fig.162, then the neighboring figures 150–155, 159–160 and 165.
