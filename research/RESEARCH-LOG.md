@@ -1070,3 +1070,19 @@ It does not yet justify:
 
 ### Stage
 **Archaeological Stage 1 — OPEN / NOT COMPLETE.**
+
+## Pass 71 — 22 September 2026
+
+### Objective
+Seek independent confirmation of the CXL/1 citation chain and prevent the Băjești analogy from being conflated with the Câmpulung excavation provenance.
+
+### Verified
+- Official CCA 2019 PDF independently repeats the horse-leg cahlă description, the Băjești/Mareș Băjescu analogy, and note 11 to Rădulescu 2017 Pl. CXL/1. citeturn2search6turn1search10
+- The 2017 Câmpulung excavation report separately records 1666 double-headed-eagle stove-tile fragments from the 2001 sondage and says these findings led to the hypothesis that the site may have contained the house of Mareș Băjescu. citeturn1search7
+
+### Control decision
+The annual CCA repetition strengthens the citation chain.
+The 2001/2017 Câmpulung Mareș Băjescu hypothesis remains separate from the Băjești analogy used for CXL/1.
+
+### Stage
+**Archaeological Stage 1 — OPEN / NOT COMPLETE.**
