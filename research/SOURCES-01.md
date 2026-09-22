@@ -1352,3 +1352,21 @@ Controlled plate map:
 - Pl. V/4 — curved-line/incised decoration and perforation reference.
 
 Control rule: material class is independent of plate number and object function. citeturn0search12
+
+
+## S127 — Pass 77 — visual plate control and correction
+
+Primary source: Bătrîna & Bătrîna, “Cercetările arheologice de la Curtea de Argeș”, *Cercetări Arheologice* V (1982), pp. 95–107. The actual plate images and printed captions were visually checked. citeturn3view0turn4view0turn4view1turn4view2
+
+### Corrected plate facts
+- **Pl. I** has four numbered items: 1–2 ornamental ceramic; 3–4 sfeșnic/capac candidates.
+- **Pl. II** is a glazed taler, 14th century.
+- **Pl. III**: 1,3,4 glazed ceramic; 2 crăiță.
+- **Pl. IV** printed caption: 1,2,3,5 glazed ceramic; **4 pahar**; 14th century.
+- The previous classification of Pl. IV/4 as glass is withdrawn.
+
+### Source anomaly
+The article text contains a reference rendered as “pl. I/5” in the scan/OCR, but the actual Pl. I contains only items 1–4. The archive does not create a Pl. I/5 object from this anomaly. citeturn2view0turn3view0
+
+### Control principle
+Where OCR and the legible printed plate conflict, the legible plate/caption is treated as the stronger source control. Visual inspection does not authorize invented dimensions or functions.
