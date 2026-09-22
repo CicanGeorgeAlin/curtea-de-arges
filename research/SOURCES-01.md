@@ -478,3 +478,11 @@ Research date: September 1965.
 Coverage: two limited archaeological sections beside the Argeș Monastery church, undertaken in connection with consolidation works to the terrace. The published report records removal/disturbance of superficial layers during the 19th-century restoration and documents the stratigraphy observed in the two sections.  
 Use: **primary archaeological survey report** for the 1965 intervention; scope is limited to the two sections and must not be generalized to the entire monastery ensemble.  
 URL: https://biblioteca-digitala.ro/reviste/Argesis/Argesis-05-Studii-si-comunicari-Muzeul-Judetean-Arges-1980_241.pdf
+
+
+## S77 — Nicolae Constantinescu, *Timp și spațiu voievodal în Argeșul istoric (1200–1500)* (2013)
+
+Author: Nicolae Constantinescu. Publisher: Editura Ordessos, Pitești, 2013. Bibliographic record: 358 p.; archaeology/history; ISBN 978-606-93332-7-3.  
+Coverage: later synthesis by the principal archaeologist of the Curtea Domnească research programme. The digitized text contains plans and stratigraphic profiles for the 1967–1973 research, including a 1969 excavation plan for the Domnească Church and profiles from 1968 sections. It identifies archaeological levels and construction horizons including a 13th-century level, a first-half-14th-century enclosure/construction phase, a c.1369 church construction level, and later medieval deposits. It also documents later microzone research and finds such as iron-working slag, a pottery kiln and pottery-making tools in areas of the historic voivodal centre.  
+Use: **later specialist synthesis / publication-level control**, not a substitute for the original excavation notebooks or campaign reports. Chronological statements remain attributed to Constantinescu's synthesis. citeturn1search23turn1search0  
+URL: https://biblioteca-digitala.ro/reviste/carte/muzeul-arges/CONSTANTINESCU_Timp-spatiu-voievodal-Argesul-istoric_2013.pdf
