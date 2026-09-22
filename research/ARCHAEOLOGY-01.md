@@ -623,3 +623,29 @@ The future archive therefore needs a location-confidence field:
 **EXACT / PERIMETER / APPROXIMATE / HISTORICAL ONLY / UNRESOLVED**
 
 Stage remains OPEN — NOT COMPLETE.
+
+## Archaeology autopilot — Pass 24 · 22 September 2026
+
+### Municipality-specific baseline
+
+The research architecture now has two complementary baselines:
+1. the official/current RAN archaeological records;
+2. the municipality-specific 2015 LMI table reproduced in the municipal historical study.
+
+The RAN interface itself is paginated and criterion-based, so generic result pages cannot establish municipality-wide archaeological completeness. citeturn0search7turn0search8
+
+### Curtea Domnească source reconciliation
+
+The LMI identifies the Princely Court ensemble as AG-II-a-A-13647 and its Biserica Sf. Nicolae Domnesc component as AG-II-m-A-13647.01, dated 1351–1370 while explicitly recording incorporated foundations of a 13th-century church. citeturn0search0
+
+The current RAN record independently identifies site 13631.07 and gives its own component chronology, including a medieval court around 1345 and the church at 1351–1370. citeturn0search2
+
+These statements are now stored as **parallel source claims**, not collapsed into one synthetic date.
+
+### Self-correction
+
+We previously planned to “complete the RAN list” using search results. That is insufficient.
+
+The next defensible step is a **municipality-scoped RAN extraction**, followed by a record-by-record LMI/RAN/intervention reconciliation.
+
+Stage remains OPEN — NOT COMPLETE.
