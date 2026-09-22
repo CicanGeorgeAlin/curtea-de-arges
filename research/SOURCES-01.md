@@ -312,3 +312,12 @@ Coverage: current indexed RAN result set used to revalidate Curtea de Argeș arc
 
 URL: https://ran.cimec.ro/sel.asp?Ojud=1&Omod=2&codran=65351.44&nr=56
 
+
+## S37 — Secondary lead for Olari RAN 13631.09
+
+Publication: George V. Grigore, “Biserica Adormirea Maicii Domnului – Olari din Curtea de Argeș (1687) – unicat în zonă”, 28 August 2022.  
+Coverage: identifies the Olari church as RAN 13631.09 and repeats its LMI identifiers and archaeological-restoration history.
+
+Use: **secondary-source lead only**. The RAN code 13631.09 remains CANDIDATE until the official RAN record is independently retrieved and reconciled.
+
+URL: https://ziarulnatiunea.ro/2022/08/28/biserica-adormirea-maicii-domnului-olari-din-curtea-de-arges-1687-unicat-in-zona/
