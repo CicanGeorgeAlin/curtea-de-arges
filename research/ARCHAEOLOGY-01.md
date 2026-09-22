@@ -1364,3 +1364,27 @@ Current L4 status remains:
 - architecture, dimensions, plan, stratigraphy: OPEN.
 
 **Stage 1 remains OPEN.**
+
+
+## Pass 57 — 22 September 2026 · p.153 retrieval control
+
+The primary 1983 trade-seal article cites the 1979 settlement report specifically at pp.144 and 153 in the L4 discussion. This makes p.153 the strongest next target for an independent reconstruction of L4's archaeological context.
+
+A fresh search located the complete 1979 article in the Digital Library of Romania, identified as *Cercetări Arheologice*, IV (1981), pp.144–171. The web index exposes the article and its opening methodology, but the current interface does not expose the actual text of p.153. citeturn1search4turn1search1
+
+Accordingly, no new plan, dimensions, stratigraphy, construction technique or object inventory is inferred for L4. The 1983 primary article remains the controlling source for the statements that L4's remains were burned and that the authors proposed an association between the cloth merchant and ownership of L4. citeturn4search41
+
+### Evidence state after Pass 57
+
+- 1979 excavation report identified: **YES**
+- p.153 retrieval target: **YES**
+- p.153 text independently extracted: **NO**
+- L4 burned remains: **YES — primary 1983 article**
+- Tournai seal associated with 1979 urban dwelling/L4: **YES — primary 1983 article**
+- exact L4 architecture: **OPEN**
+- exact L4 stratigraphy: **OPEN**
+- exact L4 spatial position: **OPEN**
+- merchant identity: **NOT ESTABLISHED**
+- merchant-as-owner claim: **AUTHOR HYPOTHESIS**
+
+**Decision: Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
