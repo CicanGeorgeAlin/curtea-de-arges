@@ -2445,3 +2445,28 @@ S211 added; Pass 125 recorded; index.html untouched.
 
 ### Next target
 Use the independent finding aid to refine the page-level dossier search, prioritizing 1922–1930 correspondence, museum-facing documents, payment records and plans, while preserving the 1921/1922 date discrepancy as a catalogue-level issue.
+
+
+## Pass 126 — 22 September 2026
+
+### Target
+Add an independent historiographic control around the scope and methodological status of the 1920 Drăghiceanu investigations, without conflating later interpretations with primary evidence.
+
+### Result
+Nicolae Constantinescu's synthesis states that Drăghiceanu's investigations under the former Commission of Historic Monuments ran from **20 July to 10 September 1920** and extended beyond the church interior to the former princely-court complex and Sân-Nicoară. It also explicitly cautions that the 1920 investigation was not designed as a systematic chronological study and that some of Drăghiceanu's later conclusions were contested. citeturn0search0
+
+### Why this matters
+This reinforces the archive's separation between:
+- primary 1920 field documentation;
+- Drăghiceanu's 1923 publication;
+- later archaeological reassessment;
+- later interpretive synthesis.
+
+It is a methodological control, not evidence for C44/C81 custody or identity.
+
+### C44/C81 status
+Unchanged: 4119/C44 stable; C81 4130 vs 10073 unresolved; 2000 unglazed vs 2007 green/light-green glazed unresolved.
+
+### GitHub
+Backup: backup/pass126-pre-research-2026-09-22
+S212 added; Pass 126 recorded; index.html untouched.
