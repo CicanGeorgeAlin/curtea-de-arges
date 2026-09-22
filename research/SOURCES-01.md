@@ -874,3 +874,22 @@ Controlled Pass 62 evidence:
 Source links:
 https://cercetari-arheologice.ro/wp-content/uploads/2020/01/ca04-15_Bitrina_Bitrina_Curtea_Arges.pdf
 https://cercetari-arheologice.ro/wp-content/uploads/2020/01/ca05-12_Bitrina_Bitrina_Curtea_Arges.pdf
+
+
+## S91 — Pass 63 — 1980 campaign ceramic and stove-material study
+
+Primary source: Lia Bătrîna & Adrian Bătrîna, “Cercetările arheologice de la Curtea de Argeş”, *Cercetări Arheologice* V (1982), pp.95–107.
+
+Controlled evidence:
+- Str. Mircea cel Mare nr.1: four sections; unified stratigraphy; enclosure-wall construction level around 1340.
+- Material from the walking level: ceramics dated from the end of the 14th to the middle of the 15th century.
+- Later refuse pits cut 14th–15th-century occupation levels and contain 16th–17th-century ceramics.
+- Unglazed objects can be differentiated as candlesticks vs lids using secondary firing traces, opening size and decoration.
+- Numerous unglazed sgraffito fragments and a crăiță/kiln support are interpreted as evidence for a nearby pottery workshop; exact workshop location remains OPEN.
+- 14th–15th-century glazed forms include strachină, farfurie and taler; decoration includes sgraffito, geometric, vegetal and zoomorphic motifs.
+- Stove material includes discs and rectangular/triangular plates with decorative and figurative elements.
+- 16th–17th-century glazed ceramics display later decorative techniques; the authors caution that some chronological assignments in this period had previously been inaccurate.
+- Campaign conclusion explicitly notes that no complete habitation complex was intercepted.
+
+Official PDF:
+https://cercetari-arheologice.ro/wp-content/uploads/2020/01/ca05-12_Bitrina_Bitrina_Curtea_Arges.pdf
