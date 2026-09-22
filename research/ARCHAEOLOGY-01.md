@@ -1871,3 +1871,32 @@ A 2022 *Cronica Cercetărilor Arheologice* record also cites the 1982 Curtea de 
 **OPEN — NOT COMPLETE.**
 
 The next high-value target is now to recover the **1982 Plate IV/6 object directly**, identify exactly what object is illustrated there, and compare it against the 2017/2022 later references without assuming identity. After that, return to the non-stove ceramic groups so the material-culture archive remains balanced.
+
+
+## Re-analysis and gap check — Pass 66 — 22 September 2026
+
+### Plate IV/6: the later comparison is controlled, but object identity is still unproven
+
+Pass 66 revisited the exact **Pl. IV/6** reference from the 1982 Curtea de Argeș publication. The 2022 *Cronica Cercetărilor Arheologice* report for Câmpulung cites Bătrîna & Bătrîna's Curtea de Argeș publication at **Pl. IV/6** and immediately follows it with Rădulescu's 2017 *Meșteșug, artă, document* at **Pl. CXL/1**. citeturn0search0
+
+The 2018 archaeological chronicle independently repeats the same paired citation. citeturn0search17
+
+This proves that the two references circulated together as a later comparative citation. It does **not** prove that Pl. IV/6 and Pl. CXL/1 depict the same physical Curtea de Argeș object. Both later sources are discussing **Câmpulung** archaeological material, so the Curtea de Argeș references must remain comparative rather than being reassigned to the Câmpulung excavation. citeturn0search0turn0search17
+
+### Source-control decision
+
+The archive therefore records:
+
+**CITING EXCAVATION → CITED CURTEA SOURCE → PLATE/FIGURE → COMPARATIVE PURPOSE → OBJECT IDENTITY STATUS**
+
+For **Pl. IV/6 ↔ Pl. CXL/1**, current status is:
+
+**OBJECT IDENTITY = UNPROVEN.**
+
+No object will inherit the 2017 chronology merely because the two plate references appear together in later bibliography.
+
+### Stage status
+
+**OPEN — NOT COMPLETE.**
+
+The next target is to recover the actual 1982 plate image and caption from a reliable scan. If the plate can be visually controlled, we can compare it directly with the 2017 illustration; if not, the archive will preserve the comparison as unproven and move on to the non-stove ceramic sequence.
