@@ -756,3 +756,27 @@ RAN 13631.10 maps to LMI AG-II-a-A-13628 and currently exposes church 1512–151
 The next task is not to repeat those dates, but to find the archaeological/restoration publications and reconcile the broader LMI component structure against the RAN record.
 
 Stage remains OPEN — NOT COMPLETE.
+
+## Archaeology autopilot — Pass 29 · 22 September 2026
+
+### Curtea Domnească: the archaeological history now has at least two major excavation phases
+
+A specialist study records excavations inside the Princely Court from **9 October 1920 to 1 April 1922**. The excavation journal mentions stove tiles from the north-west corner of the princely-house basement. Their broad dating is 15th–17th centuries, but the study warns that it is uncertain whether all fragments came from the same location. citeturn0search22
+
+This is an important evidence-control example:
+**find + approximate date + uncertain spatial context**
+must remain distinct from:
+**securely proven archaeological context**.
+
+The study then documents the resumption of archaeological work in **1967**, under the Institute of Archaeology “Vasile Pârvan”, including identification of earlier church foundations around the 13th century and clarification of construction phases and plans. citeturn0search22
+
+Constantinescu's 1984 synthesis confirms that the 1967–1973 research programme was specifically concerned with the voivodal core inside the modern city, not the modern city as a whole. citeturn0search4
+
+### Self-correction
+
+The archaeological story of Curtea Domnească should no longer be represented as simply “excavated 1967–1973”.
+
+The minimum intervention chain now includes:
+**1920–1922 historical excavation → 1967–1973 systematic programme → published specialist synthesis → later reassessments**
+
+Stage remains OPEN — NOT COMPLETE.
