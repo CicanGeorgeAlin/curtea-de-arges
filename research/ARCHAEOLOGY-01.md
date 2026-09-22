@@ -2388,3 +2388,28 @@ The article text identifies **Pl. VI/4** as a figurative stove-tile fragment (Ma
 We now use a three-state source model for plate references:
 **CONTROLLED OBJECT** / **TEXTUAL ANOMALY** / **UNRESOLVED INTERNAL CONFLICT**.
 This will prevent later database or map layers from treating publication inconsistencies as archaeological facts.
+
+
+## Archaeological source-control expansion — Pass 79 · 22 September 2026
+
+### Independent bibliographic confirmation
+
+The official *Cercetări Arheologice* index lists Bătrîna & Bătrîna, “Cercetările arheologice de la Curtea de Argeș”, volume V (1982), pp. 95–107. Biblioteca Digitală also independently catalogs the same article and page range. citeturn0search0turn0search1
+
+### Independent control of the ring-foot perforation corpus
+
+A later archaeological publication on medieval ceramics from Suceava explicitly cites the Curtea de Argeș 1982 report and identifies the Curtea examples with suspension holes at **Pl. III/1, III/4; Pl. IV/1–3, 5; and Pl. V/2**. This is useful because it introduces a new controlled reference to **Pl. V/2** and confirms that the suspension-hole evidence was understood by later specialists as a group of vessels with ring feet and holes. citeturn0search24
+
+### Important consequence: Pl. V must not be treated as fully resolved yet
+
+The later specialist citation differs from our earlier reconstruction, which had associated Pl. V/4 with the perforation evidence. We therefore mark the exact Pl. V item reference as **source reconciliation required**, rather than choosing between the 1982 text and the later citation without checking the original plate.
+
+### Stove-disc chronology control
+
+The same later source distinguishes the Curtea examples of suspended vessels from stove material, while the 1982 report's bibliography and later literature independently cite **Pl. VII** for the Curtea de Argeș 14th-century stove-disc corpus. The archive keeps these object families separate:
+
+**SUSPENSION-HOLE VESSELS ≠ STOVE DISCS ≠ STOVE-TILE PLATES**.
+
+### New research rule
+
+A later citation can confirm that an object/reference was used in scholarship, but it cannot silently override the primary publication. When later literature gives a different plate number, the archive records the discrepancy and returns to the primary plate for final resolution.
