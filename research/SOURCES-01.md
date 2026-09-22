@@ -1970,3 +1970,12 @@ Rădulescu 2016 states that archaeological research at the Princely Court began 
 A separate CMI archival study identifies dossier 1394, sheet 66, as a Drăghiceanu reimbursement request for excavation works executed from September 1922 to January 1923. citeturn0search0
 
 Therefore the archive must preserve a chronological distinction rather than assume these are one continuous excavation campaign. The relationship between the 1 April 1922 end-date reported for the main enclosure excavations and the September 1922–January 1923 expenditure documentation remains unresolved. Possible explanations include later supplementary work, a different work package, administrative accounting period, or differing scope; none is asserted without the underlying sheets.
+
+
+## S215 — Bibliographic chronology control: Drăghiceanu's 1920–1923 Curtea Domnească documentation
+
+The BCMI contents for the 1917–1923 volume independently list Drăghiceanu's **“Curtea Domnească din Argeş. Note istorice şi arheologice”** and, separately, **“Jurnalul săpăturilor din Curtea Domnească a Argeşului”**, the latter beginning at p.134. The same contents also list Moisil's **“Monete vechi găsite în săpăturile de la Curtea de Argeş”** and Rainer's anthropological study of remains from the excavations. citeturn0search0
+
+This confirms that the 1917–1923 BCMI volume contains multiple distinct documentary/analytical components concerning the Curtea excavations. It is therefore unsafe to treat every statement in the volume as if it came from a single report or a single field campaign. This supports maintaining separate identities for Drăghiceanu's historical-archaeological notes, the excavation journal, specialist studies, and later museum-object publications.
+
+No C44/C81 inventory numbers are established by this bibliographic control.
