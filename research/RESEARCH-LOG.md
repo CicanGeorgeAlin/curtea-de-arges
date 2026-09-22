@@ -824,3 +824,22 @@ The ceramic narrative begins after the Fig. 6 sheet. The report treats L4 as a c
 The 1983 Tournai-seal study was cross-checked again. Its object chronology must remain separate from the 1979 architectural chronology: L4 is dated by the excavation report to the last decades of the 14th century, while the seal is dated by the 1983 authors to after the 1426 Tournai heraldic change. No reconciliation is asserted.
 
 Next target: complete the L4 stove/tile evidence extraction, then deliberately move back to the broader 1979 campaign and L1–L3.
+
+
+## Pass 61 — 22 September 2026
+
+Recovered the stove section of the 1979 primary excavation report.
+
+Key finding: **Fig. 14 is directly confirmed as L4 stove-tile evidence**, showing two pot-shaped stove tiles and one disc tile from the L4 fill, with the illustrated material assigned to the second half of the 14th century. The report explicitly says stove tiles, smoke flues and daub fragments from L4 demonstrate a stove in the complex. Smoke flues are described as approximately 45–50 cm high and up to 28 cm maximum diameter. citeturn3view0
+
+The authors place the stove in the last decades of the 14th century and compare it with a tiled stove from a timber cellar house at Târgoviște. This is preserved as authorial comparative interpretation, not as a universally established diffusion model. citeturn3view0
+
+The pass also re-centers the research on the broader 1979 settlement evidence:
+- L1: two phases, late 13th/early 14th and first half of 14th century; simple hearth followed by raised oven.
+- L2: two phases, first decades of 14th century; partly destroyed by L4.
+- L3: mid-14th-century surface dwelling with river-stone socle and compacted clay floor.
+- L4: last decades of 14th century, burned timber/cellar complex with tiled stove. citeturn1view0turn2view0
+
+Important methodological result: this creates a controlled **local excavation sequence**, not a complete chronology for the entire medieval city. The original investigators explicitly sampled vacant plots aligned with streets to test the hypothesis that part of the modern street network preserved the medieval one. citeturn1view0
+
+Next target: individual L1/L2/L3 evidence chains, then the 1980 continuation.
