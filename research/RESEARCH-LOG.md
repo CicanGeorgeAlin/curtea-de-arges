@@ -486,3 +486,20 @@ The archive now treats the evidence as separate spatial records rather than one 
 - EMV remains a separate 1983–1984 microzone.
 
 **Decision: Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+
+## Archaeology / Heritage autopilot — Pass 37 · 22 September 2026
+
+Pass 37 closed the bibliographic loop around the unusual dwelling-4 seal. ProEuropeana identifies the dedicated 1983 Bătrîna & Bătrîna study of a 15th-century trade seal discovered at Curtea de Argeș, *Cercetări Numismatice*, V, pp. 197–211. citeturn0search1
+
+The archive now separates the find from the later interpretation: the seal is a 1979 dwelling-4 find; “15th-century trade seal” is the classification in the 1983 publication title; detailed dating, inscription and commercial interpretation remain to be extracted from that primary study.
+
+### Gap analysis after Pass 37
+
+- 1983 seal article identified: **YES**;
+- 1983 article detailed extraction: **OPEN**;
+- 1979 original excavation plan: **OPEN**;
+- dwelling-by-dwelling spatial reconstruction: **OPEN**;
+- exact relationship between 1979 sectors, 1980 tests and EMV: **OPEN**.
+
+**Decision: Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
