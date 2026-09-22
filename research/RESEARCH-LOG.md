@@ -1480,3 +1480,29 @@ index.html untouched.
 
 ### Next target
 Inspect/materialize the actual 1923 PDF and perform page/plate-level control of p.148 and Fig.305; then compare any original descriptions with Rădulescu 2016.
+
+
+## Pass 89 — 22 September 2026
+
+**Major correction:** the 2016 wedding/dance tile fragments do have a stated collection/inventory identity. Rădulescu 2016 footnote 28 gives **Institutul de Arheologie „Vasile Pârvan”, București, nr. inv. I 5882**. citeturn1view1
+
+### Controlled object record
+Three selected fragments, 8.6 × 6.8 cm; 12.7 × 9.4 cm; 16 × 7.8 cm, derive from two or possibly three rectangular plate-tile examples. The reconstructed plate may have been c.22 × 17 cm; reverse mounting frame c.2 cm wide. citeturn1view1
+
+### Provenance model
+Collection identity = EXPLICIT (I 5882).
+Campaign/site = EXPLICIT (1920–1922, Princely Court of Argeș).
+Exact findspot = UNKNOWN.
+Stratigraphy = UNKNOWN.
+Individual fragment-to-findspot mapping = UNKNOWN.
+
+### Correction to previous passes
+The “inventory number unknown” statement is withdrawn for this **I 5882 wedding/dance group**. It remains unresolved for the separate 2024 tournament cahlă unless another source provides it.
+
+### GitHub
+Backup: backup/pass89-pre-research-2026-09-22
+Updated archaeology, research log, sources.
+index.html untouched.
+
+### Next target
+Separate the I 5882 group into object-level records (a/b/c and probable two-or-three tiles), then trace I 5882 through later publications/catalogues for any recovered excavation or accession metadata. Keep the 2024 tournament cahlă separate.
