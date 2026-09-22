@@ -2769,3 +2769,23 @@ Fragment-to-findspot mapping: NOT ESTABLISHED.
 
 ### Research consequence
 The next high-value target is not another general stove-tile typology paper. It is the **accession/provenance history of I 5882**: later catalogues, excavation inventories, museum records, or publications that may preserve information lost from the 2016 article.
+
+
+## Pass 91 — I 5882 chain-of-custody search: no new accession metadata found
+
+A targeted web search for **“I 5882” + Curtea de Argeș / Institutul de Arheologie / cahle** was performed. The only directly relevant indexed result was the 2016 Rădulescu article itself, which confirms inventory **I 5882** and the three measured fragments. No independent catalogue, accession register, or later publication was located in the returned results that adds an earlier accession date, donor/transfer record, excavation parcel, stratigraphic layer, or fragment-level findspot. citeturn0search36
+
+### Evidence status after Pass 91
+- I 5882 collection identity: **EXPLICIT**.
+- Three studied fragments and dimensions: **EXPLICIT**.
+- Parent-tile count: **two or possibly three**.
+- 1920–1922 campaign association: **supported by the 2016 study**.
+- Exact excavation location: **UNRESOLVED**.
+- Stratigraphy: **UNRESOLVED**.
+- Accession/transfer history between excavation and modern collection: **UNRESOLVED**.
+
+### Search-control note
+A numerical inventory search alone produces many unrelated uses of “5882”; therefore no unrelated catalogue record has been attached to I 5882. The archive requires matching institution + object + Curtea de Argeș before treating an inventory hit as relevant.
+
+### Research decision
+Do not manufacture a chain of custody. The current evidence supports a **collection identity**, but not an accession history. The next productive target is the institutional/archaeological bibliography around the 1920–1922 excavation and later Curtea de Argeș stove-tile publications, looking for references that reproduce I 5882 or the three dimensions.
