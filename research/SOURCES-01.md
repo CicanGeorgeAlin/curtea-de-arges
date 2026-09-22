@@ -1283,3 +1283,52 @@ The article's plate captions assign Pl. I–V to the 14th century, while the exc
 This prevents an object from receiving a falsely precise chronology simply because its plate belongs to a 14th-century illustrated group.
 
 Source: citeturn2view0
+
+
+## S122 — Pass 75 — numbered plate/object cross-references
+
+Primary source: Bătrîna & Bătrîna, “Cercetările arheologice de la Curtea de Argeș”, *Cercetări Arheologice* V (1982), pp. 95–107.
+
+Controlled primary cross-references:
+- **Pl. II** — glazed taler, 14th century.
+- **Pl. III/2** — crăiță / kiln support, 14th century.
+- **Pl. IV/1** — small cup/pahar, approximately 7 cm high, tronconic, slightly inward-curved rim, widened foot.
+- **Pl. III/1, III/3, III/4 + Pl. IV/3** — concentric-circle decoration.
+- **Pl. IV/1** — radial/star interior decoration.
+- **Pl. IV/2 + Pl. V/1** — whirl/vârtej motif.
+- **Pl. V/4** — curved-line decoration with small incised lines.
+- **Pl. V/1** — partial leopard image; identification made by comparison with a southern Moldavian example.
+- Ring-foot perforation references include **Pl. III/1, III/4, Pl. IV/1, IV/2, IV/3, IV/5 and Pl. V/4**.
+
+Source: citeturn0view0
+
+## S123 — Pass 75 — Pl. II stabilized classification
+
+The article's page header identifies Pl. II as **taler smălțuit din secolul XIV** — a glazed taler from the 14th century.
+
+Control:
+**FORM = TALER**
+**MATERIAL/FINISH = GLAZED CERAMIC**
+**PLATE = II**
+**CAPTION DATE = 14th century**
+
+This replaces the earlier less precise description “glazed plate”.
+
+Source: citeturn0view0
+
+## S124 — Pass 75 — Pl. IV/1 cup record
+
+Primary text describes the small cups as approximately 7 cm high, tronconic, with a slightly inward-curved rim and widened foot, and explicitly points to **Pl. IV/1**. The authors interpret their reduced dimensions as suggesting use with stronger alcoholic drinks; this is retained as an authorial interpretation, not a demonstrated function.
+
+Control:
+**OBJECT FORM = PAHAR / SMALL CUP**
+**PHYSICAL DESCRIPTION = APPROX. 7 cm, TRONCONIC, INWARD-CURVED RIM, WIDENED FOOT**
+**FUNCTION = AUTHORIAL INTERPRETATION**
+
+Source: citeturn0view0
+
+## S125 — Pass 75 — decoration is not function
+
+The primary report connects individual plate items to decorative motifs, while separately discussing functional classification and ring-foot perforations. The archive therefore keeps **form**, **decoration**, **physical feature**, **function** and **interpretation** as independent fields.
+
+Source: citeturn0view0
