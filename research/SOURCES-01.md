@@ -590,3 +590,15 @@ The National Museum of Romanian History journal index confirms the 1979 Curtea d
 A later specialist bibliography points to specific illustrations/pages from this 1979 report: p.166, fig.14/3 and p.103, pl.VII in the 1982 continuation are cited together in a later archaeological discussion. This is a lead for reconstructing the dwelling/find spatial context, not yet proof of what the cited figure depicts. citeturn0search25
 
 The original 1981 PDF and 1983 seal PDF were located by search but could not be reliably opened through the current web text interface. Therefore no new figure-level claim is promoted to verified status in this pass.
+
+
+## S88 — Pass 41: correction of the 1979 figure-reference interpretation
+
+A new cross-check shows that the frequently cited **pp.166–167, fig.14** of the 1979 report are used in later scholarship specifically for evidence concerning **stove/tile-heater remains in urban dwellings at Curtea de Argeș**. A specialist catalogue cites these pages in its discussion of ceramic stove tiles found in townspeople's dwellings. citeturn5search17turn5search0
+
+Therefore the earlier Pass 40 wording treating fig.14/3 as a direct lead to the spatial position of **dwelling 4 and the Tournai seal** was too broad. The archive now separates the two leads:
+
+- **Dwelling 4 / Tournai seal:** established through the 1983 trade-seal study and cumulative numismatic index.
+- **1979 pp.166–167 / fig.14:** independently useful for urban dwelling/heating evidence, but not yet proven to depict dwelling 4 or the seal context.
+
+This correction prevents a secondary citation trail from being mistaken for direct archaeological context.
