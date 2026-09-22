@@ -2323,3 +2323,37 @@ The plate legend assigns 14th-century dating to Pl. I–V, while the excavation'
 
 ### Stage
 The textual audit of Pl. I–V is now stable enough for an initial object map. Complete morphological reconstruction is still open until the actual numbered plate images are visually controlled.
+
+
+## Archaeological plate visual control — Pass 77 · 22 September 2026
+
+The actual plate images in the 1982 primary publication were visually checked against the textual descriptions. This produced an important correction to the previous pass.
+
+### Critical correction: Pl. IV/4 is the pahar, not glass
+
+The printed plate legend states: **Pl. IV — ceramică smălțuită (1, 2, 3, 5) și pahar (4), din sec. al XIV-lea**. The image confirms item 4 is the small cup/pahar. Therefore the previous Pass 76 statement that **Pl. IV/4 was glass is withdrawn**.
+
+### Pl. IV visual control
+
+- IV/1, IV/2, IV/3 and IV/5 are the items grouped by the printed legend as glazed ceramic.
+- IV/4 is the small cup/pahar and matches the text description of approximately 7 cm, tronconic body, slightly inward-curved rim and widened foot.
+- A further item marked **IV/6** appears in the drawing; its exact formal classification must be reconciled against the publication text before being entered as a separate controlled object.
+
+### Pl. I visual control
+
+The plate image confirms four numbered objects only: I/1–2 ornamental ceramic; I/3–4 the pieces discussed as sfeșnic/capac candidates. The textual/OCR occurrence rendered as “pl. I/5” therefore cannot safely create a fifth object.
+
+### Pl. II visual control
+
+Pl. II is a single glazed taler with a broad circular form, ring foot and decorated face; the printed caption explicitly identifies it as a 14th-century taler.
+
+### Pl. III visual control
+
+The plate contains four numbered objects. The printed caption identifies 1,3,4 as glazed ceramic and 2 as a crăiță from the 14th century. Item 2 is retained as production/kiln evidence, not vessel evidence.
+
+### Methodological correction
+
+Visual plate evidence is now used to control OCR and transcription errors where the scan is legible. Visual inspection alone is not used to invent dimensions, manufacturing technique or function.
+
+### Stage
+**Archaeological Stage 1 — OPEN.** Pl. I–IV have now received textual + visual control. Pl. V remains to be fully reconciled item-by-item.
