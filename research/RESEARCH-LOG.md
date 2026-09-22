@@ -843,3 +843,41 @@ The pass also re-centers the research on the broader 1979 settlement evidence:
 Important methodological result: this creates a controlled **local excavation sequence**, not a complete chronology for the entire medieval city. The original investigators explicitly sampled vacant plots aligned with streets to test the hypothesis that part of the modern street network preserved the medieval one. citeturn1view0
 
 Next target: individual L1/L2/L3 evidence chains, then the 1980 continuation.
+
+
+## Pass 62 — 22 September 2026
+
+The 1979 primary report was re-read specifically for L1, L2 and L3 rather than treating the four dwellings as one chronology.
+
+L1:
+- two phases before the Princely Court enclosure;
+- phase 1: light timber/wattle-and-daub semi-sunken dwelling, central hearth, refuse pit, fragmentary oală-borcan pottery, bronze rosette appliqué;
+- phase 2: thicker posts, compacted clay floor, vaulted oven on a c.25 cm masonry socle;
+- excavators interpret the heating system as predating tiled stoves;
+- pottery technology becomes more varied in phase 2. citeturn0view0turn1view0
+
+L2:
+- Str. Castanilor nr. 2;
+- partly destroyed by L4;
+- partial gârlici with c.15 cm posts;
+- two phases;
+- first decades of 14th century;
+- explicitly considered contemporary with L1;
+- classified by the excavators as a semi-sunken/simple timber structure. citeturn1view1
+
+L3:
+- succeeds L1/L2 around mid-14th century;
+- surface dwelling;
+- river-stone wall socle and compacted clay floor;
+- floor-level pottery is treated as reference material for 14th-century ceramic development, especially decoration; white-painted decoration is prominent. citeturn1view1
+
+Important interpretive control: the authors' suggestion that L1 belonged to servants of the voivodal residence remains an interpretation, not an identified household. citeturn1view1
+
+The 1980 continuation was also incorporated as a separate campaign:
+- west of Sân Nicoară: two sections largely negative, with one circular oven about 1.05 m diameter; dating remains broad/uncertain;
+- northeast of Sân Nicoară: six sections tested a reported wall; excavators rejected a medieval defensive interpretation for that tested wall and dated it no earlier than late 18th/possibly early 19th century;
+- Str. Mircea cel Mare nr. 1: four sections documented the Princely Court enclosure-wall construction level and later occupation/refuse deposits. citeturn2view0
+
+Methodological result: negative archaeology is now explicitly recorded as **tested-area evidence**, never city-wide absence.
+
+Next: detailed 1980 ceramic/architectural extraction and integration with the 1982 publication.
