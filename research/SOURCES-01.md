@@ -1471,3 +1471,14 @@ Rădulescu 2016 studies three unglazed plate-tile fragments from the 1920–1922
 ## S142 — Pass 85 — 2024 tournament cahlă
 
 Rădulescu 2024 describes a fragmentary green-glazed plate tile from Curtea de Argeș, 13.2 × 17 × 1.2 cm, depicting an armored mounted tournament knight. The upper part and fixing system are missing; discovery year, exact place and stratigraphy are unknown. citeturn0search13
+
+
+## S143 — Pass 86 — 2024 tournament-tile bibliography correction
+
+The 2024 Rădulescu article lists **Rădulescu 2000, “Noi cahle medievale decorate cu scene de turnir (secolele XIV–XVI),” SCIVA 51 (2000), 1–2, pp. 93–102** as bibliography item/reference 28. The earlier working note identifying “reference 23” is corrected. citeturn0search24
+
+## S144 — Pass 86 — 2016 wedding-tile source chain
+
+Rădulescu 2016 identifies three unglazed plate-tile fragments with dancers, bagpiper and central cross as material from the 1920–1922 Princely Court excavations led by Virgiliu Drăghiceanu. The bibliography cites Drăghiceanu 1923, including “Jurnalul săpăturilor din Curtea Domnească a Argeșului,” pp. 134–150. citeturn0search2turn0search25
+
+Control: campaign provenance is established; individual-fragment findspot remains unresolved.
