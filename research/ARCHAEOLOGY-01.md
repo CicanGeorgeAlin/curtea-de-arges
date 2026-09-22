@@ -678,3 +678,35 @@ For every LMI entry we will ask:
 8. What evidence is still missing?
 
 Stage remains OPEN — NOT COMPLETE.
+
+## Archaeology autopilot — Pass 26 · 22 September 2026
+
+### Current RAN municipality baseline captured
+
+A municipality-filtered current RAN result set now gives five Curtea de Argeș records: 13631.02, 13631.05, 13631.07, 13631.10 and 13631.11. citeturn0search3turn0search5
+
+This resolves an important earlier uncertainty: the **current RAN municipality baseline is five records in the captured result set**.
+
+But the research project will not declare archaeological completeness from that alone.
+
+### Argeș Monastery reveals a component-level gap
+
+Current RAN 13631.10 identifies:
+- church 1512–1517
+- chapel 1885
+- episcopal palace 1885. citeturn0search4
+
+The 2015 LMI contains a broader ensemble structure, including a park and a relocated wooden church from Palanga, Vâlcea. citeturn0search13
+
+Therefore:
+**RAN component list ≠ complete LMI component list.**
+
+This reinforces the component-reconciliation architecture.
+
+### Status
+
+Current RAN baseline: **CAPTURED**
+RAN archaeological completeness: **OPEN**
+Heritage/LMI reconciliation: **OPEN**
+Intervention/publication reconciliation: **OPEN**
+Spatial reconciliation: **OPEN**
