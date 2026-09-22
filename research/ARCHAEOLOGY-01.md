@@ -2952,3 +2952,19 @@ The 2007 source explicitly reports green glazing. The 2000 detailed description 
 
 ### Figure chain
 The 2007 article explicitly cites Drăghiceanu 1923 figs. 78, 79, 80 for these Curtea fragments. This is direct bibliographic linkage, but not yet a visual comparison. No claim is made that every one of those figures depicts the exact same surviving fragment.
+
+
+## Pass 100 — Direct 2000 control of MNAR C44/C81
+
+A direct searchable extraction of Rădulescu 2000, p.168 resolves the earlier ambiguity in the 2000 source. The author explicitly says she examined two fragments from the 1920 Curtea de Argeș excavation in the Muzeul Național de Artă collection. One fragment measures 18 × 13.5 cm and preserves a 4.7 cm-wide *rumpă*; the tile was rectangular, full-faced, and reconstructed at about 26 × 20.3 cm. The clay is described as homogeneous with sand and mica, the decoration impressed in a wooden mould with dense textile, and **the fragments are explicitly described as nesmălțuite (unglazed)**. Soot survives on the reverse. The same footnote identifies the museum pieces as **4119 (C44) and 4130 (C81)**. citeturn6search21
+
+This is now primary-text control for the 2000 wording; it is not merely an OCR summary.
+
+### 2000 ↔ 2007 discrepancy
+The 2000 article explicitly says unglazed and gives C81 as 4130. Later 2007 material previously controlled in this project reports the pair as green/light-green glazed and gives C81 as 10073. This is therefore a genuine bibliographic/object-record discrepancy requiring catalogue-level resolution. We must not silently replace 4130 with 10073 or unglazed with glazed.
+
+### Figure chain correction
+The 2000 article itself states that Drăghiceanu's figs. 78, 79 and 80 are the earlier published figures being discussed. It does not by itself prove that every figure corresponds to one surviving MNAR fragment. The direct 2000 text links the surviving group to those figures as comparative/publication evidence.
+
+### Provenance separation
+The 2016 I 5882 wedding/dance fragments remain a separate collection and object group. They are explicitly three unglazed fragments from Curtea Domnească, 1920–1922, inventory I 5882; no merge with C44/C81 is permitted. citeturn2view2
