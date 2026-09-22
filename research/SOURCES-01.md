@@ -382,3 +382,10 @@ Use: LMI-to-RAN reconciliation, not automatic archaeological dating.
 
 ## S51 — Olari RAN 13631.09 discrepancy lead
 A 2022 secondary article states that Olari appears in RAN under code 13631.09. Current targeted searches did not independently retrieve an official RAN 13631.09 record, while the official/current LMI evidence independently confirms the Olari monument family under LMI 13639. This remains a **DISCREPANCY / CANDIDATE**, not VERIFIED RAN identity. citeturn2search0turn1search4
+
+## S52 — RAN current record, Historic Urban Site 13631.11
+The current RAN record identifies the protected historic urban site as RAN 13631.11 / LMI AG-II-s-A-13645 and gives an extensive present-day perimeter including multiple streets, the city cemetery, railway/station area, Sân Nicoară Street and the area around the Princely Court. Its archaeological chronology is “urban settlement, medieval, 13th–19th centuries.” The current database page shows a 26.04.2023 record modification and a 06.09.2026 database update. citeturn0search2
+Use: spatial/archaeological umbrella context. Do not interpret the perimeter itself as proof that every included parcel contains archaeological remains.
+
+## S53 — RAN municipality selection cross-check
+Current RAN selection pages repeatedly return Drujești 13631.02 for Curtea de Argeș under the relevant municipality/county filters. This confirms that the public RAN interface supports municipality-level selection, but a single returned page must not be treated as an exhaustive list when pagination/filter state is unclear. citeturn0search7turn0search10
