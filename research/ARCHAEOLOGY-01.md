@@ -924,3 +924,30 @@ The bibliographic record also confirms Adrian and Lia Bătrîna's 1982 article, 
 For now it is a **source lead**, not a fully extracted evidence record. This prevents bibliographic discovery from being mistaken for content verification.
 
 **Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+
+## Archaeology autopilot — Pass 34 · 22 September 2026
+
+### Settlement archaeology: 1979–1980 research now directly controlled
+
+Pass 34 returned to the Bătrîna & Bătrîna research programme and upgraded it from a bibliographic lead to extracted evidence.
+
+The 1982 article states that archaeological investigations begun in **1979** continued in June 1980 in other sectors of the Curtea de Argeș settlement. In the investigated area west of Sân Nicoară hill, two east–west sections did not reveal material culture or archaeological complexes that justified expanding the research. The only medieval installation identified was a **circular-plan oven**, approximately 1.05 m in diameter, with only its final square-brick layer preserved in situ and associated fragmentary brick/clay material. citeturn0search31
+
+### Why this matters
+
+This gives the archive a genuine **negative archaeological observation** from a defined test area.
+
+It also demonstrates why “complete archaeology” cannot be built from positive discoveries alone.
+
+The 1979–1980 research programme is now represented as:
+
+**CAMPAIGN → TEST AREA → RESULT → POSITIVE / NEGATIVE → INTERPRETATION**
+
+### Self-challenge
+
+The 1982 article is not enough to reconstruct the entire 1979 programme. The 1981 article must now be extracted section-by-section, and the remaining sectors described in both publications must be spatially reconciled.
+
+The oven should not be assigned a precise function or date beyond what the publication securely supports.
+
+**Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
