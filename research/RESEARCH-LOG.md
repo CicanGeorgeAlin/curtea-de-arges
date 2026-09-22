@@ -881,3 +881,25 @@ The 1980 continuation was also incorporated as a separate campaign:
 Methodological result: negative archaeology is now explicitly recorded as **tested-area evidence**, never city-wide absence.
 
 Next: detailed 1980 ceramic/architectural extraction and integration with the 1982 publication.
+
+
+## Pass 63 — 22 September 2026
+
+The 1980 continuation was re-read as a material-culture study rather than only as an excavation report.
+
+At Str. Mircea cel Mare nr.1, four sections exposed the Princely Court enclosure construction level, followed by late-14th/mid-15th-century ceramic material and later refuse pits containing 16th–17th-century pottery. The authors attribute the material to the Princely Court because no other habitation complexes were known in the tested area. citeturn0view0
+
+The report contains a useful functional-classification method for ambiguous unglazed objects: distinguish candlesticks from lids using secondary firing traces, opening size and decoration. This is recorded as **object form → physical-use evidence → functional classification**, rather than as an unquestioned label. citeturn0view0turn1view0
+
+The campaign also recovered:
+- likely ceramic-production wasters/rejects;
+- a crăiță/kiln support;
+- large quantities of 14th–15th-century glazed ceramics;
+- sgraffito decoration;
+- stove discs and rectangular/triangular plates;
+- figurative stove imagery;
+- 16th–17th-century glazed pottery with later decorative conventions. citeturn1view0
+
+Important methodological conclusion: the 1980 campaign did not expose a complete habitation complex, even though the material assemblage is substantial. citeturn1view1
+
+Next: connect the 1982 publication to later ceramic/stove-tile specialist literature and track changes in classification/chronology.
