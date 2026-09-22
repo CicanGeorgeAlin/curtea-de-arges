@@ -527,3 +527,25 @@ The source register has been upgraded from “article identified” to **abstrac
 - exact relationship between 1979 sectors, 1980 tests and EMV: **OPEN**
 
 **Decision: Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+
+## Archaeology / Heritage autopilot — Pass 39 · 22 September 2026
+
+Pass 39 recovered the actual searchable PDF for the 1983 Curtea de Argeș trade-seal study and strengthened the evidence chain from bibliography to object-level description. citeturn2search28
+
+The cumulative index confirms that the 1979 excavation of dwelling 4 produced a double lead seal: two round lead plates joined at two points, carrying a fleur-de-lis emblem and the legend “+ DE TOURNAI” on both faces. citeturn5search25
+
+The article abstract separately identifies the object as a Tournai cloth trade seal and dates it after 1426 on heraldic grounds. citeturn2search0
+
+A later 2010 Curtea de Argeș synthesis describes the associated structure as a burned merchant-type house and the seal as a luxury-cloth seal from Tournai. This is retained as later interpretation, not silently promoted to primary evidence. citeturn5search26
+
+### Self-correction
+
+The archive now distinguishes:
+- **find description** — directly indexed;
+- **object classification** — Tournai cloth trade seal;
+- **object dating** — after 1426 according to the article;
+- **building interpretation** — merchant-type house in a later synthesis;
+- **spatial context** — still unresolved until the original 1979 plan is reconstructed.
+
+**Decision: Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
