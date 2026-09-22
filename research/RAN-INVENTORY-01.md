@@ -253,3 +253,15 @@ The Princely Court component is now explicitly controlled across sources:
 These are linked but remain distinct evidence records. citeturn0search0turn0search2
 
 Stage remains OPEN — NOT COMPLETE.
+
+## Pass 25 — First explicit municipality heritage-baseline extraction
+
+A continuous municipality-specific LMI block has now been captured: records **444–505** in the 2015 list are Curtea de Argeș entries. This is a major completeness milestone for the heritage layer. citeturn0search6turn0search1
+
+The block begins with **Gara Curtea de Argeș (AG-II-m-A-13627)** and continues through Argeș Monastery, Seminarul Teologic, historic houses and civic buildings, Olari, the historic urban site, the hospital ensemble, the Princely Court and its components, Drujești, Sân Nicoară, additional historic houses/churches, and Brad-Bătușari (AG-II-m-A-13663). citeturn0search1
+
+This gives us a concrete municipality-wide **LMI baseline set**, while the RAN archaeological inventory remains a separate set.
+
+Next control: create a record-by-record reconciliation matrix for LMI 13627–13663 against RAN, archaeological interventions, publications and current status.
+
+Stage remains OPEN — NOT COMPLETE.
