@@ -780,3 +780,42 @@ The minimum intervention chain now includes:
 **1920–1922 historical excavation → 1967–1973 systematic programme → published specialist synthesis → later reassessments**
 
 Stage remains OPEN — NOT COMPLETE.
+
+
+## Archaeology autopilot — Pass 30 · 22 September 2026
+
+### New primary/specialist evidence
+
+Pass 30 targeted the two major complexes whose intervention histories were still underdeveloped: **Curtea Domnească** and **Argeș Monastery**.
+
+#### Curtea Domnească — 1968 continuation
+
+A SCIVA archaeological campaign report for the 1968 season records continued excavation in both the first and second enclosures. It states that stratigraphic observations and archaeological material, including coins, clarified several chronological relationships:
+
+- the princely house on the south side of enclosure no. 1 was dated to the **first half of the 14th century**, using coins of Bulgarian Tsar Ivan Alexander and Hungarian king Charles Robert of Anjou;
+- enclosure no. 1 was considered contemporary with that princely house but **later than a 13th-century occupation level**;
+- the 13th-century level included Byzantine coins, including one issued under Andronikos II Palaiologos, dated in the report to **1295–1320**;
+- the wall surviving around the present Domnească Church was assigned by the report to that earlier level;
+- the north-side residence was dated to the **beginning of the 16th century** and associated with Neagoe Basarab.
+
+These are campaign-report conclusions and remain attributed to the source rather than being presented as an unqualified modern synthesis. citeturn2search25turn3search6
+
+#### Argeș Monastery — 1965 archaeological sondages
+
+A primary archaeological report by Gheorghe I. Cantacuzino records two small sections excavated beside the monastery church in **September 1965**, prompted by terrace-consolidation works. The sections were each 4.25 m long and 1.50 m wide, and the report notes that superficial layers had been removed during the 19th-century restoration. This establishes a documented archaeological intervention, but the limited extent means it cannot be generalized to the whole monastery precinct. citeturn2search24
+
+### Methodological result
+
+Pass 30 adds a stronger distinction between:
+
+**SITE REGISTER → INTERVENTION → CONTEXT → FIND → DATING → INTERPRETATION → LATER REASSESSMENT**
+
+This prevents a later synthesis from being mistaken for the original excavation observation.
+
+### Self-challenge
+
+The new Curtea Domnească evidence is significant, but it also exposes a remaining gap: the archive still needs the underlying excavation plans, find inventories and publication trail for the 1967–1973 programme before the individual archaeological phases can be reconstructed parcel-by-parcel.
+
+For Argeș Monastery, the 1965 sondages are now verified, but the full sequence of restoration-era investigations and any later archaeological interventions remains to be reconstructed.
+
+**Archaeological Stage 1: OPEN — NOT COMPLETE.**
