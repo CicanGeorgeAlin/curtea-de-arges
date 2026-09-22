@@ -2994,3 +2994,32 @@ S230 added; Pass 144 recorded; index.html untouched.
 
 ### Next target
 Continue direct page/figure recovery for the late Jurnal pages, especially p.148, fig.158, fig.162, and the 150-series figures, while keeping all later citations explicitly secondary until visually verified.
+
+
+## Pass 145 — 22 September 2026
+
+### Target
+Tighten the page-to-figure map for the late pages of Drăghiceanu's Jurnalul using independent archaeological citations.
+
+### Result
+The 2022 *Cronica Cercetărilor Arheologice* report cites the Jurnal specifically at **pp.147–148**, with **Fig.158** as the associated plan, and cites p.148 separately. citeturn0search0 Rădulescu 2016 independently places the stove-terracotta observation at **p.148** and gives the late Jurnal range as **pp.148–149**, with figures 150–155, 159–160, 162 and 165 in that section. citeturn0search21
+
+### Controlled page/figure map
+- **pp.147–148 → Fig.158 / plan reference**;
+- **p.148 → stove-terracotta observation**;
+- **pp.148–149 → late excavation section and figures 150–155, 159–160, 162, 165**.
+
+These are citation controls, not direct visual verification of the 1923 figures.
+
+### Significance
+The late Jurnal pages are now mapped more precisely by independent scholarship. This will allow primary-page recovery to proceed figure-by-figure rather than by broad article searching.
+
+### C44/C81 status
+Unchanged: 4119/C44 stable; C81 4130 vs 10073 unresolved; 2000 unglazed vs 2007 green/light-green glazed unresolved.
+
+### GitHub
+Backup: backup/pass145-pre-research-2026-09-22
+S231 added; Pass 145 recorded; index.html untouched.
+
+### Next target
+Continue direct recovery of the original 1923 page images/figures, prioritizing p.148 and Fig.158, then the 150-series and Fig.305 without conflating separate figure systems.
