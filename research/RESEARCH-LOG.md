@@ -1914,3 +1914,32 @@ S188 added; Pass 106 recorded; public research-status page updated; index.html u
 
 ### Next target
 Search specifically for **Muzeul Național de Antichități → Muzeul Național de Artă → MNAR inventory-history** pathways, and for digitized photographs or catalogue entries containing the C44/C81 identifiers. In parallel, continue visual recovery of Drăghiceanu figs. 78–80.
+
+
+## Pass 107 — 22 September 2026
+
+### Major source-control result
+The search did not locate a publicly indexed MNAR object catalogue entry for 4119/C44, 4130/C81 or 10073/C81 on the museum's current web domain. However, the two scholarly publications themselves provide exact, directly searchable controls for both sides of the contradiction.
+
+### 2000 exact control
+Rădulescu 2000 states that the surviving fragments are **nesmălțuite** (unglazed), gives the reconstructed tile size as about 26 × 20.3 cm, and identifies the MNAR pieces as **4119 (C44)** and **4130 (C81)**. It cites Drăghiceanu figs. 78–80. citeturn1search35
+
+### 2007 exact control
+Rădulescu 2007 states that the two 1920 Curtea Domnească fragments are green/light-green glazed, gives dimensions 18 × 13.5 cm and 13 × 10 cm, and identifies them as **4119/C44** and **10073/C81**. Its footnote points back to the 2000 article for chronology, iconography, analogies, technique and dimensions. citeturn0search4
+
+### Interpretation
+This makes the contradiction stronger, not weaker:
+- same C44 number in both publications;
+- same C81 collection code in both publications;
+- different numerical C81 inventory number;
+- different surface description;
+- 2007 explicitly points back to 2000.
+
+No public MNAR catalogue result was found that resolves the C81 numerical transition or explains the surface-description change. Therefore the archive must continue to preserve both readings.
+
+### GitHub
+Backup: backup/pass107-pre-research-2026-09-22
+S189–S190 added; Pass 107 recorded; archive status page updated; index.html untouched.
+
+### Next target
+Search older MNAR catalogues, Romanian national cultural-property databases and digitized museum publications for **4119, 4130, 10073, C44 and C81** as separate search keys. The strongest possible resolution remains a museum register, accession card, inventory ledger or conservation record.
