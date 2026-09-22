@@ -692,3 +692,12 @@ The National Museum of History journal index confirms that the 1979 Curtea de Ar
 The MNIR Numismatic Research record independently confirms the 1979 find context: a Tournai cloth seal discovered in an urban-type dwelling dated by the 1983 authors to the end of the 14th/beginning of the 15th century, with heraldic dating after 1426. citeturn0search8
 
 Pass 50 therefore establishes a source-control rule for the next stage: use the **1979 excavation report for L4 architecture/context**, and the **1983 numismatic study for object identification/dating/interpretation**; do not use the latter to reconstruct unreported plan details.
+
+
+## S98 — Pass 51: correction of figure-14 attribution and new 2013 tile cross-check
+
+A fresh check of the 1979 and 1982 excavation publications confirms their separate publication records and a 2013 specialist article reproduces a Curtea de Argeș stove-tile fragment as **14th–15th century**, explicitly citing Bătrîna & Bătrîna 1982, pl. I/2. citeturn0search24turn0search25turn0search28
+
+The 1999–2001 specialist catalogue cites Bătrîna & Bătrîna 1981, p.166 fig.14/3 and the 1982 report p.103 pl.VII in its bibliography. This confirms the references are real but does not, by itself, establish that either figure is the Tournai seal or L4 plan. citeturn0search26
+
+The archive therefore preserves the Pass 41 correction: figure 14 remains a **stove/heating evidence lead**, not a direct seal-context plan.
