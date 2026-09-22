@@ -432,3 +432,33 @@ Next:
 - preserve all negative observations.
 
 **Decision: Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+
+## Archaeology / Heritage autopilot — Pass 35 · 22 September 2026
+
+Pass 35 moved the 1979 Bătrîna & Bătrîna programme from “article exists” to **page-controlled archaeological evidence**, while preserving the remaining spatial uncertainty. The national archaeological journal index confirms the 1979 research article and its 144–171 pagination. citeturn0search0turn0search1
+
+Later specialist synthesis cites the 1981 article, pp. 144–150, for a sunken habitation structure dated to the end of the 13th century, and pp. 151–153 for a mid-14th-century surface timber house supported above a stone socle. citeturn9search23 A specialist catalogue also cites pp. 166–167 for stove-tile evidence from a townspeople's dwelling. citeturn4search30
+
+These are now controlled leads/evidence records, but the exact modern spatial positions are **not** promoted until the original 1979 plans and figures are inspected.
+
+The 1980 campaign remains separate: the 1982 publication records a distinct area west of Sân Nicoară hill with two east–west sections, negative results for expansion, and one partially preserved medieval circular-plan oven. citeturn2search40
+
+### Method upgrade
+
+The settlement archaeology matrix now uses:
+
+**CAMPAIGN → TEST AREA → PUBLISHED STRUCTURE/FIND → CHRONOLOGY → SOURCE PAGE → LOCATION CONFIDENCE**
+
+This prevents a page-level archaeological discovery from being turned into a false map point.
+
+### Gap analysis after Pass 35
+
+Still required:
+- original 1979 excavation plans/figures;
+- exact sector-by-sector spatial reconstruction;
+- reconciliation of 1979 structures with 1980 test areas;
+- comparison with EMV and Sân Nicoară without assuming continuity;
+- broader search for later publications reusing the 1979 domestic evidence.
+
+**Decision: Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
