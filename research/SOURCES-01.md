@@ -405,3 +405,11 @@ CIMEC records a 1937 WWI memorial plaque in Curtea de Argeș, identifier MON-03-
 
 ## S58 — CIMEC Gallery of Public Monuments: Soviet memorial/cemetery
 CIMEC records the Soviet soldiers' cemetery and monument in Curtea de Argeș, identifier MON-03-842. It is separate from the LMI/RAN monument inventory and therefore belongs to the future memorial/public-space layer. citeturn0search6
+
+## S59 — LMI 2015: Princely Court component structure
+The official LMI 2015 identifies the Princely Court ensemble as AG-II-a-A-13647 and lists multiple components: Basarab I princely-house ruins, Neagoe Basarab princely-house ruins, the gate tower of the church enclosure, the Princely Court gate tower, the ruin of the enclosure wall of the first church, later enclosure wall, and other structures at Str. Negru Vodă 2. citeturn0search16
+Use: component-level heritage reconciliation. Do not collapse the whole ensemble into one archaeological object.
+
+## S60 — Argeș Territorial Development Strategy 2026
+The current county strategy states that LMI 2015 archaeological monuments are not being fully valorised and notes that around 50% of RAN archaeological sites nationally lack precise location, while some are not represented in LMI. It also identifies conservation-monitoring gaps. This is an institutional planning assessment, not evidence that 50% of Curtea de Argeș sites are unlocated. citeturn0search18
+Use: current heritage-management context and a warning about spatial uncertainty in archaeological data.
