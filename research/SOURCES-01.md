@@ -348,3 +348,18 @@ Coverage: current institutional listing that places the Sân Nicoară ruins with
 Use: current administrative/institutional cross-check for place-name and spatial context. It is **not** an archaeological excavation source and does not establish construction chronology.
 
 URL: https://www.cjarges.ro/documents/10865/3232914/HCJ_nr_73_din_26.02.2026_Statut.pdf/b8451558-f7ac-4164-845f-fab65219faca
+
+## S41 — Nicolae Constantinescu, Curtea de Argeș (1200–1400) (1984)
+Author: Nicolae Constantinescu. Publisher: Editura Academiei Republicii Socialiste România; contributor: Institutul de Arheologie „Vasile Pârvan”. Type: scholarly archaeological monograph based on the 1967–1973 research programme. The bibliographic record explicitly says the study focuses on the voivodal core rather than the modern city as a whole. citeturn0search4turn0search8
+
+## S42 — Argesis I (1968), Nicolae Constantinescu, “Cercetarea arheologică de la Curtea Domnească din Argeș, 1967”
+Type: published archaeological research from the first year of the major Curtea Domnească programme. Bibliographic record: Studii și Comunicări, I, 1968, pp. 123–138. citeturn0search8
+
+## S43 — Argesis II (1969), Pavel Chihaia, “Date noi despre necropola primilor Basarabi din Curtea de Argeș”
+Type: archaeological/historical study concerning funerary evidence from the 1920 excavations at Biserica Sf. Nicolae Domnesc. Bibliographic record: Studii și Comunicări, II, 1969, pp. 133–166. citeturn0search6turn0search8
+
+## S44 — Gheorghe Cantacuzino, “Sondaje arheologice la ctitoria lui Neagoe Basarab din Curtea de Argeș” (1980)
+Bibliographic record: Studii și Comunicări, V (1980), pp. 239–244. Type: archaeological sondaje/intervention record. Use: evidence that archaeological work extended beyond the 1967–1973 Curtea Domnească programme. citeturn0search8
+
+## S45 — “Vase de sticlă descoperite în complexe funerare” (2005)
+Type: specialist archaeological study using earlier excavation publications and finds. It independently discusses the 1920 Sân Nicoară campaign, including graves and stone sarcophagi, while noting limitations in contextual information for some coins. citeturn0search12
