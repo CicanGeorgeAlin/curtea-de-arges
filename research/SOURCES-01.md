@@ -1631,3 +1631,16 @@ Control: preserve both statements as source-attributed until object photograph/c
 ## S172 — Pass 97 — Reconstruction layer
 
 Rădulescu 2000 explicitly distinguishes surviving museum fragments from a reconstruction of the original image; Daniel Spânu is credited for the reconstruction. Drăghiceanu 1923 remains the earlier publication layer. citeturn0search24
+
+
+## S173 — Pass 98 — C44/C81 glaze source control
+
+Rădulescu 2007 explicitly describes the two Curtea de Argeș fragments as green-glazed/light-green and gives MNAR 4119/C44 and 10073/C81. citeturn0search24
+
+Control: earlier 2000 wording previously summarized as “unglazed” remains under exact-page recheck; do not stabilize it as a definitive physical property until the primary passage/figure is checked.
+
+## S174 — Pass 98 — Bibliographic sequence
+
+Bibliographic databases independently index Rădulescu 2000 (*Argessis* IX, pp.165–172), Rădulescu 2001 (Câmpulung heraldic tiles, pp.123–126), and Rădulescu 2007 (heraldic-inspired tiles, pp.209–227). citeturn0search0turn0search1
+
+Control: publication sequence only; no object identity is inferred from thematic similarity.
