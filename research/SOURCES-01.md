@@ -561,10 +561,24 @@ Use: **primary specialist archaeological publication**. This source is retained 
 URL: https://biblioteca-digitala.ro/reviste/cercetari-arheologice/05-cercetari-arheologice-V-1982.pdf
 
 
-## S86 — Adrian & Lia Bătrîna, 1983, “Cu privire la un sigiliu de comerț din sec. al XV-lea descoperit la Curtea de Argeș”
+## S86 — Adrian & Lia Bătrîna, 1983 — Curtea de Argeș trade seal
 
-Authors: Adrian Bătrîna; Lia Bătrîna. Publication: *Cercetări Numismatice*, V, 1983, pp. 197–211. ProEuropeana identifies the article specifically as a study of a 15th-century trade seal found at Curtea de Argeș and classifies it under archaeological excavations, heraldry and seals. citeturn0search1
+Authors: Adrian Bătrîna; Lia Bătrîna.  
+Publication: *Cercetări Numismatice*, V, 1983, pp. 197–211.  
+Title: “Cu privire la un sigiliu de comerț din sec. al XV-lea descoperit la Curtea de Argeș” / “Considérations sur un sceau du XVe siècle découvert à Curtea de Argeș” / “Over a Trade Seal Found at Curtea de Argeș, Dated in the 15th Century”.  
+Primary-source status: **specialist publication**; dedicated study of a seal found during the 1979 archaeological excavations at Curtea de Argeș. The article record classifies it under medalistics, heraldry and sigillography and gives Curtea de Argeș, archaeological excavations, heraldry and seals as descriptors. citeturn0search0turn0search1
 
-Use: **specialist primary publication for the 1979 dwelling-4 seal**. The find is linked to the 1979 excavation through later bibliographic cross-references; the dedicated article must control the object's detailed dating, reading and interpretation. The archive therefore treats “15th-century trade seal” as the publication's title-level classification, not yet as an independently reconstructed conclusion.
+### Controlled extraction from the accessible abstract
+- The find came from an **urban-type dwelling** excavated in 1979 and dated by the article to the **end of the 14th century / beginning of the 15th century**. citeturn0search0
+- The object is identified in the abstract as a **cloth trade seal originating from Tournai, Belgium**. citeturn0search0
+- The abstract states that its dating, based on the **heraldic signs it contains**, places it **after 1426**. This chronological statement is preserved separately from the dwelling's broader archaeological dating. citeturn0search0
+- The authors use the seal as evidence for **economic relations between Wallachia and major western European centres specializing in textiles and cloth in the first half of the 15th century**. This remains an attributed scholarly interpretation. citeturn0search0
+- The abstract discusses Tournai's political status between **1187 and 1521**; this contextual statement is retained as the article's framing and is not independently promoted here. citeturn0search0
 
-URL: https://biblioteca-digitala.ro/?descriptor=2187-curtea-de-arges-oras-din-romania
+### Evidence-control note
+The accessible web record currently exposes the article metadata and abstract, not the complete 15-page article. Therefore the archive does **not yet** promote dimensions, material/construction details, exact inscription reading, full heraldic-device description, archaeological layer, precise dwelling identification, comparison objects, or the complete dating argument.
+
+URL: https://biblioteca-digitala.ro/?articol=61936-cu-privire-la-un-sigiliu-de-comert-din-sec-al-xv-lea-descoperit-la-curtea-de-arges-considerations-sur-un-sceau-du-xve-siecle-decouvert-a-curtea-de-arges-over-a-trade-seal-found-at-curtea-de-arges-dated-in-the-15th-century--cercetari-numismatice-cn-m&domeniisipublicatii=1
+
+Publisher record: https://www.cercetarinumismatice.ro/?articol=61936-cu-privire-la-un-sigiliu-de-comert-din-sec-al-xv-lea-descoperit-la-curtea-de-arges-considerations-sur-un-sceau-du-xve-siecle-decouvert-a-curtea-de-arges-over-a-trade-seal-found-at-curtea-de-arges-dated-in-the-15th-century
+
