@@ -1434,3 +1434,12 @@ Primary report: Pl. VII is the 14th-century Curtea de Argeș stove-disc group. T
 ## S136 — Pass 82 — comparative disc-cahlă evidence
 
 A later study of stove tiles from Roman notes comparable disc cahle in Wallachian sites including Curtea de Argeș. This is a comparative typological statement, not proof that the Roman specimen and a particular Curtea object are identical. citeturn0search13
+
+
+## S137 — Pass 83 — Pl. VII corpus-level control
+
+Primary source: Bătrîna & Bătrîna, *Cercetările arheologice de la Curtea de Argeș*, CA V (1982), pp. 95–107. Official index confirms article identity; primary PDF controls the object description. citeturn0search0turn0search12
+
+Controlled facts: Pl. VII = stove discs, 14th century; discs may be glazed or unglazed; fast-wheel made; concentric ribs; central button.
+
+No individual Pl. VII item receives a specific excavation context unless a source explicitly provides it.
