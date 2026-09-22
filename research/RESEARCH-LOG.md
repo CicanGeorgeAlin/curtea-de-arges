@@ -716,3 +716,29 @@ The 1983 seal article's notes identify **1979 report p.144 and p.153** as direct
 The archive therefore promotes p.153 to the primary retrieval target for L4 context. The older p.166/fig.14 trail remains a comparative stove-tile lead and is not treated as an L4 plan reference. citeturn0search36
 
 **Stage 1 remains OPEN.**
+
+
+## Archaeology / Heritage autopilot — Pass 57 · 22 September 2026 · p.153 retrieval control
+
+Pass 57 followed the strongest page-level lead from Pass 56. The 1983 Bătrîna & Bătrîna trade-seal article explicitly cites the 1979 settlement report at **pp.144 and 153** in its discussion of the burned dwelling L4. citeturn4search41
+
+A fresh search recovered the official Digital Library copy of the 1979 article, *Cercetări Arheologice*, IV (1981), pp.144–171. The indexed record confirms the article and exposes its opening campaign description, but the current web interface did not expose the actual text of p.153. citeturn1search4turn1search1
+
+### Self-correction / evidence control
+
+No archaeological detail from p.153 has been invented or reconstructed from the 1983 footnote. In particular, the archive does **not** add L4 dimensions, plan, entrance type, stratigraphy, pottery inventory or exact spatial position.
+
+The controlled L4 evidence remains:
+- burned remains of L4 discovered in the 1979 research — stated in the 1983 primary study;
+- Tournai cloth-trade seal associated with the 1979 urban dwelling/L4 discussion — stated in the 1983 primary study;
+- proposed merchant ownership of L4 — authorial inference, not a named identification. citeturn5search33
+
+### Gap analysis after Pass 57
+
+Next retrieval target:
+1. obtain an independently readable scan/OCR of **1979 report p.153**;
+2. extract only the text actually present on that page;
+3. compare it with the 1983 seal article's references;
+4. only then promote any L4 architectural/stratigraphic details into the structured archaeological record.
+
+**Decision: Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
