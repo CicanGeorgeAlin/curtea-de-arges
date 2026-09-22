@@ -2656,3 +2656,25 @@ S218 added; Pass 132 recorded; index.html untouched.
 
 ### Next target
 Use the page-138 anchor and other page-specific citations to recover the actual journal text/image pages and map claims to exact pages before linking them to later objects.
+
+
+## Pass 133 — 22 September 2026
+
+### Target
+Test the page-138 anchor identified in Pass 132 and establish whether it is independently used in recent scholarship.
+
+### Result
+A recent scholarly volume on the Curtea de Argeș princely church cites Drăghiceanu's *Jurnalul săpăturilor din Curtea domnească a Argeșului* specifically at **p. 138**. citeturn0search21 The BCMI bibliographic record independently places the journal at pp. 134–152. citeturn0search0
+
+### Significance
+The p.138 reference is now a controlled page-level retrieval target. We do not infer the full content of p.138 from the later citation; the citation only establishes that a specific later scholarly argument points back to that page.
+
+### C44/C81 status
+Unchanged: 4119/C44 stable; C81 4130 vs 10073 unresolved; 2000 unglazed vs 2007 green/light-green glazed unresolved.
+
+### GitHub
+Backup: backup/pass133-pre-research-2026-09-22
+S219 added; Pass 133 recorded; index.html untouched.
+
+### Next target
+Use p.138 as the first exact-page target in the primary journal, then expand to nearby pages only when the page image/text is actually recovered.
