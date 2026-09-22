@@ -1508,3 +1508,14 @@ BCU Iași digital repository record: Virgiliu Drăghiceanu, “Jurnalul săpătu
 Rădulescu 2016 cites Drăghiceanu 1923b p. 148 for stove tiles found in the north-west corner of the cellar of the princely house on the south side of the enclosure and identifies BCMI 1923 Fig. 305 as the image of 16 fragments. citeturn0search18turn1search24
 
 Control: Fig. 305 has not yet been treated as independently re-read at fragment level; provenance remains group-level.
+
+
+## S150 — Pass 89 — Collection/inventory identity for 2016 wedding/dance tiles
+
+Rădulescu 2016 footnote 28 identifies the collection as **Colecția Institutului de Arheologie „Vasile Pârvan”, București, nr. inv. I 5882**. The three studied fragments are listed as 8.6 × 6.8 cm, 12.7 × 9.4 cm, and 16 × 7.8 cm; they derive from two or possibly three rectangular plate tiles. citeturn1view1
+
+Control: I 5882 establishes collection identity, not exact archaeological findspot or stratigraphy.
+
+## S151 — Pass 89 — Provenance correction
+
+Withdraw previous wording that the 2016 wedding/dance tile group's inventory number was unknown. The corrected status is: **inventory/collection identity explicit = I 5882; exact findspot unresolved**. The separate 2024 tournament cahlă remains a distinct record and should not inherit I 5882 unless independently demonstrated.
