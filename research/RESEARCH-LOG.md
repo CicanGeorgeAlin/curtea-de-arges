@@ -223,3 +223,13 @@ The municipal historical study provides an independent municipality-specific 201
 Curtea Domnească was reconciled at component level: LMI AG-II-a-A-13647 / church AG-II-m-A-13647.01 versus RAN 13631.07. The differing source descriptions are preserved as parallel claims rather than silently merged. citeturn0search0turn0search2
 
 Stage 1 remains OPEN — NOT COMPLETE.
+
+## Archaeology / Heritage autopilot — Pass 25 · 22 September 2026
+
+A major milestone was reached: the 2015 LMI Curtea de Argeș block was explicitly captured as a municipality-specific baseline, covering records 444–505. It includes the railway station, Argeș Monastery, Seminarul Teologic, historic houses, Olari, the historic urban site, hospital ensemble, Princely Court and components, Drujești, Sân Nicoară, further protected buildings/churches and Brad-Bătușari. citeturn0search6turn0search1
+
+This changes the next phase from discovery-by-search to **systematic reconciliation**.
+
+The project now has a concrete heritage baseline against which RAN, archaeological campaigns, publications, finds, spatial evidence and current status can be checked record-by-record.
+
+Stage 1 remains OPEN — NOT COMPLETE.
