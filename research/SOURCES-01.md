@@ -728,3 +728,12 @@ The original 1979 excavation PDF remains confirmed as the primary source for dwe
 No new L4 dimensions, plan details or stratigraphic claims are therefore promoted in this pass. The 1983 numismatic study remains independently controlled for the seal context and identification. citeturn0search0
 
 A later specialist source continues to support L4 as a semi-sunken dwelling with gârlici entrance and first-half-15th-century pottery chronology, but it is retained as secondary corroboration rather than a substitute for the original L4 pages. citeturn0search23
+
+
+## S102 — Pass 55: self-correction of the supposed independent L4 confirmation
+
+A source audit found that the earlier Pass 47–48 use of the 1999–2001 specialist catalogue as an independent description of **Curtea de Argeș L4** was incorrect. The passage actually describes **L4 at Săbăoani**, discovered in 1989; Curtea de Argeș appears in its footnote as a comparative source for similar stove tiles, citing Bătrîna & Bătrîna 1981 p.166 fig.14/3 and 1982 p.103 pl.VII. citeturn1search22turn2search31
+
+Therefore the archive withdraws the claim that this catalogue independently confirms Curtea de Argeș L4 as semi-sunken/gârlici and first-half-15th-century. The Curtea de Argeș L4 architectural description remains OPEN pending direct control of the original 1979 report or a source that explicitly identifies the Curtea dwelling.
+
+The 1983 primary trade-seal article itself remains controlled: it explicitly refers to the burned remains of **L4 at Curtea de Argeș** and cites the 1979 excavation report in its notes. citeturn1search21
