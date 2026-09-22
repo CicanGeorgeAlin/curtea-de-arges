@@ -329,3 +329,31 @@ This creates a stronger intervention chain:
 The 1984 Constantinescu monograph's scope is explicitly the voivodal core, not the modern city as a whole. citeturn0search4
 
 Stage remains OPEN — NOT COMPLETE.
+
+
+## Pass 30 intervention crosswalk — current archaeological evidence
+
+### Curtea Domnească — intervention/publication chain
+
+The current evidence now supports a chronological chain of archaeological investigation rather than a single excavation event:
+
+1. **1920–1922** — historical excavation/research associated with the Domnească Church and princely court; later specialist reassessment preserves evidence from the campaign, including finds whose exact spatial context must remain qualified.
+2. **1967** — Nicolae Constantinescu's archaeological campaign at Curtea Domnească.
+3. **1968** — continuation of excavations in the former Princely Court, with stratigraphic observations and coin evidence used to distinguish:
+   - a first-half-14th-century princely house;
+   - a 13th-century occupation level predating the Basarab I phase;
+   - an early-16th-century north-side residence associated with Neagoe Basarab.
+4. **1967–1973** — wider research programme synthesized by Constantinescu in *Curtea de Argeș (1200–1400)*.
+5. **Later publications/reassessments** — subsequent specialist work continues to debate chronology, identification and interpretation of individual contexts.
+
+**Control rule:** the existence of an intervention is not itself proof of every interpretation later attached to that intervention. The archive will preserve the campaign record, find record, interpretation and later reassessment as separate evidence layers.
+
+### Argeș Monastery — intervention/publication chain
+
+The archaeological record now includes a discrete **September 1965** intervention: two small sections beside the church were excavated in connection with terrace consolidation works. The published report explicitly describes the limited dimensions of the sections and the disturbed superficial layers associated with the 19th-century restoration.
+
+This is the first securely sourced archaeological intervention added to the Argeș Monastery record in the current pass. It does **not** establish that the entire monastery precinct has been archaeologically excavated.
+
+### Current completeness warning
+
+The five-record current RAN municipality baseline remains useful but is not equivalent to a complete intervention inventory. Pass 30 strengthens the intervention/publication layer and therefore reduces a known gap, but **Archaeological Stage 1 remains OPEN — NOT COMPLETE**.
