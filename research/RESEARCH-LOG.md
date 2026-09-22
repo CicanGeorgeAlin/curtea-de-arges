@@ -649,3 +649,12 @@ The original 1979 report's opening methodology confirms that excavation sections
 This is now recorded as contextual methodology for L4. A 1992 synthesis independently uses the 1979 publication in discussing the development of medieval urban housing at Curtea de Argeș. citeturn0search28
 
 **Stage 1 remains OPEN.**
+
+
+### Pass 50 · 22 September 2026 · source separation for L4 reconstruction
+
+The official journal index confirms the dedicated 1979 excavation report and separate 1982 continuation. citeturn0search0turn0search6 The MNIR numismatic record independently confirms the Tournai seal's 1979 urban-dwelling context and the 1983 dating formulation. citeturn0search8
+
+The archive now explicitly separates source roles before spatial reconstruction: excavation reports for L4 architecture/context; numismatic study for seal identification/dating/interpretation.
+
+**Stage 1 remains OPEN.**
