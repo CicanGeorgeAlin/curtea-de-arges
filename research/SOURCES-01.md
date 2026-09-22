@@ -804,3 +804,24 @@ Use: **primary archaeological evidence** for L4 architecture, stratigraphic rela
 
 Primary PDF: https://cercetari-arheologice.ro/wp-content/uploads/2020/01/ca04-15_Bitrina_Bitrina_Curtea_Arges.pdf
 Article record: https://cercetari-arheologice.ro/articol/ca04_15/
+
+
+## S88 — Bătrîna & Bătrîna 1981, pp.152–155 and Figs. 5–7 — spatial/profile/ceramic continuation
+
+Source: Lia Bătrîna & Adrian Bătrîna, “Cercetări arheologice efectuate în anul 1979 în cuprinsul aşezării Curtea de Argeş, jud. Argeş”, *Cercetări Arheologice*, IV (1981), pp.144–171.
+
+Controlled page/figure evidence:
+- **Fig. 5, p.152:** plan of dwellings L2, L3 and L4 at **Str. Castanilor nr. 2**, with section labels S1–S3, north arrow and 1 m scale.
+- **p.153:** written L4 architectural and stratigraphic description.
+- **Fig. 6, p.154:** stratigraphic profile associated with L4/S3, with a 27-category legend including carbonized wood, cellar floor/boards, daub/tile/clay fill, charcoal-bearing layers, carbonized sills and logs.
+- **p.155 onward:** beginning of the L4 ceramic analysis; later figure captions explicitly identify illustrated pottery and stove material as coming from the L4 fill.
+
+Use: primary evidence for the relative spatial relationship of L2/L3/L4, the L4 stratigraphic profile, and the transition from architectural description to closed-complex ceramic analysis.
+
+Important control: Fig. 5 is not a modern georeferenced plan. The archive records **Str. Castanilor nr. 2** as the controlled site/parcel reference and leaves exact GIS coordinates OPEN.
+
+Official PDF:
+https://cercetari-arheologice.ro/wp-content/uploads/2020/01/ca04-15_Bitrina_Bitrina_Curtea_Arges.pdf
+
+Official article record:
+https://cercetari-arheologice.ro/articol/ca04_15/
