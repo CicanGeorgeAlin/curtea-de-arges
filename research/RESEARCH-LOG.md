@@ -999,3 +999,26 @@ Comparison status:
 **Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
 
 Next: recover the full 2017 Pl. CXL/1 image/context, then move into the wider non-stove ceramic sequence.
+
+
+## Pass 68 — 22 September 2026
+
+### Objective
+Re-check the exact footnote attachment in the 2018 Câmpulung report before treating Curtea Pl. IV/6 and Rădulescu Pl. CXL/1 as a comparison pair.
+
+### Verified
+- The report's spiral-decorated glazed plates are followed by footnote **10**, which identifies Bătrîna & Bătrîna, *Cercetările arheologice de la Curtea de Argeș*, **Pl. IV/6**. citeturn6search0turn6search10
+- The next, separate decorative-ceramic entry describes a yellow-glazed cahlă fragment retaining a horse leg, interpreted under the theme „oșteanul ecvestru”. That entry is followed by footnote **11**, identifying Rădulescu 2017, **Pl. CXL/1**. citeturn6search0turn6search10
+
+### Correction
+Pass 66–67 treated the two plate references as a paired comparison chain. That was a citation-attachment error caused by their proximity in the bibliography.
+
+Correct status:
+**Pl. IV/6 and Pl. CXL/1 are NOT established as a paired object comparison.**
+
+The archive now separates:
+1. **Curtea de Argeș Pl. IV/6** — glazed ceramic vessel/plate reference, spiral decoration, used by the Câmpulung report as an analogy for spiral-decorated glazed plates.
+2. **Rădulescu Pl. CXL/1** — reference attached to the Câmpulung report's separate horse-leg cahlă / „oșteanul ecvestru” discussion.
+
+### Next
+Trace the provenance and identity of the horse-leg cahlă and determine exactly what Pl. CXL/1 illustrates, using the 2017 catalogue/plate itself where possible.
