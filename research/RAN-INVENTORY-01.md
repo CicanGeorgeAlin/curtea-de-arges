@@ -221,3 +221,20 @@ The archive will maintain:
 CIMEC public-monument records also reveal WWI and Soviet memorial places not represented simply by the current RAN list. citeturn0search1turn0search4turn0search6
 
 Stage remains OPEN — NOT COMPLETE.
+
+## Pass 23 — Component-level reconciliation and spatial uncertainty
+
+The Princely Court is confirmed as a multi-component LMI ensemble AG-II-a-A-13647, not a single undifferentiated monument. Its listed components include princely-house ruins, church/gate towers and multiple enclosure-wall phases. citeturn0search16
+
+New rule:
+**Ensemble → component → evidence** must be preserved.
+
+The 2026 Argeș Territorial Development Strategy also warns that many RAN sites nationally lack precise location and that some archaeological sites are not represented in LMI. This is a national planning observation, not a Curtea de Argeș-specific percentage. citeturn0search18
+
+Therefore future mapping must distinguish:
+- exact/official coordinates
+- address/perimeter only
+- approximate historical location
+- unresolved location
+
+Stage remains OPEN — NOT COMPLETE.
