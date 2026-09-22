@@ -1733,3 +1733,22 @@ Newly controlled catalogue details: the dossier explicitly lists correspondence 
 Use: primary archival-control source for the documentary ecosystem around photographs and museum relationships in 1921–1930. It is a lead toward object/provenance documentation, not evidence that any named correspondence concerns C44/C81 or terracottas specifically.
 
 URL: https://arhivacomisiuniimonumentelor.ro/?p=95291
+
+
+## S189 — Rădulescu 2000 exact-page control: C81 = 4130 and unglazed
+
+Author: Maria-Venera Rădulescu.  
+Publication: “Influențe heraldice pe cahle argeșene – «Leii rampanți – afrontați»”, *Argessis. Studii și comunicări*, IX (2000), pp. 165–172.  
+Exact control: the digitized article states that the rectangular tile was originally about 26 × 20.3 cm, was made from homogeneous clay with sand and mica, and that the surviving fragments are **nesmălțuite** (unglazed), with soot on their backs. Its note identifying the museum pieces gives **4119 (C44)** and **4130 (C81)** and cites Drăghiceanu figs. 78–80.  
+Use: exact-page baseline for the 2000 side of the C81/glaze contradiction.
+
+URL: https://www.biblioteca-digitala.ro/reviste/Argesis/Argesis-09-Studii-si-comunicari-Muzeul-Judetean-Arges-2000.pdf
+
+## S190 — Rădulescu 2007 exact-page control: C81 = 10073 and glazed
+
+Author: Maria-Venera Rădulescu.  
+Publication: “Cahle cu motive heraldice de la Curtea de Argeș”, *Argessis. Studii și comunicări*, XVI (2007), pp. 209–227.  
+Exact control: the article states that two fragments from the 1920 Curtea Domnească excavations measure 18 × 13.5 cm and 13 × 10 cm and are glazed green/light green; its museum note gives **4119/C44** and **10073/C81**. The same note points back to the 2000 article for chronology, iconography, analogies, execution technique and dimensions.  
+Use: exact-page baseline for the 2007 side of the contradiction and for the strong bibliographic bridge between the two publications.
+
+URL: https://biblioteca-digitala.ro/reviste/Argesis/dl.asp?filename=Argesis-16-Studii-si-comunicari-Muzeul-Judetean-Arges-2007_204.pdf
