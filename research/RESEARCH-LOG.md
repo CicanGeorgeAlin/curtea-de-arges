@@ -1632,3 +1632,24 @@ index.html untouched.
 
 ### Next target
 Inspect the 2000 article's figures and the 2007 repetition, then locate an institutional MNAR catalogue or later publication that resolves C81's numerical inventory discrepancy and identifies the exact heraldic composition.
+
+
+## Pass 96 — 22 September 2026
+
+**Target:** reconcile MNAR C44/C81 identifiers and strengthen the object-to-figure bridge.
+
+### Result
+The 2007 Rădulescu article explicitly records **4119/C44 and 10073/C81** for the two 1920 Curtea de Argeș fragments, with dimensions 18 × 13.5 cm and 13 × 10 cm, and cites Drăghiceanu 1923 figs. 78–80. citeturn6search2
+
+The earlier 2000 publication has an indexed reading of **4119/C44 and 4130/C81**. Therefore C81 retains a numerical discrepancy: 4130 vs 10073. The later 2007 value is chronological control, not a formal catalogue resolution.
+
+### Control
+The article's Fig. 4 concerns Curtea de Argeș griffin terracottas generally; the MNAR inventory pair is supplied in footnote 13. Do not assume Fig. 4 depicts C44/C81.
+
+### GitHub
+Backup: backup/pass96-pre-research-2026-09-22
+Updated archaeology, research log, sources.
+index.html untouched.
+
+### Next target
+Recover/inspect the actual 2000 and 2007 figures and then target the MNAR collection catalogue or institutional records. In parallel, inspect Drăghiceanu figs. 78–80 directly.
