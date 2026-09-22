@@ -1927,3 +1927,10 @@ URL: https://arhivacomisiuniimonumentelor.ro/?p=95291
 A 1990 BCMI institutional history records that Virgil Drăghiceanu headed the CMI collections service from 1907–1938 and held the title “conservator al muzeelor Comisiunii Monumentelor Istorice” from 1914. The same institutional history states that the CMI collections were opened to the public from 23 November 1910. citeturn0search6
 
 Control point: this establishes an institutional custody context for Drăghiceanu and CMI collections in the period surrounding the 1920 Curtea Domnească excavations. It does **not** establish that C44/C81 entered a CMI collection, nor does it identify 4119/4130/10073.
+
+
+## S210 — CMI 1914 collection-control precedent: Drăghiceanu inventory reporting
+
+The 1914 *Anuarul Comisiunii Monumentelor Istorice* contains a report by V. Drăghiceanu, identified as “Conservatorul”, concerning the Commission's collections and requests a category-by-category report specifying which objects/documents were held in the collections. The same administrative material states, in another case, that discovered objects should be deposited at the central museum in the capital. citeturn0search4
+
+Control point: this is **pre-1920 institutional precedent**, not evidence about C44/C81. It is valuable because it demonstrates that CMI administrative practice included formal reporting and transfer of discovered objects to a central museum. It should guide searches in the 1921–1930 dossier for terms such as inventory, collection, deposit, transfer and central museum.
