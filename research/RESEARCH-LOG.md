@@ -1996,3 +1996,26 @@ S192 added; Pass 109 recorded; index.html untouched.
 
 ### Next target
 Move from broad web indexing to documentary museum-control sources: older MNAR catalogues, accession/inventory registers, conservation records, object cards, and CMI–museum correspondence, with each identifier searched independently.
+
+
+## Pass 110 — 22 September 2026
+
+### Target
+Extend the identifier search into the PROEUROPEANA scholarly index and test nearby MNAR inventory references for false object matches.
+
+### Results
+PROEUROPEANA's Curtea Domnească descriptor independently indexes Drăghiceanu's 1917–1923 excavation journal and Rădulescu's 2007 heraldic-tile study. Its broader Curtea de Argeș descriptor also indexes the 2016 study of the ritual dance/wedding tile group from Curtea Domnească. citeturn3search0turn3search5
+
+The 2016 item remains the separate I 5882 group already isolated in the archive. It is not evidence for C44/C81.
+
+A 2010 Rădulescu study contains a separate MNAR inventory **C 111** for a tile type from Târgoviște. This provides a useful false-match control: C-numbered MNAR references in the literature cannot be treated as interchangeable identifiers. citeturn3search24
+
+### C44/C81 status
+No new source located in this pass explains 4130 vs 10073 or unglazed vs green/light-green glazed. The documentary contradiction remains open.
+
+### GitHub
+Backup: backup/pass110-pre-research-2026-09-22
+S193 and S194 added; Pass 110 recorded; index.html untouched.
+
+### Next target
+Search bibliographic citations around Rădulescu's 2002 doctoral thesis and older museum catalogues for the exact C44/C81 pair, then return to the CMI 1394 archival route for accession/custody documentation.
