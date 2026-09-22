@@ -1616,3 +1616,18 @@ Earlier 2000 text/OCR gives 4130/C81; later 2007 gives 10073/C81. C44 remains 41
 ## S169 — Pass 96 — Figure-list caution
 
 Rădulescu 2007's Fig. 4 is a general Curtea de Argeș griffin-terracotta illustration; footnote 13 separately lists the MNAR inventory pair. Therefore Fig. 4 is not automatically evidence that the pictured pieces are C44/C81. citeturn4search1
+
+
+## S170 — Pass 97 — MNAR C44/C81 physical description
+
+Rădulescu 2000 gives one fragment at 18 × 13.5 cm with a 4.7 cm-wide *rumpa*, reconstructs the original rectangular plate at approx. 26 × 20.3 cm, and describes homogeneous clay with sand and mica, wooden-mould impression through dense fabric, unglazed fragments, and soot on the reverse. citeturn0search24
+
+## S171 — Pass 97 — Glaze discrepancy
+
+2000 detailed object description: **nesmălțuite** (unglazed). 2007 descriptive passage: green-glazed/light green. citeturn0search24turn0search23
+
+Control: preserve both statements as source-attributed until object photograph/catalogue resolves them.
+
+## S172 — Pass 97 — Reconstruction layer
+
+Rădulescu 2000 explicitly distinguishes surviving museum fragments from a reconstruction of the original image; Daniel Spânu is credited for the reconstruction. Drăghiceanu 1923 remains the earlier publication layer. citeturn0search24
