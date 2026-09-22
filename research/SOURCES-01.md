@@ -1712,3 +1712,14 @@ Coverage: comparative discussion of medieval terracottas, including examples fro
 Use: figure-control evidence only. This independently confirms that plates 79–80 belong to the earlier Drăghiceanu publication's terracotta evidence chain, but it does not establish that these plates are identical to Jurnalul figures 78–80 or identify MNAR C44/C81 individually.
 
 URL: https://biblioteca-digitala.ro/reviste/Buletinul-Comisiunii-Monumentelor-Istorice/Buletinul-Comisiunii-Monumentelor-Istorice-1935-anul-XXVIII.pdf
+
+
+## S187 — Back-up archive, Curtea Domnească dossier no. 1394
+
+Institution/project: Back-up — Valorificarea arhivei istorice a Comisiunii Monumentelor Istorice.  
+Archive dossier: no. 1394, Curtea Domnească, Biserica „Sfântul Nicolae” – Domnesc, municipiul Curtea de Argeș.  
+Correspondence years: 1921–1930.  
+Coverage: historical CMI correspondence and administrative material concerning Curtea Domnească, including a Curtea Domnească plan, Drăghiceanu-signed expenditure correspondence, photography-related correspondence, restoration material and correspondence with national museums. The archive page records 184 leaves and provides a complete PDF dossier.  
+Use: primary archival lead for the institutional history of the Curtea Domnească excavation/restoration period. The public description does **not** identify MNAR C44/C81 or the terracotta fragments individually, so no object-identity claim is made from this source.
+
+URL: https://arhivacomisiuniimonumentelor.ro/?p=95291
