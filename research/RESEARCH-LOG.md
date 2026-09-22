@@ -271,3 +271,13 @@ RAN 13631.10 confirms Argeș Monastery components church 1512–1517, chapel 188
 Next: archaeological/restoration publication reconciliation for these two major complexes.
 
 Stage 1 remains OPEN — NOT COMPLETE.
+
+## Archaeology / Heritage autopilot — Pass 29 · 22 September 2026
+
+Curtea Domnească research was deepened through a specialist 2016 reassessment of the 1920–1922 excavations and the 1967 restart. The 1920–1922 excavation journal records stove tiles from the princely-house basement, but their exact spatial grouping remains uncertain. The 1967 research identified earlier church foundations and clarified construction phases and plans. citeturn0search22
+
+Constantinescu's 1984 monograph was rechecked for scope: it explicitly concerns the 1967–1973 archaeological research of the voivodal core within the modern city, not the whole modern city. citeturn0search4
+
+Methodological result: Curtea Domnească now has a documented intervention chain beginning at least with 1920–1922, followed by 1967–1973 and later specialist reassessment.
+
+Stage 1 remains OPEN — NOT COMPLETE.
