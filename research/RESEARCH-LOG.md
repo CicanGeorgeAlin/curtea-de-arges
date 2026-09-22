@@ -2569,3 +2569,33 @@ S215 added; Pass 129 recorded; index.html untouched.
 
 ### Next target
 Continue the archival chronology around dossier 1394 and the 1923 publication, prioritizing primary-page evidence rather than secondary summaries.
+
+
+## Pass 130 — 22 September 2026
+
+### Target
+Establish exact source-location control inside Drăghiceanu's 1923 BCMI publication before further excavation/object correlation.
+
+### Result
+The Biblioteca Digitală/PROEUROPEANA catalogue confirms two separate Drăghiceanu works in the same 1923 BCMI volume:
+- **Curtea Domnească din Argeş. Note istorice şi arheologice** — pp. 9–76;
+- **Jurnalul săpăturilor din Curtea Domnească a Argeşului** — pp. 134–152. citeturn0search18turn0search0
+
+A 1968 archaeological reassessment explicitly treats the “Jurnalul de săpături” as a field-observation source and notes both concrete observations and limitations in Drăghiceanu's phaseological approach. citeturn0search15
+
+### Significance
+We now have a stronger source-location rule:
+**field observation → Jurnalul, pp.134–152**
+**broader historical/archaeological synthesis → Note istorice și arheologice, pp.9–76**
+
+The two should not be cited interchangeably when reconstructing excavation provenance or chronology.
+
+### C44/C81 status
+Unchanged: 4119/C44 stable; C81 4130 vs 10073 unresolved; 2000 unglazed vs 2007 green/light-green glazed unresolved.
+
+### GitHub
+Backup: backup/pass130-pre-research-2026-09-22
+S216 added; Pass 130 recorded; index.html untouched.
+
+### Next target
+Extract and control the actual pages in **Jurnalul**, especially the portions around the documented excavation chronology and the figure references, before connecting any 1923 statement to later museum objects.
