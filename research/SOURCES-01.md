@@ -746,3 +746,25 @@ A direct search of the original 1983 seal article confirms that the L4 ownership
 The same article's note 3 points to the 1979 report p.153, providing a concrete page-level target for the next excavation-context recovery attempt. This is now a higher-priority target than the previously used p.166/fig.14 trail, which is known to concern comparative stove-tile evidence and not necessarily L4 itself. citeturn0search35turn0search36
 
 Pass 56 therefore upgrades the retrieval target: **1979 report p.153 → L4 description/context**.
+
+
+## Pass 57 — 22 September 2026 — 1979 report p.153 retrieval status
+
+The 1983 Bătrîna & Bătrîna trade-seal study explicitly cites the 1979 Curtea de Argeș settlement report at pp.144 and 153 in its discussion of the burned dwelling L4. The dedicated 1983 article therefore remains the controlling primary source for the L4/seal association, while p.153 of the 1979 report is the next page-level target for independent archaeological context.
+
+The official Digital Library exposes the complete 1979 article as **Cercetări Arheologice IV (1981), pp.144–171**, but the current searchable web interface did not expose the text of p.153 itself. The archive therefore does **not** infer the contents of that page from the 1983 footnote or from later secondary citations.
+
+Controlled status:
+- 1979 campaign article: **PRIMARY SOURCE IDENTIFIED**
+- page 153: **PRIMARY RETRIEVAL TARGET**
+- exact p.153 archaeological wording: **NOT YET EXTRACTED**
+- L4 burned remains: **CONTROLLED through the 1983 primary article**
+- seal ↔ L4 association: **CONTROLLED through the 1983 primary article**
+- merchant = L4 owner: **AUTHORIAL HYPOTHESIS, not established fact**
+- exact L4 plan/dimensions/stratigraphy: **OPEN**
+
+Primary source:
+https://biblioteca-digitala.ro/reviste/cercetari-arheologice/04-cercetari-arheologice-IV-1981.pdf
+
+Cross-reference:
+https://biblioteca-digitala.ro/reviste/cercetari-numismatice/Cercetari-Numismatice-V-1983-16-Batrana-sigiliu-de-comert-XV-Curtea-de-Arges.pdf
