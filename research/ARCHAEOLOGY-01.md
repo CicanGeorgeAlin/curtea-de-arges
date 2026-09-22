@@ -1285,3 +1285,14 @@ The MNIR Numismatic Research record independently confirms that the 1979 excavat
 **Next-stage control:** L4's architectural reconstruction must be extracted from the excavation publications; the 1983 seal study supplies object-level evidence but is not a substitute for the dwelling plan, dimensions or stratigraphy.
 
 **Stage 1 remains OPEN.**
+
+
+## Pass 51 — 22 September 2026 — tile evidence cross-check and figure control
+
+A 2013 specialist archaeological article reproduces a Curtea de Argeș stove-tile fragment dated **14th–15th century** and cites Bătrîna & Bătrîna 1982, plate I/2. citeturn0search28
+
+A specialist catalogue also cites Bătrîna & Bătrîna 1981, p.166 fig.14/3 and the 1982 publication p.103 pl.VII. citeturn0search26
+
+This strengthens the independent ceramic/heating evidence for medieval urban housing at Curtea de Argeș, but it still does not justify assigning every cited figure to L4 or to the Tournai seal. The Pass 41 correction remains active.
+
+**Stage 1 remains OPEN.**
