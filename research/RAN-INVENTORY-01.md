@@ -161,3 +161,18 @@ Leads identified:
 Control rule: site inventory and intervention history are separate datasets. A place can link to RAN/LMI identity, investigation, excavation/intervention, publication, finds and interpretation without assuming every intervention generated a current RAN record.
 
 Stage remains OPEN — NOT COMPLETE.
+
+## Pass 19 — Negative evidence and non-RAN archaeological trails
+
+A 1980 archaeological investigation west of Sân Nicoară hill demonstrates why the archive must record **negative evidence**. The published report states that two sections found no material/cultural complexes warranting expansion, apart from a medieval circular-plan oven at one end of the investigated area. citeturn0search23
+
+This creates a new inventory rule:
+- “No significant archaeological remains found” is a research result, not an empty field.
+- Investigated zones with negative or limited results should remain linked to their publication/intervention.
+- A negative result must not be transformed into “no archaeology exists” beyond the tested area.
+
+Drujești is now strengthened as an archaeological intervention/publication node through the 1990 specialist study and later cross-reference to its funerary glass evidence. citeturn1search0turn1search50
+
+Bătușari/Brad-Botușari is added to the **heritage reconciliation queue**, but not promoted as a new archaeological RAN record. Current institutional history is insufficient by itself for that step. citeturn1search1
+
+Stage remains OPEN — NOT COMPLETE.
