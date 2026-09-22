@@ -1788,3 +1788,38 @@ index.html untouched.
 
 ### Next target
 Obtain a visual rendering of the original figure pages and, in parallel, continue the museum inventory-history search for C44/C81.
+
+
+## Pass 103 — 22 September 2026
+
+### Target
+Continue the MNAR C44/C81 investigation while strengthening the broader ceramic context and testing whether the glaze discrepancy can be explained from independent scholarship.
+
+### New evidence
+A 1967 specialist discussion of Argeș ceramics quotes Drăghiceanu's broader distinction: some Curtea de Argeș terracottas were regarded as unglazed and older, while others had glaze and were considered later. This confirms that both surface categories existed in the wider Curtea corpus. citeturn4search0
+
+### Important limitation
+This does not resolve the MNAR C44/C81 contradiction. The 2000 publication attaches “nesmălțuite” directly to the MNAR pair and gives 4119/C44 and 4130/C81; the 2007 publication gives the same C44 code, a changed numerical C81 inventory (10073), and a green/light-green glazed description. The 1967 contextual distinction cannot be used to decide which description belongs to the individual MNAR pieces.
+
+### Primary-source control
+The BCU Iași record confirms the digitized 1923 Drăghiceanu work and its coverage of the archaeological excavations and archaeological objects. citeturn1view0 The 1923 table of illustrations identifies figs. 78–79 as “Teracote găsite în Casa Domnească” and fig. 80 as “Teracotă găsită în Casa Domnească.” citeturn0search29 Direct visual assignment of C44/C81 to these figures remains unproven.
+
+### Museum search
+No publicly indexed MNAR catalogue record for 4119/C44, 4130/C81 or 10073/C81 was located in this pass. Therefore the inventory-number transition remains unresolved.
+
+### Status after Pass 103
+- C44 = 4119: STABLE
+- C81: STABLE collection code / UNRESOLVED numerical inventory: 4130 vs 10073
+- 2000 surface description: UNGLAZED
+- 2007 surface description: GREEN/LIGHT-GREEN GLAZED
+- Wider Curtea corpus: both glazed and unglazed terracottas documented
+- Individual figure assignment to Drăghiceanu figs. 78–80: UNRESOLVED
+- Explanation for C81 renumbering: UNRESOLVED
+- Explanation for surface-description discrepancy: UNRESOLVED
+
+### GitHub
+Backup: backup/pass103-pre-research-2026-09-22  
+Research files updated. index.html untouched.
+
+### Next target
+Move from bibliographic control to visual/object control: obtain a usable rendering of Drăghiceanu figs. 78–80 and search institutional image/catalogue holdings, including MNAR and digitized heritage archives, for the actual fragments or accession records.
