@@ -526,3 +526,17 @@ Publication: *Cercetări Arheologice*, V, 1982, pp. 95–107.
 Coverage: continuation of archaeological investigations begun in 1979, including work west of Sân Nicoară hill and other sectors of the medieval settlement. The article records negative evidence in one investigated area and a medieval circular-plan oven preserved in part.  
 Use: **primary specialist archaeological publication**. citeturn0search31  
 URL: https://biblioteca-digitala.ro/reviste/cercetari-arheologice/05-cercetari-arheologice-V-1982.pdf
+
+
+## S83 — Bătrîna & Bătrîna, 1979 settlement archaeology: published spatial/architectural evidence cross-checked
+
+Authors: Lia Bătrîna; Adrian Bătrîna.  
+Publication: *Cercetări Arheologice*, IV, 1981, pp. 144–171; the article reports the archaeological investigations carried out in 1979 within the Curtea de Argeș settlement. The national archaeological bibliography confirms the article and pagination. citeturn0search0turn0search1  
+
+Controlled findings from later specialist cross-references to the 1979 article include: a sunken habitation structure dated to the end of the 13th century (the later synthesis cites the 1981 article, pp. 144–150), and a mid-14th-century surface house whose walls were supported on timber beams/sole plates above a stone socle (later synthesis cites the 1981 article, pp. 151–153). The same specialist synthesis identifies the Curtea de Argeș evidence as part of a broader transition from sunken dwellings toward more substantial surface timber houses. citeturn9search23  
+
+A separate specialist catalogue cites the 1979 article, pp. 166–167, for stove-tile evidence from a Curtea de Argeș townspeople's dwelling, while the 1982 Bătrîna & Bătrîna article independently cites related material from the 1980 campaign. These references support the existence of a medieval urban domestic/technological evidence stream, but do not by themselves fix the exact modern parcel of each find. citeturn4search30turn2search40  
+
+Use: **primary specialist publication, with individual claims promoted only when the underlying passage or a controlled specialist cross-reference has been checked**. Exact spatial coordinates remain unresolved unless the original plan is inspected.
+
+URL: https://biblioteca-digitala.ro/reviste/cercetari-arheologice/04-cercetari-arheologice-IV-1981.pdf
