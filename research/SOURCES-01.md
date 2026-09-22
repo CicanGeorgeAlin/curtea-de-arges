@@ -683,3 +683,12 @@ Direct search of the original 1979 report confirms that the authors deliberately
 The report's opening excavation context therefore matters for the future spatial archive: L4 is not an isolated monument but part of a deliberately sampled urban-settlement investigation designed to test medieval street/settlement continuity. Exact L4 section placement still requires the relevant later pages/figures.
 
 A broader 1992 specialist synthesis independently cites the 1979 report for evidence of mid-14th-century houses at Curtea de Argeș and notes the development of substantial timber houses with cellars and tile stoves from the second half of the 14th century. It is used only as wider urban-context corroboration, not as a direct description of L4. citeturn0search28
+
+
+## S97 — Pass 50: settlement-scale control before L4 spatial reconstruction
+
+The National Museum of History journal index confirms that the 1979 Curtea de Argeș settlement report is a dedicated excavation report spanning pp.144–171, while the 1982 continuation is separately published on pp.95–107. citeturn0search0turn0search6
+
+The MNIR Numismatic Research record independently confirms the 1979 find context: a Tournai cloth seal discovered in an urban-type dwelling dated by the 1983 authors to the end of the 14th/beginning of the 15th century, with heraldic dating after 1426. citeturn0search8
+
+Pass 50 therefore establishes a source-control rule for the next stage: use the **1979 excavation report for L4 architecture/context**, and the **1983 numismatic study for object identification/dating/interpretation**; do not use the latter to reconstruct unreported plan details.
