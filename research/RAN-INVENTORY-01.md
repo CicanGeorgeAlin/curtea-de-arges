@@ -93,3 +93,27 @@ The RAN municipality result currently visible through the indexed query confirms
 ### Stage status
 
 **OPEN — NOT COMPLETE.**
+
+
+## Pass 13 — Current-source control and chronology separation
+
+The current RAN pages were rechecked against the archaeological research trail. The database currently reports its overall data update as **27 July 2026**. This is recorded as a database-maintenance timestamp, not as the date of an archaeological discovery.
+
+The individual records currently verified include:
+
+- **13631.02 — Drujești:** medieval church and necropolis; systematic research in 1987 by Spiridon Cristocea; associated *Cronica* bibliography.
+- **13631.05 — Sân Nicoară:** LMI AG-II-m-A-13655.01; medieval church; preventive archaeological research in 2009–2011 by named institutions/researchers; associated 2011 report 4830.
+
+The RAN record for Sân Nicoară gives a 14th-century chronology, while the 2011 archaeological report preserves an alternative research hypothesis concerning a later construction date. Both are retained rather than reconciled by assumption. citeturn0search0turn0search1turn0search12
+
+### Inventory-control rule strengthened
+
+For every RAN row, the archive will distinguish:
+
+**official register data → excavation/research record → bibliography → interpretation → unresolved conflict**.
+
+A current RAN date is not automatically the same thing as an excavation date, construction date or consensus historical date.
+
+### Status
+
+**OPEN — NOT COMPLETE.**
