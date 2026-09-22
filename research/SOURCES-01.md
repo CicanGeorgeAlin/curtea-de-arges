@@ -372,3 +372,13 @@ Type: specialist archaeological study. RMI index records the article in Revista 
 
 ## S48 — Biserica Bătușari / Brad-Botușari: institutional historical lead
 County Council Argeș identifies the church as a historic monument and states a foundation in 1583 attributed to Petru Cercel, with later rebuilding/restoration phases. This is a **heritage/history lead, not yet an archaeological campaign record**. It should be reconciled against LMI/RAN and specialist literature before being promoted into the archaeological chronology. citeturn1search1turn1search47
+
+## S49 — RAN 13631.05 current record: Sân Nicoară
+Current RAN record identifies the site as Ruinele Bisericii Sân Nicoară, LMI AG-II-m-A-13655.01, medieval 14th century. It records “Data descoperirii: 1886” and a 2009–2011 preventive research campaign by Iosipescu, Iancu and Stănilă, with the 2011 *Cronica Cercetărilor Arheologice* report as bibliography. This is stronger current-register evidence than the earlier secondary reconstruction and should be treated as the canonical register layer. citeturn1search1turn1search7
+
+## S50 — LMI 2015 / Curtea de Argeș reconciliation
+The 2015 LMI material lists, among other Curtea de Argeș monuments, Olari as AG-II-a-A-13639 with components AG-II-m-A-13639.01 (church), AG-II-m-A-13639.02 (enclosure wall), and AG-IV-m-A-13639.03 (crosses); Sân Nicoară as AG-II-a-A-13655 with ruin AG-II-m-A-13655.01 and park AG-II-m-A-13655.02; and Brad-Bătușari as AG-II-m-A-13663. citeturn1search4turn1search13
+Use: LMI-to-RAN reconciliation, not automatic archaeological dating.
+
+## S51 — Olari RAN 13631.09 discrepancy lead
+A 2022 secondary article states that Olari appears in RAN under code 13631.09. Current targeted searches did not independently retrieve an official RAN 13631.09 record, while the official/current LMI evidence independently confirms the Olari monument family under LMI 13639. This remains a **DISCREPANCY / CANDIDATE**, not VERIFIED RAN identity. citeturn2search0turn1search4
