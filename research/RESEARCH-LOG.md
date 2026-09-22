@@ -2387,3 +2387,34 @@ S209 added; Pass 123 recorded; index.html untouched.
 
 ### Next target
 Use this institutional context to prioritize CMI collection/accession terminology in the 1394 dossier and related CMI records: “colecții”, “muzee”, “conservator”, “predare”, “inventar”, “Muzeul Național de Antichități”, and photographic documentation.
+
+
+## Pass 124 — 22 September 2026
+
+### Target
+Find earlier CMI administrative evidence that can tell us what kinds of collection/inventory/transfer language to search for inside the 1921–1930 dossier 1394.
+
+### New control
+The 1914 *Anuarul CMI* contains a report by V. Drăghiceanu, identified as **Conservatorul**, concerning the Commission's collections and requesting a category-by-category statement specifying which objects/documents were held in the collections. The same administrative record includes an instruction in another case that discovered objects be deposited at the central museum in Bucharest. citeturn0search4
+
+### Significance
+This is not evidence that C44/C81 passed through the CMI collections. It is a **documented institutional precedent** showing that, before the 1920 Curtea Domnească excavation, CMI administration already used formal collection reporting and central-museum deposit procedures.
+
+This gives the 1394 search a more concrete vocabulary and documentary expectation:
+- colecții;
+- inventar;
+- obiecte/documente;
+- depunere;
+- muzeul central;
+- predare/transfer;
+- conservator.
+
+### C44/C81 status
+Unchanged. No object-level reconciliation of 4130/10073 or unglazed/glazed.
+
+### GitHub
+Backup: backup/pass124-pre-research-2026-09-22
+S210 added; Pass 124 recorded; index.html untouched.
+
+### Next target
+Use the 1914 administrative precedent to search the 1394 dossier and related 1921–1930 CMI records for actual collection/inventory/transfer language, especially documents signed by Drăghiceanu and correspondence with the central/national museums.
