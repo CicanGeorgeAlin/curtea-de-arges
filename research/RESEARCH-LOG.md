@@ -2625,3 +2625,34 @@ S217 added; Pass 131 recorded; index.html untouched.
 
 ### Next target
 Recover page-level text/images from the journal itself, prioritizing pages 134–150/152 and figure references, while retaining the page-range discrepancy.
+
+
+## Pass 132 — 22 September 2026
+
+### Target
+Resolve the apparent 134–150/152 page-range variation for the 1923 excavation journal at the level of article structure.
+
+### Result
+A detailed bibliographic index records Drăghiceanu's *Jurnalul săpăturilor din Curtea domnească a Argeșului* at **pp. 134–147**, followed by an appendix/addenda component at **pp. 149–150**. The same index places Moisil's separate Curtea de Argeș coin article at **pp. 150–152** and Rainer's anthropological article at **pp. 153–160**. citeturn0search23
+
+This gives a plausible bibliographic explanation for the wider catalogue extent **134–152**: catalogue/article indexing and internal article pagination are not necessarily describing the same unit. We preserve both metadata forms rather than calling one an error.
+
+A 2014 study cites a specific Drăghiceanu Jurnal observation at **p. 138**, demonstrating that later scholarship uses page-level references within the journal. citeturn0search21
+
+### Significance
+The research archive now distinguishes:
+- catalogue extent: **134–152**;
+- detailed article body: **134–147**;
+- appendix/addenda: **149–150**.
+
+This is a bibliographic-control improvement, not a new archaeological interpretation.
+
+### C44/C81 status
+Unchanged: 4119/C44 stable; C81 4130 vs 10073 unresolved; 2000 unglazed vs 2007 green/light-green glazed unresolved.
+
+### GitHub
+Backup: backup/pass132-pre-research-2026-09-22
+S218 added; Pass 132 recorded; index.html untouched.
+
+### Next target
+Use the page-138 anchor and other page-specific citations to recover the actual journal text/image pages and map claims to exact pages before linking them to later objects.
