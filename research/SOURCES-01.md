@@ -2026,3 +2026,14 @@ A separate 1935 BCMI article also cites Drăghiceanu's *Jurnalul*, p.138, in dis
 Control status: the exact content of p.138 is now partially recoverable through independent later citations, but the original 1923 page image/text has not yet been directly inspected in this pass. Therefore the recovered observation is recorded as **secondary citation to a primary page**, not as a direct transcription of the 1923 page.
 
 This evidence concerns grave 10 in the Princely Church and is unrelated to MNAR C44/C81 terracotta fragments; no object linkage is inferred.
+
+
+## S221 — p.138 provenance/content clarification: later scholarship identifies a specific measurement
+
+A recent study states that the estimated height of the individual in grave 10, **1.64 m**, was given by Drăghiceanu in the *Jurnalul săpăturilor*, p.138. It also notes that the remains from grave 10 were not among those examined by Rainer. citeturn0search28 A 2020 Bătrîna study independently treats Drăghiceanu's p.138 citation as a primary source for grave 10. citeturn0search25
+
+This establishes a more precise content anchor for p.138: the 1.64 m estimate is explicitly attributed by later scholarship to that page. It remains a secondary report of the primary page until the original page is directly inspected.
+
+Important source-control correction: the previous pass's wording about a “perforation in the southern wall” should not be treated as newly verified from p.138 itself; it came from later scholarship. This pass preserves the attribution boundary.
+
+No connection to C44/C81 is inferred.
