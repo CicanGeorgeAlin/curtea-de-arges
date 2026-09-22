@@ -2413,3 +2413,37 @@ The same later source distinguishes the Curtea examples of suspended vessels fro
 ### New research rule
 
 A later citation can confirm that an object/reference was used in scholarship, but it cannot silently override the primary publication. When later literature gives a different plate number, the archive records the discrepancy and returns to the primary plate for final resolution.
+
+
+## Archaeological plate reconciliation — Pass 80 · 22 September 2026
+
+### Pl. IV: three-way internal control
+
+Visual inspection of the original plate confirms **six numbered items** on Pl. IV. The Romanian printed caption identifies 1,2,3,5 as glazed ceramic and 4 as pahar; it does not classify item 6. The English/French-language legend later in the same PDF renders item 4 differently as glass. The body text independently describes the small pahar and gives the reference **Pl. IV/1**. citeturn4view0turn2view0
+
+Therefore the controlled record is:
+- **IV/4:** visually a small cup/pahar; Romanian caption = pahar; French legend = verre; body text = pahar at IV/1. Status: **internal publication conflict**.
+- **IV/6:** visually present and drawn as a glazed vessel/fragment with profile; omitted from the Romanian plate caption. Status: **controlled existence, formal classification pending textual reconciliation**.
+
+This is stronger than treating IV/6 as a scanning artefact: the numbered drawing itself is visible in the primary plate.
+
+### Pl. V: primary source resolves the suspension-hole reference
+
+The 1982 body text explicitly lists the perforated ring-foot examples as **Pl. III/1,4; Pl. IV/1,2,3,5; Pl. V/4**. citeturn2view0
+
+A later specialist citation gave Pl. V/2. The archive now classifies this as a **secondary-source discrepancy**, not an unresolved primary-source reference. For the 1982 corpus, the primary text remains the controlling reference: **V/4**.
+
+### Pl. V/1: do not force the leopard/rider identity
+
+The plate image shows four numbered glazed-ceramic illustrations. Item 1 visibly carries a strong radial/whirling composition, consistent with the text's separate statement that the vârtej motif occurs at IV/2 and V/1. The same paragraph also assigns the partial leopard identification to V/1. Because the image alone does not safely establish the zoomorphic reading, the archive records both textual claims without converting them into a single morphology/function statement. citeturn3view0turn2view0
+
+The earlier wording that treated a **mounted rider at Pl. V/1** as an established primary conflict is withdrawn: the mounted-rider reference in the stove discussion is OCR-corrupted as **“pl -1/1”** and is better treated as an unresolved/garbled plate reference, not confidently as V/1. citeturn2view0
+
+### New rule
+Primary-source conflicts are now split into:
+1. **internal caption/language conflict**;
+2. **body-text ↔ plate conflict**;
+3. **secondary-source discrepancy**;
+4. **OCR/scan corruption**.
+
+This gives each anomaly a provenance rather than one generic “uncertain” label.
