@@ -540,3 +540,12 @@ A separate specialist catalogue cites the 1979 article, pp. 166–167, for stove
 Use: **primary specialist publication, with individual claims promoted only when the underlying passage or a controlled specialist cross-reference has been checked**. Exact spatial coordinates remain unresolved unless the original plan is inspected.
 
 URL: https://biblioteca-digitala.ro/reviste/cercetari-arheologice/04-cercetari-arheologice-IV-1981.pdf
+
+
+## S84 — 1979 dwelling 4 and the double lead trade seal
+
+Cross-reference: *Cercetări Numismatice* XIV (2008), cumulative index for 1978–2007. The index records that excavations in **1979**, in **dwelling 4** at Curtea de Argeș, recovered a **double lead seal**, made from two round lead plates joined at two points; both faces carried a fleur-de-lis emblem and the legend **“+ DE TOURNAI”**. The index points to the detailed publication in *Cercetări Numismatice* V, pp. 197–200, 202, 206. citeturn11search23
+
+Use: **specialist numismatic cross-reference to the 1979 archaeological campaign**. It is evidence for an internationally connected object found in a specific excavated dwelling, but the seal's historical attribution/interpretation should be taken from the dedicated 1983 publication before being promoted beyond the controlled find record.
+
+URL: https://www.biblioteca-digitala.ro/reviste/cercetari-numismatice/CERCETARI_NUMISMATICE_XIV_2008.pdf
