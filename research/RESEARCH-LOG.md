@@ -1050,3 +1050,23 @@ Direct plate/caption recovery is still required before converting this into a de
 **Archaeological Stage 1 — OPEN / NOT COMPLETE.**
 
 Next: recover the actual Rădulescu 2017 Pl. CXL/1 plate/caption if possible; otherwise preserve the Băjești analogy as a controlled secondary citation and move on.
+
+## Pass 70 — 22 September 2026
+
+### Objective
+Re-verify the exact CXL/1 citation attachment using the complete 2018 *Cronica* PDF rather than a search-result excerpt.
+
+### Verified
+- The report explicitly describes the Câmpulung horse-leg cahlă and says it has an analogy at Băjești, the court of Mareș Băjescu, dated there to the 17th century.
+- Footnote 11 attached to that analogy is Rădulescu 2017, Pl. CXL/1. citeturn0search13turn1search0
+- The spiral-decorated glazed plates have a separate footnote 10 to Bătrîna & Bătrîna, Curtea de Argeș, Pl. IV/6. citeturn0search0turn0search15
+
+### Control decision
+The evidence supports the chain:
+**Câmpulung horse-leg cahlă → Băjești analogy → Rădulescu 2017 Pl. CXL/1.**
+
+It does not yet justify:
+**CXL/1 = definitively the Băjești object**, because the plate/caption itself has not been directly recovered.
+
+### Stage
+**Archaeological Stage 1 — OPEN / NOT COMPLETE.**
