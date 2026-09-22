@@ -1762,3 +1762,13 @@ Coverage: discusses a fragmentary stove tile from Curtea de Argeș. The author s
 Use: negative-control / provenance-method source. It demonstrates that even specialist publications can preserve a Curtea de Argeș attribution while explicitly lacking excavation context. It is **not** identified with MNAR C44/C81 and must remain a separate object.
 
 URL: https://cercetari-arheologice.ro/wp-content/uploads/2024/07/ca31_1_17_radulescu.pdf
+
+
+## S192 — Maria-Venera Rădulescu, *Argesis* XVI (2007), “Cahle cu decor de inspirație heraldică...”
+
+Author: Maria-Venera Rădulescu.  
+Publication: *Argesis — Studii și Comunicări*, XVI (2007), pp. 209–228.  
+Coverage: two fragments from Curtea Domnească at Argeș, found during the 1920 archaeological excavations under Virgiliu Drăghiceanu. The two fragments are given as 18 × 13.5 cm and 13 × 10 cm; the author describes them as glazed, one “verde crud” and one “verde deschis”, and states that they are held in the collection of the Muzeul Național de Artă al României.  
+Control point: this is the later publication that produces the surface-description conflict with Rădulescu 2000. The 2007 passage must be retained alongside, not substituted for, the 2000 statement that the fragments are unglazed. The 2007 passage does not by itself explain the different C81 numerical inventory cited elsewhere.
+
+URL: https://biblioteca-digitala.ro/reviste/Argesis/dl.asp?filename=Argesis-16-Studii-si-comunicari-Muzeul-Judetean-Arges-2007_204.pdf
