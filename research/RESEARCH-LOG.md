@@ -1336,3 +1336,26 @@ index.html untouched.
 
 ### Next target
 Item-level reconstruction of Pl. VI and Pl. VII, then cross-link to the primary L4 context while preserving context boundaries.
+
+
+## Pass 82 — 22 September 2026
+
+**Target:** visual control of Pl. VI and structural control of Pl. VII.
+
+### Verified
+- Pl. VI has four numbered items.
+- VI/1–3 are glazed ceramic in the 16th–17th-century group.
+- VI/4 is a cahlă/stove-tile fragment with human-face relief.
+- Pl. VII is the 14th-century stove-disc corpus; text describes glazed/unglazed discs made on a fast wheel with concentric ribs and central button. citeturn0search12
+- Later literature gives comparative Wallachian parallels for disc cahle, including Curtea de Argeș, but no object identity is inferred. citeturn0search13
+
+### Critical context control
+No Pl. VI or VII item is assigned to L4 merely because L4 contains stove material.
+
+### GitHub
+Backup: backup/pass82-pre-research-2026-09-22
+Updated: archaeology, research log, sources.
+index.html untouched.
+
+### Next target
+Item-level reconstruction of Pl. VII and trace every available contextual reference before assigning provenance.
