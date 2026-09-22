@@ -1544,3 +1544,24 @@ index.html untouched.
 
 ### Next target
 Search the bibliography of the 2016 article and the 1920–1922 excavation literature for I 5882's object description, then inspect later stove-tile catalogues/monographs for the same dimensions and iconography.
+
+
+## Pass 92 — 22 September 2026
+
+**Target:** locate I 5882 through bibliographic fingerprints instead of inventory-number search.
+
+### Result
+Searches using the three fragment dimensions, reconstructed plate size, and distinctive iconography did not produce an independently verified pre-2016 I 5882 record. The indexed 2016 Rădulescu article remains the only directly relevant hit. citeturn0search44
+
+A control search showed that “I 5882” appears in unrelated museum catalogues, confirming that inventory-number-only matching is unsafe. citeturn1search38
+
+### Boundary
+No indexed match ≠ no earlier record. The archive records only that no independent indexed match was verified in this pass.
+
+### GitHub
+Backup: backup/pass92-pre-research-2026-09-22
+Updated archaeology, research log, sources.
+index.html untouched.
+
+### Next target
+Systematically inspect the 2016 bibliography for all Curtea de Argeș stove-tile references and trace each backward, rather than continuing broad inventory-number searches.
