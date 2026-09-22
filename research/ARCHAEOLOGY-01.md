@@ -1019,3 +1019,37 @@ The evidence model is therefore extended:
 **CAMPAIGN → TEST AREA → STRUCTURE → FIND → INSCRIPTION / TYPE → INTERPRETATION → LOCATION CONFIDENCE**
 
 This is another reason the 1979 campaign deserves a dedicated micro-record rather than a single paragraph in the city chronology.
+
+
+## Archaeology autopilot — Pass 36 · 22 September 2026
+
+### The 1979–1980 programme is now formally split by campaign
+
+Pass 36 tightened a distinction that matters for the future map: **1979 evidence and 1980 evidence are consecutive research campaigns, not one undifferentiated excavation area**.
+
+The national archaeological bibliography confirms the 1981 publication of the 1979 research and the 1982 publication of the subsequent Curtea de Argeș research. citeturn2view0 The 1980 publication itself states that research continued in several zones of the city and identifies a tested area at the foot of Sân Nicoară hill, to its west. Two east–west sections there did not produce results sufficient to justify expansion; the medieval installation recorded was a circular-plan oven. citeturn0search23
+
+### New controlled spatial hierarchy
+
+**1979 CAMPAIGN**  
+→ individual test sectors / dwellings / finds  
+
+**1980 CAMPAIGN**  
+→ separate test sectors, including the west-of-Sân-Nicoară area  
+
+**1983–1984 EMV CAMPAIGN**  
+→ separate extra-muros-west microzone
+
+This prevents the future map from drawing a false continuous archaeological polygon through areas that were investigated at different times and for different purposes.
+
+### Important broader confirmation
+
+A 1980 review of medieval urban archaeology explicitly describes the Curtea de Argeș excavations by Lia and Adrian Bătrîna as revealing the evolution of the dwelling from the **end of the 13th century into the later 14th century**, beginning with a semi-sunken dwelling and developing toward a more complex dwelling form. This is useful as a contemporary scholarly synthesis, but the archive will continue to privilege the original Bătrîna publications for structure-by-structure claims. citeturn0search27
+
+### Self-challenge
+
+The project still lacks the original 1979 excavation plan in a controlled, readable form. Until that is obtained, the archive must not assign modern coordinates to individual dwellings merely from later summaries.
+
+Next target: recover the **1979 plan and figure captions**, then build the first true archaeological micro-map linking dwelling numbers, sections and finds to source pages.
+
+**Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
