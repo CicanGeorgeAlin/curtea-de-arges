@@ -926,3 +926,26 @@ Ceramic records now require separate fields for:
 **Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
 
 Next: trace specific 1979–1980 ceramic figures/plates through later specialist citations and continue the wider campaign matrix.
+
+
+## Pass 65 — 22 September 2026
+
+### Objective
+Trace specific 1979–1980 stove/ceramic references into later specialist citations and improve object-provenance control.
+
+### Verified
+- The 2013 Rădulescu study uses both the 1979 and 1982 Bătrîna & Bătrîna reports as bibliography for a later typological study of Wallachian stove canopies. citeturn0search0turn0search17
+- The 2024 Rădulescu study documents a Curtea de Argeș tournament-scene **cahlă-placă**, 13.2 × 17 × 1.2 cm, green glazed and mould-impressed, and explicitly records that its discovery year, exact location and stratigraphy are unknown. citeturn1view2
+- The same 2024 study identifies the custody institution as Institutul de Arheologie „V. Pârvan”, while noting no inventory number and no known discovery year. citeturn1view2
+- A 2022 *Cronica Cercetărilor Arheologice* citation places the 1982 Curtea de Argeș publication (Pl. IV/6) alongside Rădulescu 2017 (Pl. CXL/1). This is retained only as a comparison lead, not proof of identical objects. citeturn2search1
+
+### Control decision
+Locality + institutional custody does not equal excavation provenance.
+
+New provenance ladder:
+**LOCALITY → CUSTODY → DISCOVERY YEAR → EXACT PLACE → STRATIGRAPHY → CAMPAIGN ASSIGNMENT**
+
+### Stage
+**Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+Next: recover the actual 1982 Plate IV/6 object and trace its later citations before returning to the broader ceramic sequence.
