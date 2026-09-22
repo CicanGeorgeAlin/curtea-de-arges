@@ -2296,3 +2296,30 @@ Those are separate fields.
 The next step is now to reconstruct **Pl. I–V item by item**, using the primary text's explicit cross-references. Visual inspection remains necessary for morphology and decoration that the text does not fully describe.
 
 **Stage 1 — OPEN / NOT COMPLETE.**
+
+
+## Archaeological plate control — Pass 76 · 22 September 2026
+
+The official 1982 article is confirmed as *Cercetări Arheologice* V (1982), pp. 95–107. The primary PDF is the controlling source for the following plate/object relationships. citeturn0search12turn0search3
+
+### Pl. I–V textual cross-reference audit
+
+- **Pl. I/1–2** — ornamental ceramic.
+- **Pl. I/3–4** — candlestick/lid candidates; functional classification remains unresolved.
+- **Pl. II** — glazed taler, 14th century.
+- **Pl. III/1, 3, 4** — glazed ceramic.
+- **Pl. III/2** — crăiță / kiln support.
+- **Pl. IV/1** — small pahar; approximately 7 cm high, tronconic, slightly inward-curved rim, widened foot.
+- **Pl. IV/2** — vârtej/whirl decoration.
+- **Pl. IV/3, 5** — concentric-circle decoration.
+- **Pl. IV/4** — glass object, not ceramic.
+- **Pl. V/1** — partial leopard/zoomorphic image; identification is comparative.
+- **Pl. V/4** — curved-line decoration with small incisions; also among perforated ring-foot references.
+
+### Critical control
+**Pl. IV/4 must not enter the ceramic-object inventory.** The plate legend identifies it as glass. Material class is therefore an independent inventory field, separate from plate number, form, decoration and function. citeturn0search12
+
+The plate legend assigns 14th-century dating to Pl. I–V, while the excavation's stratigraphic discussion extends into material dated to the end of the 14th through middle of the 15th century. The archive therefore keeps **plate-caption date**, **context/depositional chronology**, and **manufacture chronology** separate. citeturn0search12
+
+### Stage
+The textual audit of Pl. I–V is now stable enough for an initial object map. Complete morphological reconstruction is still open until the actual numbered plate images are visually controlled.
