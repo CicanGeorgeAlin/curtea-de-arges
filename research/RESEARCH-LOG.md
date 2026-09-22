@@ -1313,3 +1313,26 @@ index.html untouched.
 
 ### Next target
 Resolve Pl. IV/6 by tracing its mention in the body text and inspect Pl. VI–VII as the separate stove-material corpus.
+
+
+## Pass 81 — 22 September 2026
+
+**Target:** establish the separate stove-material object branch from the 1982 primary report.
+
+### Verified
+- Official journal confirms Bătrîna & Bătrîna, *Cercetările arheologice de la Curtea de Argeș*, CA V (1982), pp. 95–107. citeturn0search2turn0search12
+- Pl. VI/4 = stove-tile fragment/cahlă.
+- Pl. VI/1–3 = glazed ceramic assigned to the 16th–17th-century group.
+- Pl. VII = 14th-century stove discs.
+- L4 contains stove tiles, smoke tiles and daub in its cellar fill; smoke-flue dimensions are recorded separately in the 1979/1980 excavation chain.
+
+### Critical separation
+Vessel ceramics, stove discs, stove-tile plates, smoke-flue components and daub are now separate object/context families.
+
+### GitHub
+Backup: backup/pass81-pre-research-2026-09-22
+Updated: archaeology, research log, sources.
+index.html untouched.
+
+### Next target
+Item-level reconstruction of Pl. VI and Pl. VII, then cross-link to the primary L4 context while preserving context boundaries.
