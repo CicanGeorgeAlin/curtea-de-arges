@@ -1961,3 +1961,12 @@ This is a major archival control because it proves that dossier 1394 contains sh
 Important limitation: the reproduced description does **not** identify the excavated objects, C44/C81, or MNAR inventory numbers. The actual 119 MB dossier PDF is linked by the archive catalogue but the web reader could not fetch it because of file size. Therefore no object-level custody claim is made.
 
 Research implication: prioritize sheets around 66 and adjacent correspondence for wording concerning excavation, finds, expenses, transport, deposition, custody, inventory, or museum transfer. Also distinguish the 1920 church excavation from the documented **September 1922–January 1923** excavation activity in dossier 1394; they must not be conflated without evidence.
+
+
+## S214 — Excavation chronology control: 1920–1922 versus dossier 1394 reimbursement, 1922–1923
+
+Rădulescu 2016 states that archaeological research at the Princely Court began in summer 1920; the excavations in the enclosure began on 9 October 1920 and ended on 1 April 1922. She separately describes stove-tile discoveries and cites Drăghiceanu 1923. citeturn0search23
+
+A separate CMI archival study identifies dossier 1394, sheet 66, as a Drăghiceanu reimbursement request for excavation works executed from September 1922 to January 1923. citeturn0search0
+
+Therefore the archive must preserve a chronological distinction rather than assume these are one continuous excavation campaign. The relationship between the 1 April 1922 end-date reported for the main enclosure excavations and the September 1922–January 1923 expenditure documentation remains unresolved. Possible explanations include later supplementary work, a different work package, administrative accounting period, or differing scope; none is asserted without the underlying sheets.
