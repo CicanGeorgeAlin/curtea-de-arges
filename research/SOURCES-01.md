@@ -1890,3 +1890,10 @@ A separate indexed page excerpt from the same 1923 volume states that fig. 82 is
 Control point: this is the first direct textual recovery of the **specific figure subjects** from the original 1923 volume, even though the image pages themselves remain blocked by the current reader. It still does not establish C44/C81 identity. In particular, the 1923 text shows that multiple separately numbered terracotta figures existed, including both glazed and other terracotta pieces, so later references to “figs. 78–80” must be interpreted at figure level rather than as a single object group.
 
 URL: https://biblioteca-digitala.ro/reviste/Buletinul-Comisiunii-Monumentelor-Istorice/Buletinul-Comisiunii-Monumentelor-Istorice-1917-1923-anul-X-XVI.pdf
+
+
+## S205 — Florescu 1967: Drăghiceanu's corpus-level glaze distinction
+
+Nicolae Florescu, *Arta populară din Argeș și Muscel* (1967), reproduces Drăghiceanu's observation that Curtea Domnească terracottas included pieces **without glaze**, which he considered older, and other pieces **with glaze**, which he considered later. Florescu cites Drăghiceanu, *Curtea Domnească din Argeș*, pp. 70–71. citeturn0search0
+
+Control point: this is corpus-level chronological interpretation, not an object-level identification of MNAR C44/C81. It cannot reconcile the 2000 “unglazed” and 2007 “green/light-green glazed” descriptions of the MNAR pair, but it establishes that both surface categories existed within the broader Curtea de Argeș terracotta corpus and that Drăghiceanu associated glaze with a later phase in general.
