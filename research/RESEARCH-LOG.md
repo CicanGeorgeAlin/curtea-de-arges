@@ -2848,3 +2848,37 @@ S225 added; Pass 139 recorded; index.html untouched.
 
 ### Next target
 Recover actual page images/text for p.138 and, if possible, pp.147–149, then determine the physical/article boundary from the original volume rather than bibliography alone.
+
+
+## Pass 140 — 22 September 2026
+
+### Target
+Resolve the 134–149 versus 134–152 pagination discrepancy using the original 1923 volume's own table of contents.
+
+### Breakthrough
+The scanned contemporary 1923 BCMI table of contents explicitly lists:
+- **Jurnalul săpăturilor din Curtea Domnească a Argeşului — Virgiliu Drăghiceanu — p.134**;
+- **Monede vechi găsite în săpături — Constantin Moisil — p.150**;
+- **Cercetări antropologice asupra osemintelor aflate în săpături — Prof. Rainer — p.153**. citeturn0search29
+
+Therefore the physical/article boundary is now controlled by the contemporary volume itself: Drăghiceanu's journal ends before Moisil's article begins at p.150. The 134–149 extent reported by specialist bibliographies is consistent with this. citeturn0search5
+
+The official digital catalogue's 134–152 extent is now treated as **catalogue metadata**, not the article's physical boundary. citeturn0search1
+
+### Significance
+This is a genuine source-control breakthrough. We can now state confidently:
+**Drăghiceanu Jurnalul = pp.134–149**
+**Moisil coin study begins = p.150**
+**Rainer anthropology begins = p.153**
+
+The exact p.138 retrieval target is therefore unquestionably inside Drăghiceanu's Jurnalul.
+
+### C44/C81 status
+Unchanged: 4119/C44 stable; C81 4130 vs 10073 unresolved; 2000 unglazed vs 2007 green/light-green glazed unresolved.
+
+### GitHub
+Backup: backup/pass140-pre-research-2026-09-22
+S226 added; Pass 140 recorded; index.html untouched.
+
+### Next target
+Use the now-resolved article boundary to pursue the actual scanned pages **134–149**, beginning with p.138 and then figures/pages relevant to the excavation record.
