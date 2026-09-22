@@ -2823,3 +2823,22 @@ These figure groups must not be conflated until the 1923 scan is visually inspec
 
 ### Separate 1968 excavation corpus
 Rădulescu 2016 also records three glazed *cahle-oală* found during the 1968 research at Curtea Domnească, with dimensions 29.6×29.6, 26.5×26.5 and 22×22 cm, dated by her to the 15th century and held in the Argeș County Museum, inventory 1614, F.1615. This is a separate later excavation corpus and must not be merged with I 5882. citeturn2view0
+
+
+## Pass 94 — 1935 ceramic literature confirms the Drăghiceanu figure family
+
+A useful independent control has been recovered from Barbu Slătineanu's discussion of Romanian ceramic origins. The text classifies **rectangular relief-impressed plates** as a distinct ceramic category and cites **BCMI 1923, figs. 78–82, 84 and 301** among the examples. citeturn0search36turn2search21
+
+### Why this matters
+This independently confirms that the Drăghiceanu 1923 Curtea de Argeș figure sequence 78–82 was being treated in later ceramic literature as evidence for rectangular relief-decorated ceramic plates. It does not identify I 5882 and does not prove that any particular figure is the wedding/dance group.
+
+### New figure-chain status
+- **Figs. 78–82, 84, 301:** later ceramic literature treats them as examples of rectangular relief-decorated plates.
+- **Fig. 305:** separately identified by Rădulescu 2016 as the photograph of 16 stove-tile fragments.
+- **I 5882:** three surviving fragments from two or possibly three plate tiles; no figure-number bridge yet.
+
+### Source chronology insight
+The figure family was already circulating in ceramic scholarship before the later 1994 and 2016 reinterpretations. This gives the archive a **1935-era secondary reception layer**, but not an object-provenance bridge.
+
+### Caution
+The later Slătineanu text is secondary evidence about the classification/use of Drăghiceanu's figures. The original 1923 plates remain the authority for what each figure actually depicts.
