@@ -1997,3 +1997,14 @@ PROEUROPEANA independently indexes Drăghiceanu's **Jurnalul săpăturilor din C
 The BCU Iași catalogue independently records the work as a 1923 publication by Drăghiceanu. citeturn0search10 A later Rădulescu study cites the journal specifically as pp. 134–150, while citing the broader “Note istorice şi arheologice” separately at pp. 9–76. citeturn0search8
 
 This provides independent page-range and thematic controls for the primary excavation journal. It does not yet recover the page images themselves, and therefore does not establish new object-level claims.
+
+
+## S218 — Internal page structure control for the 1923 Jurnalul
+
+An independent bibliographic index of the BCMI volume gives a more granular internal pagination for Drăghiceanu's *Jurnalul*: pp. **134–147**, with an appendix/addenda component on **pp. 149–150**. It also separately lists Constantin Moisil's *Monete vechi găsite în săpăturile de la Curtea-de-Argeș* at **pp. 150–152**, followed by Rainer's anthropological study at **pp. 153–160**. citeturn0search23
+
+This helps explain why catalogue-level records can give the journal as 134–152 while bibliographic indexing of the article's actual body gives 134–147 plus appendices on 149–150. The two page-range descriptions should both be retained as bibliographic metadata rather than treated as contradictory source identities.
+
+A 2014 study cites a specific observation from Drăghiceanu's Jurnal at **p. 138**, confirming that page-level citation is used by later scholarship. citeturn0search21
+
+No new C44/C81 object identity or custody claim is established.
