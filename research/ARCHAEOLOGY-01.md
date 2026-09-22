@@ -1173,3 +1173,14 @@ A fresh cross-check of later specialist scholarship shows that the 1979 report's
 The 1983 seal article remains the controlled source for the statement that the seal was found in a 1979 urban-type dwelling dated by the authors to the end of the 14th / beginning of the 15th century. citeturn0search0
 
 **Decision: Stage 1 remains OPEN.**
+
+
+## Pass 42 — 22 September 2026 — direct extraction from 1983 trade-seal article
+
+The original 1983 article is now text-searchable. Its authors explicitly argue that the fleur-de-lis emblem reflects Tournai's post-1426 heraldic/sphragistic change and therefore places the Curtea de Argeș seal after 1426. They then propose a tighter dating for the first series of matrices: immediately after 1426, potentially in 1426 itself. citeturn0search35
+
+The article also proposes—but does not establish—that the other side's divided/counter-fasciated shield could represent a corporate emblem of Tournai weavers or cloth-makers, while the fleur-de-lis side represents the city. This remains an authorial hypothesis. citeturn0search35
+
+**Evidence hierarchy:** object/find context = 1979 excavation; publication classification = 1983; dating argument = heraldic/sphragistic analysis by the authors; corporate attribution = explicit hypothesis.
+
+Stage 1 remains OPEN because exact archaeological layer, dimensions and spatial plan are still unresolved.
