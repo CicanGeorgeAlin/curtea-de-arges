@@ -1850,3 +1850,14 @@ Coverage: a plate tile from the Royal Court at Curtea de Argeș depicting Mircea
 Control point: this is a later, separately published Curtea de Argeș plate-tile object and is not evidence for MNAR C44/C81. It demonstrates that “Curtea de Argeș + plate tile” is a broader corpus category, so object-level identifiers remain essential.
 
 URL: https://biblioteca-digitala.ro/?volum=26113-argesis-studii-si-comunicari-xxvii-2018
+
+
+## S201 — Rădulescu 2018: independent object I 5884 and Drăghiceanu figure-range control
+
+Author: Maria-Venera Rădulescu.  
+Publication: “Imaginea voievodului Mircea cel Bătrân (1386–1418) redată pe o cahlă descoperită la Curtea Domnească de la Argeș (sec. XIV–XV)”, *Argesis*, XXVII (2018), pp. 55–64.  
+Object: a fragmentary, rectangular **unglazed** plate tile depicting Mircea the Elder, dimensions 13.2 × 15 × 1.3–2 cm, held by the Institutul de Arheologie “Vasile Pârvan”, inventory **I 5884**. The author states that several other terracotta pieces had been mentioned by Drăghiceanu in 1923 and cites Drăghiceanu, pp. 70–71, figs. **80, 81, 82, 84, 301, 305**. citeturn2search16turn2search17
+
+Control point: I 5884 is a distinct object from the MNAR C44/C81 pair and from the previously isolated I 5882 group. The 2018 citation demonstrates that Drăghiceanu's figure range 80/81/82/84/301/305 was used in later literature as a broader reference set for Curtea de Argeș terracottas. It does **not** prove that any one of those figures is I 5884, C44, or C81. Object identity remains controlled by explicit evidence.
+
+URL: https://biblioteca-digitala.ro/reviste/Argesis/Argesis-27-Studii-si-comunicari-Muzeul-Judetean-Arges-2018_056.pdf
