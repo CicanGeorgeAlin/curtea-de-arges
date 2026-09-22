@@ -892,3 +892,35 @@ The existence of 13th–14th-century occupation outside the court reinforces the
 The next missing layer is therefore not simply “more sites.” It is the **spatial relationship between excavated microzones**, the historic urban perimeter, and the medieval settlement model.
 
 **Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+
+## Archaeology autopilot — Pass 33 · 22 September 2026
+
+### EMV becomes a major controlled archaeological microzone
+
+Pass 33 returned to the 1983–1984 rescue excavations west of the former Princely Court.
+
+The published 2003 account by Nicolae Constantinescu, Spiridon Cristocea and Romeo Maschio describes the EMV (extra muros-vest) zone as a terrace immediately west of the former princely residence. The research was triggered by a construction project and subsequent recognition of archaeological risk. citeturn0search16
+
+The report records:
+- a **13th–14th-century habitation level**;
+- traces interpreted by the authors as connected with construction of Basarab I's enclosure around **c. 1340**;
+- a pottery kiln, **COL 1**, attributed by the authors to the time of **Mircea cel Bătrân**. citeturn0search16turn0search17
+
+### Important distinction
+
+The archaeological evidence now gives us two different kinds of information:
+
+**Core court:** princely buildings, enclosure, church phases and associated stratigraphy.
+
+**EMV:** settlement/craft evidence immediately outside the western enclosure.
+
+The archive will preserve these as separate spatial records and only connect them through explicitly supported correlations.
+
+### New research lead
+
+The bibliographic record also confirms Adrian and Lia Bătrîna's 1982 article, **“Cercetările arheologice de la Curtea de Argeș”**, in *Cercetări Arheologice*, V, pp. 95–107. citeturn0search2turn0search3
+
+For now it is a **source lead**, not a fully extracted evidence record. This prevents bibliographic discovery from being mistaken for content verification.
+
+**Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
