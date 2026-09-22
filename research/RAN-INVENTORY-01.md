@@ -402,3 +402,14 @@ The authors report:
 - a pottery kiln designated **COL 1**, attributed by the authors to the period of Mircea cel Bătrân. citeturn0search16turn0search17
 
 **Control:** these are EMV observations and author interpretations. They are not automatically generalized to the whole historic urban site.
+
+
+## Pass 34 — Settlement archaeology source-control
+
+Pass 34 upgraded the Bătrîna & Bătrîna material from bibliography-only status to controlled evidence.
+
+The 1982 article confirms that the investigations continued work begun in 1979 in sectors of the Curtea de Argeș settlement. One investigated area west of Sân Nicoară hill produced **no material culture or complexes sufficient to justify expanding the research**. The only medieval installation there was a partially preserved circular-plan oven, about 1.05 m in diameter, with a surviving square-brick base and associated fragmentary bricks/clay. citeturn0search31
+
+The 1981 publication is also now identified as the preceding published campaign report for the 1979 research programme. citeturn0search7
+
+**Control:** negative evidence is retained as evidence about the tested area, not as proof of archaeological absence from the wider city.
