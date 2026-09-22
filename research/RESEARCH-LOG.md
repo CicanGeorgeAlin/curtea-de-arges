@@ -949,3 +949,25 @@ New provenance ladder:
 **Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
 
 Next: recover the actual 1982 Plate IV/6 object and trace its later citations before returning to the broader ceramic sequence.
+
+
+## Pass 66 — 22 September 2026
+
+### Objective
+Resolve the 1982 **Plate IV/6** comparison lead and determine whether its later pairing with Rădulescu 2017 Plate CXL/1 establishes physical object identity.
+
+### Verified
+- 2022 *Cronica Cercetărilor Arheologice* cites Bătrîna & Bătrîna, *Cercetările arheologice de la Curtea de Argeș*, **Pl. IV/6**, followed by Rădulescu 2017, **Pl. CXL/1**. citeturn0search0
+- The same paired citation appears in the 2018 archaeological chronicle. citeturn0search17
+- Both later reports concern **Câmpulung** archaeological material; the Curtea de Argeș reference is comparative and must not be reassigned to the Câmpulung excavation.
+
+### Control decision
+The recurring plate pairing proves a **documented comparative citation**, but not that the two plates depict the same physical object.
+
+Current identity status:
+**Pl. IV/6 ↔ Pl. CXL/1 = UNPROVEN.**
+
+### Stage
+**Archaeological Stage 1 remains OPEN — NOT COMPLETE.**
+
+Next: recover the actual 1982 plate scan/caption, then return to the non-stove ceramic sequence.
