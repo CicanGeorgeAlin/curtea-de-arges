@@ -558,3 +558,14 @@ Research located an authoritative journal index entry for the 1979 Curtea de Arg
 The figures are now explicit retrieval targets. Because the underlying PDFs were not reliably exposed by the current web text interface, their contents are not inferred. This preserves the archive's rule: a bibliographic lead is not promoted to archaeological fact until the underlying figure/page is inspected.
 
 **Stage 1 remains OPEN — exact dwelling-4 spatial context not yet established.**
+
+
+### Pass 41 · 22 September 2026 · self-correction: figure 14
+
+A new cross-check showed that later specialist literature cites the 1979 report's pp.166–167, fig.14 specifically in the context of ceramic stove/heating evidence in townspeople's dwellings. citeturn5search17turn5search0
+
+The earlier Pass 40 assumption that this figure was a direct lead to dwelling 4 and the Tournai seal was therefore too broad and has been corrected. The archive now keeps the figure reference as a separate urban-dwelling/heating lead.
+
+The Tournai seal's association with a 1979 urban-type dwelling remains supported by the 1983 specialist article, but its exact spatial relationship to the figure-14 material is **not established**. citeturn0search0
+
+**Stage 1 remains OPEN.**
