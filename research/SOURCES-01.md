@@ -1128,3 +1128,58 @@ Control:
 **NOT PROOF OF CXL/1 PROVENANCE**
 
 Sources: citeturn1search7turn1search10
+
+## S111 — Bătrîna & Bătrîna 1982: controlled 14th–15th-century glazed ceramic corpus
+
+Primary report: Bătrîna & Bătrîna, *Cercetările arheologice de la Curtea de Argeș*, *Cercetări Arheologice* V (1982), especially pp. 98–103 and plates I–V.
+
+Controlled context:
+- 1980 investigation;
+- Str. Mircea cel Mare nr. 1;
+- southwest of the Princely Court;
+- unified stratigraphy;
+- enclosure-wall construction level around 1340;
+- walking-level material dated end 14th–mid 15th c.;
+- later refuse pits contain 16th–17th c. pottery.
+
+Ceramic forms:
+**STRACHINĂ → FARFURIE → TALER**
+with ring feet.
+
+Decoration:
+**SGRAFFITO → geometric → spiral/curl → vegetal → zoomorphic → concentric/radial motifs**
+with yellow glaze and brown/green accents.
+
+Source: citeturn2view0
+
+## S112 — Production evidence: possible nearby glazed-ceramic workshop
+
+The same 1980 context contained numerous engobed, sgraffito-decorated but unglazed fragments, interpreted by the excavators as rejects from a pottery workshop. A fragment of **crăiță**, described as a tool used exclusively in kilns for firing glazed ceramics, occurred in the same context.
+
+Control chain:
+**OBJECTS = DIRECT**
+**REJECT INTERPRETATION = AUTHORIAL**
+**WORKSHOP NEARBY = AUTHORIAL SPATIAL INFERENCE**
+**EXACT WORKSHOP LOCATION = OPEN**
+
+Source: citeturn2view0
+
+## S113 — Ring-foot perforations and interior decorative function
+
+Many străchini and farfurii have two perforations through the ring foot. The authors regard this as evidence of a decorative interior function for at least some vessels, relating it to an older practice of decorating interiors with glazed vessels.
+
+Control:
+**PHYSICAL FACT = TWO PERFORATIONS**
+**FUNCTION = AUTHORIAL INTERPRETATION**
+**EXTENT OF USE = OPEN**
+
+Source: citeturn2view0
+
+## S114 — 16th–17th-century glazed ceramic chronology caution
+
+Bătrîna & Bătrîna explicitly note that 16th–17th-century glazed ceramics were less studied and that some chronological classifications, including some Curtea de Argeș material, had previously been inaccurate.
+
+Control:
+Later 16th–17th-century forms and decoration are retained, but chronological assignments must be treated according to their specific context rather than inherited from older literature.
+
+Source: citeturn2view0
