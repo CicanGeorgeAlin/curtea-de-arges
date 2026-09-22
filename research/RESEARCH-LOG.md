@@ -2245,3 +2245,27 @@ S204 added; Pass 118 recorded; index.html untouched.
 
 ### Next target
 Use the exact figure/page map to search later publications for **fig. 80**, **fig. 81**, **fig. 82**, and **fig. 84** individually, and compare their descriptions against the 2000/2007 C44/C81 text. In parallel, seek a page-image mirror for pp. 69–73.
+
+
+## Pass 119 — 22 September 2026
+
+### Target
+Cross-check the newly recovered 1923 figure descriptions against older secondary discussion of Drăghiceanu's glaze chronology, while testing whether this can explain the C44/C81 contradiction.
+
+### Result
+Florescu's 1967 synthesis reproduces Drăghiceanu's broader observation that Curtea Domnească terracottas included both unglazed and glazed pieces: the unglazed were described as older, while the glazed were considered later. Florescu cites Drăghiceanu's *Curtea Domnească din Argeș*, pp. 70–71. citeturn0search0
+
+This is useful chronological context because the original 1923 corpus itself includes individually described terracottas, including a glazed Fig. 84. However, it does **not** solve the C44/C81 contradiction. The 2000 and 2007 descriptions are tied specifically to the MNAR pair, so a general statement that Curtea terracottas could be glazed or unglazed cannot be substituted for object-level evidence.
+
+### Evidence boundary
+- General Curtea corpus: both glazed and unglazed categories documented.
+- Drăghiceanu's general interpretation: unglazed older / glazed later.
+- Specific C44/C81 surface history: still unresolved.
+- 2000 vs 2007 inventory discrepancy for C81: still unresolved.
+
+### GitHub
+Backup: backup/pass119-pre-research-2026-09-22
+S205 added; Pass 119 recorded; index.html untouched.
+
+### Next target
+Use the exact 1923 figure map to trace which individual figures were later cited by Rădulescu in the 2000/2007 C44/C81 descriptions, while continuing the museum-inventory route for 4130/10073.
