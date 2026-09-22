@@ -1,0 +1,178 @@
+# Curtea de Argeș — RAN Inventory Matrix 01
+
+Project: **Curtea de Argeș — Arhiva Vie**  
+Creator and curator: **Cican George Alin**  
+Research date: **21 September 2026**
+
+## Purpose
+
+This is the controlled archaeological-inventory layer for Curtea de Argeș. It is intentionally **provisional** until the municipality-level RAN extraction is demonstrated to be exhaustive.
+
+| RAN | Official/site name | Type / scope | Chronology currently recorded | LMI relationship | Research trail | Status |
+|---|---|---|---|---|---|---|
+| 13631.02 | Biserica și necropola medievală de la Curtea de Argeș — Drujești | church + medieval necropolis | church: late 16th–2nd half 18th c.; necropolis: 16th–17th c. | to reconcile against current LMI | systematic research 1987; Spiridon Cristocea; *Cronica* publication | VERIFIED record; inventory position provisional |
+| 13631.05 | Ruinele Bisericii Sân Nicoară | church/ruins + archaeological context | medieval; detailed chronology under reconciliation | AG-II-m-A-13655.01 | archaeological research 2011; Report 4830 | VERIFIED |
+| 13631.07 | Ansamblul Curții Domnești | princely court / archaeological and architectural ensemble | medieval and later components | AG-II-a-A-13647 | Constantinescu 1967–1973; later synthesis and studies | VERIFIED |
+| 13631.10 | Ansamblul Mănăstirii Argeșului | monastery ensemble | church 1512–1517; later components | AG-II-a-A-13628 | RAN / LMI / institutional heritage sources | VERIFIED |
+| 13631.11 | Situl urban Orașul istoric Curtea de Argeș | protected historic urban archaeological site | 13th–19th c. in current RAN description | AG-II-s-A-13645 | RAN / municipal historical study / LMI | VERIFIED |
+| 13631.09? | Biserica Adormirea Maicii Domnului — Olari | church; archaeological evidence from restoration excavation | older church foundations dated around mid-15th c. in archaeological publication; current monument dated ante 1687 in LMI | AG-II-a-A-13639 / AG-II-m-A-13639.01 | archaeological campaign 1967; Dinu V. Rosetti; 1968 publication; 2005 specialist synthesis | VERIFIED archaeological intervention; RAN 13631.09 is a secondary-source candidate pending official RAN verification |
+
+## Naming and grammar control
+
+The archive's canonical modern Romanian city name is **Curtea de Argeș**. This form is used in the archive's own prose, titles and identifiers where grammatically appropriate. Historical source records may preserve their original spelling, including unaccented or older forms such as “Curtea de Argeş”; those are source transcriptions/variants, not replacements for the canonical modern form.
+
+## Municipality-level verification note
+
+The current RAN municipality-level index was checked during Pass 07. It independently returned the five RAN codes above for Curtea de Argeș. This is a strong cross-check, but **not yet proof of exhaustive coverage**.
+
+The *Cronica Cercetărilor Arheologice* database independently lists the Drujești research under Curtea de Argeș for the 1983–1992 range and lists the Sân Nicoară report as Curtea de Argeș, RAN 13631.05.
+
+## Important exclusion
+
+A previous research pass had mentioned a 2022 *Cronica* report with archaeological material from a “Școala cu ceas”. Re-checking the exact report ID shows that **Report 1263 belongs to Râmnicu Vâlcea, not Curtea de Argeș**. It is therefore excluded from the Curtea de Argeș archaeological evidence base.
+
+A separate 2018 report containing references to archaeological material from Curtea de Argeș belongs to **Câmpulung, RAN 13506.37**. Its references to Curtea de Argeș are treated only as bibliography leads, not as evidence from the Câmpulung excavation.
+
+## Next inventory controls
+
+1. Re-run municipality-level RAN searches using alternate spellings and administrative filters.
+2. Check every RAN code returned against the LMI inventory.
+3. Search the *Cronica Cercetărilor Arheologice* database by municipality, site name and RAN code.
+4. Search older bibliography for archaeological sites that pre-date the modern RAN system.
+5. Record disappeared, renamed, merged or reclassified sites separately.
+6. Only mark the inventory **COMPLETE** when independent search routes converge.
+
+## Evidence rule
+
+A record appearing in a modern register proves the existence of the **register record**. It does not automatically prove every dating, interpretation or historical narrative attached to it. Those claims require their own source trail.
+
+## Important inventory caveat
+
+The five current RAN records remain the **RAN result set currently verified**, not the complete archaeological evidence set. Pass 10 identified Biserica Olari as a separate, source-controlled archaeological intervention with LMI status but no current RAN code yet established. It is therefore tracked separately until the RAN question is resolved.
+
+## Pass 11 — Cross-register expansion and evidence boundary
+
+A fresh web cross-check found an important distinction between the **current RAN result set** and the broader **heritage/archaeological evidence landscape**.
+
+The current RAN index independently confirms 13631.02 (Drujești), 13631.05 (Sân Nicoară) and 13631.07 (Curtea Domnească) as Curtea de Argeș records. citeturn0search4turn0search8turn0search10
+
+A municipal planning report also lists four RAN/LMI archaeological heritage elements in the project area: Drujești, Curtea Domnească, Sân Nicoară and the Argeș Monastery. This is useful as an independent planning-level cross-check, but it is not treated as proof of exhaustive archaeological coverage. citeturn0search23
+
+### New control: archaeological evidence outside the five-record RAN set
+
+The wider heritage sources identify **Biserica Adormirea Maicii Domnului — Olari** as a historic monument and archaeological research location. It remains in the archive as a verified archaeological intervention with its RAN status unresolved.
+
+The CIMEC places of worship database also confirms multiple Curtea de Argeș religious sites, including the Domnească Church, Argeș Monastery and Sân Nicoară. This is a useful cross-register discovery source, but it is not itself an archaeological inventory. citeturn0search0turn0search2
+
+### Evidence-language control
+
+Some institutional/tourism pages repeat traditional narratives about Sân Nicoară and other monuments. These will **not** be imported as historical facts merely because they are repeated. They will be classified separately as tradition/interpretation unless supported by archaeological, documentary or scholarly evidence.
+
+### Stage status
+
+**OPEN — NOT COMPLETE.**
+
+The archive now has three complementary inventory layers:
+1. RAN archaeological records;
+2. LMI/heritage records;
+3. archaeological interventions and specialist literature that may not map one-to-one to a current RAN record.
+
+The next task is reconciliation across these layers, including all Curtea de Argeș LMI entries that may have archaeological relevance.
+
+
+## Pass 12 — Current RAN result-set revalidation
+
+A fresh current RAN query again returns Curtea de Argeș records including 13631.02 Drujești, 13631.05 Sân Nicoară, 13631.07 Curtea Domnească, 13631.10 Argeș Monastery and 13631.11 the historic urban site. The RAN database identifies 13631.11 as an urban settlement of the medieval period, 13th–19th centuries. citeturn0search10turn0search6turn0search1
+
+The current individual records also confirm that Drujești has a 1987 systematic research entry by Spiridon Cristocea, while Sân Nicoară is recorded as a religious archaeological structure at Str. Sân Nicoară 1. citeturn0search0turn0search2
+
+### Important finding about the current five-record set
+
+The RAN municipality result currently visible through the indexed query confirms these five records, but the result is a database query, not a historical statement that no other archaeological evidence ever existed in the municipal territory. The archive therefore keeps the broader LMI, excavation-publication and historical-bibliography layers active.
+
+### Stage status
+
+**OPEN — NOT COMPLETE.**
+
+
+## Pass 13 — Current-source control and chronology separation
+
+The current RAN pages were rechecked against the archaeological research trail. The database currently reports its overall data update as **27 July 2026**. This is recorded as a database-maintenance timestamp, not as the date of an archaeological discovery.
+
+The individual records currently verified include:
+
+- **13631.02 — Drujești:** medieval church and necropolis; systematic research in 1987 by Spiridon Cristocea; associated *Cronica* bibliography.
+- **13631.05 — Sân Nicoară:** LMI AG-II-m-A-13655.01; medieval church; preventive archaeological research in 2009–2011 by named institutions/researchers; associated 2011 report 4830.
+
+The RAN record for Sân Nicoară gives a 14th-century chronology, while the 2011 archaeological report preserves an alternative research hypothesis concerning a later construction date. Both are retained rather than reconciled by assumption. citeturn0search0turn0search1turn0search12
+
+### Inventory-control rule strengthened
+
+For every RAN row, the archive will distinguish:
+
+**official register data → excavation/research record → bibliography → interpretation → unresolved conflict**.
+
+A current RAN date is not automatically the same thing as an excavation date, construction date or consensus historical date.
+
+### Status
+
+**OPEN — NOT COMPLETE.**
+
+
+## Pass 14 — Olari RAN code lead
+
+A targeted external search produced a secondary-source reference assigning **RAN 13631.09** to Biserica „Adormirea Maicii Domnului” — Olari. Because the official RAN record was not independently retrieved during this pass, the code is recorded as a **candidate**, not as a verified RAN identifier. citeturn5search0
+
+The inventory therefore now distinguishes:
+- **verified archaeological intervention:** yes;
+- **LMI relationship:** verified;
+- **RAN code:** candidate 13631.09;
+- **official RAN verification:** still required.
+
+This correction replaces the older wording that no RAN code had been identified.
+\n\n## Pass 16 — Campaign/context reconciliation\n\nThe current source check strengthens two rows without closing the inventory.\n\n### Sân Nicoară — verified campaign context\n\nRAN 13631.05 is independently linked to the 2011 archaeological report (Report 4830). The report identifies research objectives covering construction chronology, stratigraphy, the tower, possible defensive function, enclosure/fortification questions, and the relationship between Sân Nicoară, the Domnească area and Curtea de Argeș. citeturn1search0turn2search4\n\n### Olari — archaeological intervention verified; RAN code still candidate\n\nThe County Council Argeș source independently confirms archaeological evidence exposed during the 1967–1968 restoration: earlier foundations and 15th–16th-century ceramics/coins. A secondary source continues to identify RAN 13631.09, but current official RAN search results have not independently produced that record. Therefore: **archaeological intervention = VERIFIED; LMI relationship = VERIFIED; RAN 13631.09 = CANDIDATE; official RAN verification = OPEN.** citeturn2search0turn1search1turn2search5\n\n### Inventory rule reinforced\n\nA site can remain in the archaeological inventory even when its current RAN identifier is unresolved. The record must preserve the distinction between archaeological evidence, heritage-register status and RAN identification.
+## Pass 17 — Current-source reconciliation and spatial-context control
+
+A fresh current-source check confirms that the RAN result set still exposes the core Curtea de Argeș records, including 13631.02 Drujești, 13631.05 Sân Nicoară, 13631.07 Curtea Domnească and the Argeș Monastery record in the municipal planning cross-check. The current RAN search pages show the individual records with their 26 April 2023 verification/update dates; these dates should not be confused with the date on which the archive accessed the database. citeturn0search1turn0search2turn0search4
+
+The municipal planning report independently lists RAN 13631.07, 13631.10 and 13631.05 as archaeological sites in Curtea de Argeș. This is useful as an institutional cross-check, but it is not evidence that the list is exhaustive. citeturn0search13
+
+A 2026 County Council statute provides a separate current administrative/spatial cross-check around Sân Nicoară, explicitly identifying the ruins and surrounding street context extending toward Olari and Drujești. This is retained as place/context evidence, not as archaeological dating evidence. citeturn0search12
+
+### Control conclusion
+
+The inventory must now maintain three independent completeness questions:
+1. What RAN records can currently be retrieved for the municipality?
+2. What archaeological interventions/publications are documented outside or before those current RAN records?
+3. What heritage/administrative sources identify places or spatial areas that require archaeological reconciliation?
+
+**Stage remains OPEN — NOT COMPLETE.**
+
+## Pass 18 — Campaign/publication matrix begins
+
+The inventory is no longer treated as a simple list of RAN codes. A second linked layer is required: archaeological interventions and publications, including work predating current RAN records.
+
+Leads identified:
+- 1886 — Nicolae Gabrielescu investigations at Sân Nicoară; an early architectural investigation, not automatically equivalent to a modern controlled excavation. citeturn0search0
+- 1920 — Virgil Drăghiceanu investigations at Sân Nicoară and Biserica Sf. Nicolae Domnesc during restoration work. citeturn0search0turn0search3
+- 1967–1973 — major archaeological research programme at the Curtea Domnească/voivodal core, synthesized by Nicolae Constantinescu in 1984. citeturn0search4
+- 1980 — archaeological sondaje at the Neagoe Basarab foundation. citeturn0search8
+
+Control rule: site inventory and intervention history are separate datasets. A place can link to RAN/LMI identity, investigation, excavation/intervention, publication, finds and interpretation without assuming every intervention generated a current RAN record.
+
+Stage remains OPEN — NOT COMPLETE.
+
+## Pass 19 — Negative evidence and non-RAN archaeological trails
+
+A 1980 archaeological investigation west of Sân Nicoară hill demonstrates why the archive must record **negative evidence**. The published report states that two sections found no material/cultural complexes warranting expansion, apart from a medieval circular-plan oven at one end of the investigated area. citeturn0search23
+
+This creates a new inventory rule:
+- “No significant archaeological remains found” is a research result, not an empty field.
+- Investigated zones with negative or limited results should remain linked to their publication/intervention.
+- A negative result must not be transformed into “no archaeology exists” beyond the tested area.
+
+Drujești is now strengthened as an archaeological intervention/publication node through the 1990 specialist study and later cross-reference to its funerary glass evidence. citeturn1search0turn1search50
+
+Bătușari/Brad-Botușari is added to the **heritage reconciliation queue**, but not promoted as a new archaeological RAN record. Current institutional history is insufficient by itself for that step. citeturn1search1
+
+Stage remains OPEN — NOT COMPLETE.
