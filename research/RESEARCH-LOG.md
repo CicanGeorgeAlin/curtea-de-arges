@@ -2599,3 +2599,29 @@ S216 added; Pass 130 recorded; index.html untouched.
 
 ### Next target
 Extract and control the actual pages in **Jurnalul**, especially the portions around the documented excavation chronology and the figure references, before connecting any 1923 statement to later museum objects.
+
+
+## Pass 131 — 22 September 2026
+
+### Target
+Independently control the exact page range and thematic identity of Drăghiceanu's 1923 **Jurnalul săpăturilor** before extracting excavation claims.
+
+### Result
+PROEUROPEANA indexes the journal at **pp. 134–152** and assigns archaeological and contextual descriptors including Curtea Domnească, Biserica Domnească, Sân Nicoară, complex de monumente, burials, human remains and medieval dress. citeturn0search0turn0search2
+
+BCU Iași independently catalogs the work as a **1923** publication by Drăghiceanu. citeturn0search10
+
+A later Rădulescu study cites the journal specifically as **pp. 134–150**, while separately citing the broader 1923 “Note istorice şi arheologice” at pp. 9–76. citeturn0search8
+
+### Significance
+We now have three independent bibliographic controls for the journal's identity and location. The small difference between catalogue extent (134–152) and the later citation (134–150) is preserved as a bibliographic/page-range nuance, not silently normalized.
+
+### C44/C81 status
+Unchanged: 4119/C44 stable; C81 4130 vs 10073 unresolved; 2000 unglazed vs 2007 green/light-green glazed unresolved.
+
+### GitHub
+Backup: backup/pass131-pre-research-2026-09-22
+S217 added; Pass 131 recorded; index.html untouched.
+
+### Next target
+Recover page-level text/images from the journal itself, prioritizing pages 134–150/152 and figure references, while retaining the page-range discrepancy.
