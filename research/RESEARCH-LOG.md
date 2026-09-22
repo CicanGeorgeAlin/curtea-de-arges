@@ -1699,3 +1699,25 @@ index.html untouched.
 
 ### Next target
 Perform exact-page comparison of the 2000 passage and figure captions against the 2007 object description, then inspect Drăghiceanu figs. 78–80.
+
+
+## Pass 99 — 22 September 2026
+
+### Target
+Strengthen the MNAR C44/C81 chain and re-evaluate the 2000/2007 glaze discrepancy.
+
+### New verification
+The 2007 Rădulescu article explicitly gives the two Curtea Domnească fragments as 18 × 13.5 cm and 13 × 10 cm, identifies them as MNAR 4119/C44 and 10073/C81, reports green/light-green glaze, cites Drăghiceanu 1923 figs.78–80, and footnote 14 directs the reader to Rădulescu 2000 for chronology, iconography, analogies, technique and dimensions. It also gives reconstructed dimensions of about 26 × 20.5 cm. citeturn2search12
+
+### Interpretation control
+This is now a STRONG GROUP-IDENTITY BRIDGE between the 2000 and 2007 discussions. It does not yet assign each surviving fragment individually to C44 or C81.
+
+### Glaze control
+The 2007 source is explicit about glazing. The earlier 2000 unglazed extraction remains a source discrepancy pending direct visual/page control. No silent correction is made.
+
+### GitHub
+Backup: backup/pass99-pre-research-2026-09-22
+index.html untouched.
+
+### Next target
+Recover and visually inspect Drăghiceanu 1923 figs.78–80 and, if possible, MNAR catalogue/object imagery. The key unresolved questions are individual fragment mapping, glaze, and the relationship between the published reconstruction and surviving museum pieces.
