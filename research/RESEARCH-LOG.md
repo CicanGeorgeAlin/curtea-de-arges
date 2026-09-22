@@ -259,3 +259,15 @@ The LMI reveals a further Sân Nicoară component, the Heroes' Cross 1916–1918
 New modelling rule: PLACE → COMPONENT → PERIOD → FUNCTION → EVIDENCE.
 
 Stage 1 remains OPEN — NOT COMPLETE.
+
+## Archaeology / Heritage autopilot — Pass 28 · 22 September 2026
+
+Deep audit continued with Curtea Domnească and Argeș Monastery.
+
+RAN 13631.07 confirms a multi-component Princely Court site and contains an internal chronology nuance: narrative completion of the Domnească Church in 1352 versus component dating 1351–1370. Both are preserved as source claims. citeturn0search0turn0search8
+
+RAN 13631.10 confirms Argeș Monastery components church 1512–1517, chapel 1885 and episcopal palace 1885. citeturn0search1turn0search2
+
+Next: archaeological/restoration publication reconciliation for these two major complexes.
+
+Stage 1 remains OPEN — NOT COMPLETE.
