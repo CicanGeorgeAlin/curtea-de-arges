@@ -3252,3 +3252,30 @@ S240 added; Pass 154 recorded; index.html untouched.
 
 ### Next target
 Continue recovering the original p.148–149 text and figure captions; use later quotations only as controlled secondary anchors.
+
+
+## Pass 155 — 23 September 2026
+
+### Breakthrough
+The Greceanu bibliographic index yielded a more precise internal pagination structure: Drăghiceanu's *Jurnalul săpăturilor* is listed as **pp.134–147**, followed by **“Anexe” pp.149–150**; Moisil's coin study then occupies **pp.150–152**. citeturn0search19
+
+### Correction to previous working model
+The previous working description “134–149 = substantive article extent” is now refined. We must not treat 134–149 as a single continuous block.
+
+### Controlled structure
+- **134–147** = main Jurnal section, according to Greceanu;
+- **148** = independently cited as Jurnal excavation content, but its exact structural role must be checked against the original page;
+- **149–150** = annexes, according to Greceanu;
+- **150–152** = Moisil, according to the same index.
+
+Later scholarship explicitly cites Jurnal **pp.148–149** for the late excavation section and Fig.162, so the pagination is more complex than the simple article-range metadata suggests. citeturn0search20turn0search9
+
+### Significance
+This is exactly the kind of source-control correction the archive needs: rather than forcing contradictory ranges into one answer, we preserve the internal structure and identify p.148 as the critical page requiring direct inspection.
+
+### GitHub
+Backup: backup/pass155-pre-research-2026-09-23
+S241 added; Pass 155 recorded; index.html untouched.
+
+### Next target
+Direct recovery of **p.148, p.149 and the annex boundary**, then determine what the original printed pages actually label as Jurnal text versus annexes.
