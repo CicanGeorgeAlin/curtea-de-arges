@@ -2208,3 +2208,12 @@ This is the strongest bibliographic control recovered so far because it comes fr
 The BCU Iași record independently confirms that *Jurnalul săpăturilor din Curtea Domnească a Argeşului* is a distinct 1923 publication item. citeturn0search4
 
 **Status:** pagination control upgraded: **134–149 = primary-volume-supported working article extent; 134–152 remains preserved as later catalogue metadata.**
+
+
+## S240 — Independent 1968 control of Jurnalul pp.141 and 148
+
+A 1968 *Argesis* archaeological study explicitly cites Drăghiceanu's *Jurnalul săpăturilor* at **pp.141 and 148** when discussing observations made during the earlier excavations at Curtea Domnească. It quotes the Jurnal's observations about soil/stratification north of the Domnească church and a stone-paved surface beneath the porch foundations of the southern princely house. citeturn0search22
+
+The same study also warns that Drăghiceanu's excavation method could be inconsistent and that some conclusions were forced; these are the later author's methodological assessments and must remain attributed, not converted into an archival fact. citeturn0search22
+
+This provides an independent page-level control for **p.148 as substantive Jurnal text**, strengthening the 134–149 working extent without claiming direct inspection of the 1923 page image.
