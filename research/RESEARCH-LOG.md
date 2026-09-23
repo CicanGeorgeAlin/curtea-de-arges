@@ -3230,3 +3230,25 @@ S239 added; Pass 153 recorded; index.html untouched.
 
 ### Next target
 Use the recovered volume/scan route to pursue the actual page images for **148–149**, then the figure plates and captions.
+
+
+## Pass 154 — 23 September 2026
+
+### Target
+Strengthen page 148 as substantive Jurnal text through an independent source that quotes and cites the original excavation journal.
+
+### Result
+A 1968 *Argesis* archaeological study explicitly cites Drăghiceanu's *Jurnalul săpăturilor* at **pp.141 and 148** and reproduces observations attributed to those pages concerning soil/stratification and the stone-paved surface beneath the porch foundations of the southern princely house. citeturn0search22
+
+### Significance
+This is independent page-level control that p.148 belongs to substantive Jurnal excavation text, reinforcing the working **134–149** article extent established from the contemporary 1923 table of contents.
+
+### Methodological boundary
+The 1968 author's criticism of Drăghiceanu's excavation method and some of his conclusions is preserved as a later scholarly assessment. It is not adopted as an independent fact about the excavation itself. citeturn0search22
+
+### GitHub
+Backup: backup/pass154-pre-research-2026-09-23
+S240 added; Pass 154 recorded; index.html untouched.
+
+### Next target
+Continue recovering the original p.148–149 text and figure captions; use later quotations only as controlled secondary anchors.
