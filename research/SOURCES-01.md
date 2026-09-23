@@ -2188,3 +2188,12 @@ A current PROEUROPEANA/Biblioteca Digitală catalogue records Drăghiceanu's *Ju
 The catalogue range therefore remains a **metadata extent**, not proof that Jurnalul's substantive article continues through p.152. The 1923 volume's neighboring Rainer article begins at p.153 in the same catalogue, so the working article extent remains 134–149 pending direct page inspection. citeturn0search0
 
 This pass does not resolve the scan-access problem, but it prevents a false pagination merge while primary-page recovery continues.
+
+
+## S238 — Pagination control strengthened by a later SCIVA bibliography
+
+A 2022 *SCIVA* study independently cites Drăghiceanu 1923b, *Jurnalul săpăturilor din Curtea Domnească a Argeșului*, as **BCMI 10–16 (1917–1923), pp.134–152**. citeturn0search27 This confirms that the 134–152 range is not unique to the current digital catalogue; it is also reproduced in later specialist scholarship.
+
+At the same time, other bibliographies record **134–149**, including the IntechOpen research bibliography and the Buridava bibliography. citeturn0search0turn0search24 Rădulescu 2016 cites the Jurnal as pp.134–150. citeturn0search22
+
+Therefore the archive should treat the pagination as a **multi-source metadata discrepancy**, not as an already-resolved fact. Direct inspection of the 1923 physical pagination remains the decisive target.
