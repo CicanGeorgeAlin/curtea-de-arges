@@ -2197,3 +2197,14 @@ A 2022 *SCIVA* study independently cites Drăghiceanu 1923b, *Jurnalul săpătur
 At the same time, other bibliographies record **134–149**, including the IntechOpen research bibliography and the Buridava bibliography. citeturn0search0turn0search24 Rădulescu 2016 cites the Jurnal as pp.134–150. citeturn0search22
 
 Therefore the archive should treat the pagination as a **multi-source metadata discrepancy**, not as an already-resolved fact. Direct inspection of the 1923 physical pagination remains the decisive target.
+
+
+## S239 — Original 1923 table of contents gives the decisive article sequence
+
+A searchable scan of the **1923 table of contents** gives the article sequence directly: Drăghiceanu's *Jurnalul săpăturilor din Curtea Domnească a Argeşului* begins at **p.134**; Constantin Moisil's *Monete vechi găsite în săpături* begins at **p.150**; Francisc Iosif Rainer's anthropological study begins at **p.153**. citeturn0search17
+
+This is the strongest bibliographic control recovered so far because it comes from the contemporary 1923 volume's own table of contents, rather than a later catalogue. It supports a working substantive extent of **pp.134–149** for the Jurnalul and explains why later catalogues can report 134–152 as a metadata extent without establishing that pages 150–152 belong to Drăghiceanu's article.
+
+The BCU Iași record independently confirms that *Jurnalul săpăturilor din Curtea Domnească a Argeşului* is a distinct 1923 publication item. citeturn0search4
+
+**Status:** pagination control upgraded: **134–149 = primary-volume-supported working article extent; 134–152 remains preserved as later catalogue metadata.**
