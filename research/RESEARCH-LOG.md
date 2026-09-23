@@ -3127,3 +3127,28 @@ S235 added; Pass 149 recorded; index.html untouched.
 
 ### Next target
 Recover the actual original pages/plates, then assign each figure only after reading its caption/context.
+
+
+## Pass 150 — 23 September 2026
+
+### Target
+Audit what the Greceanu index actually proves about the late *Jurnalul* figures.
+
+### Result
+The index labels the figure sequence 135–140, 150–155, 162 and 165 as **photographs of the Casa domnească ruins**, while separately indexing pp.148–149 as excavations within the princely-court enclosure. citeturn1search23turn1search24
+
+### Methodological correction
+The index is not a figure-by-figure archaeological object catalogue. Therefore it cannot by itself assign material, findspot, stratigraphy or object identity to Figs.150–155, 159–160 or 165.
+
+Fig.162 remains separately supported by later scholarship as a reference for Gothic stone-rib fragments, but that identification comes from the later source, not from inference from the index.
+
+### New rule
+**Illustration cluster ≠ object corpus.**
+A figure receives an object/material assignment only when its original caption/page text or a reliable secondary source explicitly supports it.
+
+### GitHub
+Backup: backup/pass150-pre-research-2026-09-23
+S236 added; Pass 150 recorded; index.html untouched.
+
+### Next target
+Primary recovery of the actual 1923 pages and figure captions remains the priority.
