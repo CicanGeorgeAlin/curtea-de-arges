@@ -2170,3 +2170,12 @@ The 2016 Rădulescu study gives a precise footnote cluster for the late section 
 This establishes that the late-Jurnal figure cluster is broader than the stove-tile corpus. Fig.162 remains controlled as Gothic stone-rib material, while Fig.305 is the separate 16-fragment terracotta plate. No figure should be merged merely because it falls within the same page cluster.
 
 **Status:** figure-cluster structure = secondary-confirmed; direct primary-page inspection remains open.
+
+
+## S236 — Figure-list semantics corrected: late figures are not individually object-assigned
+
+The Greceanu index describes Drăghiceanu's late *Jurnalul* figure group (135–140, 150–155, 162, 165) as **“foto ruine Casa domnească”** and separately identifies pp.148–149 as “săpături în incinta curții domnești.” citeturn1search23turn1search24 This means the index is a bibliographic/illustration-location control, not a figure-by-figure object catalogue.
+
+Accordingly, the index must not be used to assign a specific material or find to Figs.150–155, 159–160, or 165. Those assignments require the original figure captions or reliable page-level evidence. The independently cited Fig.162 stone-rib identification remains a secondary attribution from later scholarship, not an inference from the Greceanu index.
+
+This is an important methodological correction: **illustration cluster ≠ object corpus.**
