@@ -3178,3 +3178,27 @@ S237 added; Pass 151 recorded; index.html untouched.
 
 ### Next target
 Obtain direct page images/text for pp.148–149 and the associated figures, then resolve the 134–149 vs 134–152 extent from the physical publication itself.
+
+
+## Pass 152 — 23 September 2026
+
+### Target
+Test whether the 134–152 pagination is merely a modern catalogue artifact or is also reproduced in specialist scholarship.
+
+### Result
+A 2022 *SCIVA* bibliography independently gives Drăghiceanu 1923b, *Jurnalul săpăturilor din Curtea Domnească a Argeșului*, as **pp.134–152**. citeturn0search27 This means 134–152 is not confined to the current digital catalogue.
+
+However, other specialist bibliographies give 134–149, while Rădulescu 2016 uses 134–150. citeturn0search0turn0search24turn0search22
+
+### Significance
+The discrepancy is now demonstrably a **bibliographic transmission problem across later sources**, not simply one database record. We should preserve all documented extents until the original 1923 pagination is directly checked.
+
+### Control
+Do not use 134–152, 134–150 or 134–149 alone to infer where the substantive Jurnal text ends.
+
+### GitHub
+Backup: backup/pass152-pre-research-2026-09-23
+S238 added; Pass 152 recorded; index.html untouched.
+
+### Next target
+Directly inspect the physical 1923 article/volume around pp.148–153 if a readable scan or page images can be recovered.
