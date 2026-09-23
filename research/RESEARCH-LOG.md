@@ -3152,3 +3152,29 @@ S236 added; Pass 150 recorded; index.html untouched.
 
 ### Next target
 Primary recovery of the actual 1923 pages and figure captions remains the priority.
+
+
+## Pass 151 — 23 September 2026
+
+### Target
+Re-check the pagination evidence while continuing the primary-page recovery strategy.
+
+### Result
+The current Biblioteca Digitală/PROEUROPEANA catalogue lists *Jurnalul săpăturilor* as **134–152**, with Rainer's anthropological article beginning at p.153. citeturn0search0 Independent bibliographic sources record the Jurnal as **134–149**. citeturn0search24turn0search4
+
+### Interpretation control
+We retain both records:
+- **134–152** = official catalogue metadata extent;
+- **134–149** = working substantive/article extent supported by independent bibliographies.
+
+The catalogue range must not be treated as proof that the excavation journal's substantive text occupies pp.150–152. Direct inspection remains the final authority.
+
+### Significance
+This keeps the page-recovery project honest and prevents accidental mixing of the Jurnal with neighboring contributions in the 1923 volume.
+
+### GitHub
+Backup: backup/pass151-pre-research-2026-09-23
+S237 added; Pass 151 recorded; index.html untouched.
+
+### Next target
+Obtain direct page images/text for pp.148–149 and the associated figures, then resolve the 134–149 vs 134–152 extent from the physical publication itself.
