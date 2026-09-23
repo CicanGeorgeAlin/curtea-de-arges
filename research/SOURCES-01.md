@@ -2217,3 +2217,18 @@ A 1968 *Argesis* archaeological study explicitly cites Drăghiceanu's *Jurnalul 
 The same study also warns that Drăghiceanu's excavation method could be inconsistent and that some conclusions were forced; these are the later author's methodological assessments and must remain attributed, not converted into an archival fact. citeturn0search22
 
 This provides an independent page-level control for **p.148 as substantive Jurnal text**, strengthening the 134–149 working extent without claiming direct inspection of the 1923 page image.
+
+
+## S241 — Critical pagination refinement: Greceanu gives Jurnal text 134–147, with annexes 149–150
+
+A newly recovered searchable passage from the Greceanu bibliographic index gives a more precise internal structure than the previously used 134–149 shorthand: **“Jurnalul săpăturilor din Curtea domnească a Argeşului … p.134–147. Anexe. p.149–150.”** It then starts Moisil's *Monete vechi găsite în săpăturile de la Curtea-de-Argeş* at **p.150–152**. citeturn0search19
+
+This is important: the earlier statement that 134–149 was simply the substantive article extent must be refined. The index indicates a structure of **main Jurnal text 134–147 + annex material 149–150**, with a pagination gap at p.148 that requires direct inspection. This aligns with independent later citations that explicitly use **p.148** for Jurnal material and **pp.148–149** for the late excavation section. citeturn0search20turn0search9
+
+Therefore the archive should now distinguish:
+- **134–147 = main Jurnal section according to Greceanu index**;
+- **148 = independently cited Jurnal excavation content; exact structural status requires original-page inspection**;
+- **149–150 = annexes according to Greceanu index**;
+- **150–152 = Moisil article according to the same index**.
+
+This is a stronger and more nuanced control than simply treating 134–149 as one continuous article block.
