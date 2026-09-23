@@ -3202,3 +3202,31 @@ S238 added; Pass 152 recorded; index.html untouched.
 
 ### Next target
 Directly inspect the physical 1923 article/volume around pp.148–153 if a readable scan or page images can be recovered.
+
+
+## Pass 153 — 23 September 2026
+
+### Breakthrough
+A searchable scan of the **original 1923 table of contents** was recovered. It lists:
+- *Jurnalul săpăturilor din Curtea Domnească a Argeşului* — **p.134**;
+- Constantin Moisil, *Monete vechi găsite în săpături* — **p.150**;
+- Francisc Iosif Rainer, *Cercetări antropologice asupra osemintelor aflate în săpături* — **p.153**. citeturn0search17
+
+### Significance
+This is the strongest pagination evidence yet because it comes from the contemporary 1923 volume itself, not a later bibliographic record.
+
+It supports the working substantive extent **134–149** for Drăghiceanu's Jurnalul. The later 134–152 catalogue extent is retained as metadata rather than discarded.
+
+### Independent control
+BCU Iași separately lists *Jurnalul săpăturilor din Curtea Domnească a Argeşului* as a distinct 1923 item. citeturn0search4
+
+### New status
+**134–149 = primary-volume-supported working article extent.**
+**134–152 = later catalogue metadata, preserved but not treated as substantive article extent.**
+
+### GitHub
+Backup: backup/pass153-pre-research-2026-09-23
+S239 added; Pass 153 recorded; index.html untouched.
+
+### Next target
+Use the recovered volume/scan route to pursue the actual page images for **148–149**, then the figure plates and captions.
