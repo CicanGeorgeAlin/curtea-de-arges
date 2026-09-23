@@ -2179,3 +2179,12 @@ The Greceanu index describes Drăghiceanu's late *Jurnalul* figure group (135–
 Accordingly, the index must not be used to assign a specific material or find to Figs.150–155, 159–160, or 165. Those assignments require the original figure captions or reliable page-level evidence. The independently cited Fig.162 stone-rib identification remains a secondary attribution from later scholarship, not an inference from the Greceanu index.
 
 This is an important methodological correction: **illustration cluster ≠ object corpus.**
+
+
+## S237 — Primary-page recovery control: two cataloguing traditions remain active
+
+A current PROEUROPEANA/Biblioteca Digitală catalogue records Drăghiceanu's *Jurnalul săpăturilor din Curtea Domnească a Argeșului* as pp. **134–152**, while an independent scholarly bibliography in *Buridava* gives the article as **pp.134–149**. citeturn0search0turn0search24 Another historical-archaeology bibliography likewise records pp.134–149. citeturn0search4
+
+The catalogue range therefore remains a **metadata extent**, not proof that Jurnalul's substantive article continues through p.152. The 1923 volume's neighboring Rainer article begins at p.153 in the same catalogue, so the working article extent remains 134–149 pending direct page inspection. citeturn0search0
+
+This pass does not resolve the scan-access problem, but it prevents a false pagination merge while primary-page recovery continues.
